@@ -34,7 +34,8 @@
 | التربية الموسيقية - الصف التاسع | `grade9_music.json` |
 | تكنولوجيا المعلومات والاتصالات - الصف التاسع | `grade9_ict.json` |
 | التربية الفنية البصرية والجمالية - الصف التاسع | `grade9_visual-art.json` |
-| الفيزياء والكيمياء - الصف التاسع | `grade9_physics-chemistry.json` |
+| الفيزياء - الصف التاسع | `grade9_physics.json` |
+| الكيمياء - الصف التاسع | `grade9_chemistry.json` |
 | علم الأحياء والأرض - الصف التاسع | `grade9_biology-earth.json` |
 | اللغة العربية - الصف التاسع | `grade9_arabic.json` |
 | الجبر (كتاب الرياضيات) - الصف التاسع | `grade9_math.json` |
