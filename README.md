@@ -42,3 +42,4 @@
 | عالم الجغرافيا - الصف التاسع | `grade9_geography.json` |
 | التاريخ - الصف التاسع | `grade9_history.json` |
 | التربية الدينية الإسلامية - الصف التاسع | `grade9_islamic-education.json` |
+| الهندسة (كتاب الرياضيات) - الصف التاسع | `grade9_geometry.json` |
