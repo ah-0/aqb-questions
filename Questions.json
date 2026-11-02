@@ -3,7 +3,6 @@
     "id": "math",
     "name": "التحليل",
     "lessons": [
-       
       {
         "id": "1",
         "name": "النهايات",
@@ -19561,5 +19560,20 @@
         ]
       }
     ]
+  },
+  {
+    "id": "geography",
+    "name": "الجغرافيا",
+    "lessons": []
+  },
+  {
+    "id": "history",
+    "name": "التاريخ",
+    "lessons": []
+  },
+  {
+    "id": "philosophy",
+    "name": "الفلسفة",
+    "lessons": []
   }
 ]

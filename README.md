@@ -15,5 +15,8 @@
 | الكيمياء | `chemistry.json` |
 | اللغة الإنجليزية | `english.json` |
 | العلوم | `science.json` |
+| الجغرافيا | `geography.json` |
+| التاريخ | `history.json` |
+| الفلسفة | `philosophy.json` |
 
 عند تحديث بيانات مادة، يُرجى إبقاء ملفها المنفصل و`Questions.json` متزامنين.
