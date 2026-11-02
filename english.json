@@ -1,0 +1,4264 @@
+{
+  "id": "english",
+  "name": "اللغة الإنجليزية",
+  "lessons": [
+    {
+      "id": "1",
+      "name": "الوحدة الأولى",
+      "questions": [
+        {
+          "id": "1",
+          "question": "not responsible for a crime is…….",
+          "options": [
+            "guilty",
+            "innocent",
+            "property",
+            "prove"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "2",
+          "question": "something valuable which belongs to someone is.......",
+          "options": [
+            "property",
+            "principle",
+            "jury",
+            "govern"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "3",
+          "question": "a group of people in court who decide whether someone is guilty…….",
+          "options": [
+            "legal",
+            "jury",
+            "guilty",
+            "innocent"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "4",
+          "question": "to control means to…….",
+          "options": [
+            "enforce",
+            "prove",
+            "govern",
+            "guilty"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "5",
+          "question": "responsible for a crime is…….",
+          "options": [
+            "guilty",
+            "innocent",
+            "legal",
+            "jury"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "to show that something is true means…….",
+          "options": [
+            "enforce",
+            "govern",
+            "property",
+            "prove"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "7",
+          "question": "relating to the law is…….",
+          "options": [
+            "enforce",
+            "guilty",
+            "jury",
+            "legal"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "8",
+          "question": "to put into practice or carry out means to.",
+          "options": [
+            "enforce",
+            "govern",
+            "principle",
+            "prove"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "9",
+          "question": "area where people play tennis and squash is…….",
+          "options": [
+            "fine",
+            "ruler",
+            "society",
+            "court"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "10",
+          "question": "land and buildings means ......",
+          "options": [
+            "fine",
+            "court",
+            "property",
+            "society"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "11",
+          "question": "club or organization for people with the same interest......",
+          "options": [
+            "society",
+            "court",
+            "ruler",
+            "fine"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "12",
+          "question": "write using a machine is......",
+          "options": [
+            "ruler",
+            "typing",
+            "fine",
+            "court"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "13",
+          "question": "very good means......",
+          "options": [
+            "type",
+            "fine",
+            "ruler",
+            "court"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "14",
+          "question": "a place where trials take place is......",
+          "options": [
+            "court",
+            "society",
+            "ruler",
+            "property"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "15",
+          "question": "someone in charge of a country such as a king......",
+          "options": [
+            "court",
+            "typing",
+            "fine",
+            "ruler"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "16",
+          "question": "something that belongs to someone is......",
+          "options": [
+            "property",
+            "fine",
+            "ruler",
+            "society"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "17",
+          "question": "a straight piece of wood or plastic to help you draw straight lines......",
+          "options": [
+            "fine",
+            "society",
+            "ruler",
+            "property"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "18",
+          "question": "all the people living in the country are......",
+          "options": [
+            "rule",
+            "property",
+            "society"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "19",
+          "question": "money people pay as a punishment for doing something illegal......",
+          "options": [
+            "typing",
+            "fine",
+            "court",
+            "jury"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "20",
+          "question": "many people believe that the worst crimes are murder and other......acts",
+          "options": [
+            "violence",
+            "violent",
+            "violy",
+            "violing"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "21",
+          "question": "there would be a......situation in society",
+          "options": [
+            "chaos",
+            "chaotic",
+            "chanton"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "22",
+          "question": "if there were no......systems",
+          "options": [
+            "law",
+            "lawyer",
+            "legal"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "23",
+          "question": "he left court a free man because he has proved that was......",
+          "options": [
+            "innocence",
+            "innocent",
+            "innoco"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "24",
+          "question": "the jury said he was not......",
+          "options": [
+            "guilting",
+            "guilt",
+            "guilty",
+            "guilter"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "25",
+          "question": "kind and sort are synonyms of......",
+          "options": [
+            "society",
+            "ruler",
+            "court",
+            "type"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "26",
+          "question": "every country......its own code of law over hundreds or thousands of years",
+          "options": [
+            "have developed",
+            "has developed",
+            "has been develop"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "27",
+          "question": "hassan......an essay all morning",
+          "options": [
+            "has been writing",
+            "has written",
+            "has written"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "28",
+          "question": "the police sergeant......tow people so far today",
+          "options": [
+            "has interviewed",
+            "has been interviewing",
+            "had interviewed"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "29",
+          "question": "the detectives......people all week",
+          "options": [
+            "has interviewed",
+            "have interviewed",
+            "have been interviewing"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "30",
+          "question": "the crime of stealing someone's personal details is......",
+          "options": [
+            "fraud",
+            "identity theft",
+            "virus",
+            "solve a crime"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "31",
+          "question": "to discover who commits a crime is......",
+          "options": [
+            "fraud",
+            "identity theft",
+            "virus",
+            "solve a crime"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "32",
+          "question": "the crime of lying or cheating to get money is......",
+          "options": [
+            "fraud",
+            "identity theft",
+            "virus",
+            "solve a crime"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "33",
+          "question": "a bad program which damages Computers is......",
+          "options": [
+            "fraud",
+            "identity theft",
+            "virus",
+            "solve a crime"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "34",
+          "question": "very harshly means......",
+          "options": [
+            "international",
+            "prejudice",
+            "severely"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "35",
+          "question": "people not in the army are......",
+          "options": [
+            "treaty",
+            "severely",
+            "civilians",
+            "aid"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "36",
+          "question": "used by a number of different countries......",
+          "options": [
+            "international",
+            "aid",
+            "treaty",
+            "prejudice"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "37",
+          "question": "help means......",
+          "options": [
+            "aid",
+            "civilians",
+            "severely",
+            "treaty"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "38",
+          "question": "a formal agreement is......",
+          "options": [
+            "prejudice",
+            "treaty",
+            "severely",
+            "civilians"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "39",
+          "question": "negative attitude towards people who are different",
+          "options": [
+            "international",
+            "prejudice",
+            "treaty",
+            "aid"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "40",
+          "question": "...... is money paid as a punishment",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "41",
+          "question": "the subject of a police investigation is......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "42",
+          "question": "to signify means......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "43",
+          "question": "a place where people play tennis or squash is......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "44",
+          "question": "a container for carrying luggage or papers is......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "45",
+          "question": "unkind not generous means......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "46",
+          "question": "high quality or good weather means......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "47",
+          "question": "the place where a trial is held is......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "48",
+          "question": "the judge in charge of the ......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "49",
+          "question": "carried all his document in a black leather......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "50",
+          "question": "The crime had taken place on a tennis......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "51",
+          "question": "the fine weather made me feel ......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "52",
+          "question": "but my mood changed when the police officer gave me a......",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "53",
+          "question": "......is the opposite of generous",
+          "options": [
+            "case",
+            "court",
+            "fine",
+            "mean"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "54",
+          "question": "what have you ......since I last saw you?",
+          "options": [
+            "done",
+            "been doing",
+            "did",
+            "does"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "55",
+          "question": "I have ......My driving test",
+          "options": [
+            "passed",
+            "been passing",
+            "passes",
+            "passing"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "56",
+          "question": "and I ......interviews for a university place",
+          "options": [
+            "have had",
+            "has had",
+            "has been having",
+            "have been having"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "57",
+          "question": "have you ever ......to play a music instrument?",
+          "options": [
+            "learns",
+            "learn",
+            "learnt",
+            "been learning"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "58",
+          "question": "I ...... learning the mizmar",
+          "options": [
+            "have started",
+            "has started",
+            "have been starting"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "59",
+          "question": "Have you ...... A holiday yet this year?",
+          "options": [
+            "had",
+            "have",
+            "has",
+            "been having"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "60",
+          "question": "we've just ......from Lattakia",
+          "options": [
+            "been coming",
+            "come back",
+            "came back"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "1",
+          "question": "serious shortage of food leading to great hunger on a large scale is......",
+          "options": [
+            "deteriorate",
+            "emigrate",
+            "famine",
+            "industry"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "2",
+          "question": "a period of great wealth is......",
+          "options": [
+            "a success",
+            "development",
+            "deteriorate",
+            "famine"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "3",
+          "question": "the process of modernization is......",
+          "options": [
+            "a success",
+            "development",
+            "famine",
+            "industry"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "4",
+          "question": "to leave your country to live in a new country is......",
+          "options": [
+            "deteriorate",
+            "emigrate",
+            "famine",
+            "industry"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "5",
+          "question": "to get worse means to......",
+          "options": [
+            "success",
+            "development",
+            "deteriorate",
+            "famine"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "6",
+          "question": "my weekly......are twice as much as they were last year",
+          "options": [
+            "earn",
+            "earnings",
+            "earned"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "a huge earthquake caused the......of Agadir",
+          "options": [
+            "destroy",
+            "destroys",
+            "destruction"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "two....potato crops led to mass starvation in Ireland",
+          "options": [
+            "disastrous",
+            "disaster",
+            "disasters"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "9",
+          "question": "the......of the world's migrants move to find better life",
+          "options": [
+            "major",
+            "majors",
+            "majority",
+            "majorise"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "10",
+          "question": "the people of Tristan da cunha left because of volcanic......",
+          "options": [
+            "act",
+            "active",
+            "activity",
+            "eating"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "11",
+          "question": "the......success of 1960 and 1970 was funded by oil",
+          "options": [
+            "economic",
+            "economy",
+            "economing"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "12",
+          "question": "these workers were able to find a better life and help with the......of the region",
+          "options": [
+            "develop",
+            "development",
+            "developing",
+            "develops"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "13",
+          "question": "by the end of 1854 about a quarter of the population of Ireland......for other parts of the world",
+          "options": [
+            "left",
+            "had left",
+            "has left",
+            "have left"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "14",
+          "question": "not everyone returned 14 people......to life in England",
+          "options": [
+            "adapt",
+            "adapts",
+            "had adapted",
+            "adapted"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "15",
+          "question": "in 1854 a quarter of the population of Ireland......abroad",
+          "options": [
+            "emigrated",
+            "had emigrated",
+            "has emigrated"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "16",
+          "question": "by 1854 a quarter of the population of Ireland ……… abroad",
+          "options": [
+            "emigrated",
+            "had emigrated",
+            "has emigrated"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "17",
+          "question": "on February 29th 1960 an earth quake……Agadir",
+          "options": [
+            "has hit",
+            "had hit",
+            "have hit",
+            "hit"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "18",
+          "question": "James was very nervous when he arrived at the airport because he……never flown before",
+          "options": [
+            "fly",
+            "has",
+            "have",
+            "had"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "19",
+          "question": "Salah didn't recognize his friend Hani because he ……… him for ten years",
+          "options": [
+            "hadn't seen him",
+            "haven't seen",
+            "hasn't seen"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "20",
+          "question": "Firass found it difficult to get up this morning because he……late the night before",
+          "options": [
+            "works",
+            "worked",
+            "had worked",
+            "has worked"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "21",
+          "question": "when Laila read the letter she couldn't stop smiling Because she …… her exams",
+          "options": [
+            "passes",
+            "passed",
+            "had passed",
+            "has passed"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "22",
+          "question": "Samer couldn't contact his brother Khaled because he had ……his phone off",
+          "options": [
+            "switches",
+            "switched",
+            "had switched",
+            "has switches"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "23",
+          "question": "first means……",
+          "options": [
+            "forge",
+            "recurrent",
+            "original",
+            "extensive"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "24",
+          "question": "advance steadily means……",
+          "options": [
+            "forge",
+            "recurrent",
+            "original",
+            "extremely"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "25",
+          "question": "very long is……",
+          "options": [
+            "temperate",
+            "raise",
+            "extensive",
+            "forge"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "26",
+          "question": "occurring often or repeatedly is……",
+          "options": [
+            "raise",
+            "original",
+            "forge",
+            "recurrent"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "27",
+          "question": "having mild temperatures is……",
+          "options": [
+            "temperate",
+            "raise",
+            "original",
+            "creature"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "28",
+          "question": "bring up children means……",
+          "options": [
+            "temperate",
+            "raise",
+            "original",
+            "forge"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "29",
+          "question": "living thing / animal is……",
+          "options": [
+            "extensive",
+            "creature",
+            "forge",
+            "recurrent"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "30",
+          "question": "some human activities are……the natural world",
+          "options": [
+            "destroys",
+            "destroyed",
+            "destroying",
+            "destruction"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "31",
+          "question": "unemployment is falling as more people find.....work",
+          "options": [
+            "permanent",
+            "permanently",
+            "permanently"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "32",
+          "question": "average......are expected to double in the next ten years",
+          "options": [
+            "earn",
+            "earns",
+            "earned",
+            "earnings"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "33",
+          "question": "it has been a......year for the tea industry",
+          "options": [
+            "disaster",
+            "disastrous",
+            "disastring",
+            "disasters"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "34",
+          "question": "storms caused the......of most of the crops",
+          "options": [
+            "destruction",
+            "destroyed",
+            "destroyed",
+            "destroys"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "35",
+          "question": "in 1975 my family......England on an aero plane",
+          "options": [
+            "leave",
+            "leaves",
+            "leaving",
+            "left"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "36",
+          "question": "I went to the doctors this morning because i......ill during the night before",
+          "options": [
+            "feel",
+            "felt",
+            "has felt",
+            "had felt"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "37",
+          "question": "I......of visiting china for many years, then last year I spent two months there",
+          "options": [
+            "had dreamt",
+            "dreams",
+            "dreamt",
+            "dreaming"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "38",
+          "question": "my sister and her husband moved into a new flat at the week end before that they.....with her husband's parents",
+          "options": [
+            "lived",
+            "has lived",
+            "had lived",
+            "have lived"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "39",
+          "question": "my father retired last year before that he......for the same company all his life",
+          "options": [
+            "worked",
+            "works",
+            "had worked",
+            "has worked"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "40",
+          "question": "I wasn't surprised that he......a sleep at the wheel of his car because he had driven nearly1000 kilometer without a break",
+          "options": [
+            "leave",
+            "fell",
+            "had looked"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "41",
+          "question": "he...... for work for only two weeks then yesterday he was offered two jobs",
+          "options": [
+            "had looked",
+            "looks",
+            "looking",
+            "has looked"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "42",
+          "question": "when he accused me of being wasteful, I saw ......",
+          "options": [
+            "green",
+            "red",
+            "yellow",
+            "black"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "43",
+          "question": "We have to stop companies from polluting the environment, we should put them on the ......",
+          "options": [
+            "red",
+            "white",
+            "black",
+            "blue"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "44",
+          "question": "they have given the ...... light to the building of a new incinerator.",
+          "options": [
+            "white",
+            "yellow",
+            "red",
+            "green"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "45",
+          "question": "the rules clearly say that we must not leave rubbish outside our homes. Look it is in black and ......",
+          "options": [
+            "white",
+            "yellow",
+            "red",
+            "green"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "46",
+          "question": "it is almost impossible to get a passport quickly. there is so much ...... Tape.",
+          "options": [
+            "green",
+            "white",
+            "black",
+            "red"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "47",
+          "question": "I heard this morning out of the ...... that I had won a writing competition.",
+          "options": [
+            "blue",
+            "red",
+            "black",
+            "green"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "48",
+          "question": "things are moving so fast, it is impossible to ...... the changes.",
+          "options": [
+            "keep up with",
+            "running out of",
+            "go along with",
+            "put up with"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "49",
+          "question": "Supermarkets should ...... packaging.",
+          "options": [
+            "keep up with",
+            "run out of",
+            "come up with",
+            "cut down on"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "50",
+          "question": "we have ...... serious problems in our plan to recycle rubbish.",
+          "options": [
+            "look forward to",
+            "come up against",
+            "come up with",
+            "put up with"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "51",
+          "question": "I am ...... the day when 100 percent of our rubbish is recycled.",
+          "options": [
+            "looking forward to",
+            "cutting down on",
+            "running out of",
+            "keeping up with"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "52",
+          "question": "scientists have just ...... a new way of reprocessing plastic.",
+          "options": [
+            "come up against",
+            "put up with",
+            "come up with",
+            "cut down on"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "53",
+          "question": "people living near the bus station ...... A lot of noise.",
+          "options": [
+            "put up with",
+            "come up with",
+            "come up against",
+            "cut down on"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "54",
+          "question": "I can't sleep at night. I wish I ...... at night",
+          "options": [
+            "could sleep",
+            "would sleep",
+            "were",
+            "was"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "55",
+          "question": "the weather is too hot at the moment. I wish it ...... cooler",
+          "options": [
+            "Could",
+            "would",
+            "were",
+            "will"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "56",
+          "question": "people drive too fast in the city center. I wish they ...... slowly.",
+          "options": [
+            "could drive",
+            "would drive",
+            "were",
+            "was"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "57",
+          "question": "the streets are very dirty. I wish the streets ...... cleaner.",
+          "options": [
+            "could be",
+            "would be",
+            "were",
+            "can be"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "58",
+          "question": "a very small piece of paper, wood, cloth ......",
+          "options": [
+            "fiber",
+            "rot",
+            "sustainable",
+            "wood pulp"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "59",
+          "question": "wood after it has been crushed ......",
+          "options": [
+            "cloth",
+            "rot",
+            "fiber",
+            "wood pulp"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "60",
+          "question": "a practice or product that can be used or reused without causing damage to the environment ......",
+          "options": [
+            "cloth",
+            "fiber",
+            "rot",
+            "sustainable"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "61",
+          "question": "decay means ......",
+          "options": [
+            "rot",
+            "sustainable",
+            "wood pulp",
+            "cloth"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "62",
+          "question": "material or fabric used to make clothes ......",
+          "options": [
+            "fiber",
+            "cloth",
+            "rot",
+            "sustainable"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "63",
+          "question": "Is that a letter you are reading? Yes it is from an old friend. It came this morning completely out of the ......",
+          "options": [
+            "green",
+            "blue",
+            "red",
+            "black"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "64",
+          "question": "have you heard? The government has given the ...... light to the building of a new airport.",
+          "options": [
+            "green",
+            "blue",
+            "red",
+            "black"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "65",
+          "question": "I think it is just a rumor. No it is in the newspaper. Look it is here in black and ......",
+          "options": [
+            "green",
+            "blue",
+            "red",
+            "white"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "66",
+          "question": "calm down. Sorry someone accused me of being lazy and I just saw ......",
+          "options": [
+            "green",
+            "blue",
+            "red",
+            "black"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "67",
+          "question": "I am ...... The summer holidays in Syria.",
+          "options": [
+            "looking forward to",
+            "running out of",
+            "cut down on",
+            "keep up with"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "68",
+          "question": "environmentalists are working hard to ...... new ways of saving energy.",
+          "options": [
+            "come up against",
+            "come up with",
+            "cut down on",
+            "run out of"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "69",
+          "question": "If you want to improve your health, you should ...... The amount of sugar and fat you eat.",
+          "options": [
+            "run out of",
+            "cut down on",
+            "keep up with",
+            "go along with"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "70",
+          "question": "my journey to work gets worse every day. I don't think I can ...... for much longer.",
+          "options": [
+            "put up with",
+            "cut down on",
+            "go along with",
+            "run out of"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "الوحدة الثانية",
+      "questions": [
+        {
+          "id": "1",
+          "question": "Dry powder made of very small pieces of earth......",
+          "options": [
+            "Climate",
+            "wildfire",
+            "dust"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "2",
+          "question": "To stay alive ......",
+          "options": [
+            "Survive",
+            "soil",
+            "graze"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "3",
+          "question": "To destroy slowly ......",
+          "options": [
+            "Graze",
+            "erode",
+            "dust"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "4",
+          "question": "Weather conditions in an area over a period of time ......",
+          "options": [
+            "climate",
+            "cultivate",
+            "dust"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "5",
+          "question": "What plants need to grow in ......",
+          "options": [
+            "Soil",
+            "dust",
+            "graze"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "Fire that spreads very quickly ......",
+          "options": [
+            "Soil",
+            "survive",
+            "wildfire"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "7",
+          "question": "To put animals in a field so that they can eat the grass ......",
+          "options": [
+            "Erode",
+            "graze",
+            "soil"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "8",
+          "question": "To use land for growing crops ......",
+          "options": [
+            "Climate",
+            "cultivate",
+            "dust"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "9",
+          "question": "I split tea on my homework, so I had to ...... it",
+          "options": [
+            "rewrite",
+            "miswrite",
+            "overwrite"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "During the storm, three houses were destroyed and had to be ......",
+          "options": [
+            "Underbuilt",
+            "misbuilt",
+            "rebuilt"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "11",
+          "question": "I ...... You, I thought you said we would meet at 9 o’clock.",
+          "options": [
+            "Underheard",
+            "misheard",
+            "overheard"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "12",
+          "question": "The children were very good. None of them ...... in any way.",
+          "options": [
+            "misbehave",
+            "over behave",
+            "rebehave"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "13",
+          "question": "Not too hot or too cold ......",
+          "options": [
+            "protect",
+            "temperate",
+            "exotic"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "14",
+          "question": "To stop harm or damage ......",
+          "options": [
+            "waterfall",
+            "protect",
+            "exotic"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "Someone who tries to protect the environment ......",
+          "options": [
+            "Environmentalist",
+            "protect",
+            "exotic"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "16",
+          "question": "A flow of water from a river or stream falling from a height ......",
+          "options": [
+            "waterfall",
+            "temperate",
+            "protect"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "17",
+          "question": "Unusual or foreign means ......",
+          "options": [
+            "Exotic",
+            "protect",
+            "waterfall"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "Human beings are dependent ...... plants",
+          "options": [
+            "In",
+            "on",
+            "with"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "While she was at the Eden project one girl became very interested ...... biology.",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "20",
+          "question": "I have never been keen ...... museums.",
+          "options": [
+            "Of",
+            "from",
+            "on"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "21",
+          "question": "The Eden project is quite different ...... a normal museum.",
+          "options": [
+            "From",
+            "in",
+            "on"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "22",
+          "question": "On wet days the biomes are full ...... Visitors sheltering from the rain.",
+          "options": [
+            "In",
+            "with",
+            "of"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "23",
+          "question": "Visiting the Eden project makes you aware ...... The importance of plants.",
+          "options": [
+            "Of",
+            "at",
+            "on"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "24",
+          "question": "The Eden project is particularly famous ...... its huge biomes.",
+          "options": [
+            "On",
+            "in",
+            "for"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "25",
+          "question": "It is expensive to get into the Eden project, but we were very satisfied ...... our visit.",
+          "options": [
+            "With",
+            "for",
+            "of"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "26",
+          "question": "The dying out of a whole species of animal ......",
+          "options": [
+            "Extinction",
+            "evade",
+            "predator"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "27",
+          "question": "Without depth ......",
+          "options": [
+            "evade",
+            "predator",
+            "shallow"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "28",
+          "question": "Come together, often in a large group ......",
+          "options": [
+            "Shallow",
+            "congregate",
+            "evade"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "29",
+          "question": "An animal that kills and eats other animals ......",
+          "options": [
+            "predator",
+            "evade",
+            "shallow"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "30",
+          "question": "Escape or avoid ......",
+          "options": [
+            "Evade",
+            "predator",
+            "shallow"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "31",
+          "question": "Affecting the whole world ......",
+          "options": [
+            "global",
+            "illegal",
+            "tool"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "32",
+          "question": "The eating or drinking of something ......",
+          "options": [
+            "export",
+            "devastating",
+            "consumption"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "33",
+          "question": "A piece of equipment for doing a particular job......",
+          "options": [
+            "global",
+            "tool",
+            "illegal"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "34",
+          "question": "Very destructive ......",
+          "options": [
+            "Devastating",
+            "export",
+            "global"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "35",
+          "question": "Against the law ......",
+          "options": [
+            "illegal",
+            "global",
+            "tool"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "36",
+          "question": "A country where the sun always shines has a dry ......",
+          "options": [
+            "Low",
+            "climate",
+            "weather"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "37",
+          "question": "You feel cold when the temperature is ......",
+          "options": [
+            "High",
+            "calm",
+            "low"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "38",
+          "question": "When there is no wind, we say the weather is ......",
+          "options": [
+            "Calm",
+            "stormy",
+            "high"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "39",
+          "question": "Farmers listen to the ...... forecast to decide when to harvest their crops.",
+          "options": [
+            "Climate",
+            "weather",
+            "stormy"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "40",
+          "question": "I am sorry, I ...... You. I thought you said you would prefer tea.",
+          "options": [
+            "Redo",
+            "misuse",
+            "misheard"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "41",
+          "question": "I did my homework too quickly, so the teacher asked me to ...... it",
+          "options": [
+            "redo",
+            "misuse",
+            "reorganize"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "42",
+          "question": "As we have some new employees, we will have to ...... our office",
+          "options": [
+            "reorganize",
+            "misuse",
+            "redo"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "43",
+          "question": "If you ...... the equipment, it will not work properly.",
+          "options": [
+            "Misuse",
+            "redo",
+            "mishear"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "44",
+          "question": "The Amazon rainforest has an important effect on the climate of the world ...... It covers such a large area.",
+          "options": [
+            "So",
+            "to",
+            "because"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "45",
+          "question": "Large areas of forest have been cut down, ...... the soil is now dry and dusty.",
+          "options": [
+            "So that",
+            "with the result that",
+            "to"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "46",
+          "question": "The rainforest has been cut down...... Make more farmland",
+          "options": [
+            "To",
+            "so that",
+            "because"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "47",
+          "question": "Farmers need more farmland ...... They can grow more soya beans.",
+          "options": [
+            "To",
+            "so that",
+            "in order to"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "48",
+          "question": "Loggers cut down trees ...... sell the wood",
+          "options": [
+            "So that",
+            "in order to",
+            "because"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "49",
+          "question": "Fadia did not go to school yesterday ...... she had felt ill.",
+          "options": [
+            "because",
+            "in order to",
+            "so that"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "50",
+          "question": "I went to the post office ...... buy stamps.",
+          "options": [
+            "Because",
+            "so that",
+            "to"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "51",
+          "question": "Ahmad went to the airport ...... meet his brother Khaled.",
+          "options": [
+            "Because",
+            "so that",
+            "in order to"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "52",
+          "question": "People write things in their diaries ...... forget important things.",
+          "options": [
+            "In order not to",
+            "so that",
+            "because"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "53",
+          "question": "Omar’s letter was so difficult to read ...... he had written it very quickly.",
+          "options": [
+            "So that",
+            "because",
+            "to"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "54",
+          "question": "A sharp pointed part that grows on a plant ......",
+          "options": [
+            "seed",
+            "thorn",
+            "trunk"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "55",
+          "question": "The main part or large stem of a tree ......",
+          "options": [
+            "Seed",
+            "thorn",
+            "trunk"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "56",
+          "question": "A small, hard part from which a new plant can grow. ......",
+          "options": [
+            "Seed",
+            "thorn",
+            "trunk"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "57",
+          "question": "Which of these is not sharp? ......",
+          "options": [
+            "A cactus thorn",
+            "a banana",
+            "a kitchen knife",
+            "broken glass"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "58",
+          "question": "Which of these is not sticky? ......",
+          "options": [
+            "Chewing gum",
+            "sugary food",
+            "water",
+            "wet paint"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "59",
+          "question": "Aubergines grow ......",
+          "options": [
+            "On plants",
+            "under the ground",
+            "on trees"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "60",
+          "question": "Tea grows ......",
+          "options": [
+            "on trees",
+            "on bushes",
+            "under the ground"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "61",
+          "question": "Dates grow ......",
+          "options": [
+            "On the ground",
+            "on bushes",
+            "on trees"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "62",
+          "question": "Potatoes grow ......",
+          "options": [
+            "On the ground",
+            "under the ground",
+            "on trees"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "63",
+          "question": "The phone is ringing: it's probably your brother. He usually rings at this time. It ...... my brother. He usually rings at this time.",
+          "options": [
+            "Might be",
+            "must be",
+            "can't be"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "64",
+          "question": "Someone is ringing your doorbell. You are sure it is the postman. It ...... the postman he always comes at this time.",
+          "options": [
+            "Might be",
+            "must be",
+            "can't be"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "65",
+          "question": "There is an important football match in your town tonight. You think the roads will probably be very busy. The roads ...... very busy.",
+          "options": [
+            "Might be",
+            "must be",
+            "can't be"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "66",
+          "question": "Your friend said she would phone you, but she hasn't. You are sure she hasn't forgotten. She ...... forgotten to phone.",
+          "options": [
+            "Might have",
+            "must have",
+            "can't have"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "67",
+          "question": "Someone waves to you from a car. It looks like your friend's father's car. It ...... my friend's father's car.",
+          "options": [
+            "Might be",
+            "must be",
+            "can't be"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "68",
+          "question": "Your sister has worked very hard. You feel sure that she has got good grades. She ...... got good grades in her exams.",
+          "options": [
+            "Might have",
+            "must have",
+            "can't have"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "69",
+          "question": "A new building is going up in your neighborhood. You think it is probably a school. They ...... building a new school.",
+          "options": [
+            "Might be",
+            "must be",
+            "can't be"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "70",
+          "question": "Faisal's car lights were on all night. Faisal ...... forgotten to switch off lights.",
+          "options": [
+            "Might have",
+            "must have",
+            "can't have"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "71",
+          "question": "Ahmad is looking at the engine of his car. His car ...... broken down",
+          "options": [
+            "Might have",
+            "must have",
+            "can't have"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "72",
+          "question": "Ali has just drunk two liters of water. He ...... been very thirsty.",
+          "options": [
+            "Might have",
+            "must have",
+            "can't have"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "73",
+          "question": "One half of the earth-southern or northern ......",
+          "options": [
+            "hemisphere",
+            "plain",
+            "pouch"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "74",
+          "question": "The place or conditions where animals live ......",
+          "options": [
+            "adapt",
+            "hemisphere",
+            "environment"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "75",
+          "question": "far from civilization or populated areas ......",
+          "options": [
+            "Pouch",
+            "remote",
+            "terrain"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "76",
+          "question": "Bag or pocket of skin ......",
+          "options": [
+            "Pouch",
+            "remote",
+            "terrain"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "77",
+          "question": "Type of landscape ......",
+          "options": [
+            "Ice berg",
+            "remote",
+            "terrain"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "78",
+          "question": "Changed to be better suited to a situation ......",
+          "options": [
+            "Adapt",
+            "iceberg",
+            "plain"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "79",
+          "question": "Large area of flat land, usually without trees ......",
+          "options": [
+            "Iceberg",
+            "plain",
+            "pouch"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "80",
+          "question": "Large block of ice that floats in the sea ......",
+          "options": [
+            "Iceberg",
+            "plain",
+            "pouch"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "81",
+          "question": "A group of animals feed their young with milk ......",
+          "options": [
+            "Birds",
+            "reptiles",
+            "mammals"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "82",
+          "question": "A group of animals lay eggs ......",
+          "options": [
+            "Birds",
+            "reptiles",
+            "both a and b"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "83",
+          "question": "A group of animals have dry skin and cold blood ......",
+          "options": [
+            "Reptiles",
+            "mammals",
+            "birds"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "84",
+          "question": "A group of animals can fly ......",
+          "options": [
+            "Mammals",
+            "birds",
+            "reptiles"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "85",
+          "question": "A group of animals have warm blood ......",
+          "options": [
+            "Birds",
+            "mammals",
+            "both a and b"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "86",
+          "question": "Birds' nests ...... at the top of trees where the eggs will be safe.",
+          "options": [
+            "Are often built",
+            "was built",
+            "have been built"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "87",
+          "question": "Many nests ...... from grass, twigs, or feathers.",
+          "options": [
+            "Is made",
+            "was made",
+            "are made"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "88",
+          "question": "In some countries, the nests of rare birds ...... by law",
+          "options": [
+            "Are protected",
+            "have been protected",
+            "has protected"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "89",
+          "question": "Throughout history elephants ...... for their tusks.",
+          "options": [
+            "Have been hunted",
+            "has been hunted",
+            "was hunted"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "90",
+          "question": "Sand gazelles are protected from predators by camouflage.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "91",
+          "question": "They are excellent jumpers and their speed and agility are used to evade the attention of predators.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "92",
+          "question": "If sand gazelles are being threatened, they can run away.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "93",
+          "question": "In recent decades, efforts have been made to save endangered species in Syria.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "94",
+          "question": "Birds' nests are often built at the top of trees where the eggs will be safe.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "95",
+          "question": "Many nests are made from grass, twigs or feathers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "96",
+          "question": "In some countries, the nests of rare birds are protected by law.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "97",
+          "question": "If the nests of rare birds are damaged, or their eggs are stolen, the people who do the damage have to pay a large fine.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "98",
+          "question": "Throughout history elephants have been hunted for their tusks.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "99",
+          "question": "Elephants have been prevented from migrating to find food and water.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "100",
+          "question": "Their natural habitats have been turned into farmland or building land.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "101",
+          "question": "The natural environment has been changed by elephants.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "102",
+          "question": "Paths are made by elephants through the areas where they live and these paths have been used by other animals.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "الوحدة الثالثة",
+      "questions": [
+        {
+          "id": "1",
+          "question": "In Mexico she met the ...... oldest married couple.",
+          "options": [
+            "Earth's",
+            "world's",
+            "country's",
+            "city's"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "2",
+          "question": "Alberto and Maria's son said his parents had ...... way of life.",
+          "options": [
+            "a simple",
+            "an easy",
+            "a modern",
+            "a complicated"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "3",
+          "question": "Sunil says his customers are all his ...... friends.",
+          "options": [
+            "single",
+            "near",
+            "close",
+            "old"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "Sunil said he'd enjoyed every ...... day of his life.",
+          "options": [
+            "one",
+            "single",
+            "two",
+            "first"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "5",
+          "question": "The journalist said he was ...... research for an article.",
+          "options": [
+            "do",
+            "doing",
+            "make",
+            "making"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "6",
+          "question": "Scientists frequently ...... experiments to test their ideas.",
+          "options": [
+            "make",
+            "making",
+            "do",
+            "doing"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "7",
+          "question": "You will have to ...... a special effort if you want to pass your exams.",
+          "options": [
+            "make",
+            "made",
+            "do",
+            "doing"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "8",
+          "question": "Can I ...... a suggestion?",
+          "options": [
+            "make",
+            "made",
+            "do",
+            "did"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "9",
+          "question": "Why don't we ...... the shopping together?",
+          "options": [
+            "make",
+            "made",
+            "do",
+            "did"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "10",
+          "question": "If you make a mistake, you have to ...... your homework again.",
+          "options": [
+            "doing",
+            "do",
+            "did",
+            "make"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "I have ...... myself a promise. I am going to make a success of my new job.",
+          "options": [
+            "make",
+            "made",
+            "did",
+            "doing"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "12",
+          "question": "I have ...... my decision very carefully.",
+          "options": [
+            "do",
+            "make",
+            "made",
+            "did"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "13",
+          "question": "Last night storm ...... a lot of damage to buildings in our town.",
+          "options": [
+            "do",
+            "does",
+            "did",
+            "made"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "14",
+          "question": "I have hurt my back which means I have to get someone to ...... my shoes.",
+          "options": [
+            "do up",
+            "do away with",
+            "do without",
+            "do over"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "15",
+          "question": "The doctor told my grandmother she would have to learn to ...... sugar.",
+          "options": [
+            "do up",
+            "do away with",
+            "do without",
+            "do over"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "We will have to ...... the room before anyone sleeps there.",
+          "options": [
+            "do up",
+            "do away with",
+            "do without",
+            "clean up"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "17",
+          "question": "Not everyone in our family has a mobile so we can't ...... our landline.",
+          "options": [
+            "do up",
+            "do away with",
+            "do without",
+            "get rid of"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "18",
+          "question": "I asked their son ...... the secret of their healthy life.",
+          "options": [
+            "whether",
+            "what",
+            "if",
+            "how"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "I asked him ...... he remembered his wedding day.",
+          "options": [
+            "If",
+            "which",
+            "where",
+            "when"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "20",
+          "question": "I asked him ...... he had enjoyed his long life.",
+          "options": [
+            "whether",
+            "what",
+            "when",
+            "how"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "21",
+          "question": "Something that happens or exists......",
+          "options": [
+            "deserted",
+            "rural",
+            "phenomenon",
+            "occurrence"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "22",
+          "question": "Adjective to describe the countryside ......",
+          "options": [
+            "deserted",
+            "rural",
+            "phenomenon",
+            "urban"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "23",
+          "question": "Making money is ......",
+          "options": [
+            "profitable",
+            "deserted",
+            "overcrowding",
+            "successful"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "24",
+          "question": "Empty because people have left ......",
+          "options": [
+            "inhabitant",
+            "profitable",
+            "deserted",
+            "abandoned"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "25",
+          "question": "Someone who lives in a place ......",
+          "options": [
+            "deserted",
+            "inhabitant",
+            "rural",
+            "resident"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "26",
+          "question": "Transport, education and health are ......",
+          "options": [
+            "profitable",
+            "overcrowding",
+            "public service",
+            "essential services"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "27",
+          "question": "Having too many people ......",
+          "options": [
+            "profitable",
+            "overcrowding",
+            "public service",
+            "overpopulation"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "28",
+          "question": "Not having any or enough of something ......",
+          "options": [
+            "alert",
+            "be deprived of something",
+            "concentrate",
+            "lack something"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "29",
+          "question": "Easily feeling gloomy for no good reason ......",
+          "options": [
+            "irritable",
+            "moody",
+            "shallow",
+            "emotional"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "30",
+          "question": "Easily annoyed ......",
+          "options": [
+            "irritable",
+            "moody",
+            "recharge",
+            "sensitive"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "31",
+          "question": "Renew means ......",
+          "options": [
+            "recharge",
+            "moody",
+            "shallow",
+            "destroy"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "32",
+          "question": "Clear-headed or awake means ......",
+          "options": [
+            "alert",
+            "moody",
+            "shallow",
+            "awake"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "33",
+          "question": "Not deep means ......",
+          "options": [
+            "moody",
+            "recharge",
+            "shallow",
+            "superficial"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "34",
+          "question": "Could I ...... a suggestion?",
+          "options": [
+            "make",
+            "made",
+            "do",
+            "give"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "35",
+          "question": "You should think carefully before you ...... your decision.",
+          "options": [
+            "make",
+            "made",
+            "do",
+            "take"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "36",
+          "question": "You are right if I ...... a mistake now, I could do a lot of damage to a lot of people.",
+          "options": [
+            "make",
+            "made",
+            "do",
+            "commit"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "37",
+          "question": "I am ...... research into sleep deprivation.",
+          "options": [
+            "do",
+            "did",
+            "doing",
+            "making"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "38",
+          "question": "I have to ...... experiments on people who have had little or no sleep.",
+          "options": [
+            "make",
+            "do",
+            "did",
+            "conduct"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "39",
+          "question": "Where do you ...... your shopping?",
+          "options": [
+            "make",
+            "do",
+            "did",
+            "go"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "40",
+          "question": "You shouldn't try to ...... sleep. You need at least eight hours a night.",
+          "options": [
+            "do away with",
+            "do without",
+            "made out",
+            "avoid"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "41",
+          "question": "He said everything was okay, but that was just a story he ...... to stop me from worrying.",
+          "options": [
+            "made up",
+            "made out",
+            "do up",
+            "created"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "42",
+          "question": "You'd better ...... your boots tightly to stop the sand getting in.",
+          "options": [
+            "do out",
+            "do up",
+            "make up",
+            "tie up"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "43",
+          "question": "The sound of traffic or plane engine is ......",
+          "options": [
+            "bang",
+            "drip",
+            "roar",
+            "hum"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "44",
+          "question": "The sound of a person who is in pain or very frightened ......",
+          "options": [
+            "scream",
+            "splash",
+            "tick",
+            "shout"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "45",
+          "question": "The sound of a light switch or a car seat belt being fastened ......",
+          "options": [
+            "bang",
+            "click",
+            "drip",
+            "snap"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "46",
+          "question": "The sound of an old fashioned clock ......",
+          "options": [
+            "scream",
+            "splash",
+            "tick",
+            "ring"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "47",
+          "question": "The sound of a door closing very noisily or a hammer hitting ......",
+          "options": [
+            "bang",
+            "click",
+            "drip",
+            "crash"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "48",
+          "question": "The sound of the wind in the trees or a bird ......",
+          "options": [
+            "splash",
+            "tick",
+            "whistle",
+            "sing"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "49",
+          "question": "A tap that hasn't been turned off ......",
+          "options": [
+            "roar",
+            "drip",
+            "scream",
+            "flow"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "50",
+          "question": "The sound of something falling into water ......",
+          "options": [
+            "splash",
+            "tick",
+            "whistle",
+            "plop"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "51",
+          "question": "People come from ...... to see the Umayyad mosque in the center of Damascus",
+          "options": [
+            "far and wide",
+            "nearest and dearest",
+            "odds and ends",
+            "near and far"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "52",
+          "question": "I love spending time with my ......",
+          "options": [
+            "far and wide",
+            "nearest and dearest",
+            "odds and ends",
+            "family members"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "53",
+          "question": "While I was on holiday I bought lots of ...... to give as presents.",
+          "options": [
+            "far and wide",
+            "nearest and dearest",
+            "odds and ends",
+            "souvenirs"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "54",
+          "question": "There are lots of restaurants near here. You can ...... from about fifty.",
+          "options": [
+            "pick and choose",
+            "far and wide",
+            "hustle and bustle",
+            "select and decide"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "55",
+          "question": "Some people enjoy the ...... of shopping in street markets.",
+          "options": [
+            "pick and choose",
+            "far and wide",
+            "hustle and bustle",
+            "noise and crowd"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "56",
+          "question": "Deir ezzour is an area of great ...... beauty.",
+          "options": [
+            "nature",
+            "natural",
+            "naturalism",
+            "naturally"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "57",
+          "question": "Careless drivers can seriously ...... the safety of pedestrians.",
+          "options": [
+            "threat",
+            "threated",
+            "threaten",
+            "threatening"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "58",
+          "question": "In my city there is a wide ...... of entertainments to choose from.",
+          "options": [
+            "variation",
+            "vary",
+            "variety",
+            "various"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "59",
+          "question": "I'd like to live in a small ...... village near the sea.",
+          "options": [
+            "peace",
+            "peaceful",
+            "piece",
+            "quiet"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "60",
+          "question": "The storm damage is a lasting ...... of the power of nature.",
+          "options": [
+            "reminder",
+            "remind",
+            "reminding",
+            "memory"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "61",
+          "question": "I will never forget the ...... I felt on my first day at school.",
+          "options": [
+            "excitement",
+            "excite",
+            "exciting",
+            "excited"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "62",
+          "question": "An organization with an important role in the country......",
+          "options": [
+            "specific",
+            "fraction",
+            "institution",
+            "organization"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "63",
+          "question": "A particular part of an area ......",
+          "options": [
+            "sector",
+            "specific",
+            "fraction",
+            "section"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "64",
+          "question": "A small amount of something ......",
+          "options": [
+            "specific",
+            "fraction",
+            "institution",
+            "portion"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "65",
+          "question": "Clearly defined ......",
+          "options": [
+            "specific",
+            "fraction",
+            "institution",
+            "precise"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "66",
+          "question": "Supervise or control ......",
+          "options": [
+            "embassy",
+            "regulate",
+            "sector",
+            "manage"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "67",
+          "question": "The offices of the representative of a foreign country......",
+          "options": [
+            "embassy",
+            "regulate",
+            "sector",
+            "consulate"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "68",
+          "question": "The ...... of a plane woke me up in the night.",
+          "options": [
+            "drip",
+            "scream",
+            "roar",
+            "noise"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "69",
+          "question": "Can you hear that ...... noise? Someone must have left a tap on in the bathroom.",
+          "options": [
+            "dripping",
+            "roaring",
+            "screaming",
+            "flowing"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "70",
+          "question": "Everyone heard the ...... when he jumped into the swimming pool.",
+          "options": [
+            "Bang",
+            "click",
+            "splash",
+            "noise"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "71",
+          "question": "A friend of mine is terrified of spiders and ...... if she sees one close to her.",
+          "options": [
+            "roars",
+            "screams",
+            "splashes",
+            "shouts"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "72",
+          "question": "Digital clocks don't ...... like old-fashioned clocks used to.",
+          "options": [
+            "splash",
+            "tick",
+            "whistle",
+            "ring"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "73",
+          "question": "Graduates with first class degrees can often ...... the jobs they want.",
+          "options": [
+            "far and wide",
+            "odds and ends",
+            "pick and choose",
+            "search and find"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "74",
+          "question": "The country is too quiet for me, I would miss the ...... of the city.",
+          "options": [
+            "Far and wide",
+            "hustle and bustle",
+            "nearest and dearest",
+            "noise and crowd"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "75",
+          "question": "I tidied my office and found all kinds of ...... on my desk.",
+          "options": [
+            "far and wide",
+            "odds and ends",
+            "pick and choose",
+            "things and stuff"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "76",
+          "question": "People came from ...... to see the exhibition.",
+          "options": [
+            "far and wide",
+            "hustle and bustle",
+            "odds and ends",
+            "different places"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "77",
+          "question": "We're having a big celebration next week, so we're inviting all our ......",
+          "options": [
+            "far and wide",
+            "odds and ends",
+            "nearest and dearest",
+            "friends and family"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "78",
+          "question": "...... Seul in South Korea, Paris is quite small",
+          "options": [
+            "in comparison with",
+            "but",
+            "whereas",
+            "compared to"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "79",
+          "question": "...... Seul has a population of over 10 million, Paris only has 2 million.",
+          "options": [
+            "in comparison with",
+            "but",
+            "whereas",
+            "while"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "80",
+          "question": "I have decided to learn Chinese...... French at university.",
+          "options": [
+            "but",
+            "instead of",
+            "whereas",
+            "rather than"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "81",
+          "question": "Chinese grammar is not too difficult...... the pronunciation will be very hard for me.",
+          "options": [
+            "but",
+            "instead of",
+            "whereas",
+            "however"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "82",
+          "question": "You have to ...... saxophones and trumpet.",
+          "options": [
+            "blow",
+            "bow",
+            "pluck",
+            "play"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "83",
+          "question": "You can ...... or strum a guitar.",
+          "options": [
+            "blow",
+            "bow",
+            "pluck",
+            "hit"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "84",
+          "question": "You ...... percussion instruments with stick or your hands.",
+          "options": [
+            "bow",
+            "hit",
+            "strum",
+            "play"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "85",
+          "question": "Laila is very good at ...... so she will probably get that job.",
+          "options": [
+            "blowing her own trumpet",
+            "face the music",
+            "drummed into",
+            "playing her cards"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "86",
+          "question": "If you break the law, you have to ......",
+          "options": [
+            "change the tune",
+            "face the music",
+            "drummed into",
+            "pay the price"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "87",
+          "question": "The importance of crossing the road is ...... children when they are very young.",
+          "options": [
+            "change the tune",
+            "face the music",
+            "drummed into",
+            "taught to"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "88",
+          "question": "Omar said he was going to buy Porsche, but he ...... when he discovered the price",
+          "options": [
+            "changed his tune",
+            "face the music",
+            "drummed into",
+            "changed his mind"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "89",
+          "question": "An object of cultural or historical interest ......",
+          "options": [
+            "artifact",
+            "skilled",
+            "artisan",
+            "antique"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "90",
+          "question": "Intricately decorated with complex patterns or constructions ......",
+          "options": [
+            "ornate",
+            "simple",
+            "plain",
+            "basic"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "91",
+          "question": "A period of prehistory when weapons and tools were commonly made of bronze ......",
+          "options": [
+            "artisan",
+            "Bronze age",
+            "ornate",
+            "ancient era"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "92",
+          "question": "Having a special ability or talent ......",
+          "options": [
+            "artifact",
+            "skilled",
+            "artisan",
+            "talented"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "93",
+          "question": "Worker in a skilled trade (usually making items by hand) ......",
+          "options": [
+            "artifact",
+            "skilled",
+            "artisan",
+            "craftsman"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "94",
+          "question": "He's been telling lies to so many people. Eventually they will find out and he'll have to ......",
+          "options": [
+            "blow trumpet",
+            "face the music",
+            "drummed into",
+            "accept consequences"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "95",
+          "question": "I can't stand the kind of big-headed person who ...... all the time.",
+          "options": [
+            "blows his own trumpet",
+            "face the music",
+            "drummed into",
+            "brags about himself"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "96",
+          "question": "He was against a holiday in Greece, but he ...... when he found out how cheap the flight was.",
+          "options": [
+            "face the music",
+            "drummed into",
+            "changed his tune",
+            "changed his mind"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "97",
+          "question": "The importance of knowing the difference between right and wrong is usually ...... children at a very early age.",
+          "options": [
+            "face the music",
+            "drummed into",
+            "change the tune",
+            "taught to"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "الوحدة الرابعة",
+      "questions": [
+        {
+          "id": "1",
+          "question": "A public disciplinary is ......",
+          "options": [
+            "elite",
+            "rival",
+            "spectacle",
+            "performance"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "2",
+          "question": "Hoping or aiming for a certain thing ......",
+          "options": [
+            "spectacle",
+            "aspiring",
+            "dedication",
+            "ambitious"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "Group containing the best......",
+          "options": [
+            "elite",
+            "rival",
+            "eventual",
+            "best group"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "4",
+          "question": "Showing commitment to a cause......",
+          "options": [
+            "dedication",
+            "elite",
+            "rival",
+            "commitment"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "5",
+          "question": "A direct opponent in a particular field ......",
+          "options": [
+            "elite",
+            "rival",
+            "eventual",
+            "competitor"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "6",
+          "question": "Occurring at the end of a series of events......",
+          "options": [
+            "eventual",
+            "spectacle",
+            "aspiring",
+            "final"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "7",
+          "question": "It had been cloudy all morning but in the end the sun......",
+          "options": [
+            "came out",
+            "came across",
+            "came up",
+            "appeared"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "8",
+          "question": "As we were walking up the mountain we ...... a small camp site.",
+          "options": [
+            "came out",
+            "came across",
+            "came up",
+            "found"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "9",
+          "question": "...... When you are next in town.",
+          "options": [
+            "come over",
+            "come up",
+            "come down",
+            "visit us"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "After she fell and hit her head on the ice it was 10 minutes before she ......",
+          "options": [
+            "came over",
+            "came round",
+            "came up",
+            "woke up"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "A job has ...... at the polar research centre.",
+          "options": [
+            "come down",
+            "come up",
+            "come out",
+            "become available"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "12",
+          "question": "I wish the price of petrol would......",
+          "options": [
+            "come down",
+            "come over",
+            "come up",
+            "decrease"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "13",
+          "question": "When I was talking to my brother yesterday, your name ...... several times.",
+          "options": [
+            "came down",
+            "came up",
+            "came out",
+            "was mentioned"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "21",
+          "question": "The fire had started when everyone in the house was ......",
+          "options": [
+            "sleep",
+            "asleep",
+            "similar",
+            "sleeping"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "22",
+          "question": "In less than 10 minutes the whole building was ......",
+          "options": [
+            "asleep",
+            "alight",
+            "similar",
+            "burning"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "23",
+          "question": "The family escaped but the parents had to calm their ...... children",
+          "options": [
+            "alike",
+            "afraid",
+            "frightened",
+            "scared"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "24",
+          "question": "Some people had minor burns but fortunately everyone was still......",
+          "options": [
+            "alive",
+            "burning",
+            "alike",
+            "safe"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "25",
+          "question": "The police suspected a crime as there had been four ...... fires",
+          "options": [
+            "alike",
+            "similar",
+            "asleep",
+            "identical"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "26",
+          "question": "To change the route of a road or river is ......",
+          "options": [
+            "construction",
+            "disrupt",
+            "divert",
+            "redirect"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "27",
+          "question": "By force or against one's will ......",
+          "options": [
+            "forcibly",
+            "lock",
+            "divert",
+            "forcefully"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "28",
+          "question": "A short section of a river or canal with gates which move ships to lower or higher level ......",
+          "options": [
+            "forcibly",
+            "lock",
+            "reservoir",
+            "canal gate"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "29",
+          "question": "The building process usually of a large structure ......",
+          "options": [
+            "construction",
+            "disrupt",
+            "lock",
+            "building"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "30",
+          "question": "A Large natural or man-made lake for collecting and keeping water......",
+          "options": [
+            "forcibly",
+            "lock",
+            "reservoir",
+            "water tank"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "31",
+          "question": "To upset or interrupt in a negative way ......",
+          "options": [
+            "disrupt",
+            "divert",
+            "lock",
+            "disturb"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "32",
+          "question": "The new government computer system is not expected to be fully ...... until the end of the year.",
+          "options": [
+            "operational",
+            "site",
+            "entire",
+            "functional"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "33",
+          "question": "When I was a child I used to love ...... three houses",
+          "options": [
+            "finish",
+            "building",
+            "whole",
+            "constructing"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "34",
+          "question": "Tomorrow I am planning to spend the ...... day on the beach.",
+          "options": [
+            "site",
+            "whole",
+            "sites",
+            "entire"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "35",
+          "question": "As part of their holiday tourists will visit many important ......",
+          "options": [
+            "complete",
+            "sites",
+            "finish",
+            "places"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "36",
+          "question": "By the time they had ...... their homework, it was time for bed",
+          "options": [
+            "progress",
+            "whole",
+            "finished",
+            "completed"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "37",
+          "question": "In the 12 months since its ...... the new tax system has raised 9 million.",
+          "options": [
+            "finish",
+            "place",
+            "inception",
+            "beginning"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "38",
+          "question": "The construction of the dam involved the destruction of many ...... buildings",
+          "options": [
+            "history",
+            "historical",
+            "historian",
+            "historic"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "39",
+          "question": "The date for ...... of the dam project is 2009.",
+          "options": [
+            "complete",
+            "completion",
+            "completed",
+            "finishing"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "40",
+          "question": "The ...... have worked very slowly",
+          "options": [
+            "builders",
+            "build",
+            "building",
+            "workers"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "41",
+          "question": "A number 1 2 3 etc ......",
+          "options": [
+            "digit",
+            "letter",
+            "symbol",
+            "figure"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "42",
+          "question": "The natural ability to do something well is ......",
+          "options": [
+            "talent",
+            "skill",
+            "practice",
+            "ability"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "43",
+          "question": "Name showing a person status ......",
+          "options": [
+            "title",
+            "name",
+            "label",
+            "designation"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "44",
+          "question": "A system of ideas to explain something ......",
+          "options": [
+            "talent",
+            "theory",
+            "title",
+            "concept"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "45",
+          "question": "A person who wins a sporting competition ......",
+          "options": [
+            "champion",
+            "digit",
+            "title",
+            "winner"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "46",
+          "question": "To show or to prove something ......",
+          "options": [
+            "demonstrate",
+            "digit",
+            "talent",
+            "prove"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "47",
+          "question": "Excellent or unusually good ......",
+          "options": [
+            "digit",
+            "outstanding",
+            "title",
+            "exceptional"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "48",
+          "question": "My sister is very ...... student",
+          "options": [
+            "ability",
+            "able",
+            "table",
+            "capable"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "49",
+          "question": "To my ...... I got over 90% in the exam",
+          "options": [
+            "amazement",
+            "amazing",
+            "amaze",
+            "surprise"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "50",
+          "question": "Many children find young animals very ......",
+          "options": [
+            "appeal",
+            "apply",
+            "appealing",
+            "attractive"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "51",
+          "question": "When she said she was leaving, we just stared at her in ......",
+          "options": [
+            "astonishing",
+            "astonished",
+            "astonishment",
+            "surprise"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "52",
+          "question": "I enjoy listening to all kinds of ......",
+          "options": [
+            "music",
+            "musical",
+            "musician",
+            "melody"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "53",
+          "question": "Sport has increased greatly in ...... in recent years.",
+          "options": [
+            "popular",
+            "popularity",
+            "pop",
+            "fame"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "54",
+          "question": "The more you practice the more ...... you will become.",
+          "options": [
+            "skill",
+            "skilling",
+            "skilful",
+            "experienced"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "55",
+          "question": "They demonstrate ...... very young age.",
+          "options": [
+            "in",
+            "at",
+            "on",
+            "from"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "56",
+          "question": "They do calculations ...... their heads ...... few seconds",
+          "options": [
+            "in, in",
+            "in, on",
+            "on, in",
+            "with, in"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "57",
+          "question": "They select numbers ...... random",
+          "options": [
+            "in",
+            "with",
+            "at",
+            "by"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "58",
+          "question": "Mozart was able to play music ...... variety of instruments",
+          "options": [
+            "on",
+            "with",
+            "at",
+            "using"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "59",
+          "question": "Mozart died ...... 1791.",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "during"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "60",
+          "question": "Overwork was the because ...... his death.",
+          "options": [
+            "in",
+            "of",
+            "on",
+            "for"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "61",
+          "question": "The gas we need to breathe is ......",
+          "options": [
+            "altitude",
+            "extreme",
+            "oxygen",
+            "nitrogen"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "62",
+          "question": "Injury caused to the body by very cold temperatures ......",
+          "options": [
+            "constant",
+            "frostbite",
+            "sherpa",
+            "hypothermia"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "63",
+          "question": "Height is ......",
+          "options": [
+            "altitude",
+            "extreme",
+            "oxygen",
+            "elevation"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "64",
+          "question": "Himalayan people famous for their skill mountaineers ......",
+          "options": [
+            "constant",
+            "frostbite",
+            "Sherpa",
+            "climbers"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "65",
+          "question": "Very great or severe ......",
+          "options": [
+            "altitude",
+            "extreme",
+            "oxygen",
+            "intense"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "66",
+          "question": "Staying the same/ not changing is ......",
+          "options": [
+            "constant",
+            "frostbite",
+            "Sherpa",
+            "stable"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "67",
+          "question": "Unbelievable = incredible",
+          "options": [
+            "amazing",
+            "unreal",
+            "fantastic",
+            "unbelievable"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "68",
+          "question": "Cut down, shortened = reduced",
+          "options": [
+            "decreased",
+            "lessened",
+            "minimized",
+            "reduced"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "69",
+          "question": "Lorries and vans carrying things not people ......",
+          "options": [
+            "reduce",
+            "freight traffic",
+            "view",
+            "transport vehicles"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "70",
+          "question": "What you can see from a place ......",
+          "options": [
+            "reduce",
+            "incredible",
+            "view",
+            "scenery"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "71",
+          "question": "To show the difference between ......",
+          "options": [
+            "comprehensible",
+            "differentiate",
+            "solution",
+            "distinguish"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "72",
+          "question": "Possible to understand ......",
+          "options": [
+            "comprehensible",
+            "differentiate",
+            "solution",
+            "understandable"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "73",
+          "question": "The answer to a mathematical problem ......",
+          "options": [
+            "authority",
+            "concise",
+            "solution",
+            "answer"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "74",
+          "question": "Short and clear ......",
+          "options": [
+            "Authority",
+            "concise",
+            "solution",
+            "brief"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "75",
+          "question": "A book or person that has reliable knowledge or information ......",
+          "options": [
+            "Authority",
+            "concise",
+            "solution",
+            "reference"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    }
+  ]
+}

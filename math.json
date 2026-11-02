@@ -1,0 +1,1106 @@
+{
+  "id": "math",
+  "name": "التحليل",
+  "lessons": [
+    {
+      "id": "1",
+      "name": "النهايات",
+      "questions": [
+        {
+          "id": "2",
+          "question": "\\lim_{x \\to 1} \\frac{\\tan^2(2x-2)}{x^2-2x+1}",
+          "options": [
+            "0",
+            "2",
+            "4",
+            "+∞"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "\\lim_{x \\to +\\infty} (\\sqrt{x} - \\ln x)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "5",
+          "question": "\\lim_{x \\to 0} \\frac{e^x - e^{4x}}{x}",
+          "options": [
+            "4",
+            "1",
+            "-3",
+            "-2"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "6",
+          "question": "\\lim_{x \\to 0^+} \\frac{1}{x \\cdot \\ln x}",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "لا يوجد نهاية"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "7",
+          "question": "\\lim_{x \\to 1} \\frac{1}{x \\cdot \\ln x}",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "غير موجودة"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "8",
+          "question": "\\lim_{x \\to 1^+} \\frac{1}{x \\cdot \\ln x}",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "لا يوجد نهاية"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "\\lim_{x \\to 1^-} \\frac{1}{x \\cdot \\ln x}",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "غير موجودة"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "\\lim_{x \\to +\\infty} \\frac{\\ln x - x}{x^2}",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "غير موجودة"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "11",
+          "question": "\\lim_{x \\to 0} \\frac{3\\sin x - \\sin 3x}{x^3}",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "12",
+          "question": "\\lim_{x \\to 0} \\frac{e^x + e^{-x}}{1 - \\cos 2x}",
+          "options": [
+            "1",
+            "2",
+            "1/2",
+            "+∞"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "\\lim_{x \\to 0} \\frac{\\sin x}{1 + \\frac{1}{x^2}}",
+          "options": [
+            "0",
+            "1",
+            "-1",
+            "غير موجودة"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "14",
+          "question": "\\lim_{x \\to 0} \\frac{\\sin x}{\\sqrt{x^2 + x^3}}",
+          "options": [
+            "0",
+            "1",
+            "-1",
+            "غير موجودة"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "15",
+          "question": "\\lim_{x \\to 0} \\frac{\\ln(\\cos x)}{\\ln(\\cos 3x)}",
+          "options": [
+            "1/3",
+            "1/6",
+            "1/9",
+            "2/3"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "2",
+          "question": "\\lim_{x \\to -\\infty} \\frac{5 - 2x^3}{x^2 + 1}",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "-2"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "\\lim_{x \\to +\\infty} \\frac{6 - x^3}{7x^3 + 3}",
+          "options": [
+            "2",
+            "6/7",
+            "-1/7",
+            "-1/3"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "\\lim_{x \\to +\\infty} \\frac{-2x + 1}{4x^2 + 7x - 5}",
+          "options": [
+            "-∞",
+            "0",
+            "-1/2",
+            "-2/7"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "9",
+          "question": "\\lim_{x \\to 0} x^2 \\cdot \\cos\\left(\\frac{1}{x}\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "10",
+          "question": "\\lim_{x \\to +\\infty} x^2 \\cdot \\sin\\left(\\frac{1}{x}\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "غير موجودة"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "\\lim_{x \\to 1} (x-1)^2 \\cdot \\cos\\left(\\frac{1}{x-1}\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "\\lim_{x \\to +\\infty} \\left(1 + \\frac{\\cos x}{x^2}\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "\\lim_{x \\to +\\infty} \\frac{x \\cdot \\cos(e^x)}{x^2 + 1}",
+          "options": [
+            "e",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "15",
+          "question": "\\lim_{x \\to 0} \\frac{x^2}{2 + \\cos\\left(\\frac{1}{x}\\right)}",
+          "options": [
+            "0",
+            "1/2",
+            "+∞",
+            "غير موجودة"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "15",
+          "question": "\\lim_{x \\to 0} \\frac{x^2}{2 + \\cos\\left(\\frac{1}{x}\\right)}",
+          "options": [
+            "0",
+            "1/2",
+            "+∞",
+            "غير موجودة"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "\\lim_{x \\to 0} \\sqrt[3]{x} \\cdot \\sin\\left(\\frac{1}{\\sqrt[3]{x}}\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "غير موجودة"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "18",
+          "question": "\\lim_{x \\to -\\infty} \\frac{\\sqrt{4x^2 + 5}}{1 - 3x}",
+          "options": [
+            "0",
+            "-5/3",
+            "-4/3",
+            "2/3"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "19",
+          "question": "\\lim_{x \\to +\\infty} \\frac{-2x + 1}{\\sqrt{x^2 + 1}}",
+          "options": [
+            "0",
+            "-∞",
+            "+∞",
+            "-2"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "20",
+          "question": "\\lim_{x \\to -\\infty} \\frac{-2x - 1}{\\sqrt{x^2 + 1}}",
+          "options": [
+            "2",
+            "-2",
+            "0",
+            "-∞"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "22",
+          "question": "\\lim_{x \\to +\\infty} \\left(\\sqrt{x^2 + 1} - x\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "23",
+          "question": "\\lim_{x \\to +\\infty} \\left(\\sqrt{2x^2 + 3} - \\sqrt{2x^2 - 5}\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "24",
+          "question": "\\lim_{x \\to +\\infty} \\left(\\sqrt{9x^2 - 4x} - 3x\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "-2/3"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "26",
+          "question": "\\lim_{x \\to +\\infty} \\left(\\sqrt{x + 1} - x\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "27",
+          "question": "\\lim_{x \\to -\\infty} \\left(\\sqrt{x^2 - 4} + 2x\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "28",
+          "question": "\\lim_{x \\to +\\infty} \\left(x - \\sqrt{x}\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "29",
+          "question": "\\lim_{x \\to -\\infty} \\left(2x + \\sqrt{1 - x}\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "30",
+          "question": "\\lim_{x \\to +\\infty} \\left(2x + 1 - \\sqrt{x^2 + x - 2}\\right)",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "32",
+          "question": "\\lim_{x \\to +\\infty} \\frac{x}{x^2 + 1} \\cdot \\sqrt{x + 1}",
+          "options": [
+            "-∞",
+            "+∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "33",
+          "question": "\\lim_{x \\to 1} \\frac{\\sqrt{5 - x} - 2}{x - 1}",
+          "options": [
+            "1/3",
+            "-1/2",
+            "-1/4",
+            "0"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "34",
+          "question": "\\lim_{x \\to 3} \\frac{\\sqrt{2x + 10} - 4}{x - 3}",
+          "options": [
+            "-2",
+            "1/4",
+            "1/8",
+            "0"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "36",
+          "question": "\\lim_{x \\to 1} \\frac{\\sqrt{2x^3 - 1} - 1}{x - 1}",
+          "options": [
+            "1",
+            "4",
+            "-2",
+            "6"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "37",
+          "question": "\\lim_{x \\to 1} \\frac{x^3 - 1}{x^2 - 3x + 2}",
+          "options": [
+            "-1",
+            "-3",
+            "1/2",
+            "1"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "39",
+          "question": "\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin x}",
+          "options": [
+            "1",
+            "+∞",
+            "0",
+            "-1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "40",
+          "question": "\\lim_{x \\to 0} \\frac{\\sin(5x)}{4x}",
+          "options": [
+            "5/4",
+            "4/5",
+            "5",
+            "4"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "41",
+          "question": "\\lim_{x \\to 0} \\frac{\\sin(6x)}{5x}",
+          "options": [
+            "6",
+            "5",
+            "1",
+            "6/5"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "42",
+          "question": "\\lim_{x \\to 0} \\frac{\\sin^2(x/2)}{x^2}",
+          "options": [
+            "1/2",
+            "1/4",
+            "1/8",
+            "2"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "43",
+          "question": "\\lim_{x \\to 0} \\frac{\\sin^3(x/2)}{x^3}",
+          "options": [
+            "1/2",
+            "1/4",
+            "1/8",
+            "8"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "44",
+          "question": "\\lim_{x \\to 0} \\frac{\\tan x}{5x}",
+          "options": [
+            "1/5",
+            "1",
+            "5",
+            "-5"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "45",
+          "question": "\\lim_{x \\to 0} \\frac{e^{4x} - 1}{\\tan x}",
+          "options": [
+            "4",
+            "3",
+            "-2",
+            "-1"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "46",
+          "question": "\\lim_{x \\to 0} \\frac{\\sin(5x)}{\\ln(1 + 3x)}",
+          "options": [
+            "5/4",
+            "5/3",
+            "5",
+            "5/2"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "47",
+          "question": "\\lim_{x \\to 0} \\frac{\\tan(3x) - x}{x + 2\\sin x}",
+          "options": [
+            "3",
+            "2/3",
+            "3/2",
+            "2"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "48",
+          "question": "\\lim_{x \\to 0} \\frac{2x + \\sin(3x)}{x - \\tan(6x)}",
+          "options": [
+            "3",
+            "-1",
+            "-5",
+            "5"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "1",
+          "question": "ليكن التابع \\( f(x) = \\sqrt{x-6} \\). ما هي مجموعة تعريف \\( f \\)؟",
+          "options": [
+            "R",
+            "]+∞, 6]",
+            "]+∞, -6]",
+            "]+∞,6["
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "2",
+          "question": "مجموعة تعريف التابع \\( f(x) = \\ln(x^2 + 9) \\)؟",
+          "options": [
+            "R",
+            "]+∞,9]",
+            "]+∞,-3]",
+            "]-3,-∞[U]+∞,+3]"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "3",
+          "question": "ليكن التابع \\( f(x) = 2\\sqrt{x-1-x} \\). ما هي مجموعة تعريف التابع \\( f \\)؟",
+          "options": [
+            "R",
+            "[1, +∞[",
+            "غير موجودة",
+            "لا شيء مما سبق"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "4",
+          "question": "ما هي قيمة النهاية \\( \\lim_{x\\to 0} \\frac{xe^x}{1-e^x} \\)؟",
+          "options": [
+            "1",
+            "-1",
+            "0",
+            "+∞"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "5",
+          "question": "ما هي قيمة النهاية \\( \\lim_{x\\to +\\infty} \\frac{e^x - 1}{e^x + 1} \\)؟",
+          "options": [
+            "1",
+            "-1",
+            "0",
+            "+∞"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "ما هي قيمة النهاية \\( \\lim_{x\\to +\\infty} \\frac{x \\cos e^x}{x^2 + 1} \\)؟",
+          "options": [
+            "1",
+            "-1",
+            "0",
+            "+∞"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "7",
+          "question": "ما هي قيمة النهاية \\( \\lim_{x\\to -3} \\frac{|x+3|}{x+3} \\)؟",
+          "options": [
+            "1",
+            "-1",
+            "0",
+            "غير موجودة"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "8",
+          "question": "ما هي قيمة النهاية \\( \\lim_{x\\to +\\infty} \\sqrt{x+1} - x \\)؟",
+          "options": [
+            "1",
+            "0",
+            "+∞",
+            "-∞"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "إذا كانت \\( f(x) = \\frac{\\sqrt{x^2 - 1}}{x^2 + 1} \\)، فما هي قيمة \\( \\lim_{x\\to \\infty} f(x) \\)؟",
+          "options": [
+            "+∞",
+            "-∞",
+            "1",
+            "0"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "10",
+          "question": "إذا كانت \\( f(x) = \\frac{\\sqrt{4x^2 - 1}}{x^2 + 2} \\)، فما هي قيمة \\( \\lim_{x\\to \\infty} f(x) \\)؟",
+          "options": [
+            "+∞",
+            "-∞",
+            "2",
+            "0"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "11",
+          "question": "إذا كانت \\( f(x) = \\frac{2x}{(x-1)^2} \\)، فما هي قيمة \\( \\lim_{x\\to 1} f(x) \\)؟",
+          "options": [
+            "+∞",
+            "-∞",
+            "1",
+            "0"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "12",
+          "question": "إذا كانت \\( f(x) = \\sqrt{x} - \\sqrt{x+1} \\)، فما هي قيمة \\( \\lim_{x\\to \\infty} f(x) \\)؟",
+          "options": [
+            "0",
+            "-∞",
+            "0",
+            "+∞"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "13",
+          "question": "إذا كانت \\( f(x) = \\sqrt{9x^2 + 1} - 3x \\)، فما هي قيمة \\( \\lim_{x\\to \\infty} f(x) \\)؟",
+          "options": [
+            "+∞",
+            "-1",
+            "1",
+            "0"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "14",
+          "question": "ما هي قيمة \\( \\lim_{x\\to -1} f(x) \\) إذا كانت \\( f(x) = \\frac{1}{x+\\ln x} \\)؟",
+          "options": [
+            "+∞",
+            "-∞",
+            "1",
+            "0"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "15",
+          "question": "ما هي قيمة \\( \\lim_{x\\to -1} f(x) \\) إذا كانت \\( f(x) = \\frac{x^3 + 1}{x^2 - 1} \\)؟",
+          "options": [
+            "+∞",
+            "-∞",
+            "-3/2",
+            "3/2"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "ما هي قيمة \\( \\lim_{x\\to 3} f(x) \\) إذا كانت \\( f(x) = \\frac{\\sqrt{2x+10} - 4}{x-3} \\)؟",
+          "options": [
+            "+∞",
+            "1/4",
+            "1",
+            "0"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "17",
+          "question": "ما هي قيمة \\( \\lim_{x\\to 0} f(x) \\) إذا كانت \\( f(x) = \\frac{1 - \\cos 2x}{x \\sin x} \\)؟",
+          "options": [
+            "-2",
+            "0",
+            "2",
+            "1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "18",
+          "question": "ما هي ناتج النهاية \\( \\lim_{x\\to 0} \\frac{\\sin x}{\\sqrt{x^3 + x^2}} \\)؟",
+          "options": [
+            "غير موجودة",
+            "-1",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "19",
+          "question": "ما هي ناتج النهاية \\( \\lim_{x\\to 1} \\frac{\\ln x}{x-1} \\)؟",
+          "options": [
+            "+∞",
+            "0",
+            "1",
+            "-∞"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "ما هي ناتج النهاية \\( \\lim_{x\\to +\\infty} f(x) \\) إذا كانت \\( f(x) = \\ln(x+1) - \\ln(x-1) + x \\)؟",
+          "options": [
+            "+∞",
+            "-1",
+            "+1",
+            "-∞"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "21",
+          "question": "ما هي ناتج النهاية \\( \\lim_{x\\to 0} \\frac{e^{5x} - 1}{\\tan x} \\)؟",
+          "options": [
+            "1/5",
+            "0",
+            "5",
+            "1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "22",
+          "question": "ما هي ناتج النهاية \\( \\lim_{x\\to 0} \\frac{2x^2 + \\sin x}{x} \\)؟",
+          "options": [
+            "+∞",
+            "-∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "23",
+          "question": "ما هي ناتج النهاية \\( \\lim_{x\\to \\pi} \\cos\\left(\\frac{x^2}{x+\\pi}\\right) \\)؟",
+          "options": [
+            "π",
+            "-1",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "24",
+          "question": "ما هي قيمة \\( \\lim_{x\\to -\\infty} f(x) \\) إذا كانت \\( f(x) = e^{\\frac{1+x}{1-x}} \\)؟",
+          "options": [
+            "e",
+            "-e",
+            "1/e",
+            "1"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "25",
+          "question": "ما هي قيمة \\( \\lim_{x\\to 1} (x-1)^2 \\cdot \\sin\\left(\\frac{1}{x-1}\\right) \\) باستخدام مبرهنة الاحاطة؟",
+          "options": [
+            "+∞",
+            "-∞",
+            "1",
+            "0"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "26",
+          "question": "ما هي قيمة \\( \\lim_{x\\to 0} x^2 \\cdot \\cos\\left(\\frac{1}{x}\\right) \\) باستخدام مبرهنة الاحاطة؟",
+          "options": [
+            "+∞",
+            "0",
+            "1",
+            "-∞"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "27",
+          "question": "ما هي قيمة \\( \\lim_{x\\to -\\infty} e^{x - \\cos x} \\) باستخدام مبرهنة الاحاطة؟",
+          "options": [
+            "-2",
+            "0",
+            "2",
+            "1"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "28",
+          "question": "ما هي قيمة \\( \\lim_{x\\to 0} f(x) \\) إذا كانت \\( f(x) = x \\cdot \\sin\\left(\\frac{1}{x}\\right) \\) باستخدام مبرهنة الاحاطة؟",
+          "options": [
+            "+∞",
+            "-∞",
+            "0",
+            "1"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "29",
+          "question": "ما هي قيمة \\( \\lim_{x\\to 0} \\frac{x^2}{2 + \\sin\\left(\\frac{1}{x}\\right)} \\) باستخدام مبرهنة الاحاطة؟",
+          "options": [
+            "+∞",
+            "-∞",
+            "1",
+            "0"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "30",
+          "question": "ما هي قيمة \\( \\lim_{x\\to 0} f(x) \\) إذا كانت \\( f(x) = \\sqrt[3]{x - \\ln x} \\)",
+          "options": [
+            "+∞",
+            "-∞",
+            "1",
+            "0"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "الاشتقاق",
+      "questions": [
+        {
+          "id": "3",
+          "question": "\\sqrt{4 - x^2}",
+          "options": [
+            "\\frac{2x}{\\sqrt{4 - x^2}}",
+            "-\\frac{2x}{\\sqrt{4 - x^2}}",
+            "\\frac{x}{\\sqrt{4 - x^2}}",
+            "-\\frac{x}{\\sqrt{4 - x^2}}"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "f(x) = \\frac{1}{e^{3x}}",
+          "options": [
+            "\\frac{1}{e^{3x}}",
+            "-\\frac{3}{e^{3x}}",
+            "\\frac{3}{e^{3x}}",
+            "-\\frac{1}{e^{3x}}"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "6",
+          "question": "f(x) = ⁵√x",
+          "options": [
+            "\\frac{1}{\\sqrt[5]{x}}",
+            "\\frac{1}{5\\sqrt[5]{x^4}}",
+            "\\frac{1}{5x^{\\frac{4}{5}}}",
+            "\\frac{1}{5\\sqrt[5]{x^4}}"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "8",
+          "question": "f(x) = \\cos^3(2x - \\frac{\\pi}{3})",
+          "options": [
+            "6\\cos^2(2x - \\frac{\\pi}{3}) \\cdot \\sin(2x - \\frac{\\pi}{3})",
+            "-6\\cos^2(2x - \\frac{\\pi}{3}) \\cdot \\sin(2x - \\frac{\\pi}{3})",
+            "6\\sin^2(2x - \\frac{\\pi}{3}) \\cdot \\cos(2x - \\frac{\\pi}{3})",
+            "-6\\sin^2(2x - \\frac{\\pi}{3}) \\cdot \\cos(2x - \\frac{\\pi}{3})"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "10",
+          "question": "f(x) = ln(cos²x)",
+          "options": [
+            "-\\frac{2\\sin 2x}{\\cos 2x}",
+            "\\frac{2\\sin 2x}{\\cos 2x}",
+            "-\\frac{2\\sin x}{\\cos x}",
+            "\\frac{2\\sin x}{\\cos x}"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "13",
+          "question": "إحدى المتراجحات التالية صحيحة:",
+          "options": [
+            "ln(x+1) ≥ x",
+            "x ≥ eˣ + 1",
+            "x + 2 ≤ √x",
+            "1 + x ≤ eˣ"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "sin²x · cosx",
+          "options": [
+            "2sinx · cos²x + sin³x",
+            "2sinx · cos²x - sin³x",
+            "2sinx · cosx + sin²x",
+            "2cos²x + sin²x"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "6",
+          "question": "f(x) = x³ + x² - 9",
+          "options": [
+            "x + 2x",
+            "3x² + 2x",
+            "3x - 9",
+            "3x + x³"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "f(x) = x. e^x",
+          "options": [
+            "f'(x) = (1)eˣ",
+            "f'(x) = (x-1)e¹",
+            "f'(x) = 1 - eˣ",
+            "غير موجودة"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "8",
+          "question": "f(x) = 3x² - sinx → f'(0) = ?",
+          "options": [
+            "-1",
+            "1",
+            "3",
+            "2"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "9",
+          "question": "إذا كانت الدالة العددية f(x) اشتقاقية على ℝ وكانت f(x) = ln(sin2x) فإن مشتقها:",
+          "options": [
+            "f'(x) = 2cot2x",
+            "f'(x) = 2sin2x",
+            "f'(x) = 2tan2x",
+            "f'(x) = tan(x)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "13",
+          "question": " f(x) = 2Cos²x",
+          "options": [
+            "4Sin x",
+            "Sin x",
+            "-Sin x",
+            "-Cos x"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "معادلة المماس للدالة f(x) = x² عند النقطة (1,1) هي:",
+          "options": [
+            "y = x - 3",
+            "y = x + 1",
+            "y = 2x + 1",
+            "y = -2x + 1"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "f(x) = e^{x^{4} - 3x}",
+          "options": [
+            "(4x - 3) e^x",
+            "(4x - 3) eˣ",
+            "e^{4x^3 - 3}",
+            "(4x^3 - 3)e^{x^4 - 3x}"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "18",
+          "question": "f(x) = \\frac{1}{\\sin x}",
+          "options": [
+            "غير موجودة",
+            "-\\frac{\\cos x}{\\sin x}",
+            "-\\frac{\\sin x}{\\cos x}",
+            "-\\frac{\\tan x}{\\cos x}"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "f(x) = ln²(xeˣ) → f'(1) = ?",
+          "options": [
+            "-2e",
+            "3e",
+            "4",
+            "e²"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "ميل مماس دالة موازي للمستقيم y = -5x يساوي:",
+          "options": [
+            "2",
+            "-5",
+            "0",
+            "10"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "23",
+          "question": "باستخدام علاقة التقريب الخطي نجد أن القيمة التقريبية للعدد 3.9√ هي:",
+          "options": [
+            "1.94",
+            "2.025",
+            "1.975",
+            "1.9"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "التكامل",
+      "questions": []
+    },
+    {
+      "id": "4",
+      "name": "المقاربات واستنتاج الخطوط البيانية",
+      "questions": []
+    }
+  ]
+}
