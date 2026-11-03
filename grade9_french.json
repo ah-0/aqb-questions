@@ -20,34 +20,34 @@
           "id": "1_2",
           "question": "Quelle est la forme correcte du verbe « offrir » avec « nous » ?",
           "options": [
-            "Nous offrons",
             "Nous offrent",
+            "Nous offrons",
             "Nous offre",
             "Nous offrez"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "1_3",
           "question": "Quelle forme complète correctement la phrase : « Vous … un cadeau » ?",
           "options": [
-            "offrez",
             "offrent",
             "offre",
+            "offrez",
             "offrons"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "1_4",
           "question": "Quelle terminaison prend « offrir » avec « ils » ?",
           "options": [
-            "-ent",
             "-ez",
             "-ons",
-            "-t"
+            "-t",
+            "-ent"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "1_5",
@@ -64,34 +64,34 @@
           "id": "1_6",
           "question": "Quelle est la forme correcte du verbe « venir » avec « je » ?",
           "options": [
-            "Je viens",
             "Je vien",
+            "Je viens",
             "Je venons",
             "Je vient"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "1_7",
           "question": "Quelle forme complète correctement la phrase : « Mes amies … avec moi » ?",
           "options": [
-            "viennent",
             "venez",
             "venons",
+            "viennent",
             "vient"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "1_8",
           "question": "Quelle est la forme correcte du verbe « venir » avec « nous » ?",
           "options": [
-            "Nous venons",
             "Nous viennent",
             "Nous viens",
-            "Nous venez"
+            "Nous venez",
+            "Nous venons"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "1_9",
@@ -108,34 +108,34 @@
           "id": "1_10",
           "question": "Quelle forme complète correctement la phrase : « Vous … cette fille » ?",
           "options": [
-            "connaissez",
             "connaissons",
+            "connaissez",
             "connaît",
             "connaissent"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "1_11",
           "question": "Quelle est la forme correcte de « connaître » avec « nous » ?",
           "options": [
-            "Nous connaissons",
             "Nous connaissent",
             "Nous connais",
+            "Nous connaissons",
             "Nous connaissez"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "1_12",
           "question": "Selon la règle, combien de bases possède « connaître » au présent ?",
           "options": [
-            "Deux",
             "Une",
             "Trois",
-            "Quatre"
+            "Quatre",
+            "Deux"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "1_13",
@@ -152,34 +152,34 @@
           "id": "1_14",
           "question": "Quelle est la forme correcte de « pouvoir » avec « je » ?",
           "options": [
-            "Je peux",
             "Je peut",
+            "Je peux",
             "Je pouvons",
             "Je pouvez"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "1_15",
           "question": "Quelle forme complète correctement la phrase : « Mes amis … m’accompagner » ?",
           "options": [
-            "peuvent",
             "pouvez",
             "pouvons",
+            "peuvent",
             "peut"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "1_16",
           "question": "Quelles terminaisons prend « pouvoir » au présent ?",
           "options": [
-            "x, x, t, ons, ez, ent",
             "s, s, t, ons, ez, ent",
             "e, es, e, ons, ez, ent",
-            "x, x, t, ons, ent, ez"
+            "x, x, t, ons, ent, ez",
+            "x, x, t, ons, ez, ent"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "1_17",
@@ -196,34 +196,34 @@
           "id": "1_18",
           "question": "Quelle question est correctement formée avec « pouvoir » ?",
           "options": [
-            "Pouvez-vous assister au festival ?",
             "Vous pouvez assister le festival ?",
+            "Pouvez-vous assister au festival ?",
             "Pouvez vous assister au festival ?",
             "Peuvez-vous assister au festival ?"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "1_19",
           "question": "Quelle forme complète correctement la phrase : « Tu … avec ta sœur » ?",
           "options": [
-            "viens",
             "vient",
             "venons",
+            "viens",
             "viennent"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "1_20",
           "question": "Quelle série contient uniquement des formes correctes du présent de « venir » ?",
           "options": [
-            "je viens, nous venons, ils viennent",
             "je vient, nous venons, ils viennent",
             "je viens, nous viennent, ils viennent",
-            "je viens, nous venons, ils venons"
+            "je viens, nous venons, ils venons",
+            "je viens, nous venons, ils viennent"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         }
       ],
       "error": null,
@@ -247,12 +247,12 @@
           "id": "2_2",
           "question": "Complète : Tu (finir) tes devoirs demain.",
           "options": [
-            "finiras",
             "finira",
+            "finiras",
             "finirai",
             "finiront"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "2_3",
@@ -270,44 +270,44 @@
           "question": "Quelle est la forme correcte de « nous vendre » au futur simple ?",
           "options": [
             "nous venderons",
-            "nous vendrons",
             "nous venderez",
-            "nous vendront"
+            "nous vendront",
+            "nous vendrons"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "2_5",
           "question": "Complète : Vous (attendre) le train dans une heure.",
           "options": [
+            "attendrez",
             "attendrai",
             "attendras",
-            "attendront",
-            "attendrez"
+            "attendront"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 0
         },
         {
           "id": "2_6",
           "question": "Quel est l’infinitif de « prendrai » ?",
           "options": [
-            "prendre",
             "prendrez",
+            "prendre",
             "prendrais",
             "pris"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "2_7",
           "question": "Complète : Demain, je (être) à la maison.",
           "options": [
-            "serai",
             "seras",
             "sera",
+            "serai",
             "seront"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "2_8",
@@ -315,21 +315,21 @@
           "options": [
             "aurai",
             "auras",
-            "aurez",
-            "auront"
+            "auront",
+            "aurez"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 3
         },
         {
           "id": "2_9",
           "question": "Complète : Ils (aller) au musée demain.",
           "options": [
+            "iront",
             "irai",
             "iras",
-            "ira",
-            "iront"
+            "ira"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 0
         },
         {
           "id": "2_10",
@@ -348,10 +348,10 @@
           "options": [
             "viendrai",
             "viendras",
-            "viendra",
-            "viendrons"
+            "viendrons",
+            "viendra"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 2
         },
         {
           "id": "2_12",
@@ -359,10 +359,10 @@
           "options": [
             "pourrai",
             "pourras",
-            "pourra",
-            "pourront"
+            "pourront",
+            "pourra"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 3
         },
         {
           "id": "2_13",
@@ -380,11 +380,11 @@
           "question": "Complète : Vous (vouloir) nous accompagner ?",
           "options": [
             "voudrai",
+            "voudrez",
             "voudras",
-            "voudra",
-            "voudrez"
+            "voudra"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 1
         },
         {
           "id": "2_15",
@@ -392,65 +392,65 @@
           "options": [
             "verrai",
             "verras",
-            "verra",
-            "verront"
+            "verront",
+            "verra"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 2
         },
         {
           "id": "2_16",
           "question": "Complète : Tu (envoyer) une lettre demain.",
           "options": [
             "enverrai",
-            "enverras",
             "enverra",
-            "enverront"
+            "enverront",
+            "enverras"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "2_17",
           "question": "Quelle phrase est correctement conjuguée au futur simple ?",
           "options": [
+            "La fête commencera samedi.",
             "Nous commencera la fête samedi.",
             "La fête commencerai samedi.",
-            "La fête commencera samedi.",
             "La fête commenceront samedi."
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "2_18",
           "question": "Quelle phrase est correctement transformée au futur simple : « Je finis mon travail » ?",
           "options": [
-            "Je finirai mon travail.",
             "Je finiras mon travail.",
+            "Je finirai mon travail.",
             "Je finira mon travail.",
             "Je finiront mon travail."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "2_19",
           "question": "Mets à la forme négative au futur simple : « Il prendra le train. »",
           "options": [
-            "Il ne prendra pas le train.",
             "Il ne prendrait pas le train.",
             "Il n’a pas pris le train.",
+            "Il ne prendra pas le train.",
             "Il ne prend pas le train."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "2_20",
           "question": "Quelle question est correctement formulée au futur simple ?",
           "options": [
-            "Est-ce que vous viendrez demain ?",
             "Est-ce que vous viendras demain ?",
             "Est-ce que vous viendra demain ?",
-            "Est-ce que vous viendront demain ?"
+            "Est-ce que vous viendront demain ?",
+            "Est-ce que vous viendrez demain ?"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         }
       ],
       "error": null,
@@ -474,12 +474,12 @@
           "id": "3_2",
           "question": "Quel pronom réfléchi complète « Tu … habilles rapidement » ?",
           "options": [
-            "te",
             "se",
+            "te",
             "nous",
             "vous"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "3_3",
@@ -496,12 +496,12 @@
           "id": "3_4",
           "question": "Complète au présent : « Je … les dents chaque matin. »",
           "options": [
-            "me brosse",
             "te brosses",
             "se brosse",
-            "nous brossons"
+            "nous brossons",
+            "me brosse"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "3_5",
@@ -519,33 +519,33 @@
           "question": "Complète au présent : « Ils … à jouer au football. »",
           "options": [
             "s’entraîne",
-            "t’entraînes",
             "s’entraînent",
+            "t’entraînes",
             "nous entraînons"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 1
         },
         {
           "id": "3_7",
           "question": "Complète au présent : « Tu … rapidement. »",
           "options": [
             "m’habille",
-            "t’habilles",
             "s’habille",
+            "t’habilles",
             "nous habillons"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "3_8",
           "question": "Complète au présent : « Vous … à 7 heures du matin. »",
           "options": [
-            "vous levez",
             "se lève",
             "te lèves",
-            "nous levons"
+            "nous levons",
+            "vous levez"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "3_9",
@@ -562,34 +562,34 @@
           "id": "3_10",
           "question": "Complète au passé composé : « Hier, nous … pour prendre le train. »",
           "options": [
-            "nous sommes dépêchés",
             "nous avons dépêché",
+            "nous sommes dépêchés",
             "nous sommes dépêché",
             "nous avons dépêchés"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "3_11",
           "question": "Complète au passé composé : « Elle … le matin. »",
           "options": [
-            "s’est douchée",
             "a se douchée",
             "s’a douché",
+            "s’est douchée",
             "est se douchée"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "3_12",
           "question": "Complète au présent : « Tu … des personnes âgées. »",
           "options": [
-            "t’occupes",
             "s’occupe",
             "nous occupons",
-            "vous occupez"
+            "vous occupez",
+            "t’occupes"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "3_13",
@@ -606,34 +606,34 @@
           "id": "3_14",
           "question": "Complète au passé composé : « Nous … tard. »",
           "options": [
-            "nous sommes couchés",
             "nous avons couché",
+            "nous sommes couchés",
             "nous sommes couché",
             "nous avons couchés"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "3_15",
           "question": "Conjugue au présent : « Tu … avant de sortir. » (se coiffer)",
           "options": [
-            "te coiffes",
             "se coiffe",
             "me coiffe",
+            "te coiffes",
             "vous coiffez"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "3_16",
           "question": "Conjugue au présent : « Mes amies … dans la forêt. » (se promener)",
           "options": [
-            "se promènent",
             "se promène",
             "nous promenons",
-            "vous promenez"
+            "vous promenez",
+            "se promènent"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "3_17",
@@ -650,34 +650,34 @@
           "id": "3_18",
           "question": "Quelle est la forme à l’infinitif de « je me brosse » ?",
           "options": [
-            "se brosser",
             "se brosse",
+            "se brosser",
             "me brosser",
             "brosserai"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "3_19",
           "question": "Quelle phrase est correctement formée à la forme négative ?",
           "options": [
-            "Je ne me lave pas chaque jour.",
             "Je me ne lave pas chaque jour.",
             "Je ne lave me pas chaque jour.",
+            "Je ne me lave pas chaque jour.",
             "Je ne me pas lave chaque jour."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "3_20",
           "question": "Quelle phrase est correctement formée au passé composé ?",
           "options": [
-            "Marie et Paul se sont intéressés à cette activité.",
             "Marie et Paul se sont intéressé à cette activité.",
             "Marie et Paul ont se intéressés à cette activité.",
-            "Marie et Paul sont se intéressés à cette activité."
+            "Marie et Paul sont se intéressés à cette activité.",
+            "Marie et Paul se sont intéressés à cette activité."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         }
       ],
       "error": null,
@@ -712,34 +712,34 @@
           "id": "4_3",
           "question": "Choisis la forme correcte : « Dans deux heures, je … à la campagne. »",
           "options": [
-            "vais partir",
             "va partir",
             "allons partir",
+            "vais partir",
             "vas partir"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "4_4",
           "question": "Choisis la forme correcte : « L’émission … dans cinq minutes. »",
           "options": [
             "vont commencer",
-            "va commencer",
             "vas commencer",
-            "allons commencer"
+            "allons commencer",
+            "va commencer"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "4_5",
           "question": "Quelle phrase est au futur proche ?",
           "options": [
+            "Nous allons partir demain.",
             "Nous partirons demain.",
             "Nous partons maintenant.",
-            "Nous allons partir demain.",
             "Nous sommes partis hier."
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "4_6",
@@ -767,12 +767,12 @@
           "id": "4_8",
           "question": "Complète : « Vous … bientôt vos amis. »",
           "options": [
-            "allez voir",
             "allons voir",
             "vas voir",
-            "vont voir"
+            "vont voir",
+            "allez voir"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "4_9",
@@ -800,23 +800,23 @@
           "id": "4_11",
           "question": "Mets la phrase à la forme négative : « Je vais partir. »",
           "options": [
-            "Je ne vais pas partir.",
             "Je vais ne pas partir.",
             "Je ne pas vais partir.",
+            "Je ne vais pas partir.",
             "Je n’aller pas partir."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "4_12",
           "question": "Mets la phrase à la forme négative : « Ils vont jouer. »",
           "options": [
             "Ils vont ne pas jouer.",
-            "Ils ne vont pas jouer.",
             "Ils ne pas vont jouer.",
-            "Ils ne vont jouer pas."
+            "Ils ne vont jouer pas.",
+            "Ils ne vont pas jouer."
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "4_13",
@@ -833,34 +833,34 @@
           "id": "4_14",
           "question": "Transforme en futur proche : « Elle prépare le repas. »",
           "options": [
-            "Elle va préparer le repas.",
             "Elle vas préparer le repas.",
+            "Elle va préparer le repas.",
             "Elle va prépare le repas.",
             "Elle vont préparer le repas."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "4_15",
           "question": "Transforme en futur proche : « Vous choisissez un livre. »",
           "options": [
-            "Vous allez choisir un livre.",
             "Vous allez choisissez un livre.",
             "Vous allons choisir un livre.",
+            "Vous allez choisir un livre.",
             "Vous allez choisi un livre."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "4_16",
           "question": "Complète : « Je … bientôt la vérité. »",
           "options": [
-            "vais savoir",
             "va savoir",
             "vas savoir",
-            "vont savoir"
+            "vont savoir",
+            "vais savoir"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "4_17",
@@ -878,33 +878,33 @@
           "question": "Quelle phrase exprime une action future proche ?",
           "options": [
             "Le train vient de partir.",
-            "Le train partait souvent.",
             "Le train va partir dans un instant.",
+            "Le train partait souvent.",
             "Le train est parti hier."
           ],
-          "correctAnswer": 2
+          "correctAnswer": 1
         },
         {
           "id": "4_19",
           "question": "Choisis la forme correcte : « Ils … être en retard. »",
           "options": [
             "va",
-            "vont",
             "allez",
+            "vont",
             "vas"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "4_20",
           "question": "Complète : « Demain, tu … chez le médecin. »",
           "options": [
-            "vas aller",
             "va aller",
             "allons aller",
-            "vont aller"
+            "vont aller",
+            "vas aller"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         }
       ],
       "error": null,
@@ -928,23 +928,23 @@
           "id": "5_2",
           "question": "Complète : Je ___ de finir mon exercice.",
           "options": [
-            "viens",
             "vient",
+            "viens",
             "venons",
             "viennent"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "5_3",
           "question": "Complète : Tu ___ de sortir.",
           "options": [
             "vient",
-            "viens",
             "venez",
+            "viens",
             "venons"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "5_4",
@@ -952,87 +952,87 @@
           "options": [
             "viens",
             "venons",
-            "vient",
-            "viennent"
+            "viennent",
+            "vient"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 3
         },
         {
           "id": "5_5",
           "question": "Complète : Nous ___ de rentrer à la maison.",
           "options": [
+            "venons",
             "venez",
             "viennent",
-            "vient",
-            "venons"
+            "vient"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 0
         },
         {
           "id": "5_6",
           "question": "Complète : Vous ___ de prendre le bus.",
           "options": [
-            "venez",
             "venons",
+            "venez",
             "viens",
             "vient"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "5_7",
           "question": "Complète : Les élèves ___ de commencer le cours.",
           "options": [
             "vient",
-            "viennent",
             "venez",
+            "viennent",
             "venons"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "5_8",
           "question": "Choisis la forme correcte : Il y a deux minutes, nous ___ la salle.",
           "options": [
-            "venons de quitter",
             "venez de quitter",
             "vient de quitter",
-            "viennent de quitter"
+            "viennent de quitter",
+            "venons de quitter"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "5_9",
           "question": "Choisis la forme correcte : Mes sœurs ___ de préparer le dîner.",
           "options": [
+            "viennent de préparer",
             "vient de préparer",
             "venons de préparer",
-            "viennent de préparer",
             "venez de préparer"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "5_10",
           "question": "Complète au passé récent : La cloche (sonner) il y a cinq minutes.",
           "options": [
-            "vient de sonner",
             "vient sonner",
+            "vient de sonner",
             "vient de sonné",
             "venait de sonner"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "5_11",
           "question": "Complète au passé récent : Sami et Pierre (sortir) il y a deux minutes.",
           "options": [
             "vient de sortir",
-            "viennent de sortir",
             "venez de sortir",
+            "viennent de sortir",
             "viennent sortir"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "5_12",
@@ -1040,10 +1040,10 @@
           "options": [
             "venons partir",
             "venez de partir",
-            "venons de partir",
-            "venons de partis"
+            "venons de partis",
+            "venons de partir"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 3
         },
         {
           "id": "5_13",
@@ -1060,34 +1060,34 @@
           "id": "5_14",
           "question": "Mets à la forme négative : « Je viens de manger. »",
           "options": [
-            "Je ne viens pas de manger.",
             "Je viens ne pas de manger.",
+            "Je ne viens pas de manger.",
             "Je ne viens de pas manger.",
             "Je ne pas viens de manger."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "5_15",
           "question": "Complète : Il ne ___ pas de dormir.",
           "options": [
-            "vient",
             "viens",
             "venons",
+            "vient",
             "viennent"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "5_16",
           "question": "Choisis la question correctement formée au passé récent.",
           "options": [
-            "Est-ce que vous venez de terminer ?",
             "Est-ce que vous de venez terminer ?",
             "Est-ce que vous venez terminer de ?",
-            "Est-ce que vous venez de terminé ?"
+            "Est-ce que vous venez de terminé ?",
+            "Est-ce que vous venez de terminer ?"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "5_17",
@@ -1105,33 +1105,33 @@
           "question": "Quel est l’infinitif après « de » dans la phrase « Elle vient de répondre » ?",
           "options": [
             "vient",
-            "de",
             "répondre",
+            "de",
             "répondu"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 1
         },
         {
           "id": "5_19",
           "question": "Complète : Vous venez ___ fermer la porte.",
           "options": [
             "à",
-            "de",
             "du",
+            "de",
             "des"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "5_20",
           "question": "Choisis la forme correcte pour parler d’une action qui vient juste de se passer.",
           "options": [
-            "Ils viennent de choisir.",
             "Ils viennent choisir.",
             "Ils viennent de choisi.",
-            "Ils sont de choisir."
+            "Ils sont de choisir.",
+            "Ils viennent de choisir."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         }
       ],
       "error": null,
@@ -1144,23 +1144,23 @@
           "id": "6_1",
           "question": "Dans « Je pense à mes vacances », quel est le C.O.I ?",
           "options": [
+            "à mes vacances",
             "Je",
             "pense",
-            "à mes vacances",
             "mes vacances"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "6_2",
           "question": "Dans « Sami s’occupe de son petit frère », quel groupe est le C.O.I ?",
           "options": [
             "Sami",
-            "s’occupe",
             "de son petit frère",
+            "s’occupe",
             "son petit frère"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 1
         },
         {
           "id": "6_3",
@@ -1178,11 +1178,11 @@
           "question": "Quelle préposition introduit le C.O.I dans « René parle de ses problèmes » ?",
           "options": [
             "à",
-            "de",
             "pour",
-            "avec"
+            "avec",
+            "de"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "6_5",
@@ -1221,67 +1221,67 @@
           "id": "6_8",
           "question": "Quelle question permet de trouver le C.O.I dans « Elle parle de son voyage » ?",
           "options": [
-            "De quoi parle-t-elle ?",
             "Qui parle ?",
             "Que fait-elle ?",
-            "Quand parle-t-elle ?"
+            "Quand parle-t-elle ?",
+            "De quoi parle-t-elle ?"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "6_9",
           "question": "Dans « Le garçon répond à sa mère », quel est le C.O.I ?",
           "options": [
+            "à sa mère",
             "Le garçon",
             "répond",
-            "à sa mère",
             "sa mère"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "6_10",
           "question": "Dans « Tu t’intéresses à la grammaire », quel groupe est le C.O.I ?",
           "options": [
             "Tu",
-            "t’intéresses",
             "à la grammaire",
+            "t’intéresses",
             "la grammaire"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 1
         },
         {
           "id": "6_11",
           "question": "Quelle phrase contient un C.O.I introduit par « de » ?",
           "options": [
             "Il pense à son avenir.",
-            "Elle se souvient de son enfance.",
             "Nous regardons le film.",
+            "Elle se souvient de son enfance.",
             "Tu prends ton petit déjeuner."
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "6_12",
           "question": "Quelle phrase contient un C.O.I introduit par « à » ?",
           "options": [
             "Il parle de son travail.",
-            "Elle téléphone à sa cousine.",
             "Je lis un livre.",
-            "Nous faisons notre toilette."
+            "Nous faisons notre toilette.",
+            "Elle téléphone à sa cousine."
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "6_13",
           "question": "Dans « La mère prépare un gâteau à ses enfants », quel groupe est le C.O.I ?",
           "options": [
+            "à ses enfants",
             "La mère",
             "un gâteau",
-            "prépare",
-            "à ses enfants"
+            "prépare"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 0
         },
         {
           "id": "6_14",
@@ -1310,55 +1310,55 @@
           "question": "Quelle phrase pose une question sur un C.O.I ?",
           "options": [
             "Que prends-tu ?",
-            "À qui téléphones-tu ?",
             "Qui prépare le repas ?",
-            "Quand rentres-tu ?"
+            "Quand rentres-tu ?",
+            "À qui téléphones-tu ?"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "6_17",
           "question": "Dans « Il ne parle pas de ses problèmes », quel est le C.O.I ?",
           "options": [
+            "de ses problèmes",
             "Il",
             "ne parle pas",
-            "de ses problèmes",
             "ses problèmes"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "6_18",
           "question": "Quel groupe est le C.O.I dans « À quoi penses-tu ? » ?",
           "options": [
-            "À quoi",
             "penses",
+            "À quoi",
             "tu",
             "quoi penses-tu"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "6_19",
           "question": "Quelle phrase contient un verbe suivi d’un C.O.I introduit par « de » ?",
           "options": [
-            "Il s’occupe de son frère.",
             "Elle voit son amie.",
             "Je prends le bus.",
+            "Il s’occupe de son frère.",
             "Nous faisons un gâteau."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "6_20",
           "question": "Le C.O.I complète le verbe de manière…",
           "options": [
             "directe",
-            "indirecte",
             "adjective",
-            "nominale"
+            "nominale",
+            "indirecte"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         }
       ],
       "error": null,
@@ -1382,34 +1382,34 @@
           "id": "7_2",
           "question": "Quel pronom sert à trouver le radical de l’imparfait ?",
           "options": [
-            "Nous",
             "Vous",
+            "Nous",
             "Tu",
             "Ils"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "7_3",
           "question": "Que faut-il faire avec la forme de « nous » au présent pour obtenir le radical de l’imparfait ?",
           "options": [
-            "Supprimer « ons »",
             "Supprimer « ez »",
             "Ajouter « ons »",
+            "Supprimer « ons »",
             "Supprimer « ent »"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "7_4",
           "question": "Quelle est la terminaison de l’imparfait pour « je » ?",
           "options": [
-            "-ais",
             "-ait",
             "-ions",
-            "-aient"
+            "-aient",
+            "-ais"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "7_5",
@@ -1426,34 +1426,34 @@
           "id": "7_6",
           "question": "Quelle série donne les six terminaisons de l’imparfait ?",
           "options": [
-            "-ais, -ais, -ait, -ions, -iez, -aient",
             "-ai, -as, -a, -ons, -ez, -ent",
+            "-ais, -ais, -ait, -ions, -iez, -aient",
             "-ais, -ait, -ions, -iez, -aient, -aient",
             "-e, -es, -e, -ons, -ez, -ent"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "7_7",
           "question": "Quelle est la forme correcte de « faire » à l’imparfait avec « il » ?",
           "options": [
-            "Il faisait",
             "Il faisais",
             "Il faisaient",
+            "Il faisait",
             "Il faisions"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "7_8",
           "question": "Quelle est la forme correcte de « avoir » à l’imparfait avec « nous » ?",
           "options": [
-            "Nous avions",
             "Nous aviez",
             "Nous avaient",
-            "Nous avons"
+            "Nous avons",
+            "Nous avions"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "7_9",
@@ -1470,34 +1470,34 @@
           "id": "7_10",
           "question": "Quelle est la forme correcte de « venir » à l’imparfait avec « ils » ?",
           "options": [
-            "Ils venaient",
             "Ils venais",
+            "Ils venaient",
             "Ils venait",
             "Ils venions"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "7_11",
           "question": "Quelle est la forme correcte de « porter » à l’imparfait avec « nous » ?",
           "options": [
-            "Nous portions",
             "Nous portiez",
             "Nous portaient",
+            "Nous portions",
             "Nous portons"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "7_12",
           "question": "Quelle est la forme correcte de « mettre » à l’imparfait avec « je » ?",
           "options": [
-            "Je mettais",
             "Je mettait",
             "Je mettions",
-            "Je mettaient"
+            "Je mettaient",
+            "Je mettais"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "7_13",
@@ -1514,34 +1514,34 @@
           "id": "7_14",
           "question": "Quelle est la forme correcte de « être » à l’imparfait avec « vous » ?",
           "options": [
-            "Vous étiez",
             "Vous étais",
+            "Vous étiez",
             "Vous étaient",
             "Vous sommes"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "7_15",
           "question": "Quelle est la forme correcte de « finir » à l’imparfait avec « elles » ?",
           "options": [
-            "Elles finissaient",
             "Elles finissais",
             "Elles finissait",
+            "Elles finissaient",
             "Elles finissions"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "7_16",
           "question": "Quelle est la forme correcte de « manger » à l’imparfait avec « nous » ?",
           "options": [
-            "Nous mangions",
             "Nous mangeions",
             "Nous mangiez",
-            "Nous mangeaient"
+            "Nous mangeaient",
+            "Nous mangions"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "7_17",
@@ -1558,34 +1558,34 @@
           "id": "7_18",
           "question": "Quelle forme complète correctement la phrase : « Le ciel … bleu » ?",
           "options": [
-            "était",
             "étais",
+            "était",
             "étions",
             "étaient"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "7_19",
           "question": "Quelle phrase emploie l’imparfait pour décrire une situation passée ?",
           "options": [
-            "Il faisait beau.",
             "Il fera beau.",
             "Il fait beau.",
+            "Il faisait beau.",
             "Il a fait beau."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "7_20",
           "question": "Quelle est la forme interrogative correcte à l’imparfait ?",
           "options": [
-            "Tu étais malade ?",
             "Tu était malade ?",
             "Tu étiez malade ?",
-            "Tu es malade ?"
+            "Tu es malade ?",
+            "Tu étais malade ?"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         }
       ],
       "error": null,
@@ -1632,66 +1632,66 @@
           "question": "Remplacez « à Samia » dans : « Je parle à Samia. »",
           "options": [
             "Je la parle.",
-            "Je lui parle.",
             "J’en parle.",
-            "J’y parle."
+            "J’y parle.",
+            "Je lui parle."
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "8_5",
           "question": "Quel pronom remplace « de son plat préféré » dans : « Elle parle de son plat préféré » ?",
           "options": [
+            "en",
             "y",
             "lui",
-            "en",
             "le"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "8_6",
           "question": "Remplacez « à ton projet » dans : « Tu penses à ton projet. »",
           "options": [
-            "Tu y penses.",
             "Tu en penses.",
+            "Tu y penses.",
             "Tu le penses.",
             "Tu lui penses."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "8_7",
           "question": "Complétez : « Il mange du pain. » → « Il … mange. »",
           "options": [
             "le",
-            "en",
             "y",
+            "en",
             "lui"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "8_8",
           "question": "Quel pronom remplace « Karine » dans : « Tu vois Karine ? Oui, je … vois. »",
           "options": [
             "lui",
-            "la",
             "y",
-            "en"
+            "en",
+            "la"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "8_9",
           "question": "Complétez : « Elle ne mange pas de gâteau. » → « Elle n’… mange pas. »",
           "options": [
+            "en",
             "le",
             "lui",
-            "en",
             "y"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "8_10",
@@ -1709,33 +1709,33 @@
           "question": "Complétez : « Je fais du vélo. » → « J’… fais. »",
           "options": [
             "y",
-            "en",
             "le",
+            "en",
             "lui"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "8_12",
           "question": "Remplacez « les fleurs » et « à sa maman » : « Il a offert les fleurs à sa maman. »",
           "options": [
             "Il lui les a offertes.",
-            "Il les lui a offertes.",
             "Il en lui a offert.",
-            "Il y les a offertes."
+            "Il y les a offertes.",
+            "Il les lui a offertes."
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "8_13",
           "question": "Complétez : « Ils vous connaissent ? Non, ils ne … connaissent pas. »",
           "options": [
+            "vous",
             "leur",
             "les",
-            "vous",
             "y"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "8_14",
@@ -1752,12 +1752,12 @@
           "id": "8_15",
           "question": "Remplacez « de ses problèmes » et « à son médecin » : « Le patient parle de ses problèmes à son médecin. »",
           "options": [
-            "Il lui en parle.",
             "Il en lui parle.",
             "Il les lui parle.",
+            "Il lui en parle.",
             "Il y en parle."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "8_16",
@@ -1765,54 +1765,54 @@
           "options": [
             "Après le nom sujet",
             "Après le verbe",
-            "Avant le verbe",
-            "À la fin de la phrase"
+            "À la fin de la phrase",
+            "Avant le verbe"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 3
         },
         {
           "id": "8_17",
           "question": "Choisissez la forme correcte à l’impératif affirmatif : « Ouvre la porte ! »",
           "options": [
+            "Ouvre-la !",
             "Ouvre la !",
             "La ouvre !",
-            "Ouvre-la !",
             "Ouvre lui !"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "8_18",
           "question": "Choisissez la forme correcte à l’impératif affirmatif : « Parle à Karim ! »",
           "options": [
-            "Parle-lui !",
             "Lui parle !",
+            "Parle-lui !",
             "Parle-le !",
             "Parle-y !"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "8_19",
           "question": "Dans quel ordre place-t-on les pronoms dans « Il … a données » pour remplacer « les réponses à ses élèves » ?",
           "options": [
             "Il leur les a données.",
-            "Il les leur a données.",
             "Il en les a données.",
+            "Il les leur a données.",
             "Il y leur a données."
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "8_20",
           "question": "Quelle phrase remplace correctement « Je m’occupe de mon travail » ?",
           "options": [
             "Je m’y occupe.",
-            "Je m’en occupe.",
             "Je le m’occupe.",
-            "Je lui m’occupe."
+            "Je lui m’occupe.",
+            "Je m’en occupe."
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         }
       ],
       "error": null,
@@ -1836,67 +1836,67 @@
           "id": "9_2",
           "question": "Complète : Les écologistes ___ de la situation de l’eau.",
           "options": [
-            "ont parlé",
             "ont parlés",
+            "ont parlé",
             "sont parlé",
             "a parlé"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "9_3",
           "question": "Complète : Les responsables ___ à Paris.",
           "options": [
             "sont arrivé",
-            "sont arrivés",
             "ont arrivés",
+            "sont arrivés",
             "est arrivés"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "9_4",
           "question": "Complète : Samia ___ dans la nature.",
           "options": [
             "s’est promené",
-            "s’est promenée",
             "a promené",
-            "s’est promenés"
+            "s’est promenés",
+            "s’est promenée"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 3
         },
         {
           "id": "9_5",
           "question": "Choisis la forme correcte : Ces efforts, le gouvernement les a ___.",
           "options": [
+            "prises",
             "pris",
             "prise",
-            "prises",
             "prendre"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 0
         },
         {
           "id": "9_6",
           "question": "Complète : Le professeur nous a ___ des idées.",
           "options": [
-            "proposé",
             "proposés",
+            "proposé",
             "proposée",
             "proposées"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "9_7",
           "question": "Complète : Mon père est ___ pour acheter des ampoules.",
           "options": [
-            "parti",
             "partie",
             "partis",
+            "parti",
             "parties"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
           "id": "9_8",
@@ -1904,10 +1904,10 @@
           "options": [
             "arrivé",
             "arrivée",
-            "arrivées",
-            "arrivés"
+            "arrivés",
+            "arrivées"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 3
         },
         {
           "id": "9_9",
@@ -1937,21 +1937,21 @@
           "options": [
             "proposé",
             "proposée",
-            "proposés",
-            "proposées"
+            "proposées",
+            "proposés"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 2
         },
         {
           "id": "9_12",
           "question": "Dans quelle phrase le participe passé s’accorde-t-il avec le sujet ?",
           "options": [
-            "Les filles sont parties.",
             "Les filles ont regardé l’émission.",
             "Samia a téléphoné au professeur.",
-            "Le professeur a proposé des idées."
+            "Le professeur a proposé des idées.",
+            "Les filles sont parties."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "9_13",
@@ -1968,78 +1968,78 @@
           "id": "9_14",
           "question": "Avec l’auxiliaire être, le participe passé s’accorde généralement avec…",
           "options": [
-            "le sujet",
             "le COD placé après le verbe",
+            "le sujet",
             "l’auxiliaire",
             "l’infinitif"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1
         },
         {
           "id": "9_15",
           "question": "Transforme au passé composé : « Elles arrivent à Paris. »",
           "options": [
             "Elles ont arrivé à Paris.",
-            "Elles sont arrivées à Paris.",
             "Elles sont arrivé à Paris.",
+            "Elles sont arrivées à Paris.",
             "Elles ont arrivées à Paris."
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "9_16",
           "question": "Transforme au passé composé : « Il se promène dans la forêt. »",
           "options": [
-            "Il s’est promené dans la forêt.",
             "Il a promené dans la forêt.",
             "Il s’est promenée dans la forêt.",
-            "Il est promené dans la forêt."
+            "Il est promené dans la forêt.",
+            "Il s’est promené dans la forêt."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
           "id": "9_17",
           "question": "Complète : Les enfants ___ dans les forêts.",
           "options": [
-            "se sont promené",
             "se sont promenés",
+            "se sont promené",
             "ont promenés",
             "s’est promenés"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 0
         },
         {
           "id": "9_18",
           "question": "Choisis la forme correcte : « Les ampoules, mon père les a ___ hier. »",
           "options": [
             "acheté",
+            "achetées",
             "achetée",
-            "achetés",
-            "achetées"
+            "achetés"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 1
         },
         {
           "id": "9_19",
           "question": "Complète la phrase négative : Samia n’___ pas l’émission.",
           "options": [
             "a regardée",
-            "a regardé",
             "est regardée",
+            "a regardé",
             "ont regardé"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 2
         },
         {
           "id": "9_20",
           "question": "Complète la question : « Les responsables ___-ils arrivés à Paris ? »",
           "options": [
-            "sont",
             "ont",
             "est",
-            "a"
+            "a",
+            "sont"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         }
       ],
       "error": null,
