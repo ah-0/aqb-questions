@@ -1,5 +1,2944 @@
 {
   "id": "grade9_english",
   "name": "اللغة الإنجليزية - الصف التاسع",
-  "lessons": []
+  "lessons": [
+    {
+      "id": "1",
+      "name": "Present Simple and Present Progressive",
+      "questions": [
+        {
+          "id": "1",
+          "question": "She usually ___ to school by bus.",
+          "options": [
+            "goes",
+            "is going",
+            "go",
+            "going"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "Listen! The baby ___.",
+          "options": [
+            "are crying",
+            "is crying",
+            "cries",
+            "cry"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "Water ___ at 100°C.",
+          "options": [
+            "boils",
+            "is boiling",
+            "boil",
+            "boiled"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "4",
+          "question": "They ___ their grandparents every Friday.",
+          "options": [
+            "are visiting",
+            "visits",
+            "visited",
+            "visit"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "I ___ for my exam at the moment.",
+          "options": [
+            "studied",
+            "am studying",
+            "study",
+            "studies"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "6",
+          "question": "He ___ coffee; he prefers tea.",
+          "options": [
+            "doesn’t drink",
+            "isn’t drink",
+            "don’t drink",
+            "doesn’t drinks"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "7",
+          "question": "___ your sister work in a hospital?",
+          "options": [
+            "Does",
+            "Do",
+            "Is",
+            "Has"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "8",
+          "question": "Why ___ you ___ now?",
+          "options": [
+            "are / laughing",
+            "do / laughing",
+            "is / laugh",
+            "are / laugh"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "9",
+          "question": "We ___ our cousins next weekend; the arrangement is fixed.",
+          "options": [
+            "visit",
+            "will visiting",
+            "visits",
+            "are visiting"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "10",
+          "question": "My father ___ the newspaper every morning.",
+          "options": [
+            "reads",
+            "is reading",
+            "read",
+            "reading"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "11",
+          "question": "Look! It ___ outside.",
+          "options": [
+            "snow",
+            "snowed",
+            "is snowing",
+            "snows"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "The earth ___ around the sun.",
+          "options": [
+            "is moving",
+            "move",
+            "moved",
+            "moves"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "She ___ with her aunt this month.",
+          "options": [
+            "is staying",
+            "stays",
+            "stay",
+            "stayed"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "How often ___ they ___ tennis?",
+          "options": [
+            "do / play",
+            "are / play",
+            "does / play",
+            "do / playing"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "15",
+          "question": "He ___ TV now; he is doing his homework.",
+          "options": [
+            "doesn’t watching",
+            "don’t watch",
+            "isn’t watch",
+            "isn’t watching"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "16",
+          "question": "My friends ___ usually ___ late.",
+          "options": [
+            "don’t / arrive",
+            "doesn’t / arrive",
+            "aren’t / arrive",
+            "don’t / arrives"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "17",
+          "question": "What ___ your mother ___ at the moment?",
+          "options": [
+            "is / cook",
+            "do / cook",
+            "is / cooking",
+            "does / cooking"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "18",
+          "question": "The train ___ at 8 every evening.",
+          "options": [
+            "leaving",
+            "leaves",
+            "is leaving",
+            "leave"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "This week, I ___ at my uncle’s house.",
+          "options": [
+            "lives",
+            "lived",
+            "am living",
+            "live"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "She doesn’t like loud music.",
+            "She don’t like loud music.",
+            "She isn’t like loud music.",
+            "She doesn’t likes loud music."
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Present Perfect",
+      "questions": [
+        {
+          "id": "1",
+          "question": "I ___ already ___ my homework.",
+          "options": [
+            "has / finished",
+            "have / finish",
+            "did / finished",
+            "have / finished"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "2",
+          "question": "She ___ never ___ sushi.",
+          "options": [
+            "has / try",
+            "is / tried",
+            "has / tried",
+            "have / tried"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "3",
+          "question": "They ___ here since 2020.",
+          "options": [
+            "has lived",
+            "are living",
+            "have lived",
+            "live"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "We ___ him for five years.",
+          "options": [
+            "has known",
+            "are knowing",
+            "have known",
+            "have knew"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "5",
+          "question": "___ you ever ___ to London?",
+          "options": [
+            "Did / been",
+            "Have / went",
+            "Have / been",
+            "Has / been"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "6",
+          "question": "He ___ not ___ the email yet.",
+          "options": [
+            "did / received",
+            "has / received",
+            "have / received",
+            "has / receive"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "The children ___ just ___ home.",
+          "options": [
+            "have / arrived",
+            "has / arrived",
+            "have / arrive",
+            "are / arrive"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "8",
+          "question": "I ___ my keys, so I can’t open the door.",
+          "options": [
+            "have lost",
+            "lost yesterday",
+            "has lost",
+            "am lose"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "9",
+          "question": "She ___ in this school for two years.",
+          "options": [
+            "has studied",
+            "have studied",
+            "is study",
+            "studies since"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "We haven’t seen them ___ Monday.",
+          "options": [
+            "yet",
+            "already",
+            "since",
+            "for"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "11",
+          "question": "He has worked here ___ three months.",
+          "options": [
+            "since",
+            "yet",
+            "ever",
+            "for"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "12",
+          "question": "Choose the correct question.",
+          "options": [
+            "Has Ali finished his work?",
+            "Have Ali finished his work?",
+            "Did Ali has finished his work?",
+            "Ali has finished his work?"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "13",
+          "question": "They ___ not ___ the new film yet.",
+          "options": [
+            "has / watched",
+            "have / watch",
+            "did / watched",
+            "have / watched"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "14",
+          "question": "My brother ___ just ___ a letter.",
+          "options": [
+            "is / written",
+            "has / written",
+            "have / wrote",
+            "has / write"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "How long ___ you ___ your best friend?",
+          "options": [
+            "are / knowing",
+            "have / known",
+            "did / know",
+            "has / known"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "16",
+          "question": "The bus ___ already ___.",
+          "options": [
+            "has / left",
+            "have / leave",
+            "has / leave",
+            "is / left"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "17",
+          "question": "I have ___ visited that museum.",
+          "options": [
+            "last week",
+            "ago",
+            "never",
+            "yesterday"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "18",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "She has live here since 2019.",
+            "She lived here since 2019.",
+            "She has lived here since 2019.",
+            "She have lived here since 2019."
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "19",
+          "question": "Have they ___ their project?",
+          "options": [
+            "complete",
+            "completing",
+            "completes",
+            "completed"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "20",
+          "question": "He hasn’t called me ___.",
+          "options": [
+            "yet",
+            "already",
+            "ever ago",
+            "since"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Will and Be Going To",
+      "questions": [
+        {
+          "id": "1",
+          "question": "Look at those dark clouds! It ___.",
+          "options": [
+            "will raining",
+            "rains",
+            "is rain",
+            "is going to rain"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "2",
+          "question": "I think our team ___ the match.",
+          "options": [
+            "is going win",
+            "wins tomorrow",
+            "will winning",
+            "will win"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "3",
+          "question": "The phone is ringing. I ___ it.",
+          "options": [
+            "will answer",
+            "am going answer",
+            "answering",
+            "will to answer"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "4",
+          "question": "They have bought paint. They ___ the kitchen.",
+          "options": [
+            "will painting",
+            "painted",
+            "are paint",
+            "are going to paint"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "Perhaps people ___ on Mars one day.",
+          "options": [
+            "lives",
+            "will living",
+            "will live",
+            "are going live"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "6",
+          "question": "We ___ visit our aunt next Sunday; we have planned it.",
+          "options": [
+            "are going to",
+            "will to",
+            "going",
+            "are"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "7",
+          "question": "“I’m thirsty.” “I ___ you some water.”",
+          "options": [
+            "will getting",
+            "will get",
+            "am going get",
+            "gets"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "8",
+          "question": "Choose the correct form: She ___ be a doctor when she grows up.",
+          "options": [
+            "will to",
+            "is going to",
+            "is going",
+            "going to"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "9",
+          "question": "I’m sure you ___ enjoy the trip.",
+          "options": [
+            "will to",
+            "will",
+            "are going",
+            "are"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "10",
+          "question": "Watch out! You ___ fall!",
+          "options": [
+            "are",
+            "going",
+            "are going to",
+            "will to"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "11",
+          "question": "He ___ probably arrive late.",
+          "options": [
+            "is going",
+            "does",
+            "will to",
+            "will"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "12",
+          "question": "They ___ move house next month; they have already arranged it.",
+          "options": [
+            "is going",
+            "moving",
+            "are going to",
+            "will to"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "13",
+          "question": "“We have no bread.” “I ___ some.”",
+          "options": [
+            "will buy",
+            "am going buy",
+            "buying",
+            "will to buy"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "What ___ you ___ do after school? (intention)",
+          "options": [
+            "are / to",
+            "are / going to",
+            "will / going",
+            "do / going to"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "I think it is will be sunny tomorrow.",
+            "I think it will sunny tomorrow.",
+            "I think it going to be sunny tomorrow.",
+            "I think it will be sunny tomorrow."
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "16",
+          "question": "The sky is clear. I don’t think it ___ rain.",
+          "options": [
+            "will",
+            "is going",
+            "does",
+            "will to"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "17",
+          "question": "She has decided: she ___ learn French.",
+          "options": [
+            "will to",
+            "is going",
+            "going",
+            "is going to"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "18",
+          "question": "“I can’t carry this box.” “I ___ help you.”",
+          "options": [
+            "am going",
+            "will to",
+            "am",
+            "will"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "19",
+          "question": "Our plane ___ at 6 a.m.; the tickets are booked.",
+          "options": [
+            "will leaving",
+            "is leave",
+            "going leave",
+            "is going to leave"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "20",
+          "question": "Choose the correct use: spontaneous decision.",
+          "options": [
+            "I’m going to opened the window.",
+            "I will opening the window.",
+            "I going to open the window.",
+            "I’ll open the window."
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Determiners and Articles",
+      "questions": [
+        {
+          "id": "1",
+          "question": "She is ___ honest person.",
+          "options": [
+            "an",
+            "a",
+            "the",
+            "any"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "I saw ___ dog in the garden. ___ dog was barking.",
+          "options": [
+            "a / A",
+            "a / The",
+            "the / A",
+            "an / The"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "There isn’t ___ milk left.",
+          "options": [
+            "several",
+            "much",
+            "many",
+            "a few"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "4",
+          "question": "How ___ books did you buy?",
+          "options": [
+            "little",
+            "any of",
+            "many",
+            "much"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "5",
+          "question": "There are ___ apples in the basket.",
+          "options": [
+            "a little",
+            "any",
+            "a few",
+            "much"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "6",
+          "question": "We have ___ time, so hurry up.",
+          "options": [
+            "little",
+            "few",
+            "many",
+            "a few"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "7",
+          "question": "___ students in my class speak French.",
+          "options": [
+            "A little",
+            "Some",
+            "Much",
+            "Any of"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "8",
+          "question": "Do you have ___ questions?",
+          "options": [
+            "much",
+            "a little",
+            "any",
+            "some"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "9",
+          "question": "___ sun rises in the east.",
+          "options": [
+            "A",
+            "An",
+            "Some",
+            "The"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "10",
+          "question": "She needs ___ new uniform.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "much"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "11",
+          "question": "There are too ___ cars on this road.",
+          "options": [
+            "much",
+            "little",
+            "any",
+            "many"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "12",
+          "question": "There is too ___ sugar in my tea.",
+          "options": [
+            "many",
+            "few",
+            "several",
+            "much"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "___ these shoes are mine.",
+          "options": [
+            "These",
+            "This",
+            "That",
+            "Much"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "I don’t like ___ picture over there.",
+          "options": [
+            "these",
+            "much",
+            "that",
+            "those"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "15",
+          "question": "He has ___ friends in this town, so he feels lonely.",
+          "options": [
+            "a few",
+            "little",
+            "much",
+            "few"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "16",
+          "question": "We need ___ information before deciding.",
+          "options": [
+            "some",
+            "many",
+            "a few",
+            "several"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "17",
+          "question": "Choose the correct phrase.",
+          "options": [
+            "a umbrella",
+            "the umbrella (first mention)",
+            "many umbrella",
+            "an umbrella"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "18",
+          "question": "___ children need support.",
+          "options": [
+            "Many",
+            "Much",
+            "A little",
+            "Any of"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "19",
+          "question": "There isn’t ___ water in the bottle.",
+          "options": [
+            "many",
+            "few",
+            "a few",
+            "much"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "20",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The information is useful.",
+            "An information is useful.",
+            "Many information is useful.",
+            "A few information is useful."
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Past Progressive",
+      "questions": [
+        {
+          "id": "1",
+          "question": "At 8 p.m. yesterday, I ___ dinner.",
+          "options": [
+            "had",
+            "am having",
+            "have",
+            "was having"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "2",
+          "question": "They ___ football when it started to rain.",
+          "options": [
+            "were playing",
+            "played",
+            "are playing",
+            "was playing"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "3",
+          "question": "She ___ while her brother was studying.",
+          "options": [
+            "was sleeping",
+            "were sleeping",
+            "slept now",
+            "is sleep"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "4",
+          "question": "What ___ you ___ at 9 last night?",
+          "options": [
+            "was / doing",
+            "did / doing",
+            "were / do",
+            "were / doing"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "I ___ TV when the phone rang.",
+          "options": [
+            "was watching",
+            "watched",
+            "am watching",
+            "were watching"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "While we ___ home, we saw an accident.",
+          "options": [
+            "were walking",
+            "walked",
+            "are walking",
+            "was walking"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "7",
+          "question": "He ___ not ___ attention during the lesson.",
+          "options": [
+            "was / paying",
+            "were / paying",
+            "did / paid",
+            "was / pay"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "8",
+          "question": "___ they ___ when you arrived?",
+          "options": [
+            "Did / sleeping",
+            "Were / sleep",
+            "Were / sleeping",
+            "Was / sleeping"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "9",
+          "question": "The sun ___ when we left the house.",
+          "options": [
+            "shone now",
+            "is shining",
+            "was shining",
+            "were shining"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "10",
+          "question": "While Mum was cooking, Dad ___ the table.",
+          "options": [
+            "is set",
+            "was setting",
+            "were setting",
+            "set now"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "At this time last week, we ___ in Aleppo.",
+          "options": [
+            "stay",
+            "are stay",
+            "were staying",
+            "was staying"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "She fell while she ___ down the stairs.",
+          "options": [
+            "is run",
+            "was running",
+            "ran",
+            "were running"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "13",
+          "question": "The students ___ an exam at 10 a.m. yesterday.",
+          "options": [
+            "was taking",
+            "take",
+            "are taking",
+            "were taking"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "14",
+          "question": "I ___ a book when my friend called.",
+          "options": [
+            "read",
+            "am reading",
+            "were reading",
+            "was reading"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "15",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "They was waiting for the bus.",
+            "They were wait for the bus.",
+            "They are waited for the bus.",
+            "They were waiting for the bus."
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "16",
+          "question": "What ___ he ___ when the lights went out?",
+          "options": [
+            "were / doing",
+            "did / doing",
+            "was / do",
+            "was / doing"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "The children ___ while their parents were talking.",
+          "options": [
+            "was playing",
+            "played now",
+            "are play",
+            "were playing"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "18",
+          "question": "At midnight, it ___ heavily.",
+          "options": [
+            "rains",
+            "is rain",
+            "was raining",
+            "were raining"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "19",
+          "question": "While I was writing, my sister ___ music.",
+          "options": [
+            "listened now",
+            "is listen",
+            "was listening to",
+            "were listening to"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "The teacher came in while we ___ loudly.",
+          "options": [
+            "were talking",
+            "was talking",
+            "talked tomorrow",
+            "are talk"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Imperatives",
+      "questions": [
+        {
+          "id": "1",
+          "question": "___ the door, please.",
+          "options": [
+            "Open",
+            "Opens",
+            "Opening",
+            "To open"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "___ run in the corridor!",
+          "options": [
+            "Not",
+            "No",
+            "Don’t",
+            "Doesn’t"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "3",
+          "question": "___ careful when you cross the road.",
+          "options": [
+            "Are",
+            "Being",
+            "To be",
+            "Be"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "4",
+          "question": "___ your hands before eating.",
+          "options": [
+            "Washes",
+            "Washing",
+            "Washed",
+            "Wash"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "Please ___ quiet.",
+          "options": [
+            "be",
+            "are",
+            "is",
+            "being"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "___ touch that hot pan.",
+          "options": [
+            "Doesn’t",
+            "Not to",
+            "Aren’t",
+            "Don’t"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "7",
+          "question": "___ left at the next street.",
+          "options": [
+            "Turns",
+            "Turning",
+            "To turning",
+            "Turn"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "8",
+          "question": "___ late for class.",
+          "options": [
+            "Aren’t be",
+            "Don’t be",
+            "Doesn’t be",
+            "Not be"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "9",
+          "question": "___ me your notebook, please.",
+          "options": [
+            "Give",
+            "Gives",
+            "Giving",
+            "To give"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "___ the instructions carefully.",
+          "options": [
+            "Reads",
+            "Reading",
+            "To read",
+            "Read"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "11",
+          "question": "___ you please help me? Select the imperative request.",
+          "options": [
+            "Helping me please.",
+            "Please help me.",
+            "You helps me.",
+            "You are help me."
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "12",
+          "question": "___ the lights when you leave.",
+          "options": [
+            "Turning off",
+            "To turns off",
+            "Turn off",
+            "Turns off"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "13",
+          "question": "___ forget your keys!",
+          "options": [
+            "Don’t",
+            "Doesn’t",
+            "Not",
+            "No"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "___ your seat belt.",
+          "options": [
+            "Fastens",
+            "Fastening",
+            "To fastening",
+            "Fasten"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "15",
+          "question": "___ be noisy in the library.",
+          "options": [
+            "Doesn’t",
+            "Not to",
+            "Isn’t",
+            "Don’t"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "16",
+          "question": "___ a seat, please.",
+          "options": [
+            "To have",
+            "Have",
+            "Has",
+            "Having"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "17",
+          "question": "___ down! The floor is wet.",
+          "options": [
+            "Slowing",
+            "To slows",
+            "Slow",
+            "Slows"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "18",
+          "question": "Choose the correct negative imperative.",
+          "options": [
+            "Doesn’t speak loudly.",
+            "Not speaks loudly.",
+            "Don’t to speak loudly.",
+            "Don’t speak loudly."
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "19",
+          "question": "___ the answer on the board.",
+          "options": [
+            "Writes",
+            "Writing",
+            "Wrote",
+            "Write"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "20",
+          "question": "___ patient and wait here.",
+          "options": [
+            "Are",
+            "Being",
+            "Be",
+            "Is"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Past Simple and Past Progressive",
+      "questions": [
+        {
+          "id": "1",
+          "question": "I ___ dinner when the lights went out.",
+          "options": [
+            "cooked",
+            "am cooking",
+            "were cooking",
+            "was cooking"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "2",
+          "question": "She ___ her homework and then went out.",
+          "options": [
+            "was finishing",
+            "finishes",
+            "has finish",
+            "finished"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "3",
+          "question": "While they ___, it began to snow.",
+          "options": [
+            "was driving",
+            "are driving",
+            "were driving",
+            "drove"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "He ___ his leg while he was playing football.",
+          "options": [
+            "was breaking",
+            "breaks",
+            "were breaking",
+            "broke"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "What ___ you ___ when I called?",
+          "options": [
+            "was / doing",
+            "were / do",
+            "were / doing",
+            "did / do"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "6",
+          "question": "The phone rang while I ___ a shower.",
+          "options": [
+            "am having",
+            "were having",
+            "was having",
+            "had"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "7",
+          "question": "We ___ the museum last Saturday.",
+          "options": [
+            "were visiting",
+            "visit",
+            "have visit",
+            "visited"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "8",
+          "question": "At 7 o’clock, Mum ___ dinner; she finished at 8.",
+          "options": [
+            "was making",
+            "made",
+            "makes",
+            "were making"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "9",
+          "question": "They ___ home when they saw the accident.",
+          "options": [
+            "were walking",
+            "walked",
+            "was walking",
+            "are walking"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "I ___ the door, took my coat and left.",
+          "options": [
+            "opened",
+            "was opening",
+            "open",
+            "am opening"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "11",
+          "question": "While the teacher was speaking, the students ___.",
+          "options": [
+            "was listening",
+            "are listen",
+            "were listening",
+            "listened yesterday"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "He ___ TV at 9 last night.",
+          "options": [
+            "were watching",
+            "watches",
+            "was watching",
+            "watched at the moment"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "13",
+          "question": "The children ___ in the garden when it started raining.",
+          "options": [
+            "was playing",
+            "are played",
+            "were playing",
+            "played"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "14",
+          "question": "She ___ the bus, so she walked to school.",
+          "options": [
+            "has missing",
+            "missed",
+            "was missing",
+            "miss"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "I read when he was arrive.",
+            "I were reading when he arrived.",
+            "I was read when he arrived.",
+            "I was reading when he arrived."
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "16",
+          "question": "While I ___ my bike, my brother fell.",
+          "options": [
+            "rode",
+            "were riding",
+            "am riding",
+            "was riding"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "They ___ lunch when their guests arrived.",
+          "options": [
+            "were having",
+            "had",
+            "was having",
+            "are have"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "He ___ the window and looked outside.",
+          "options": [
+            "has open",
+            "opened",
+            "was opening",
+            "opens"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "When the teacher entered, we ___ quietly.",
+          "options": [
+            "was working",
+            "are work",
+            "were working",
+            "worked tomorrow"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "The rain ___ while we were walking home.",
+          "options": [
+            "started",
+            "was start",
+            "starts",
+            "were starting"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Past Perfect",
+      "questions": [
+        {
+          "id": "1",
+          "question": "When we arrived, the film ___.",
+          "options": [
+            "has started",
+            "was start",
+            "starts",
+            "had started"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "2",
+          "question": "She ___ her work before she went home.",
+          "options": [
+            "had finished",
+            "has finish",
+            "was finished",
+            "finish"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "3",
+          "question": "By the time I got to the station, the train ___.",
+          "options": [
+            "has left",
+            "leaves",
+            "was leave",
+            "had left"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "4",
+          "question": "They were tired because they ___ all day.",
+          "options": [
+            "have worked",
+            "were work",
+            "works",
+            "had worked"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "After he ___ breakfast, he went to school.",
+          "options": [
+            "has ate",
+            "was eat",
+            "eats",
+            "had eaten"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "6",
+          "question": "I ___ never ___ such a beautiful place before I visited it.",
+          "options": [
+            "have / saw",
+            "was / see",
+            "had / saw",
+            "had / seen"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "7",
+          "question": "The students ___ the exercise before the bell rang.",
+          "options": [
+            "had completed",
+            "have complete",
+            "were complete",
+            "completes"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "8",
+          "question": "She couldn’t enter because she ___ her key.",
+          "options": [
+            "forgets",
+            "had forgotten",
+            "has forget",
+            "was forget"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "9",
+          "question": "By 2010, they ___ the bridge.",
+          "options": [
+            "had built",
+            "have build",
+            "were build",
+            "build"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "When Mum came back, we ___ the room.",
+          "options": [
+            "were clean",
+            "cleans",
+            "had cleaned",
+            "have clean"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "11",
+          "question": "Choose the correct form: The train ___ before we reached the platform.",
+          "options": [
+            "departed already had",
+            "had departed",
+            "has depart",
+            "was depart"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "12",
+          "question": "He ___ the letter before he posted it.",
+          "options": [
+            "was write",
+            "writes",
+            "had written",
+            "has wrote"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "13",
+          "question": "The match had ___ before we arrived.",
+          "options": [
+            "beginning",
+            "begun",
+            "begin",
+            "began"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "14",
+          "question": "After the guests had left, we ___ the dishes.",
+          "options": [
+            "washing",
+            "washed",
+            "had wash",
+            "were wash"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "She realised that she ___ her wallet at home.",
+          "options": [
+            "was leave",
+            "leaves",
+            "had left",
+            "has leave"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "Which event happened first? “I had eaten before he arrived.”",
+          "options": [
+            "I ate",
+            "He arrived",
+            "Both happened at the same time",
+            "Neither happened"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "17",
+          "question": "They had not ___ the news before I told them.",
+          "options": [
+            "heard",
+            "hear",
+            "hearing",
+            "hears"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "___ you ___ your homework before you watched TV?",
+          "options": [
+            "Did / finished",
+            "Were / finish",
+            "Had / finished",
+            "Have / finish"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "19",
+          "question": "The plane ___ by the time we got to the airport.",
+          "options": [
+            "has take off",
+            "was take off",
+            "takes off",
+            "had taken off"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "20",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "After she had locked the door, she left.",
+            "After she has lock the door, she left.",
+            "After she had lock the door, she leaves.",
+            "After she locking the door, she left."
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Wish",
+      "questions": [
+        {
+          "id": "1",
+          "question": "I wish I ___ taller.",
+          "options": [
+            "have been",
+            "were",
+            "am",
+            "will be"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "2",
+          "question": "She wishes she ___ more free time.",
+          "options": [
+            "had",
+            "has",
+            "will have",
+            "having"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "3",
+          "question": "I wish it ___ raining now.",
+          "options": [
+            "won’t",
+            "weren’t",
+            "isn’t",
+            "doesn’t"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "4",
+          "question": "He wishes he ___ speak French.",
+          "options": [
+            "will",
+            "has",
+            "could",
+            "can"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "5",
+          "question": "They wish they ___ near the sea.",
+          "options": [
+            "are live",
+            "lived",
+            "live",
+            "will live"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "6",
+          "question": "I wish I ___ so much money yesterday.",
+          "options": [
+            "haven’t spent",
+            "hadn’t spent",
+            "don’t spend",
+            "wouldn’t spend"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "She wishes she ___ the truth earlier.",
+          "options": [
+            "has known",
+            "would know",
+            "had known",
+            "knows"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "We wish our classroom ___ bigger.",
+          "options": [
+            "is",
+            "will be",
+            "has",
+            "were"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "I wish I ___ the exam last week.",
+          "options": [
+            "will pass",
+            "had passed",
+            "pass",
+            "have passed"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "10",
+          "question": "He wishes he ___ so late every day.",
+          "options": [
+            "doesn’t arrive",
+            "won’t arrive",
+            "hadn’t arrive",
+            "didn’t arrive"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "11",
+          "question": "Choose the correct form: I wish I ___ a car now.",
+          "options": [
+            "have",
+            "will have",
+            "am having",
+            "had"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "12",
+          "question": "They wish they ___ the match yesterday.",
+          "options": [
+            "will watch",
+            "had watched",
+            "watch",
+            "have watched"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "13",
+          "question": "I wish my brother ___ making so much noise.",
+          "options": [
+            "will stopped",
+            "has stop",
+            "would stop",
+            "stops"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "14",
+          "question": "She wishes she ___ harder when she was at school.",
+          "options": [
+            "would study",
+            "had studied",
+            "studies",
+            "has studied"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "I wish I ___ how to swim.",
+          "options": [
+            "will know",
+            "had know",
+            "knew",
+            "know"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "What does “I wish I were at home” express?",
+          "options": [
+            "A routine action",
+            "A past habit",
+            "A present situation different from reality",
+            "A completed future plan"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "17",
+          "question": "Choose the correct sentence about a past regret.",
+          "options": [
+            "I wish I would called her.",
+            "I wish I had called her.",
+            "I wish I called her tomorrow.",
+            "I wish I have called her."
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "18",
+          "question": "He wishes he ___ more carefully last night.",
+          "options": [
+            "drives",
+            "has driven",
+            "would drive",
+            "had driven"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "19",
+          "question": "I wish you ___ interrupting me.",
+          "options": [
+            "would stop",
+            "stopped yesterday",
+            "will stopped",
+            "have stop"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "20",
+          "question": "We wish we ___ so much time on that task.",
+          "options": [
+            "don’t waste",
+            "won’t waste",
+            "haven’t waste",
+            "hadn’t wasted"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Relative Clauses",
+      "questions": [
+        {
+          "id": "1",
+          "question": "The woman ___ lives next door is a doctor.",
+          "options": [
+            "which",
+            "where",
+            "whose",
+            "who"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "2",
+          "question": "This is the book ___ I borrowed yesterday.",
+          "options": [
+            "which",
+            "who",
+            "where",
+            "whose"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "3",
+          "question": "The boy ___ father is a pilot is my friend.",
+          "options": [
+            "whose",
+            "who",
+            "which",
+            "whom"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "4",
+          "question": "That is the café ___ we first met.",
+          "options": [
+            "whose",
+            "which",
+            "where",
+            "who"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "5",
+          "question": "I remember the day ___ we moved here.",
+          "options": [
+            "when",
+            "where",
+            "who",
+            "whose"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "The man ___ you spoke to is my uncle.",
+          "options": [
+            "when",
+            "whom",
+            "whose",
+            "where"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "A laptop is a device ___ helps us work.",
+          "options": [
+            "which",
+            "who",
+            "whom",
+            "whose"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "8",
+          "question": "The girl ___ won the prize is in my class.",
+          "options": [
+            "where",
+            "when",
+            "who",
+            "which"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "9",
+          "question": "This is the house ___ my grandfather was born.",
+          "options": [
+            "who",
+            "whose",
+            "whom",
+            "where"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "10",
+          "question": "The student ___ notebook was lost told the teacher.",
+          "options": [
+            "who",
+            "which",
+            "where",
+            "whose"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "11",
+          "question": "Choose the correct relative pronoun for a person as subject.",
+          "options": [
+            "which",
+            "where",
+            "when",
+            "who"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "12",
+          "question": "Choose the correct relative pronoun for a place.",
+          "options": [
+            "where",
+            "whose",
+            "whom",
+            "who"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "13",
+          "question": "The film ___ we watched was exciting.",
+          "options": [
+            "which",
+            "who",
+            "where",
+            "whose"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "The teacher ___ teaches us English is kind.",
+          "options": [
+            "which",
+            "where",
+            "when",
+            "who"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "15",
+          "question": "I met a woman ___ son studies with me.",
+          "options": [
+            "where",
+            "whose",
+            "who",
+            "which"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "16",
+          "question": "The year ___ they got married was 2015.",
+          "options": [
+            "whom",
+            "when",
+            "where",
+            "whose"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "17",
+          "question": "The village ___ my parents grew up is small.",
+          "options": [
+            "whose",
+            "where",
+            "who",
+            "which"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "18",
+          "question": "The person to ___ I sent the email replied.",
+          "options": [
+            "whose",
+            "which",
+            "where",
+            "whom"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "19",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The car who is parked outside is ours.",
+            "The car where is parked outside is ours.",
+            "The car whose is parked outside is ours.",
+            "The car which is parked outside is ours."
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "20",
+          "question": "The artist ___ paintings we admired was present.",
+          "options": [
+            "whose",
+            "who",
+            "which",
+            "where"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Reported Questions",
+      "questions": [
+        {
+          "id": "1",
+          "question": "“Where do you live?” He asked me where I ___.",
+          "options": [
+            "lived",
+            "live",
+            "did live",
+            "was live"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "“Are you tired?” She asked me if I ___ tired.",
+          "options": [
+            "have been",
+            "was",
+            "am",
+            "were being"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "“What are you doing?” He asked me what I ___.",
+          "options": [
+            "did doing",
+            "were do",
+            "was doing",
+            "am doing"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "“Did you see Ali?” She asked me if I ___ Ali.",
+          "options": [
+            "saw",
+            "have seen",
+            "did see",
+            "had seen"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "“Can you swim?” He asked me if I ___ swim.",
+          "options": [
+            "can",
+            "will",
+            "may",
+            "could"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "6",
+          "question": "In reported questions, the word order is usually ___.",
+          "options": [
+            "auxiliary + subject + verb",
+            "subject + verb",
+            "verb + subject",
+            "question word + auxiliary + subject"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "“Where is the station?” She asked me where the station ___.",
+          "options": [
+            "was",
+            "is",
+            "did be",
+            "has been"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "8",
+          "question": "“Have you finished?” He asked if I ___ finished.",
+          "options": [
+            "had",
+            "have",
+            "has",
+            "did"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "9",
+          "question": "“When will they arrive?” She asked when they ___.",
+          "options": [
+            "would arrive",
+            "will arrive",
+            "arrive",
+            "have arrived"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "“Why did he leave?” They asked why he ___.",
+          "options": [
+            "had left",
+            "left tomorrow",
+            "has left",
+            "does leave"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "11",
+          "question": "“Do you like tea?” Mum asked me if I ___ tea.",
+          "options": [
+            "did liked",
+            "am liking",
+            "liked",
+            "like"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "Which reporting verb can introduce a question?",
+          "options": [
+            "promised",
+            "ordered",
+            "wondered",
+            "explained"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "13",
+          "question": "“Who called you?” He asked me who ___ me.",
+          "options": [
+            "had called",
+            "did call",
+            "calls",
+            "is call"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "“Where have they gone?” She asked where they ___.",
+          "options": [
+            "are gone",
+            "had gone",
+            "have gone",
+            "went tomorrow"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "“Will you help me?” He asked if I ___ help him.",
+          "options": [
+            "would",
+            "will",
+            "can",
+            "am"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "16",
+          "question": "Choose the correct reported question.",
+          "options": [
+            "He asked me what did I want.",
+            "He asked me what do I want.",
+            "He asked me what wanted I.",
+            "He asked me what I wanted."
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "“Are they coming?” She asked whether they ___.",
+          "options": [
+            "are coming",
+            "did come",
+            "have come",
+            "were coming"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "18",
+          "question": "“How old are you?” He asked me how old I ___.",
+          "options": [
+            "have",
+            "was",
+            "am",
+            "did be"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "“Did she call?” I asked whether she ___.",
+          "options": [
+            "did call",
+            "has call",
+            "calls",
+            "had called"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "20",
+          "question": "In reported yes/no questions, we commonly use ___.",
+          "options": [
+            "who only",
+            "because",
+            "if or whether",
+            "that only"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Passive Voice",
+      "questions": [
+        {
+          "id": "1",
+          "question": "The classroom ___ every day.",
+          "options": [
+            "is cleaning",
+            "is cleaned",
+            "cleans",
+            "cleaned"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "2",
+          "question": "The window ___ yesterday.",
+          "options": [
+            "was breaking",
+            "was broken",
+            "broke",
+            "is broken by him yesterday"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "The letters ___ already ___.",
+          "options": [
+            "has / sent",
+            "were / send",
+            "have / sent by",
+            "have / been sent"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "4",
+          "question": "The bridge ___ at the moment.",
+          "options": [
+            "repairs",
+            "was repaired now",
+            "is repairing",
+            "is being repaired"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "English ___ in many countries.",
+          "options": [
+            "speaks",
+            "spoke",
+            "is speaking",
+            "is spoken"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "6",
+          "question": "The cake ___ by my sister last night.",
+          "options": [
+            "was making",
+            "was made",
+            "made",
+            "is make"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "The work ___ tomorrow.",
+          "options": [
+            "will finished",
+            "will be finished",
+            "will finish by them",
+            "is finishing"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "8",
+          "question": "The room ___ before we arrived.",
+          "options": [
+            "had cleaned by",
+            "had been cleaned",
+            "has cleaned",
+            "was cleaning"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "9",
+          "question": "Choose the passive form of “They built the house.”",
+          "options": [
+            "The house is built them.",
+            "The house built.",
+            "The house has build.",
+            "The house was built."
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "10",
+          "question": "Choose the passive form of “Someone has stolen my bag.”",
+          "options": [
+            "My bag has stolen.",
+            "My bag was steal.",
+            "My bag is being stole.",
+            "My bag has been stolen."
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "11",
+          "question": "The students ___ by the teacher now.",
+          "options": [
+            "are teaching",
+            "were taught now",
+            "teach",
+            "are being taught"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "12",
+          "question": "This book ___ into Arabic last year.",
+          "options": [
+            "was translated",
+            "translated",
+            "is translating",
+            "has translate"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "13",
+          "question": "The emails ___ every morning.",
+          "options": [
+            "are checked",
+            "check",
+            "is checked",
+            "were checking"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "The meals ___ by the time the guests arrived.",
+          "options": [
+            "had prepared",
+            "had been prepared",
+            "have prepared",
+            "were preparing"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "The car ___ next week.",
+          "options": [
+            "will repaired",
+            "will be repaired",
+            "will repair",
+            "is repairing"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "16",
+          "question": "What happens to the object in a passive sentence?",
+          "options": [
+            "It disappears.",
+            "It becomes the verb.",
+            "It must follow “by”.",
+            "It becomes the subject."
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "Choose the correct passive question.",
+          "options": [
+            "Did the letter was written?",
+            "Was the letter written by Sara?",
+            "Did the letter written by Sara?",
+            "Was written the letter Sara?"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "18",
+          "question": "The problem ___ yet.",
+          "options": [
+            "wasn’t solve",
+            "isn’t solving",
+            "hasn’t been solved",
+            "hasn’t solved"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "19",
+          "question": "The floors ___ when we came in.",
+          "options": [
+            "were being washed",
+            "were washing",
+            "are washed yesterday",
+            "was being wash"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "20",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "The match was watched by thousands of people.",
+            "The match watched by thousands of people.",
+            "The match was watch by thousands of people.",
+            "The match is watched yesterday."
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Possessive, Reflexive and Emphatic Pronouns",
+      "questions": [
+        {
+          "id": "1",
+          "question": "This is my book. It is ___.",
+          "options": [
+            "me",
+            "I",
+            "mine",
+            "my"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "2",
+          "question": "That house belongs to them. It is ___.",
+          "options": [
+            "theirs",
+            "their",
+            "them",
+            "they"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "3",
+          "question": "She made the cake by ___.",
+          "options": [
+            "hers",
+            "she",
+            "herself",
+            "her"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "We enjoyed ___ at the party.",
+          "options": [
+            "ourselves",
+            "us",
+            "ourself",
+            "ours"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "5",
+          "question": "He hurt ___ while playing.",
+          "options": [
+            "him",
+            "his",
+            "herself",
+            "himself"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "6",
+          "question": "Is this pen ___? (you)",
+          "options": [
+            "yours",
+            "your",
+            "you",
+            "yourself"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "7",
+          "question": "The dog wagged ___ tail.",
+          "options": [
+            "it’s",
+            "it",
+            "itself",
+            "its"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "8",
+          "question": "The children dressed ___.",
+          "options": [
+            "theirselves",
+            "them",
+            "their",
+            "themselves"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "I ___ fixed the computer. (emphasis)",
+          "options": [
+            "my",
+            "myself",
+            "mine",
+            "me"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "10",
+          "question": "The blue bag is ___. (she)",
+          "options": [
+            "hers",
+            "her",
+            "she",
+            "herself"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "11",
+          "question": "Choose the possessive adjective: This is ___ classroom.",
+          "options": [
+            "our",
+            "ours",
+            "us",
+            "ourselves"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "12",
+          "question": "Choose the possessive pronoun: The seats are ___. (we)",
+          "options": [
+            "us",
+            "ourselves",
+            "ours",
+            "our"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "13",
+          "question": "They introduced ___ to the new teacher.",
+          "options": [
+            "their",
+            "theirs",
+            "themselves",
+            "them"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "14",
+          "question": "You should be proud of ___.",
+          "options": [
+            "yours",
+            "you",
+            "your",
+            "yourself"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "15",
+          "question": "Ali and I completed the project by ___.",
+          "options": [
+            "ourselves",
+            "ourself",
+            "us",
+            "ours"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "16",
+          "question": "The cat cleaned ___.",
+          "options": [
+            "itself",
+            "its",
+            "it",
+            "it’s"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "17",
+          "question": "The red bicycle is ___. (he)",
+          "options": [
+            "himself",
+            "his",
+            "him",
+            "he"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "18",
+          "question": "Sara looked at ___ in the mirror.",
+          "options": [
+            "she",
+            "herself",
+            "her",
+            "hers"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "The principal ___ gave us the awards. (emphasis)",
+          "options": [
+            "his",
+            "him",
+            "he",
+            "himself"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "20",
+          "question": "Choose the correct sentence.",
+          "options": [
+            "That pencil is hers.",
+            "That pencil is her.",
+            "That pencil is she.",
+            "That pencil is herself."
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    }
+  ]
 }
