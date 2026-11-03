@@ -18,6 +18,8 @@
 | الجغرافيا | `geography.json` |
 | التاريخ | `history.json` |
 | الفلسفة | `philosophy.json` |
+| اللغة العربية - البكالوريا | `arabic.json` |
+| التربية الإسلامية - البكالوريا | `islamic-education.json` |
 
 عند تحديث بيانات مادة، يُرجى إبقاء ملفها المنفصل و`Questions.json` متزامنين.
 

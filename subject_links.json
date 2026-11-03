@@ -1,0 +1,102 @@
+{
+  "البكالوريا": [
+    {
+      "name": "التحليل",
+      "url": "https://ah-0.github.io/aqb-questions/math.json"
+    },
+    {
+      "name": "الجبر",
+      "url": "https://ah-0.github.io/aqb-questions/math_2.json"
+    },
+    {
+      "name": "الهندسة",
+      "url": "https://ah-0.github.io/aqb-questions/math_3.json"
+    },
+    {
+      "name": "الفيزياء",
+      "url": "https://ah-0.github.io/aqb-questions/physics.json"
+    },
+    {
+      "name": "الكيمياء",
+      "url": "https://ah-0.github.io/aqb-questions/chemistry.json"
+    },
+    {
+      "name": "اللغة الإنجليزية",
+      "url": "https://ah-0.github.io/aqb-questions/english.json"
+    },
+    {
+      "name": "العلوم",
+      "url": "https://ah-0.github.io/aqb-questions/science.json"
+    },
+    {
+      "name": "الجغرافيا",
+      "url": "https://ah-0.github.io/aqb-questions/geography.json"
+    },
+    {
+      "name": "التاريخ",
+      "url": "https://ah-0.github.io/aqb-questions/history.json"
+    },
+    {
+      "name": "الفلسفة",
+      "url": "https://ah-0.github.io/aqb-questions/philosophy.json"
+    },
+    {
+      "name": "اللغة العربية",
+      "url": "https://ah-0.github.io/aqb-questions/arabic.json"
+    },
+    {
+      "name": "التربية الإسلامية",
+      "url": "https://ah-0.github.io/aqb-questions/islamic-education.json"
+    }
+  ],
+  "الصف التاسع": [
+    {
+      "name": "اللغة العربية",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_arabic.json"
+    },
+    {
+      "name": "علم الأحياء والأرض",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_biology-earth.json"
+    },
+    {
+      "name": "الكيمياء",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_chemistry.json"
+    },
+    {
+      "name": "اللغة الإنجليزية",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_english.json"
+    },
+    {
+      "name": "اللغة الفرنسية",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_french.json"
+    },
+    {
+      "name": "الجغرافيا",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_geography.json"
+    },
+    {
+      "name": "الهندسة",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_geometry.json"
+    },
+    {
+      "name": "التاريخ",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_history.json"
+    },
+    {
+      "name": "التربية الدينية الإسلامية",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_islamic-education.json"
+    },
+    {
+      "name": "الجبر",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_math.json"
+    },
+    {
+      "name": "الفيزياء",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_physics.json"
+    },
+    {
+      "name": "الفيزياء والكيمياء (ملف مشترك قديم)",
+      "url": "https://ah-0.github.io/aqb-questions/grade9_physics-chemistry.json"
+    }
+  ]
+}
