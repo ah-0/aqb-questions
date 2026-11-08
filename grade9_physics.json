@@ -15,7 +15,8 @@
             "حقل جاذبية جديد",
             "حقل صوتي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -26,7 +27,8 @@
             "خطوط شعاعية خارجة من السلك",
             "دوائر متحدة المركز حول السلك"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -37,7 +39,8 @@
             "قاعدة اليد اليمنى",
             "قاعدة الانعكاس"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -48,7 +51,8 @@
             "لا تتغير",
             "تنعدم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -59,7 +63,8 @@
             "تنعكس دون تغير الشدة",
             "تتناقص"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -70,7 +75,8 @@
             "الأوم (Ω)",
             "التسلا (T)"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -81,7 +87,8 @@
             "الأميتر وحده",
             "الإبرة المغناطيسية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -92,7 +99,8 @@
             "مفتاح كهربائي",
             "وشيعة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -103,7 +111,8 @@
             "يتحول الملف إلى عازل",
             "تنقص مقاومة الحديد إلى ما لا نهاية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -114,7 +123,8 @@
             "زيادة شدة التيار أو عدد اللفات",
             "إنقاص عدد اللفات والتيار"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -125,7 +135,8 @@
             "لا اتجاه لها",
             "من القطب الشمالي إلى القطب الجنوبي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -136,7 +147,8 @@
             "مقاومة الدارة",
             "اتجاه الحقل المغناطيسي المحلي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -147,7 +159,8 @@
             "يزداد عدد خطوطه فقط",
             "ينعدم الحقل دائمًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -158,7 +171,8 @@
             "شدة التيار الكهربائي",
             "المسافة عن السلك"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -169,7 +183,8 @@
             "تصبح نصف قيمتها",
             "تتضاعف"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -180,7 +195,8 @@
             "8×10⁻⁶ T",
             "4×10⁻⁶ T"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -191,7 +207,8 @@
             "2×10⁻⁵ T",
             "1×10⁻⁵ T"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -202,7 +219,8 @@
             "4×10⁻⁶ T",
             "2×10⁻⁷ T"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -213,7 +231,8 @@
             "المصباح دون تيار",
             "الهواء المحيط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -224,7 +243,8 @@
             "تتقاطع عند كل نقطة",
             "تبدأ وتنتهي عند نقطة واحدة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -241,7 +261,8 @@
             "تختفي كتلته",
             "يتوقف الحقل المغناطيسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -252,7 +273,8 @@
             "درجة حرارة الغرفة فقط",
             "جهة التيار وجهة الحقل المغناطيسي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -263,7 +285,8 @@
             "عندما لا يمر فيه تيار",
             "عندما يكون خارج الحقل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -274,7 +297,8 @@
             "عندما يكون موازيًا لخطوط الحقل",
             "عندما يكون عموديًا على الحقل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -285,7 +309,8 @@
             "التمدد الحراري للناقل",
             "تأثير الحقل المغناطيسي في ناقل يمر فيه تيار"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -296,7 +321,8 @@
             "يزيد كتلة الملف",
             "يمنع دوران الملف"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -307,7 +333,8 @@
             "من كهربائية إلى حركية",
             "من حركية إلى كيميائية فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -318,7 +345,8 @@
             "مجال لا اتجاه له",
             "مجال خطوطه متوازية ومتساوية التباعد تقريبًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -329,7 +357,8 @@
             "تنعدم دائمًا",
             "تزداد كتلة الناقل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -340,7 +369,8 @@
             "تنعدم دائمًا",
             "تتضاعف أربع مرات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -351,7 +381,8 @@
             "درجة حرارة الحقل",
             "شدة الحقل والتيار وطول الناقل ومركبة الاتجاه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -362,7 +393,8 @@
             "0.8 N",
             "4 N"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -373,7 +405,8 @@
             "0.2 N",
             "3.2 N"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -384,7 +417,8 @@
             "0.5",
             "−1"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -395,7 +429,8 @@
             "−1",
             "1"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -406,7 +441,8 @@
             "النيوتن (N)",
             "التسلا (T)"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -417,7 +453,8 @@
             "زيادة التيار أو عدد اللفات أو شدة الحقل",
             "تقليل عدد اللفات والتيار"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -428,7 +465,8 @@
             "إنتاج الحقل وحدهما",
             "قياس سرعة الدوران"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -439,7 +477,8 @@
             "طاقة حركية ميكانيكية",
             "طاقة كيميائية فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -450,7 +489,8 @@
             "تصبح صفرًا",
             "تتضاعف"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -467,7 +507,8 @@
             "توليد قوة محركة كهربائية عند تغير التدفق المغناطيسي عبر دارة",
             "تسخين سلك بلهب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -478,7 +519,8 @@
             "وجود الملف وحده",
             "إغلاق دارة لا تتغير"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -489,7 +531,8 @@
             "عند قطع الملف",
             "عند زيادة سرعة تغير التدفق المغناطيسي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -500,7 +543,8 @@
             "التيار المحرض يوافق التغير دائمًا",
             "الشحنة تحفظ اتجاهها فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -511,7 +555,8 @@
             "يتولد تيار محرض لحظيًا أثناء تغير التدفق",
             "لا يحدث أي تغير مهما كانت الحركة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -522,7 +567,8 @@
             "يتضاعف دون حد",
             "لا يتغير التدفق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -533,7 +579,8 @@
             "تحويل الكتلة إلى شحنة",
             "تحويل الطاقة الميكانيكية إلى طاقة كهربائية بالتحريض"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -544,7 +591,8 @@
             "إبقاء التدفق ثابتًا",
             "فتح الملف عن المغناطيس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -555,7 +603,8 @@
             "ميزان الحرارة الزئبقي",
             "الرافعة الثابتة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "10",
@@ -566,7 +615,8 @@
             "مقدار مقاومة السلك",
             "شدة الجاذبية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -577,7 +627,8 @@
             "نعم دائمًا",
             "نعم إذا كان الملف نحاسيًا فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -588,7 +639,8 @@
             "نحركه بسرعة أكبر",
             "نحركه ببطء أكثر"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -599,7 +651,8 @@
             "النيوتن (N)",
             "التسلا (T)"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -610,7 +663,8 @@
             "لا يتغير أبدًا",
             "يتولد تيار ثابت دائم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -621,7 +675,8 @@
             "طاقة كيميائية في السلك",
             "طاقة كهربائية خارجة مسبقًا فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -632,7 +687,8 @@
             "يبقى ثابتًا",
             "ينعدم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -643,7 +699,8 @@
             "لأن المغناطيس يفقد كتلته",
             "لأن الملف يتحول إلى عازل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -654,7 +711,8 @@
             "استخدام ملف أكثر لفاتًا ومقياس حساس",
             "تقليل عدد اللفات وإزالة المقياس"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -665,7 +723,8 @@
             "ينشأ التيار دون أي طاقة",
             "يخلق المولد طاقة بلا شغل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -676,7 +735,8 @@
             "يسري في اتجاه واحد دائمًا بلا تغير",
             "لا يحمل طاقة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -693,7 +753,8 @@
             "مقياس كتلة الجسم",
             "مقدار الطاقة الحرارية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -704,7 +765,8 @@
             "العزم = القوة × ذراع القوة العمودي",
             "العزم = القوة ÷ الزمن"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -715,7 +777,8 @@
             "كيلوغرام/متر",
             "نيوتن.متر (N·m)"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -726,7 +789,8 @@
             "المسافة إلى مركز كتلة الأرض",
             "طول القوة بوحدة النيوتن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -737,7 +801,8 @@
             "ينعدم",
             "يزداد طرديًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -748,7 +813,8 @@
             "لأن المفصلات تتحرك إلى المقبض",
             "لأن ذراع القوة عن المفصلات أكبر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -759,7 +825,8 @@
             "إذا كان ذراعها أكبر ما يمكن",
             "إذا كانت القوة عمودية على الذراع"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -770,7 +837,8 @@
             "0.3 N·m",
             "10.3 N·m"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -781,7 +849,8 @@
             "2.5 N·m",
             "20.5 N·m"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -792,7 +861,8 @@
             "0.33 m",
             "3 m"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -803,7 +873,8 @@
             "0.2 N·m",
             "7.5 N·m"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -814,7 +885,8 @@
             "يتضاعف",
             "ينخفض إلى النصف"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -825,7 +897,8 @@
             "ضعف القوة",
             "لا نهائيًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -836,7 +909,8 @@
             "استخدام مفتاح طويل لفك صامولة",
             "استخدام مرآة لتكبير صورة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "15",
@@ -847,7 +921,8 @@
             "8.25 N·m",
             "0.25 N·m"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -858,7 +933,8 @@
             "نزيد طول ذراع القوة",
             "نقلل ذراع القوة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -869,7 +945,8 @@
             "τ=F/r",
             "τ=r+F"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -880,7 +957,8 @@
             "10 N·m",
             "20 N·m"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -891,7 +969,8 @@
             "تكون موازية لمحور الدوران",
             "تؤثر عموديًا وبأكبر ذراع ممكن"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -902,7 +981,8 @@
             "كتلة المحور وحدها",
             "اتجاه الدوران الناتج حول المحور"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -919,7 +999,8 @@
             "قوة واحدة عند محور الدوران",
             "قوتان غير متوازيتين دائمًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -930,7 +1011,8 @@
             "صفر",
             "تساوي إحدى القوتين"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -941,7 +1023,8 @@
             "لا، إلا إذا تحرك مركز الجسم",
             "نعم، لأنها تولد عزمًا محصلًا غير صفري"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -952,7 +1035,8 @@
             "المسافة من محور الأرض",
             "المسافة العمودية بين خطي عمل القوتين"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -963,7 +1047,8 @@
             "كتلة الجسم × التسارع",
             "القوة × الزمن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -974,7 +1059,8 @@
             "J/s",
             "kg·m/s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -985,7 +1071,8 @@
             "1.25 N·m",
             "10 N·m"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -996,7 +1083,8 @@
             "24 N·m",
             "12.5 N·m"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1007,7 +1095,8 @@
             "يتضاعف",
             "ينصف"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1018,7 +1107,8 @@
             "سحب جسم بخيط واحد",
             "إدارة مقود السيارة بقوتين متعاكستين على طرفيه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "11",
@@ -1029,7 +1119,8 @@
             "لأن عزمها صفر",
             "لأن القوتين متعامدتان"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1040,7 +1131,8 @@
             "زيادة القوة أو المسافة بين خطي عملها",
             "تقليل القوتين والمسافة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1051,7 +1143,8 @@
             "2 N·m",
             "0 N·m"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1062,7 +1155,8 @@
             "المحصلة صفر لكن العزم غير صفر عادةً",
             "كلاهما صفر دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1073,7 +1167,8 @@
             "متعاكستان ومتوازيتان",
             "متعاكستان وعلى خط واحد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1084,7 +1179,8 @@
             "10 m",
             "0.33 m"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1095,7 +1191,8 @@
             "يتولد عزم مزدوجة",
             "تتولد محصلة انتقالية فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1106,7 +1203,8 @@
             "يبقى ثابتًا",
             "ينعكس دائمًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1117,7 +1215,8 @@
             "قوتان متعاكستان على خط عمل واحد",
             "قوتان متساويتان ومتعاكستان ومتوازيتان ومتباعدتان"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "20",
@@ -1128,7 +1227,8 @@
             "4.8 N",
             "0.2 N"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1145,7 +1245,8 @@
             "عندما يتحرك بتسارع ثابت",
             "عندما لا تؤثر فيه الجاذبية فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1156,7 +1257,8 @@
             "مجموع السرعات يساوي صفرًا",
             "محصلة القوى أكبر ما يمكن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1167,7 +1269,8 @@
             "تتساوى الكتل",
             "تنعدم محصلة القوى ومحصلة العزوم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1178,7 +1281,8 @@
             "النقطة الأبعد عن الأرض",
             "مركز الحجم دائمًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1189,7 +1293,8 @@
             "مختلفتين دائمًا",
             "متساويتين ومتعاكستين وعلى خط عمل واحد"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1200,7 +1305,8 @@
             "كل قوة تلغي وزن الجسم",
             "السرعة تساوي صفرًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1211,7 +1317,8 @@
             "12 N·m",
             "0 N·m"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1222,7 +1329,8 @@
             "40 N",
             "20 N"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1233,7 +1341,8 @@
             "30 N·m",
             "60 N·m"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1244,7 +1353,8 @@
             "لأن إسقاط مركز ثقله يبقى داخل قاعدة الارتكاز بسهولة أكبر",
             "لأن وزنه يصبح صفرًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1255,7 +1365,8 @@
             "عندما يكون مركز ثقله عاليًا جدًا",
             "عندما تكون القاعدة ضيقة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1266,7 +1377,8 @@
             "24 N·m",
             "12 N·m"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1277,7 +1389,8 @@
             "2 N·m",
             "1.25 N·m"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1288,7 +1401,8 @@
             "تساويه مقدارًا وتعاكسه اتجاهًا",
             "تساوي نصفه"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1299,7 +1413,8 @@
             "تنعدم كل الحركة",
             "يكون للجسم تأثير دوراني وتسارع زاوي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1310,7 +1425,8 @@
             "يبتعد عن وضعه بعد إزاحة صغيرة",
             "يبقى في كل وضع دون تأثير"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1321,7 +1437,8 @@
             "كرة على قمة سطح محدب",
             "كرة في قاع وعاء مقعر"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1332,7 +1449,8 @@
             "ينصف",
             "يبقى ثابتًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1343,7 +1461,8 @@
             "رفع مركز ثقله أكثر",
             "تضييق القاعدة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1354,7 +1473,8 @@
             "مجموع العزوم باتجاه عقارب الساعة يساوي مجموع العزوم عكسها",
             "مجموع القوى يساوي الوزن فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1371,7 +1491,8 @@
             "قوة الاحتكاك",
             "القدرة على إنجاز شغل أو إحداث تغيير"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1382,7 +1503,8 @@
             "الجول (J)",
             "النيوتن (N)"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1393,7 +1515,8 @@
             "طاقة نووية",
             "الطاقة الحركية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1404,7 +1527,8 @@
             "طاقة كهربائية حركية",
             "طاقة وضع ثقالية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1415,7 +1539,8 @@
             "Ek=F/t",
             "Ek=½mv²"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1426,7 +1551,8 @@
             "Ep=mg/h",
             "Ep=F/v"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1437,7 +1563,8 @@
             "الطاقة تزداد من لا شيء",
             "كل الطاقة تتحول إلى كتلة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1448,7 +1575,8 @@
             "حركية إلى نووية",
             "صوتية إلى كهربائية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1459,7 +1587,8 @@
             "حركية إلى كيميائية فقط",
             "حرارية إلى كتلة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1470,7 +1599,8 @@
             "كيميائية إلى كتلة",
             "ضوئية إلى حرارية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1481,7 +1611,8 @@
             "100 J",
             "50 J"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1492,7 +1623,8 @@
             "6 J",
             "18 J"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1503,7 +1635,8 @@
             "40 J",
             "20 J"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1514,7 +1647,8 @@
             "8 J",
             "4 J"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1525,7 +1659,8 @@
             "أربعة أمثالها",
             "مثليها"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1536,7 +1671,8 @@
             "تتضاعف",
             "تصبح أربعة أمثالها"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1547,7 +1683,8 @@
             "تنصف",
             "تصبح أربعة أمثالها"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1558,7 +1695,8 @@
             "مقدار الطاقة المخزنة فقط",
             "القوة مضروبة بالكتلة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1569,7 +1707,8 @@
             "الجول (J)",
             "النيوتن (N)"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1580,7 +1719,8 @@
             "200 W",
             "1800 W"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1597,7 +1737,8 @@
             "حركة في اتجاه واحد فقط",
             "حركة عشوائية بلا تكرار"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1608,7 +1749,8 @@
             "الموضع الذي تكون عنده محصلة القوى المؤثرة صفرًا في حالة السكون",
             "أبعد موضع عن مركز الأرض"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1619,7 +1761,8 @@
             "المسافة الكلية في دورة",
             "عدد الاهتزازات في الثانية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1630,7 +1773,8 @@
             "عدد الاهتزازات في الثانية",
             "أكبر إزاحة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1641,7 +1785,8 @@
             "المسافة بين قمتين",
             "مقدار القوة فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1652,7 +1797,8 @@
             "المتر (m)",
             "الجول (J)"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1663,7 +1809,8 @@
             "f=1/T",
             "f=T"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1674,7 +1821,8 @@
             "4 Hz",
             "1 Hz"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1685,7 +1833,8 @@
             "0.5 Hz",
             "10 Hz"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1696,7 +1845,8 @@
             "2 s",
             "0.5 s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1707,7 +1857,8 @@
             "بؤرتا العدسة",
             "موضعا النهاية أو النهايتان العظميان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1718,7 +1869,8 @@
             "تساوي الزمن الدوري",
             "صفر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1729,7 +1881,8 @@
             "عند موضع التوازن",
             "عند النهايتين"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1740,7 +1893,8 @@
             "عند موضع التوازن",
             "في كل نقطة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1751,7 +1905,8 @@
             "7 اهتزازات",
             "1.33 اهتزازة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1762,7 +1917,8 @@
             "2 s",
             "25 s"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1773,7 +1929,8 @@
             "التفاعل الكيميائي فقط",
             "الاحتكاك وحده"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1784,7 +1941,8 @@
             "تختفي الطاقتان",
             "تبقى حركية فقط طوال الوقت"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1795,7 +1953,8 @@
             "مروره بموضع التوازن مرة",
             "انتقاله بين الطرفين مرة واحدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1806,7 +1965,8 @@
             "ينصف",
             "لا يتغير"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1823,7 +1983,8 @@
             "جسم ساكن",
             "نوع من القوة فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1834,7 +1995,8 @@
             "تنتقل في الفراغ فقط",
             "تهتز جزيئات الوسط عموديًا على اتجاه انتشار الموجة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1845,7 +2007,8 @@
             "تهتز جزيئات الوسط موازية لاتجاه انتشارها",
             "تهتز عموديًا دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1856,7 +2019,8 @@
             "عدد الموجات في الثانية",
             "المسافة بين نقطتين متتاليتين لهما الحالة الاهتزازية نفسها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1867,7 +2031,8 @@
             "أكبر إزاحة لجزيئات الوسط عن موضع توازنها",
             "المسافة بين قمتين"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1878,7 +2043,8 @@
             "المتر",
             "الثانية لكل متر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1889,7 +2055,8 @@
             "v=λf",
             "v=λ/f"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1900,7 +2067,8 @@
             "5 m/s",
             "0.67 m/s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1911,7 +2079,8 @@
             "0.25 m",
             "4 m"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1922,7 +2091,8 @@
             "0.25 Hz",
             "4 Hz"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1933,7 +2103,8 @@
             "زمن دوري",
             "ضعف التواتر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1944,7 +2115,8 @@
             "منطقة تتباعد فيها الجزيئات",
             "قمة موجة مستعرضة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1955,7 +2127,8 @@
             "منطقة تتقارب فيها الجزيئات",
             "قاع موجة مستعرضة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1966,7 +2139,8 @@
             "نعم إذا كان تواترها عاليًا",
             "لا، تحتاج إلى وسط مادي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1977,7 +2151,8 @@
             "موجة الحبل",
             "موجة الماء الميكانيكية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1988,7 +2163,8 @@
             "الطاقة",
             "جزيئات الوسط من المصدر إلى النهاية دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1999,7 +2175,8 @@
             "20 Hz",
             "0.2 Hz"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2010,7 +2187,8 @@
             "يبقى ثابتًا",
             "يصبح صفرًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2021,7 +2199,8 @@
             "التواتر عدد الدورات في الثانية والزمن الدوري زمن دورة واحدة",
             "كلاهما مسافة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2032,7 +2211,8 @@
             "التخلخل",
             "العقدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     }

@@ -15,7 +15,8 @@
             "مادة نقية واحدة",
             "عنصر كيميائي فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -26,7 +27,8 @@
             "الماء",
             "كلوريد الصوديوم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -37,7 +39,8 @@
             "الأكسجين",
             "السكر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -48,7 +51,8 @@
             "سرعة تبخر المذيب",
             "كتلة الوعاء"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -59,7 +63,8 @@
             "مزيج غير متجانس",
             "محلول لا يذيب مزيدًا من المذاب عند الشروط نفسها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -70,7 +75,8 @@
             "تزداد",
             "تنعدم دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -81,7 +87,8 @@
             "سرعة التحريك فقط",
             "كمية المذاب بالنسبة إلى كمية معينة من المحلول أو المذيب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -92,7 +99,8 @@
             "11.1%",
             "9%"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -103,7 +111,8 @@
             "5 g",
             "20 g"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -114,7 +123,8 @@
             "يقلل كتلة المذاب",
             "يمنع تصادم الجزيئات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -125,7 +135,8 @@
             "مادة نقية",
             "محلول يحوي كمية قليلة نسبيًا من المذاب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -136,7 +147,8 @@
             "منع ملامسته للماء",
             "تجزئته والتحريك"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -147,7 +159,8 @@
             "تحول المذاب إلى مذيب",
             "تسرع عملية الذوبان غالبًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -158,7 +171,8 @@
             "غاز",
             "محلول متجانس"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -169,7 +183,8 @@
             "التبخير أو التبلور",
             "المغناطيسية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -180,7 +195,8 @@
             "لأن الملح مغناطيسي",
             "لأن الماء صلب"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -191,7 +207,8 @@
             "يحوي 2 g من المذاب في كل لتر محلول",
             "يحوي 1 g مذابًا في 2 L"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -202,7 +219,8 @@
             "3 L",
             "48 L"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -213,7 +231,8 @@
             "لا يمكن أن يكون سائلًا",
             "مكوناته موزعة بانتظام ولا تميز بالعين المجردة عادةً"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "20",
@@ -224,7 +243,8 @@
             "يتحول الماء إلى عنصر",
             "يصبح كل المحلول غازًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -241,7 +261,8 @@
             "لا يحوي أي شوارد",
             "يكون pH دائمًا أكبر من 7"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -252,7 +273,8 @@
             "7",
             "0"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -263,7 +285,8 @@
             "أقل من 7",
             "أكبر من 7"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -274,7 +297,8 @@
             "تصبح خضراء",
             "تصبح سوداء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -285,7 +309,8 @@
             "كلوريد الصوديوم NaCl",
             "الماء النقي فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -296,7 +321,8 @@
             "سكر وثاني أكسيد الكربون",
             "ملح وغاز الهيدروجين"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -307,7 +333,8 @@
             "غاز هيدروجين فقط",
             "أكسجين وماء أكسجيني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -318,7 +345,8 @@
             "البلمرة",
             "التعادل"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -329,7 +357,8 @@
             "ثاني أكسيد الكربون",
             "الهيدروجين فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -340,7 +369,8 @@
             "يحول ورقة تباع الشمس الزرقاء إلى حمراء",
             "يعكر ماء الكلس"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -351,7 +381,8 @@
             "يحولها إلى صفراء دائمًا",
             "لا يغير لونها عادةً"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -362,7 +393,8 @@
             "7",
             "10"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "13",
@@ -373,7 +405,8 @@
             "تبقى ثابتة مهما كان التخفيف",
             "تصبح 14 فورًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -384,7 +417,8 @@
             "Na⁺ فقط",
             "Cl⁻ وحده"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -395,7 +429,8 @@
             "لمس الحمض باليد",
             "ارتداء وسائل الوقاية وإضافة الحمض إلى الماء بحذر وفق التعليمات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -406,7 +441,8 @@
             "أكسجين + ماء",
             "قاعدة + حمض دون تغيير"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -417,7 +453,8 @@
             "Cl₂",
             "NaCl"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -428,7 +465,8 @@
             "يحول الأزرق إلى الأحمر",
             "يحول الأحمر إلى الأزرق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -439,7 +477,8 @@
             "لا يذوب في الماء",
             "قيمة pH له 7"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -450,7 +489,8 @@
             "قاعدي",
             "متعادل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -467,7 +507,8 @@
             "Cl⁻",
             "NO₃⁻"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -478,7 +519,8 @@
             "يساوي 7 دائمًا",
             "يساوي صفرًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -489,7 +531,8 @@
             "تتحول إلى الأزرق",
             "تتحول إلى الأحمر الداكن"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -500,7 +543,8 @@
             "ثاني أكسيد الكربون CO₂",
             "كلوريد الصوديوم NaCl"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -511,7 +555,8 @@
             "أكسجين وكربون",
             "قاعدة وماء أكسجيني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -522,7 +567,8 @@
             "حامض مثل الليمون",
             "مالح فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -533,7 +579,8 @@
             "الخل",
             "الماء المقطر دائمًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -544,7 +591,8 @@
             "7",
             "12"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "9",
@@ -555,7 +603,8 @@
             "تزداد دائمًا إلى 14",
             "تبقى ثابتة دائمًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -566,7 +615,8 @@
             "الرمل",
             "الماء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -577,7 +627,8 @@
             "H⁺ فقط",
             "CO₃²⁻ فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -588,7 +639,8 @@
             "تحلية الماء للشرب دائمًا",
             "صناعة السكر من الماء"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -599,7 +651,8 @@
             "تتذوقها",
             "تضيف حمضًا مركزًا مباشرةً على الجلد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -610,7 +663,8 @@
             "6",
             "7"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "15",
@@ -621,7 +675,8 @@
             "K وماء فقط",
             "KCl وماء"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -632,7 +687,8 @@
             "تحولها إلى سوداء",
             "تذيب الورقة فورًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -643,7 +699,8 @@
             "لا يحدث أي تفاعل",
             "تتفاعل شواردها لتكوين ماء، وتتحد الشوارد الأخرى لتكوين ملح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -654,7 +711,8 @@
             "متعادلًا",
             "غير مائي بالضرورة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -665,7 +723,8 @@
             "مادة لا تتفاعل",
             "مادة تعطي شوارد OH⁻ في الماء أو تزيدها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -676,7 +735,8 @@
             "تخزينها في أوعية الطعام",
             "تجنب ملامستها للجلد والعين واستخدام أدوات الوقاية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -693,7 +753,8 @@
             "تغيير شكل الوعاء",
             "تحول مواد متفاعلة إلى مواد جديدة تختلف في خواصها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -704,7 +765,8 @@
             "تفاعل اتحاد/تركيب",
             "تفاعل تفكك"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -715,7 +777,8 @@
             "اتحاد",
             "احتراق كامل فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -726,7 +789,8 @@
             "يحل عنصر محل عنصر آخر في مركب",
             "تتحد مادتان دون استبدال"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -737,7 +801,8 @@
             "اتحاد عنصرين فقط",
             "تحلل مادة إلى عناصر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -748,7 +813,8 @@
             "تجمد الماء",
             "ذوبان الملح"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -759,7 +825,8 @@
             "تساوي عدد ذرات كل عنصر في طرفيها",
             "تساوي عدد الجزيئات دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -770,7 +837,8 @@
             "لزيادة عدد الذرات في النواتج",
             "لجعل المتفاعلات تختفي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -781,7 +849,8 @@
             "1",
             "2"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -792,7 +861,8 @@
             "3",
             "4"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -803,7 +873,8 @@
             "قاعدة وأكسجين",
             "معدن وماء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -814,7 +885,8 @@
             "تكون غاز أو راسب أو تغير لون/حرارة",
             "تغير حجم الوعاء فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -825,7 +897,8 @@
             "مذيب نقي",
             "مادة متفاعلة تختفي دون ناتج"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -836,7 +909,8 @@
             "إحلال مزدوج",
             "إحلال بسيط"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -847,7 +921,8 @@
             "اتحاد",
             "إحلال مزدوج"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -858,7 +933,8 @@
             "تفاعل تفكك حراري",
             "اتحادًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -869,7 +945,8 @@
             "مغناطيس دائم",
             "طاقة تنشيط مثل شرارة أو حرارة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -880,7 +957,8 @@
             "تنتقل طاقة إلى الوسط المحيط غالبًا",
             "يمتص التفاعل طاقة دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -891,7 +969,8 @@
             "يزيد كتلة النواتج",
             "يغير قانون حفظ الكتلة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -902,7 +981,8 @@
             "تختفي ذرات المتفاعلات",
             "تساوي أحجام المواد فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -919,7 +999,8 @@
             "حمض نقي فقط",
             "عنصر فلزي منفرد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -930,7 +1011,8 @@
             "أكسيد الكلور",
             "كلوريد الصوديوم NaCl"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -941,7 +1023,8 @@
             "حمض وأكسجين",
             "قاعدة وهيدروجين دائمًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -952,7 +1035,8 @@
             "NaSO₄",
             "Na₂S"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -963,7 +1047,8 @@
             "CaCl₂",
             "CaCl"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -974,7 +1059,8 @@
             "−2",
             "+1"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -985,7 +1071,8 @@
             "−2",
             "−1"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -996,7 +1083,8 @@
             "كبريتات الصوديوم",
             "نترات الصوديوم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1007,7 +1095,8 @@
             "نترات البوتاسيوم",
             "كلوريد البوتاسيوم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1018,7 +1107,8 @@
             "التبخير الجزئي ثم التبلور",
             "إضافة مزيد من الماء فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1029,7 +1119,8 @@
             "أيون الكلوريد Cl⁻",
             "أيون الصوديوم Na⁺"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1040,7 +1131,8 @@
             "O₂ غاز",
             "AgCl أبيض"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1051,7 +1143,8 @@
             "K₂SO₄",
             "KSO₄"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1062,7 +1155,8 @@
             "لأن عدد الذرات يجب أن يكون واحدًا",
             "لأن مجموع الشحنات الموجبة والسالبة يساوي صفرًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1073,7 +1167,8 @@
             "Ca₂NO₃",
             "CaN₂O₃"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1084,7 +1179,8 @@
             "التقطير وحده قبل تشكل البلورات",
             "المغناطيس"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1095,7 +1191,8 @@
             "مادة لصنع الأكسجين في الرئة",
             "حمض قوي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1106,7 +1203,8 @@
             "ملح بلوري يحتوي عددًا محددًا من جزيئات الماء في بنيته",
             "ملح ذائب في أي سائل فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1117,7 +1215,8 @@
             "ملح حمضي بالضرورة",
             "قاعدة قوية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1128,7 +1227,8 @@
             "قاعدة وأكسجين",
             "كربونات وثاني أكسيد الكربون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1145,7 +1245,8 @@
             "الحديد",
             "الهيليوم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1156,7 +1257,8 @@
             "لأنه لا يتحد مع الهيدروجين",
             "لقدرته على تكوين أربع روابط تساهمية وسلاسل مع ذرات كربون أخرى"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1167,7 +1269,8 @@
             "رابطة نووية",
             "رابطة تساهمية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1178,7 +1281,8 @@
             "مركب مائي غير عضوي",
             "مركب يحوي الكربون والهيدروجين فقط"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1189,7 +1293,8 @@
             "C₂H₄",
             "CO₂"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1200,7 +1305,8 @@
             "الإيثين",
             "الميثان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1211,7 +1317,8 @@
             "الكربون والأكسجين فقط",
             "الهيدروجين والكلور فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1222,7 +1329,8 @@
             "ترتيب ذرات الصوديوم",
             "غياب الروابط التساهمية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1233,7 +1341,8 @@
             "CₙH₂ₙ",
             "CₙH₂ₙ₋₂"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1244,7 +1353,8 @@
             "C₂H₄",
             "C₂H₂"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "11",
@@ -1255,7 +1365,8 @@
             "أكسجين وهيدروجين",
             "ملح وماء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1266,7 +1377,8 @@
             "المجموعة المعدنية",
             "السلسلة المتجانسة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1277,7 +1389,8 @@
             "C₂H₆",
             "CH₄"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1288,7 +1401,8 @@
             "التسلسل والتفرع والحلقات وأنواع الروابط والمجموعات الوظيفية",
             "عدم قدرة الكربون على الارتباط بذاته"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1299,7 +1413,8 @@
             "النفط",
             "الماء المالح"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "16",
@@ -1310,7 +1425,8 @@
             "المركبات العضوية غالبًا مركبات كربونية، مع استثناءات لبعض أكاسيد وكربونات الكربون",
             "كل المركبات العضوية أملاح"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1321,7 +1437,8 @@
             "تحديد درجة الحرارة",
             "إظهار شكل الوعاء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1332,7 +1449,8 @@
             "الميثان CH₄",
             "الإيثان C₂H₆"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "19",
@@ -1343,7 +1461,8 @@
             "Co",
             "Cr"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1354,7 +1473,8 @@
             "تكوّن رابطة واحدة فقط",
             "لا تكوّن روابط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1371,7 +1491,8 @@
             "لا توجد روابط",
             "روابط أحادية فقط"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1382,7 +1503,8 @@
             "CₙH₂ₙ",
             "CₙH₂ₙ₋₂"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1393,7 +1515,8 @@
             "C₂H₂",
             "CH₄"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1404,7 +1527,8 @@
             "C₄H₁₀",
             "C₃H₈"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1415,7 +1539,8 @@
             "C₄H₁₀",
             "C₄H₈"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1426,7 +1551,8 @@
             "البيوتان",
             "الميثان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1437,7 +1563,8 @@
             "الهكسان",
             "البروبان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1448,7 +1575,8 @@
             "غاز",
             "سائل معدني"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1459,7 +1587,8 @@
             "NaCl وماء",
             "CO₂ وH₂O"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1470,7 +1599,8 @@
             "أكثر نشاطًا دائمًا لوجود رابطة ثلاثية",
             "تحتوي روابط ثنائية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1481,7 +1611,8 @@
             "على كحول",
             "على رابطة ثلاثية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1492,7 +1623,8 @@
             "C₆H₁₀",
             "C₆H₆"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1503,7 +1635,8 @@
             "8",
             "6"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1514,7 +1647,8 @@
             "20",
             "8"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1525,7 +1659,8 @@
             "C₆H₁₂",
             "C₇H₁₆"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1536,7 +1671,8 @@
             "تحتوي رابطة C=C",
             "تحتوي رابطة C≡C"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1547,7 +1683,8 @@
             "الأكسجين وحده",
             "قد يتكون أول أكسيد الكربون أو الكربون إضافة إلى الماء"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1558,7 +1695,8 @@
             "الإيثين والإيثاين",
             "كلوريد الهيدروجين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1569,7 +1707,8 @@
             "كلاهما يحوي أربع ذرات",
             "لا يحوي أي منهما كربونًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1580,7 +1719,8 @@
             "C₄H₄",
             "C₄H₁₀"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1597,7 +1737,8 @@
             "وجود روابط أحادية فقط",
             "عدم احتوائها على هيدروجين"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1608,7 +1749,8 @@
             "احتواؤها على الأكسجين دائمًا",
             "عدم احتوائها على الكربون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1619,7 +1761,8 @@
             "CₙH₂ₙ₋₂",
             "CₙHₙ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1630,7 +1773,8 @@
             "CₙH₂ₙ₊₂",
             "CₙH₂ₙ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1641,7 +1785,8 @@
             "C₂H₂",
             "CH₄"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1652,7 +1797,8 @@
             "C₃H₈",
             "C₂H₂"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1663,7 +1809,8 @@
             "لأنها لا تحتوي كربونًا",
             "لأنها أملاح"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1674,7 +1821,8 @@
             "التعادل الحمضي القاعدي",
             "الترسيب فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1685,7 +1833,8 @@
             "ينطلق الأكسجين حتمًا",
             "يزول لون ماء البروم عند حدوث إضافة مناسبة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1696,7 +1845,8 @@
             "ثاني أكسيد الكربون",
             "الإيثان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1707,7 +1857,8 @@
             "رابطة أحادية",
             "رابطة ثلاثية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1718,7 +1869,8 @@
             "رابطة ثنائية",
             "رابطة فلزية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1729,7 +1881,8 @@
             "C₃H₄",
             "C₂H₆"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1740,7 +1893,8 @@
             "C₃H₄",
             "C₃H₆"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1751,7 +1905,8 @@
             "الأكسجين السائل",
             "النفط والغاز الطبيعي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "16",
@@ -1762,7 +1917,8 @@
             "البولي إيثين",
             "البروبان"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1773,7 +1929,8 @@
             "تبادل مواقع النواة",
             "ارتباط ذرات أو مجموعات بذرتي الكربون في الرابطة الثنائية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1784,7 +1941,8 @@
             "C₃H₈",
             "C₄H₁₀"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "19",
@@ -1795,7 +1953,8 @@
             "C₅H₁₂",
             "C₅H₈"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1806,7 +1965,8 @@
             "حساب درجة الحرارة فقط",
             "تحديد نوع الروابط وخواصها وتفاعلاتها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1823,7 +1983,8 @@
             "احتراق كيميائي عادي",
             "انتقال إلكترونات بين الذرات فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1834,7 +1995,8 @@
             "نيوترون منفرد",
             "نواة هيليوم تتكون من بروتونين ونيوترونين"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1845,7 +2007,8 @@
             "+1",
             "0"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1856,7 +2019,8 @@
             "إلكترونات سالبة فقط",
             "بروتونات بطيئة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1867,7 +2031,8 @@
             "غاما",
             "ألفا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1878,7 +2043,8 @@
             "الأشعة السينية دائمًا",
             "النيوترونات عالية الطاقة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1889,7 +2055,8 @@
             "زمن تكوين ذرة واحدة",
             "زمن دورة إلكترون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1900,7 +2067,8 @@
             "60 g",
             "80 g"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1911,7 +2079,8 @@
             "12.5 g",
             "25 g"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1922,7 +2091,8 @@
             "يزداد بمقدار 2",
             "ينقص بمقدار 1"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1933,7 +2103,8 @@
             "ينقص بمقدار 1",
             "لا يتغير"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1944,7 +2115,8 @@
             "يزداد بمقدار 1",
             "ينقص بمقدار 1"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1955,7 +2127,8 @@
             "يزدادان معًا",
             "ينقص العدد الذري 1"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1966,7 +2139,8 @@
             "لأنها تحول الإشعاع إلى صوت",
             "لأنها تمتص أو تضعف الإشعاع النافذ مثل غاما بدرجة ما"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1977,7 +2151,8 @@
             "تقليل زمن التعرض وزيادة المسافة واستخدام الحواجز المناسبة",
             "زيادة زمن التعرض"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1988,7 +2163,8 @@
             "1/8",
             "1/4"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1999,7 +2175,8 @@
             "48 g",
             "16 g"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2010,7 +2187,8 @@
             "الكيميائي يغير عدد البروتونات دائمًا",
             "لا فرق بينهما"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2021,7 +2199,8 @@
             "تنقية الهواء دون أجهزة",
             "التشخيص أو العلاج الإشعاعي بجرعات مضبوطة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2032,7 +2211,8 @@
             "لأنها لا تؤثر في المادة الحية",
             "لأنها تتحول إلى ماء فورًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     }

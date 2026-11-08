@@ -15,7 +15,8 @@
             "موقع جغرافي مميز يشرف على أهم الممرات البحرية في العالم",
             "موقع لا يتصل بأي قارة أخرى"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -26,7 +27,8 @@
             "آسيا وأمريكا الجنوبية وأفريقيا",
             "أوروبا وأفريقيا وأستراليا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -37,7 +39,8 @@
             "من 15° جنوبًا إلى 45° جنوبًا",
             "من نحو 37° شمالًا إلى نحو 2° جنوبًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -48,7 +51,8 @@
             "نحو 12 مليون كم²",
             "نحو 20 مليون كم²"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -59,7 +63,8 @@
             "بمساحة القارة القطبية الجنوبية",
             "بمساحة الجزر الصغيرة في البحر المتوسط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -70,7 +75,8 @@
             "بحر العرب",
             "المحيط الأطلسي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -81,7 +87,8 @@
             "خليج عدن",
             "المحيط الهندي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -92,7 +99,8 @@
             "المحيط الهندي وخليج عدن ومناطق ساحلية جنوبية",
             "المحيط الأطلسي فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -103,7 +111,8 @@
             "مضيق البوسفور",
             "مضيق جبل طارق"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -114,7 +123,8 @@
             "تفصل البحر الأحمر عن خليج عدن",
             "تصل بحر العرب ببحر قزوين"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -125,7 +135,8 @@
             "مضيق باب المندب",
             "مضيق جبل طارق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -136,7 +147,8 @@
             "جبل طارق",
             "قناة السويس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -147,7 +159,8 @@
             "اقتصار اتصالاته على قارة واحدة",
             "تحوله إلى منطقة داخلية بلا سواحل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -158,7 +171,8 @@
             "يشرف على القسم الأكبر من البحر المتوسط وعلى سواحله الجنوبية والشرقية",
             "يقع كله جنوب المحيط الهندي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -169,7 +183,8 @@
             "وقوعه في قارة واحدة فقط",
             "خلوه من السواحل والمضائق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -180,7 +195,8 @@
             "موقعه بالنسبة إلى ممرات السفن وحدها",
             "تحديد امتداده بخطوط الطول ودوائر العرض"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -191,7 +207,8 @@
             "الغطاء النباتي في الوطن العربي",
             "الحدود الإدارية داخل كل دولة عربية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -202,7 +219,8 @@
             "بحر قزوين والبحر الأسود فقط",
             "بحر الشمال والمحيط المتجمد الشمالي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -213,7 +231,8 @@
             "تحوله إلى كتلة منفصلة عن العالم",
             "اكتسابه أهمية استراتيجية عسكرية إلى جانب الأهمية الاقتصادية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -224,7 +243,8 @@
             "أن موقعه الفلكي وأهميته الاقتصادية والاستراتيجية جوانب ينبغي تفسيرها",
             "أن مساحته أقل من مساحة كل دولة عربية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -241,7 +261,8 @@
             "تفسير أشكال التضاريس وتحديد مناطق الثروات الباطنية والمخاطر",
             "تفسير اختلاف اللغات واللهجات"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -252,7 +273,8 @@
             "الأوراسية والأمريكية",
             "الإفريقية والهادئة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -263,7 +285,8 @@
             "حدًا بين الصفيحتين الأوراسية والهندية",
             "منطقة تباعد وانزياح للصفيحة العربية مبتعدة عن الإفريقية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -274,7 +297,8 @@
             "بانجيا",
             "أوراسيا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -285,7 +309,8 @@
             "بحر العرب",
             "البحر المتوسط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -296,7 +321,8 @@
             "حوض تيتس",
             "الدرع العربي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -307,7 +333,8 @@
             "صخور ملحية وجبسية",
             "رواسب طينية نهرية فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -318,7 +345,8 @@
             "غنية بمعادن كالحديد والذهب",
             "تحتوي على النفط وحده"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -329,7 +357,8 @@
             "تكونت كثبان رملية حديثة",
             "ترسبت رواسب سميكة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -340,7 +369,8 @@
             "حركة الانهدام الإفريقي الآسيوي الحديثة",
             "حركة المد والجزر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -351,7 +381,8 @@
             "جنوب بلاد الشام وغرب شبه الجزيرة العربية وجنوب غرب المغرب العربي",
             "شمال أوروبا وشرق آسيا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -362,7 +393,8 @@
             "بحر العرب",
             "البحر الأسود"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -373,7 +405,8 @@
             "بازلتية وجرانيتية فقط",
             "ملحية وطينية فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -384,7 +417,8 @@
             "تكوينات الفوسفات ومكامن نفط، ومنها مكامن في شمال شرقي سورية",
             "رواسب القصدير والنحاس حصراً"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -395,7 +429,8 @@
             "تكون جبال الأطلس فقط دون غيرها",
             "اختفاء السلاسل الجبلية العربية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -406,7 +441,8 @@
             "زالت حدودها الجيولوجية",
             "أخذت شكلها الحالي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -417,7 +453,8 @@
             "طبقات من الفحم",
             "مياه عذبة سطحية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -428,7 +465,8 @@
             "ارتفاع المد البحري وحده",
             "الالتواءات دون أي أثر للمناخ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -439,7 +477,8 @@
             "على سواحل البحر الأسود",
             "على سواحل البحر الأحمر والخليج العربي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -450,7 +489,8 @@
             "بضعة سنتيمترات",
             "عدة أمتار كل يوم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -467,7 +507,8 @@
             "السهول الساحلية والسهول الفيضية والجبال",
             "الهضاب والكثبان والسهول الفيضية فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -478,7 +519,8 @@
             "تنوع المناخ والغطاء النباتي",
             "اختلاف النشاط الزراعي والصناعي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -489,7 +531,8 @@
             "تقتصر تضاريسه على السهول الفيضية",
             "كتلته كبيرة، وتتنوع تضاريسه وتتباين صفاتها من مكان إلى آخر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -500,7 +543,8 @@
             "لأنها تقع بعيدًا عن البحر",
             "بسبب انتشار البحيرات الساحلية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -511,7 +555,8 @@
             "تخلو من الجروف المرتفعة",
             "تتخذ شكل خلجان عميقة متصلة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -522,7 +567,8 @@
             "اتساع السهول الفيضية",
             "قرب الجبال من البحر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -533,7 +579,8 @@
             "في سواحل البحر الأحمر كلها دون استثناء",
             "على سواحل الجبال الالتوائية فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -544,7 +591,8 @@
             "تراكم الترسبات الرملية المحمولة بالتيارات البحرية ورواسب الأنهار",
             "انكشاف قاع البحر بفعل الرياح"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -555,7 +603,8 @@
             "تكونها من رواسب نهر النيل",
             "كثرة التعاريج ووجود خلجان وفوردات، منها الخلجان الشرقية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -566,7 +615,8 @@
             "سهل الجفارة",
             "سهل الباطنة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -577,7 +627,8 @@
             "يتسع في مصبات الأودية، ولا سيما مصبات الأودية في الصومال",
             "يتكون من رواسب نهر النيل في مصر"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -588,7 +639,8 @@
             "التعرية البحرية وتراجع الأمواج",
             "النشاط البركاني وتدفق الحمم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -599,7 +651,8 @@
             "على امتداد جبال السراة",
             "في مرتفعات الأطلس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -610,7 +663,8 @@
             "تتميز بخصوبة أراضيها ونشاط الزراعة فيها",
             "تعد سهولًا ساحلية صخرية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -621,7 +675,8 @@
             "انهدام قيعان البحار الحديثة",
             "اندفاع الحمم البركانية في الزمن الحديث فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -632,7 +687,8 @@
             "في تونس، وتبلغ قمة بتّه نحو 300 متر",
             "في ليبيا، وتبلغ قمة بتّه نحو 2268 مترًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -643,7 +699,8 @@
             "تراكم الرمال بفعل الرياح",
             "انحسار الأمواج عن السواحل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -654,7 +711,8 @@
             "من الشرق إلى الغرب، نحو 3700 متر",
             "من الجنوب إلى الشمال، نحو 1650 مترًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -665,7 +723,8 @@
             "لأنها تحيط بخليج عُمان",
             "لأنها تحجز بين سهل تهامة غربًا وهضبة نجد شرقًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -676,7 +735,8 @@
             "تظهر على شكل كتل منفردة ذات صلات بازلتية، مثل جبل العرب في سورية",
             "تنشأ من تراكم الرواسب في السهول الساحلية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -693,7 +753,8 @@
             "من 1.3° إلى 37.3° شمالًا",
             "من خط الاستواء إلى 50° شمالًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -704,7 +765,8 @@
             "الكثافة السكانية ونمط العمران",
             "الثروات المعدنية واتجاهات التجارة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -715,7 +777,8 @@
             "تزداد من الغرب نحو الشرق فقط",
             "تزداد من الشمال نحو الجنوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -726,7 +789,8 @@
             "تتساوى الحرارة في الشمال والجنوب",
             "تقتصر الحرارة المرتفعة على السواحل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -737,7 +801,8 @@
             "يقع كله في النطاق الحار",
             "يمتد بين النطاقين المعتدل والبارد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -748,7 +813,8 @@
             "انعدام الفروق الحرارية بين الفصول",
             "مدى حراري يومي وفصلي واسع"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -759,7 +825,8 @@
             "يمنع سقوط الأمطار في المناطق الساحلية",
             "يجعل مناخ الداخل أكثر اعتدالًا من الساحل دائمًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -770,7 +837,8 @@
             "بارتفاعها واتجاهها وما تسببه من اختلاف في الحرارة والأمطار",
             "بمقدار الثروات الباطنية فيها"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -781,7 +849,8 @@
             "تنعدم كميته في الأجزاء الجنوبية",
             "تزداد كميته من الشمال إلى الجنوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -792,7 +861,8 @@
             "يجعل المنطقة ذات أمطار صيفية فقط",
             "يرفع الحرارة إلى المستوى نفسه طوال السنة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -803,7 +873,8 @@
             "تأثير البحر القريب",
             "سيادة الضغط المرتفع السيبيري"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -814,7 +885,8 @@
             "الضغط المرتفع فوق مدار الجدي",
             "الضغط المنخفض الهندي صيفًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -825,7 +897,8 @@
             "زيادة الإشعاع الشمسي في الشمال",
             "انعدام الرياح في جميع المناطق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -836,7 +909,8 @@
             "الإقليم المتوسطي",
             "الإقليم الاستوائي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -847,7 +921,8 @@
             "تتوزع أمطاره بالتساوي طوال العام",
             "تسقط أمطاره في الربيع فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -858,7 +933,8 @@
             "أقل من 5%",
             "أكثر من 50%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -869,7 +945,8 @@
             "أكثر من 1000 مم",
             "نحو 500 مم في كل أجزائه"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -880,7 +957,8 @@
             "في بلاد الشام وشمال العراق فقط",
             "في جميع الجزر العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -891,7 +969,8 @@
             "لا تسقط فيه أمطار مطلقًا",
             "تسقط غالبًا في فصل الصيف"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -902,7 +981,8 @@
             "تعدد إمكانات استثمارها اقتصاديًا كالزراعة والسياحة",
             "اقتصار الاستفادة على استخراج المعادن"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -919,7 +999,8 @@
             "الموارد التقليدية والموارد غير التقليدية",
             "المياه السطحية والمياه المحيطية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -930,7 +1011,8 @@
             "الصناعة والتجارة الخارجية",
             "الموقع بالنسبة لخط الاستواء فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "3",
@@ -941,7 +1023,8 @@
             "انعدام الأنهار في جميع أنحاء الوطن العربي",
             "تركز نسبة كبيرة من الموارد في دول قليلة مقابل عجز دول أخرى"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -952,7 +1035,8 @@
             "مجاري جبلية ومحيطية",
             "أنهار دائمة وبحيرات مالحة فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -963,7 +1047,8 @@
             "تتجه دائمًا نحو أحواض داخلية مغلقة",
             "تجري طوال العام بغزارة متساوية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -974,7 +1059,8 @@
             "تتجه كلها إلى الخليج العربي",
             "تتميز بقصرها وشدة انحدارها وتفاوت جريانها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -985,7 +1071,8 @@
             "تغير ملوحة البحار",
             "تغير اتجاه دوران الأرض"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -996,7 +1083,8 @@
             "نهر سبو",
             "نهر دجلة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1007,7 +1095,8 @@
             "تقتصر على شبه الجزيرة العربية",
             "تنبع من الجبال والسهول الداخلية وتتجه إلى منخفضات أو بحيرات داخلية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1018,7 +1107,8 @@
             "الأردن واليرموك",
             "السبو والملوية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "11",
@@ -1029,7 +1119,8 @@
             "بحيرة تانا في هضبة الحبشة",
             "جبال أطلس"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1040,7 +1131,8 @@
             "يتوقف جريانه نهائيًا في الصيف",
             "يصب مباشرة في البحر المتوسط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1051,7 +1143,8 @@
             "الأردن واليرموك",
             "الفرات والعاصي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1062,7 +1155,8 @@
             "الخليج العربي",
             "المحيط الأطلسي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1073,7 +1167,8 @@
             "نهر الفرات",
             "نهر سبو"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1084,7 +1179,8 @@
             "لا تتأثر بطبيعة الصخور",
             "تُقدّر خزائنها بنحو 39 مليار م³، أي قرابة 15% من مجموع الموارد المائية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1095,7 +1191,8 @@
             "مياه الأمطار الموسمية فقط",
             "مياه الآبار الجوفية غير المستثمرة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1106,7 +1203,8 @@
             "استخدامها بدل مياه الأنهار في الملاحة",
             "زيادة ملوحة التربة عمدًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1117,7 +1215,8 @@
             "انخفاض ملوحة مياه البحار العربية",
             "محدودية الموارد العذبة وارتفاع الحاجة إلى مصادر إضافية للمياه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1128,7 +1227,8 @@
             "اختلاف توافر المياه واستفادة الأقاليم منها، بما يؤثر في الزراعة والموارد المائية",
             "اختفاء الحاجة إلى السدود"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1145,7 +1245,8 @@
             "الظروف المناخية وسوء استثمار الموارد المائية",
             "انخفاض الطلب على المياه وتحسن تقنيات الري"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1156,7 +1257,8 @@
             "كلها ناتجة عن تلوث مياه البحار",
             "لا يرتبط أي منها باستغلال المياه"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1167,7 +1269,8 @@
             "0.7%",
             "92.7%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1178,7 +1281,8 @@
             "تراجع ملوحة التربة",
             "تجدد المياه الجوفية تلقائيًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1189,7 +1293,8 @@
             "تحويل المياه الجوفية إلى مياه عذبة",
             "زيادة المساحات الصالحة للزراعة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1200,7 +1305,8 @@
             "تصريف مياه الصرف في الأنهار",
             "مشاريع استنزاف المياه الجوفية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1211,7 +1317,8 @@
             "تقليص الطلب على المياه",
             "انعدام الحاجة إلى الاستثمار"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1222,7 +1329,8 @@
             "المياه الجوفية",
             "المياه المحيطية العميقة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1233,7 +1341,8 @@
             "توقف نمو المدن الساحلية",
             "ارتفاع كلفتها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1244,7 +1353,8 @@
             "إنشاء محميات ساحلية",
             "زراعة الأشجار على المنحدرات"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1255,7 +1365,8 @@
             "النفايات الصناعية",
             "مياه الأمطار"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1266,7 +1377,8 @@
             "تراجع الحاجة إلى معالجة المياه",
             "زيادة المياه المتاحة للزراعة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1277,7 +1389,8 @@
             "توقف انتقال المياه الجوفية",
             "انعدام أي خلاف على الموارد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1288,7 +1401,8 @@
             "تهديد المستقبل الاقتصادي للدول العربية",
             "انتهاء الاعتماد على الموارد المشتركة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1299,7 +1413,8 @@
             "زيادة الري بالغمر دون ضوابط",
             "وقف جميع مشاريع المياه"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1310,7 +1425,8 @@
             "الاعتماد على مصدر واحد للمياه",
             "تطوير أساليب إدارة الموارد المائية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1321,7 +1437,8 @@
             "وسط أوروبا",
             "حوض الأمازون"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1332,7 +1449,8 @@
             "لا توجد علاقة بين السكان والمياه",
             "النمو السكاني يمنع تلوث المياه"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1343,7 +1461,8 @@
             "تحويل المياه المالحة إلى عذبة تلقائيًا",
             "زيادة الضغط على الموارد المائية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1354,7 +1473,8 @@
             "تزايد الاحتياجات المائية واحتمال تأثر حصة مصر بمشروعات دول المنابع",
             "توقف نمو السكان في دول الحوض"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1371,7 +1491,8 @@
             "بالعوامل الطبيعية والبشرية",
             "بنوع الصخور فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1382,7 +1503,8 @@
             "موردًا لا يتأثر بالإنسان",
             "موردًا يقتصر وجوده على السواحل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1393,7 +1515,8 @@
             "خالية دائمًا من المواد العضوية",
             "غنية غالبًا بالمواد العضوية والمخصبات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1404,7 +1527,8 @@
             "التربة الفيضية",
             "التربة الملحية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1415,7 +1539,8 @@
             "نباتات التندرا",
             "غابات صنوبرية كثيفة في كل المناطق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1426,7 +1551,8 @@
             "نحو 5%",
             "نحو 80%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1437,7 +1563,8 @@
             "اعتدال المطر وارتفاعه عن 1000 ملم سنويًا",
             "غزارة الأمطار طوال السنة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1448,7 +1575,8 @@
             "تربة الحماد، وتربة الرق، وتربة الكثبان الرملية",
             "تربة البحر، وتربة الغابة، وتربة التندرا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1459,7 +1587,8 @@
             "في المستنقعات الساحلية فقط",
             "في الهضاب الصخرية التي تغطي مساحة واسعة من الصحارى العربية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1470,7 +1599,8 @@
             "تربة ملحية على حواف البحيرات",
             "تربة غابية غنية بالدبال"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1481,7 +1611,8 @@
             "تتكون من الرمال وتتحرك بفعل الرياح",
             "تتكون من رواسب الأنهار وتبقى ثابتة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1492,7 +1623,8 @@
             "غزارة الأمطار وانحدار السطح الشديد",
             "كثافة الغطاء الغابي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1503,7 +1635,8 @@
             "في جميع السواحل المتوسطية فقط",
             "في دلتا النيل وحدها"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1514,7 +1647,8 @@
             "على ضفاف الأودية والأنهار وفي المنخفضات النهرية",
             "في قمم الجبال الجافة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1525,7 +1659,8 @@
             "لأنها تغطي معظم الصحارى العربية",
             "لأنها شديدة الملوحة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1536,7 +1671,8 @@
             "تراكم الأملاح في المنخفضات",
             "سقوط الأمطار على الجبال وتعرّض صخورها للتجوية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1547,7 +1683,8 @@
             "زيادة سماكة الغطاء النباتي تلقائيًا",
             "تحول التربة إلى صخور نارية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1558,7 +1695,8 @@
             "توجيه جريان السيول",
             "غرس الأشرطة العشبية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1569,7 +1707,8 @@
             "زيادة الإنتاج الزراعي في كل المناطق",
             "خروج مساحات واسعة من الأراضي الزراعية من دائرة الاستثمار الزراعي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1580,7 +1719,8 @@
             "بناء المدرجات الجبلية وتوجيه جريان السيول وغرس الأشجار أو الأشرطة العشبية",
             "ترك الأراضي المتدهورة دون متابعة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1597,7 +1737,8 @@
             "أسهمت في ظهور فترات اقتصادية واجتماعية في كثير من دوله",
             "جعلت الموارد المائية غير ضرورية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1608,7 +1749,8 @@
             "الذهب والفضة",
             "الكبريت والنحاس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1619,7 +1761,8 @@
             "مصر وليبيا وتونس",
             "العراق والكويت والسعودية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "4",
@@ -1630,7 +1773,8 @@
             "حوض البحر الأحمر",
             "حوض الفرات الأوسط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1641,7 +1785,8 @@
             "حوض يختص بإنتاج الفوسفات",
             "حوض يتركز في شمال إفريقيا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1652,7 +1797,8 @@
             "العراق",
             "السعودية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1663,7 +1809,8 @@
             "في جبال الأطلس",
             "على ساحل البحر المتوسط الغربي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1674,7 +1821,8 @@
             "55%",
             "75%"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1685,7 +1833,8 @@
             "55%",
             "27%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1696,7 +1845,8 @@
             "إيقاف البحث عن موارد بديلة",
             "توسيع استغلال الموارد غير المتجددة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1707,7 +1857,8 @@
             "طاقة الرياح",
             "الغاز الطبيعي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1718,7 +1869,8 @@
             "المعادن الفلزية",
             "الفوسفات والكبريت"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1729,7 +1881,8 @@
             "انخفاض سطوع الشمس طوال العام",
             "انتشار الثلوج الدائمة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1740,7 +1893,8 @@
             "مشروع طاقة شمسية في جنوب القاهرة",
             "محطة كهرومائية في الصحراء الغربية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1751,7 +1905,8 @@
             "تتوزع بالتساوي في جميع الدول",
             "تقتصر على الجناح الآسيوي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1762,7 +1917,8 @@
             "الصومال",
             "تونس"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1773,7 +1929,8 @@
             "تعد وقودًا أحفوريًا سائلًا",
             "تستعمل بدل المياه في الري"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1784,7 +1941,8 @@
             "لا تدخل في صناعة الأسمدة",
             "لا توجد لها رواسب في سورية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1795,7 +1953,8 @@
             "يقتصر استخدامه على صناعة الزجاج",
             "يعد طرفًا أساسيًا في التقدم الاقتصادي والحضاري"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1806,7 +1965,8 @@
             "موريتانيا",
             "لبنان"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1823,7 +1983,8 @@
             "التباين في الظروف الطبيعية والبشرية",
             "اختلاف الانتماء القاري وحده"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1834,7 +1995,8 @@
             "بلاد الرافدين، آسيا الوسطى، القرن الإفريقي، ليبيا، المغرب العربي",
             "شبه الجزيرة العربية، وادي النيل، البحر المتوسط، بلاد الشام، المغرب العربي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "3",
@@ -1845,7 +2007,8 @@
             "الجزء الجنوبي من شبه الجزيرة العربية",
             "الزاوية الشمالية الغربية من آسيا العربية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1856,7 +2019,8 @@
             "لبنان وفلسطين ومصر والسودان",
             "الأردن والسعودية واليمن وعُمان"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1867,7 +2031,8 @@
             "1.76 مليون كم²",
             "4.25 مليون كم²"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1878,7 +2043,8 @@
             "تمتد بمحاذاة ساحل المحيط الهندي",
             "تمتد على شكل سلسلتين بموازاة ساحل البحر المتوسط"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1889,7 +2055,8 @@
             "البحر الأحمر",
             "المحيط الهندي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1900,7 +2067,8 @@
             "29°–37° شمالاً و34°–42° شرقاً",
             "13°–32° شمالاً و40°–53° شرقاً"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1911,7 +2079,8 @@
             "7.8 ملايين كم²",
             "434,924 كم²"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1922,7 +2091,8 @@
             "سهول ساحلية ضيقة على المحيط الهندي",
             "هضبة رملية تخلو من الأنهار"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1933,7 +2103,8 @@
             "يمتد بين 13° و32° شمالاً، ويحده شرقاً الخليج العربي وخليج عُمان وغرباً البحر الأحمر",
             "يمتد بين 18° جنوباً و30° شمالاً، ويحده شمالاً المحيط الهندي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1944,7 +2115,8 @@
             "الغربية منخفضة بلا جبال، والشرقية كلها سواحل انكسارية ضيقة",
             "الغربية سواحل أطلسية، والشرقية سواحل متوسطية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1955,7 +2127,8 @@
             "وجود جبال الأطلس على امتداده",
             "وقوعه بالكامل في شبه الجزيرة العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1966,7 +2139,8 @@
             "تتدرج من المناخ المتوسطي في الشمال إلى شبه الاستوائي في الجنوب",
             "يتدرج من المناخ الصحراوي في الشمال إلى المتوسطي في الجنوب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "15",
@@ -1977,7 +2151,8 @@
             "3.5 ملايين كم²",
             "4.25 ملايين كم²"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1988,7 +2163,8 @@
             "وقوعه في قلب الصحراء الكبرى بعيداً عن البحار",
             "وقوعه بين شبه الجزيرة العربية ووسط إفريقيا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1999,7 +2175,8 @@
             "سقطرى ودهلك وقشم وهرمز",
             "جربة وقرقنة وأبي موسى وطنب الكبرى"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2010,7 +2187,8 @@
             "بين الجزائر غرباً والسودان جنوباً",
             "بين تونس شمالاً والقرن الإفريقي جنوباً"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2021,7 +2199,8 @@
             "290 ألف كم²، وهو أصغر الأقاليم مساحة",
             "4.25 ملايين كم²، وهو أوسع الأقاليم العربية مساحة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2032,7 +2211,8 @@
             "سواحل متباينة، تليها جبال الأطلس، ثم هضاب وسطى، وفي الجنوب هضبة صحراوية",
             "سهول منخفضة تحيط بها مرتفعات الصومال من جميع الجهات"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2049,7 +2229,8 @@
             "ارتفاع معدلات النمو السكاني والزيادة الكبيرة والمستمرة في أعداد السكان",
             "انخفاض عدد السكان مع ارتفاع متوسط الأعمار"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2060,7 +2241,8 @@
             "269 مليون نسمة",
             "76 مليون نسمة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2071,7 +2253,8 @@
             "نحو 76 مليون نسمة",
             "نحو 477 مليون نسمة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2082,7 +2265,8 @@
             "3%",
             "7%"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2093,7 +2277,8 @@
             "يتوزع السكان بالتساوي بين القسمين",
             "يتركز جميع السكان تقريبًا في القسم الأفريقي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -2104,7 +2289,8 @@
             "الجزائر والمغرب والأردن والبحرين",
             "مصر والسودان والجزائر والمغرب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "7",
@@ -2115,7 +2301,8 @@
             "النمط الخطي المتعامد مع الساحل",
             "النمط المتجمع في المدن الداخلية فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -2126,7 +2313,8 @@
             "يتخذ شكل امتدادات طولية متعامدة على الساحل",
             "يقتصر على قمم الجبال"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2137,7 +2325,8 @@
             "بتركز السكان في المدن الساحلية وحدها",
             "بمساحات واسعة شبه متصلة، مثلما يظهر في السودان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -2148,7 +2337,8 @@
             "تركز السكان على امتداد الساحل",
             "استقرار السكان حول العاصمة فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -2159,7 +2349,8 @@
             "توفر المياه والتربة الخصبة والظروف الملائمة للزراعة",
             "ارتفاع الملوحة والجفاف"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -2170,7 +2361,8 @@
             "لوجود صناعات نفطية في كلتا المنطقتين",
             "لأنها تقع على ضفاف نهر النيل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -2181,7 +2373,8 @@
             "تراجع حركة التجارة بين المدن",
             "انعدام وسائل النقل بين المناطق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -2192,7 +2385,8 @@
             "ترتبط أنماط الاستقرار بالنظام الاجتماعي؛ فالمناطق الرعوية قليلة السكان مقارنة بمناطق الملكيات الزراعية الصغيرة",
             "تؤدي إلى تساوي الكثافة بين الريف والصحراء"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -2203,7 +2397,8 @@
             "يقلل فرص العمل والخدمات في المدن",
             "يجعل السكان يتركزون في المناطق الصحراوية البعيدة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -2214,7 +2409,8 @@
             "تساوي معدلات الولادة والوفاة في جميع الدول",
             "ارتفاع معدلات الولادات في معظم الدول العربية مقارنة بالوفيات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -2225,7 +2421,8 @@
             "أقطار ساحلية وداخلية",
             "أقطار آسيوية وأقطار أفريقية فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2236,7 +2433,8 @@
             "تراجع الضغط على الخدمات العامة",
             "انخفاض أعداد السكان في المدن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2247,7 +2445,8 @@
             "هجرة زراعية وهجرة صناعية",
             "هجرة داخلية وهجرة خارجية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2258,7 +2457,8 @@
             "هجرة كفاءات عربية إلى دول متقدمة، وهجرة عمالة إلى بلدان عربية مجاورة",
             "انتقال الرعاة الموسمي بين المراعي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -2275,7 +2475,8 @@
             "مجتمع له اتجاه عقلي ومجموعة عادات وتقاليد وروابط ثقافية",
             "مركز صناعي لا يضم سكانًا دائمين"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2286,7 +2487,8 @@
             "لأن المدن لا تمتلك وظائف إدارية",
             "لأن المدن العربية تقع جميعها على السواحل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2297,7 +2499,8 @@
             "عدد الأنهار التي تعبر حدودها",
             "عدد السكان أو الوظيفة الإدارية أو الأهمية التجارية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2308,7 +2511,8 @@
             "أكثر من 5,000 نسمة",
             "أكثر من 50,000 نسمة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2319,7 +2523,8 @@
             "العمر واللغة وحدهما",
             "الموارد المعدنية فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -2330,7 +2535,8 @@
             "وجود الأراضي الصحراوية الواسعة",
             "صعوبة البناء والاتصال في الجبال، مع اتصالها بالسهول والجبال المجاورة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -2341,7 +2547,8 @@
             "لأن السواحل تخلو من النشاط الاقتصادي",
             "بسبب انعدام الحاجة إلى الموانئ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -2352,7 +2559,8 @@
             "عند مناطق التقاء الأنهار، مثل مدينة الخرطوم في السودان",
             "عند مصبات الأنهار فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2363,7 +2571,8 @@
             "صفاقس",
             "مراكش"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -2374,7 +2583,8 @@
             "الخرطوم",
             "مراكش"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -2385,7 +2595,8 @@
             "تنمو على شكل حلقات متباينة حول نقطة مركزية، وتنطلق منها طرق شعاعية",
             "تنتشر بلا مركز أو شبكة طرق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -2396,7 +2607,8 @@
             "القاهرة",
             "بغداد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -2407,7 +2619,8 @@
             "في شكل مربعات متساوية حول مركز",
             "على سفح جبل دون امتداد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -2418,7 +2631,8 @@
             "إعاقة امتدادها العرضي بوجود عائق طبوغرافي كالجبل أو الهضاب",
             "تحولها بالضرورة إلى مدينة صغيرة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -2429,7 +2643,8 @@
             "اعتمادها على مجرى نهر متعرج",
             "غياب الطرق المنظمة تمامًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -2440,7 +2655,8 @@
             "تجعل التخطيط الدقيق مستحيلًا",
             "تسهل توزيع المساكن والمؤسسات وتخطيط الطرق بدرجة دقيقة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -2451,7 +2667,8 @@
             "مدينة تتخصص حصرًا في السياحة العلاجية",
             "عاصمة سياسية لجميع الدول العربية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2462,7 +2679,8 @@
             "القيام بوظائف العاصمة السياسية",
             "أن تكون مركزًا للنمو الفكري والثقافي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2473,7 +2691,8 @@
             "تراجع النشاط الصناعي والتجاري وحده",
             "السكن العشوائي، ونقص المياه، والنقل والازدحام، والصرف الصحي، والنفايات، وتلوث الهواء والمياه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "20",
@@ -2484,7 +2703,8 @@
             "التخطيط العمراني لضبط الأزمات وحركة السكان والعمران مع الحفاظ على صحة الإنسان وسلامته وجمال المدينة",
             "الاعتماد على نقل السكان إلى المدن الساحلية فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2501,7 +2721,8 @@
             "توفر المنتجات الغذائية والمواد الأولية للصناعات التحويلية",
             "تلغي الحاجة إلى استيراد جميع السلع فورًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2512,7 +2733,8 @@
             "لا تتجاوز 1% في أي دولة",
             "تساوي مساهمة الصناعة التحويلية تمامًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "3",
@@ -2523,7 +2745,8 @@
             "التقدم التقني",
             "التضاريس"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2534,7 +2757,8 @@
             "التضاريس والمناخ",
             "المياه والتربة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2545,7 +2769,8 @@
             "الزراعة الكثيفة",
             "الزراعة الواسعة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -2556,7 +2781,8 @@
             "بالمناطق الساحلية الرطبة فقط",
             "بالمناطق قليلة الكثافة السكانية واتساع المساحات المزروعة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -2567,7 +2793,8 @@
             "الاعتماد على الأمطار وحدها",
             "ممارستها حصراً في المناطق الصحراوية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -2578,7 +2805,8 @@
             "سوريا",
             "تونس"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2589,7 +2817,8 @@
             "المطاط",
             "القمح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -2600,7 +2829,8 @@
             "البطاطا والبندورة",
             "القطن وقصب السكر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "11",
@@ -2611,7 +2841,8 @@
             "قصب السكر وبنجر السكر",
             "القطن والكتان"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -2622,7 +2853,8 @@
             "ينمو في التربة المالحة دون مياه",
             "يُزرع في المرتفعات الجافة فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -2633,7 +2865,8 @@
             "لا يستخدم في صناعة المنسوجات",
             "يزرع في كل مكان بصرف النظر عن الماء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -2644,7 +2877,8 @@
             "في مصر وسوريا والمغرب",
             "في السودان واليمن فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -2655,7 +2889,8 @@
             "لا تنتشر إلا في السواحل المطيرة",
             "تُعد محصولًا حقليًا شتويًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "16",
@@ -2666,7 +2901,8 @@
             "تربية في مزارع صناعية ساحلية حصرًا",
             "الرعي في مناطق المراعي المعتدلة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -2677,7 +2913,8 @@
             "الجاموس",
             "الإبل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2688,7 +2925,8 @@
             "انخفاض التنوع الحيوي",
             "ابتعادها عن السواحل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2699,7 +2937,8 @@
             "الاكتفاء الذاتي الكامل من الغذاء",
             "محدودية الموارد المائية وضعف مردود بعض الأراضي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2710,7 +2949,8 @@
             "تطوير مشاريع الري واستصلاح الأراضي",
             "إهمال استصلاح الأراضي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2727,7 +2967,8 @@
             "مرحلة أولى تتركز فيها على الصناعات الاستهلاكية",
             "مرحلة متخصصة في صناعة الآلات فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2738,7 +2979,8 @@
             "تكرير النفط والغاز",
             "صناعة السيارات والطائرات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2749,7 +2991,8 @@
             "نحو 50%",
             "نحو 1.1%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2760,7 +3003,8 @@
             "15%",
             "80%"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2771,7 +3015,8 @@
             "أربع مراحل",
             "خمس مراحل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -2782,7 +3027,8 @@
             "توطين صناعي مخطط منذ البداية",
             "انتشار عشوائي غير مخطط"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -2793,7 +3039,8 @@
             "اختفاء المدن الصناعية",
             "تراجع أهمية النقل والمواصلات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -2804,7 +3051,8 @@
             "توزيع المنشآت بصورة متوازنة ونشر الرفاهية",
             "إلغاء دور الحكومات في الصناعة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2815,7 +3063,8 @@
             "في مناطق الغابات الكثيفة",
             "في حقول استخراج النفط والغاز ومناطق استخراج المعادن"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -2826,7 +3075,8 @@
             "نقل النفط، ثم تكريره، ثم استخراجه",
             "استخراج النفط، ثم تكريره، ثم نقله"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -2837,7 +3087,8 @@
             "ينتج فائضًا كبيرًا، ويصدر أكثر من 70% من إنتاجه الخام إلى الخارج",
             "يصدر كامل إنتاجه ولا يستهلك منه شيئًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -2848,7 +3099,8 @@
             "لأن النفط العربي لا يصلح للتكرير",
             "لعدم وجود طلب على المنتجات النفطية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -2859,7 +3111,8 @@
             "غاز ينتج من تكرير الإسمنت",
             "غاز يتكون من معالجة خام الحديد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -2870,7 +3123,8 @@
             "اعتمادها على الغاز الطبيعي مادةً أولية",
             "ضرورة وجودها في مراكز المدن الكبيرة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -2881,7 +3135,8 @@
             "الحديد والفحم الحجري",
             "الملح والقطن"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "16",
@@ -2892,7 +3147,8 @@
             "غياب الحاجة إلى منتجات الحديد",
             "ضعف وسائل النقل والطاقة أو ضيق الأسواق في بعض المواقع"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -2903,7 +3159,8 @@
             "حصرها في المناطق الصحراوية النائية",
             "إنشاؤها داخل الحقول النفطية حصرًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2914,7 +3171,8 @@
             "تعتمد أساسًا على النفط الخام",
             "لا تحتاج إلى مواد أولية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2925,7 +3183,8 @@
             "50%",
             "نحو 15%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2936,7 +3195,8 @@
             "لما تسببه من تلوث وضوضاء ولتجنب إضرارها بصحة السكان",
             "لأنها لا توفر فرص عمل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2953,7 +3213,8 @@
             "توفر الخامات الزراعية والحيوانية والأسواق المناسبة",
             "وجود موانئ تصدير فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2964,7 +3225,8 @@
             "صناعة تكرير النفط",
             "صناعة الآلات الثقيلة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2975,7 +3237,8 @@
             "صناعة الأثاث التقليدي",
             "الصناعة الغذائية في مصانع حديثة مزودة بمعدات متطورة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "4",
@@ -2986,7 +3249,8 @@
             "زيادة الاعتماد على الواردات",
             "إيقاف التصنيع المحلي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2997,7 +3261,8 @@
             "وفرة المواد الخام وانخفاض تكاليفها",
             "سهولة نقل المنتجات وعدم تأثرها بالظروف المناخية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "6",
@@ -3008,7 +3273,8 @@
             "يؤدي إلى اقتصار الصناعة على الأرياف",
             "يساعد على حفظ المواد الغذائية والتخفيف من المشكلة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -3019,7 +3285,8 @@
             "ليبيا",
             "لبنان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -3030,7 +3297,8 @@
             "السكر",
             "الورق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -3041,7 +3309,8 @@
             "صناعة الزجاج",
             "استخدام بقاياه في صناعة الورق"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -3052,7 +3321,8 @@
             "عدم وجود طلب على الزيوت",
             "توافر منتجات نباتية متنوعة بكميات كبيرة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3063,7 +3333,8 @@
             "الزيتون ومحاصيل البذور الزيتية",
             "الأرز وقصب السكر"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3074,7 +3345,8 @@
             "السودان والصومال وجيبوتي",
             "السعودية وقطر والإمارات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -3085,7 +3357,8 @@
             "صناعة حديثة لا تستخدم الألياف الطبيعية",
             "صناعة تقتصر على المنتجات النفطية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -3096,7 +3369,8 @@
             "القطن والصوف والوبر والشعر والحرير الطبيعي",
             "الرخام والجبس والإسمنت"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -3107,7 +3381,8 @@
             "بموانئ تصدير النفط وحدها",
             "بمناطق زراعة الزيتون الساحلية فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -3118,7 +3393,8 @@
             "وفرة الإنتاج بما يفوق الاستهلاك",
             "نقص العمالة الماهرة والتقنيات والتجهيزات الحديثة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -3129,7 +3405,8 @@
             "تقتصر على استخراج الثروات الباطنية",
             "لا تنتج أي سلع قابلة للبيع"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -3140,7 +3417,8 @@
             "الأسمدة الكيميائية وحدها",
             "أجهزة الحاسوب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -3151,7 +3429,8 @@
             "تعتمد على خطوط إنتاج آلية بالكامل",
             "تعتمد على القوة البدنية والمهارة الفنية وتستخدم كميات قليلة من المواد الخام"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -3162,7 +3441,8 @@
             "هدف الصناعة: زيادة الإنتاج أو رفع قيمته أو زيادة فرص العمل أو تغطية حاجة السوق أو تقليل الواردات",
             "تركيز الصناعة في العاصمة فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3179,7 +3459,8 @@
             "تُعد موردًا أساسيًا للدخل القومي وتسهم في فرص العمل وتوسيع القاعدة الإنتاجية",
             "تُعد موردًا ثانويًا لا صلة له بالدخل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -3190,7 +3471,8 @@
             "تونس",
             "الأردن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -3201,7 +3483,8 @@
             "9.2%",
             "20.9%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -3212,7 +3495,8 @@
             "12.6%",
             "9.2%"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -3223,7 +3507,8 @@
             "المعالم العمرانية والاستثمارات والعمالة",
             "التراث الحضاري والمعالم العمرانية والقوة العاملة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -3234,7 +3519,8 @@
             "الموقع الجغرافي",
             "الاستقرار السياسي والأمني"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -3245,7 +3531,8 @@
             "يجعل السياحة مقتصرة على فصل الشتاء",
             "يمنع الاتصال بين مناطق الجذب السياحي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -3256,7 +3543,8 @@
             "لأن مناخ بعض المناطق المعتدل شتاءً يتيح زيارة مواقع سياحية",
             "لأن حركة السياح تتوقف في الصيف"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -3267,7 +3555,8 @@
             "المهرجانات الثقافية",
             "تضاريس الجبال"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -3278,7 +3567,8 @@
             "تراث مرتبط بالزراعة وحدها",
             "تراث يقتصر على المدن الساحلية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3289,7 +3579,8 @@
             "القصور والقلاع والحصون",
             "محطات توليد الكهرباء"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3300,7 +3591,8 @@
             "بإغلاق مرافق الإقامة",
             "بالحد من التدريب والتأهيل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -3311,7 +3603,8 @@
             "وجود المواقع الأثرية",
             "اعتدال المناخ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -3322,7 +3615,8 @@
             "تراجع الحركة السياحية وانعكاس ذلك سلبًا على الدخل السياحي",
             "زيادة الاستقرار السياسي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -3333,7 +3627,8 @@
             "سياحة المؤتمرات",
             "سياحة الغوص"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -3344,7 +3639,8 @@
             "سياحة الغابات المطيرة",
             "السياحة الشاطئية والغطس"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -3355,7 +3651,8 @@
             "تقام في الصحراء بعيدًا عن البحر",
             "لا ترتبط بالأنشطة البحرية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -3366,7 +3663,8 @@
             "السياحة الصناعية فقط",
             "سياحة المناجم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -3377,7 +3675,8 @@
             "مخيمات مخصصة للبعثات الأثرية فقط",
             "وحدات صغيرة للإقامة في بعض المناطق العمرانية الجديدة والمناطق السياحية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -3388,7 +3687,8 @@
             "سياحة المهرجانات مثل مهرجان السينما ومهرجان الغردقة لصيد الأسماك",
             "زيارات المناجم ومواقع التعدين"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3405,7 +3705,8 @@
             "ربط دول العالم عبر شبكة نقل برية وبحرية وجوية",
             "الاعتماد على النقل النهري دون غيره"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -3416,7 +3717,8 @@
             "الصناعة وحدها",
             "عدد المطارات فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "3",
@@ -3427,7 +3729,8 @@
             "حوّلت النقل البري إلى نقل نهري",
             "فرضت امتدادات طويلة وتضاريس متعرجة للطرق، مع أنفاق في بعض المناطق"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -3438,7 +3741,8 @@
             "زيادة صلاحية الأرض للسكك الحديدية",
             "إلغاء الحاجة إلى وسائل النقل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -3449,7 +3753,8 @@
             "تقتصر على الساحل الغربي",
             "لا توجد فيه طرق برية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -3460,7 +3765,8 @@
             "بسبب كثرة الموانئ",
             "بسبب الرياح الرملية الصحراوية وما تسببه من صعوبة صيانة الطرق"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -3471,7 +3777,8 @@
             "تحولها إلى طرق صحراوية مستقيمة",
             "اختفاء النقل البري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -3482,7 +3789,8 @@
             "تلبيتها احتياجات نقل الركاب والبضائع بين المدن والمناطق",
             "كونها تربط الموانئ فقط دون المدن"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -3493,7 +3801,8 @@
             "تقتصر على نقل البضائع إلى الموانئ",
             "تتيح نقل الركاب والبضائع بين المدن والمناطق وتخدم قطاعات اقتصادية متعددة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -3504,7 +3813,8 @@
             "توجد فقط في دول الخليج",
             "لا تستخدم لنقل الركاب"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3515,7 +3825,8 @@
             "اختلاف عرض السكك الحديدية بين بعض الدول وقلة الترابط بين الشبكات",
             "اقتصار القطارات على نقل الركاب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3526,7 +3837,8 @@
             "أنها لا تنقل البضائع",
             "أنها لا تخدم المدن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -3537,7 +3849,8 @@
             "لأن مطاراته لا تستقبل الرحلات الدولية",
             "لأنه يعتمد على النقل النهري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -3548,7 +3861,8 @@
             "يربط بين أوروبا وأفريقيا",
             "لا يرتبط بخطوط الطيران الدولية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -3559,7 +3873,8 @@
             "عدم وجود طرق برية",
             "اعتماده على الموانئ الصناعية الساحلية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -3570,7 +3885,8 @@
             "نهر العاصي",
             "نهر النيل"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -3581,7 +3897,8 @@
             "موانئ محلية ودولية فقط",
             "موانئ جوية وموانئ برية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -3592,7 +3909,8 @@
             "لغة سكان المدينة",
             "عدد الطرق الصحراوية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -3603,7 +3921,8 @@
             "مواقع حقول القمح",
             "امتداد طرق بحرية تصل مناطق الوطن العربي وموانئه عبر المسطحات المائية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -3614,7 +3933,8 @@
             "زادت قدرة دول الوطن العربي على الاتصال والحصول على المعلومات عبر تقنيات المعلومات والاتصالات وخدمات الشبكات",
             "استبدلت الطرق البرية بالموانئ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3631,7 +3951,8 @@
             "تُعد وسيلة مهمة لتحقيق التنمية والتقدم",
             "تؤدي إلى الاستغناء عن التعاون العربي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -3642,7 +3963,8 @@
             "يؤدي نمو التجارة دائمًا إلى خفض الدخل القومي",
             "يتحدد حجم التجارة بالتضاريس وحدها"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -3653,7 +3975,8 @@
             "مقتصرًا على التجارة البينية العربية",
             "مرتبطًا بها عمومًا ارتباطًا كبيرًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -3664,7 +3987,8 @@
             "الصادرات البينية مساوية لها",
             "لا يورد النص مقارنة بينهما"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -3675,7 +3999,8 @@
             "990 مليار دولار",
             "1066 مليار دولار"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -3686,7 +4011,8 @@
             "توقف التجارة العالمية عن استيراد السلع العربية",
             "المعوقات ذات الطبيعة الإدارية والاقتصادية، ومنها القيود الجمركية والاتفاقات التجارية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -3697,7 +4023,8 @@
             "ضعف الاتصالات",
             "عدم توافر وسائل النقل في العالم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -3708,7 +4035,8 @@
             "ارتفعت من 279 إلى 1066 مليار دولار",
             "تذبذبت دون اتجاه عام"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -3719,7 +4047,8 @@
             "1066 مليار دولار",
             "653 مليار دولار"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -3730,7 +4059,8 @@
             "75%",
             "38%"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3741,7 +4071,8 @@
             "4%",
             "19%"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3752,7 +4083,8 @@
             "75%",
             "90%"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -3763,7 +4095,8 @@
             "انخفاض الحاجة إلى التجارة الخارجية",
             "توقف استيراد السلع الغذائية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -3774,7 +4107,8 @@
             "تعميق التبعية وضعف التكامل الاقتصادي",
             "انخفاض الحاجة إلى تنسيق السياسات"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -3785,7 +4119,8 @@
             "تقييد حركة النقل بين الدول",
             "الاعتماد على مورد واحد للتصدير"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -3796,7 +4131,8 @@
             "انعدام النمو السكاني في الدول العربية",
             "النمو السكاني الكبير وما يرتبط به من صعوبة توفير فرص العمل"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -3807,7 +4143,8 @@
             "الأمية لا ترتبط بالتنمية",
             "تقتصر الأمية على فئة المتعلمين"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -3818,7 +4155,8 @@
             "لا يحتاج إلى تمويل أو تخطيط",
             "يقتصر على الصناعات الغذائية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -3829,7 +4167,8 @@
             "نقل جميع المؤسسات إلى دولة واحدة",
             "اتفاق دولتين أو أكثر على تسهيل وتسيير العلاقات الاقتصادية بينها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -3840,7 +4179,8 @@
             "إزالة القيود أمام انتقال السلع وعناصر الإنتاج وتوحيد السياسات الاقتصادية والاجتماعية",
             "إلغاء التنسيق والتخطيط المشترك"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3857,7 +4197,8 @@
             "سبع درجات",
             "ثلاث عشرة درجة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -3868,7 +4209,8 @@
             "ثلاث درجات",
             "عشر درجات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -3879,7 +4221,8 @@
             "815180 كم²",
             "185180 كم²"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -3890,7 +4233,8 @@
             "13%",
             "0.13%"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -3901,7 +4245,8 @@
             "من الدول الجزرية",
             "من الدول عديمة السواحل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -3912,7 +4257,8 @@
             "بعدها عن المراكز التجارية والأسواق",
             "وقوعها ضمن منطقة معتدلة دافئة وشرق المتوسط"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -3923,7 +4269,8 @@
             "813 كم",
             "359 كم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -3934,7 +4281,8 @@
             "تركيا",
             "لبنان"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -3945,7 +4293,8 @@
             "454 كم",
             "696 كم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -3956,7 +4305,8 @@
             "454 كم",
             "74 كم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3967,7 +4317,8 @@
             "74 كم",
             "359 كم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3978,7 +4329,8 @@
             "2143 كم",
             "241 كم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -3989,7 +4341,8 @@
             "حدود بحرية فقط",
             "حدود لم تحددها الخرائط والمعاهدات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -4000,7 +4353,8 @@
             "الحقوق التاريخية والضرورات الاقتصادية والمتطلبات الدفاعية",
             "مواقع الأسواق العالمية حصريًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -4011,7 +4365,8 @@
             "نقلت الحدود إلى شمال جبال طوروس",
             "ألغت الحدود مع العراق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -4022,7 +4377,8 @@
             "الأراضي الأردنية",
             "الأراضي السورية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -4033,7 +4389,8 @@
             "تغيّر مجرى نهر العاصي",
             "ضم غور الأردن"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -4044,7 +4401,8 @@
             "من جبال طوروس",
             "من بلدة بانياس على الحدود اللبنانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -4055,7 +4413,8 @@
             "بعيدًا عن البحيرة باتجاه البقاع",
             "بموازاة الضفة الشرقية للبحيرة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4066,7 +4425,8 @@
             "حدود هندسية خطية رسمت لمصالح، وتتعايش مع الظواهر الطبيعية ولا تقسم أبناء الوطن الواحد",
             "حدود بحرية لا تشمل دولًا مجاورة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4083,7 +4443,8 @@
             "تباين حركة الصفائح التكتونية وما نتج عنها من أحداث جيولوجية عبر الأزمنة المختلفة",
             "اتساع المدن على حساب الأراضي الزراعية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -4094,7 +4455,8 @@
             "الصفيحة الأوراسية",
             "الصفيحة الهندية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -4105,7 +4467,8 @@
             "نحو الشرق",
             "نحو الشمال"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -4116,7 +4479,8 @@
             "تراجع الساحل السوري نحو الداخل",
             "نشوء منخفضات رملية واسعة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -4127,7 +4491,8 @@
             "نحو 1–2 متر سنويًا",
             "نحو 100–200 سم سنويًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -4138,7 +4503,8 @@
             "مقياس الأطوال الطبوغرافية",
             "مقياس ريختر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -4149,7 +4515,8 @@
             "5.2 درجات",
             "9.2 درجات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -4160,7 +4527,8 @@
             "تطبيق اشتراطات البناء المقاوم للزلازل والتوعية والتدريب على الإخلاء",
             "إزالة المرتفعات من المناطق المأهولة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -4171,7 +4539,8 @@
             "المرتفعات الشرقية وحدها",
             "الساحل والسهول الساحلية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -4182,7 +4551,8 @@
             "يتكون من شواطئ رملية مستقيمة بلا تعرج",
             "يقع كله خلف سلسلة جبلية داخلية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -4193,7 +4563,8 @@
             "ظهور جروف ساحلية",
             "اتساع السهل باتجاه البحر"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -4204,7 +4575,8 @@
             "جبال التدمر",
             "جبال عبد العزيز"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -4215,7 +4587,8 @@
             "من الجنوب الشرقي إلى الشمال الغربي",
             "من الغرب إلى الشرق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -4226,7 +4599,8 @@
             "يبلغ ارتفاعه نحو 1722 مترًا",
             "يشكل جزءًا من السهل الساحلي المنخفض"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -4237,7 +4611,8 @@
             "نهر الخابور",
             "نهر بردى"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -4248,7 +4623,8 @@
             "ترسيب جليدي قادم من الجبال",
             "انهدام أجزاء من الأرض وامتلاء المنخفض بالترسبات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -4259,7 +4635,8 @@
             "جبال الساحل",
             "جبل الأقرع"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -4270,7 +4647,8 @@
             "بأنها تقع في أقصى شمال شرق سورية",
             "بأنها تشكل سهلًا واسعًا حول نهر الفرات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -4281,7 +4659,8 @@
             "تقتصر على سهل الغاب وحده",
             "تضم سهول الجزيرة والفرات ووادي الخابور"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4292,7 +4671,8 @@
             "تقع شرق الجبال الغربية وتتدرج نحو الداخل السوري",
             "تقتصر على شمال جبل لبنان الشرقي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4309,7 +4689,8 @@
             "مناخ البحر المتوسط المعتدل مع شتاء ممطر وصيف حار جاف",
             "المناخ الاستوائي المطير طوال العام"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -4320,7 +4701,8 @@
             "الشتاء والربيع",
             "الصيف والخريف"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -4331,7 +4713,8 @@
             "تقع سورية جنوب خط الاستواء",
             "تقع سورية بين دائرتي عرض 32° و37° شمالاً ضمن المنطقة المعتدلة الشمالية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -4342,7 +4725,8 @@
             "جعل الهطول متساوياً في جميع المناطق",
             "إلغاء الفروق بين فصلي الصيف والشتاء"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -4353,7 +4737,8 @@
             "تحول جميع مناطق سورية إلى مناخ صحراوي",
             "انعدام تأثير الموقع الجغرافي في المناخ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -4364,7 +4749,8 @@
             "على مدار السنة، وتبلغ 500 ملم بالضبط",
             "في فصل الشتاء، وقد تزيد على 1000 ملم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -4375,7 +4761,8 @@
             "مناخاً قارياً بارداً حصراً",
             "مناخاً قطبياً جافاً"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -4386,7 +4773,8 @@
             "تؤثر الجبال الموازية للساحل في اتجاه الكتل الجبلية وتوزيع الأمطار، وتقل الأمطار شرقاً لقلة التضاريس",
             "تتبع الأمطار خطوط الطول وحدها"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -4397,7 +4785,8 @@
             "المحيط الهادئ",
             "الضغط المرتفع السيبيري"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -4408,7 +4797,8 @@
             "في الصيف فقط",
             "في كل الفصول بالتساوي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -4419,7 +4809,8 @@
             "4.7 م/ثا",
             "5.6 م/ثا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -4430,7 +4821,8 @@
             "في نهاية أيلول",
             "في منتصف كانون الثاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -4441,7 +4833,8 @@
             "الرياح الشرقية الجافة فقط",
             "ارتفاع الحرارة الصيفية والتبخر وحدهما"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -4452,7 +4845,8 @@
             "تجبر الجبال الرياح على الارتفاع، فيؤدي ذلك إلى هطول الأمطار والثلوج",
             "تمنع وصول المنخفضات الجوية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -4463,7 +4857,8 @@
             "توجد في البادية فقط وأمطارها أقل من 200 ملم",
             "تغطي الجبال العالية حصراً وأمطارها لا تتجاوز 200 ملم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -4474,7 +4869,8 @@
             "في قمم الجبال فقط، وأمطارها بين 800 و1200 ملم",
             "في المنطقة الشمالية من الجزيرة وضمن سهل الغاب ووادي العاصي وسهول حوران، وتتراوح أمطارها بين 200 و500 ملم سنوياً"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -4485,7 +4881,8 @@
             "البلوط والسنديان والبطْم، وحيواناتها الحجل واللقلاق",
             "الشيح والشنان فقط، ولا توجد فيها حيوانات"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -4496,7 +4893,8 @@
             "تتلقى أكثر من 1200 ملم سنوياً",
             "لا تختلف في أمطارها عن البيئة الساحلية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -4507,7 +4905,8 @@
             "الدب والماعز الجبلي فقط",
             "الضبع والذئب والسنجاب والأرنب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4518,7 +4917,8 @@
             "تكثر في المناطق التي يزيد ارتفاعها على 1500 م، وتهطل في مناطق ارتفاعها 1000–1500 م مع الأمطار والثلوج، وتندر في المناطق البادية",
             "تسقط في البادية أكثر من الجبال"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4535,7 +4935,8 @@
             "سبعة أحواض",
             "أحد عشر حوضًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -4546,7 +4947,8 @@
             "حوض دمشق وبردى والأعوج",
             "حوض العاصي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -4557,7 +4959,8 @@
             "نهر الساجور",
             "نهر العاصي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -4568,7 +4971,8 @@
             "البحر الأسود",
             "بحيرة طبريا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -4579,7 +4983,8 @@
             "يجري من الشرق إلى الغرب، وتثبت غزارته طوال العام",
             "يجري من الغرب إلى الشرق، وينقطع جريانه شتاءً"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -4590,7 +4995,8 @@
             "مياه الري الراجعة",
             "الأمطار والينابيع"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -4601,7 +5007,8 @@
             "استخراج الملح فقط",
             "تغذية قناة السويس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -4612,7 +5019,8 @@
             "في تركيا",
             "في العراق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -4623,7 +5031,8 @@
             "من الشرق إلى الغرب",
             "من الشمال إلى الجنوب الشرقي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -4634,7 +5043,8 @@
             "مشروع سد قطينة",
             "مشروع سد تشرين على العاصي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -4645,7 +5055,8 @@
             "الخابور",
             "الفرات"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -4656,7 +5067,8 @@
             "الأعوج",
             "النهر الكبير الشمالي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -4667,7 +5079,8 @@
             "بحر قزوين",
             "الخليج العربي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -4678,7 +5091,8 @@
             "94%",
             "4%"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -4689,7 +5103,8 @@
             "توقف جريان جميع الأنهار",
             "توسع الملاحة البحرية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -4700,7 +5115,8 @@
             "انعدام المواد العضوية في جميع أنواع الترب",
             "التعرية والانجراف المائي، ولا سيما في المناطق الساحلية والجبلية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -4711,7 +5127,8 @@
             "50%",
             "25%"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -4722,7 +5139,8 @@
             "الرمال والصخور الكلسية فقط",
             "الكلس والحديد في كل أنواع التربة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -4733,7 +5151,8 @@
             "توقف تشكل السيول",
             "الانجراف المائي في المناطق الساحلية، ولا سيما الجبلية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4744,7 +5163,8 @@
             "انخفاض مساحة الأراضي القابلة للزراعة وتراجع إنتاج بعض المحاصيل",
             "تحول الأراضي الزراعية إلى بحيرات دائمة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4761,7 +5181,8 @@
             "أوجد مجموعة متنوعة من المعادن المهمة القابلة للاستثمار الاقتصادي",
             "منع تشكل الأحواض الداخلية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -4772,7 +5193,8 @@
             "استخراج الفوسفات من الجبال",
             "تراكم الرمال بفعل الرياح فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -4783,7 +5205,8 @@
             "نحو 45%",
             "نحو 4.5%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -4794,7 +5217,8 @@
             "عام 1958",
             "عام 1972"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -4805,7 +5229,8 @@
             "حقل التنك",
             "حقل التيم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -4816,7 +5241,8 @@
             "حوارين، الرصافة، والقمح",
             "السويدية، رميلان، وعمر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "7",
@@ -4827,7 +5253,8 @@
             "اختفاء الحقول في منطقة الجزيرة",
             "تحول النفط إلى مورد غير مستثمر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -4838,7 +5265,8 @@
             "أهم حقوله سنجار وجبسة والتيمية، ويقدر الاحتياطي بنحو 27 مليار م³",
             "اكتشف أول مرة عام 1946 في السويدية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -4849,7 +5277,8 @@
             "72%",
             "20%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -4860,7 +5289,8 @@
             "في الرقة والحسكة فقط",
             "في حلب ودمشق دون غيرهما"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -4871,7 +5301,8 @@
             "يوجد مرافقًا للصخور السيليسية في الصخور الخضراء بالمناطق المتصدعة من منطقة البيضا، ونسبته 2–4%",
             "يوجد في الفرات وحده ونسبته 72%"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -4882,7 +5313,8 @@
             "الحديد",
             "الرخام"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -4893,7 +5325,8 @@
             "50–100 متر",
             "100–200 متر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -4904,7 +5337,8 @@
             "ترافق النفط والغاز في حوض الفرات، وتوجد أيضًا في منطقة تدمر",
             "ترافق الملح الصخري في حوران"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -4915,7 +5349,8 @@
             "6 ملايين طن",
             "27 مليون طن"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -4926,7 +5361,8 @@
             "على الحدود الشرقية في حقول الجزيرة",
             "في حوض الفرات وحوران شمال شرق اللاذقية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -4937,7 +5373,8 @@
             "النفط والغاز والكبريت فقط",
             "الفوسفات والحديد والمنغنيز فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -4948,7 +5385,8 @@
             "يستخرج من حقول النفط في الجزيرة ويستخدم وقودًا",
             "ينتشر في جبال القلمون بوصفه خامًا معدنيًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -4959,7 +5397,8 @@
             "بدأ عام 1958 ودخل الاستثمار عام 1968",
             "بدأ عام 1968 ودخل الاستثمار الفعلي عام 1972"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4970,7 +5409,8 @@
             "تعد ثروة طبيعية مهمة لصناعة الإسمنت، وتوجد في جبل السهل والزاوية وسلسلة لبنان الشرقية",
             "توجد في منطقة تدمر وتعد من خامات الحديد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4987,7 +5427,8 @@
             "تذبذب بين ارتفاع وانخفاض",
             "ثبات العدد طوال القرن"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -4998,7 +5439,8 @@
             "تراجع عدد السكان في المدن",
             "انخفاض معدلات الولادات وارتفاع الوفيات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -5009,7 +5451,8 @@
             "توقف الهجرة الداخلية",
             "انخفاض معدل الولادات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -5020,7 +5463,8 @@
             "انخفاض أعداد السكان",
             "تراجع متوسط العمر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -5031,7 +5475,8 @@
             "انخفاض عدد السكان في سن الإنجاب إلى الصفر",
             "تراجع متوسط العمر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -5042,7 +5487,8 @@
             "توقف التحسن في المستوى المعيشي",
             "انخفاض معدلات الولادات والوفيات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -5053,7 +5499,8 @@
             "زيادة طبيعية ناتجة من الولادات",
             "توزع السكان بحسب العمر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -5064,7 +5511,8 @@
             "داخلية وخارجية",
             "اقتصادية وتعليمية فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -5075,7 +5523,8 @@
             "التوسع في الزراعة",
             "الاضطرابات السياسية والاقتصادية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -5086,7 +5535,8 @@
             "أنها كانت بسبب الجفاف فقط",
             "أنها كانت انتقالاً من المدينة إلى الريف"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -5097,7 +5547,8 @@
             "التطورات الاقتصادية والاجتماعية والسياسية والأمنية",
             "زيادة الهجرة الخارجية فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -5108,7 +5559,8 @@
             "من المحافظات إلى خارج البلاد حصراً",
             "من الساحل إلى الجبال فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -5119,7 +5571,8 @@
             "دير الزور",
             "الحسكة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -5130,7 +5583,8 @@
             "تطورات اقتصادية واجتماعية ومشروعات وفرص عمل",
             "موقعها في البادية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -5141,7 +5595,8 @@
             "انخفاض عدد سكان ريف دمشق",
             "ازدياد الهجرة من الريف إلى الخارج"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -5152,7 +5607,8 @@
             "قمة وقاعدة متساويتان تماماً",
             "قاعدة عريضة وجوانب منحدرة نحو قمة ضيقة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -5163,7 +5619,8 @@
             "اختفاء الفئة المنتجة",
             "ثبات نسب الفئات العمرية دون تغير"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -5174,7 +5631,8 @@
             "الصناعة",
             "التعليم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -5185,7 +5643,8 @@
             "انخفاض النشاط التجاري",
             "تطور الخدمات المصرفية والاتصالات والنقل والسياحة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -5196,7 +5655,8 @@
             "نحو 60%",
             "نحو 5%"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -5213,7 +5673,8 @@
             "المحور الساحلي والمحور الداخلي ومحور الجزيرة",
             "محور دمشق ومحور حلب ومحور الساحل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -5224,7 +5685,8 @@
             "نحو 17%",
             "نحو 45%"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -5235,7 +5697,8 @@
             "محور البادية",
             "المحور الداخلي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -5246,7 +5709,8 @@
             "حلب وحماة والرقة",
             "دمشق وطرطوس والسويداء"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "5",
@@ -5257,7 +5721,8 @@
             "40%",
             "53%"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -5268,7 +5733,8 @@
             "انتشار الصناعة الثقيلة",
             "الاعتماد على الأمطار ومياه الأنهار"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -5279,7 +5745,8 @@
             "عواصم وأقاليم ومراكز تجارية",
             "مدن ساحلية ومدن داخلية فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -5290,7 +5757,8 @@
             "المزرعة والقرية والبلدة",
             "المراكز التي تتمركز عند الموانئ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -5301,7 +5769,8 @@
             "8.7%",
             "53.5%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -5312,7 +5781,8 @@
             "74%",
             "87%"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -5323,7 +5793,8 @@
             "النمو السكاني الطبيعي والهجرة إليها، مع بلوغ بعض البلدات عتبة 20 ألف نسمة",
             "توسع الزراعة البعلية وحده"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -5334,7 +5805,8 @@
             "توسع الموانئ",
             "الهجرة الخارجية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -5345,7 +5817,8 @@
             "تراجع الخدمات في المدن",
             "اتساع المراعي حول المدن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -5356,7 +5829,8 @@
             "امتداد العمران إلى الأحياء المجاورة وظهور السكن العشوائي",
             "توقف الهجرة بين المحافظات"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -5367,7 +5841,8 @@
             "انخفاض الحاجة إلى النقل",
             "تراجع الطلب على مياه الشرب"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "16",
@@ -5378,7 +5853,8 @@
             "محور البادية",
             "المحور الطولي على امتداد أقدام المرتفعات الشرقية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -5389,7 +5865,8 @@
             "فتحة حمص–تدمر",
             "فتحة اللاذقية–إدلب"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -5400,7 +5877,8 @@
             "نهر العاصي",
             "نهر الكبير الشمالي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -5411,7 +5889,8 @@
             "74%",
             "40%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -5422,7 +5901,8 @@
             "تراجعت مياه بردى والأعوج، وأصبحت الينابيع الأخرى تزود الغوطة بمياه لازمة للسكان والري",
             "لم تتأثر شبكة المياه بتوسع المدينة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -5439,7 +5919,8 @@
             "تأمين الغذاء وبعض المواد الأولية للصناعة بوصفها قطاعًا إنتاجيًا حقيقيًا",
             "تأمين الوقود اللازم للنقل فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -5450,7 +5931,8 @@
             "امتدادها داخل الصحراء بعيدًا عن الموانئ",
             "وجود ممرات جبلية مغلقة حول البلاد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -5461,7 +5943,8 @@
             "حصر زراعة المحاصيل في الساحل",
             "توفير إمكانات الري والتحول نحو أساليب ري حديثة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -5472,7 +5955,8 @@
             "تراجع تكاليف الإنتاج وارتفاع الجدوى الاقتصادية",
             "زيادة شبكات الري وتنوع المحاصيل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "5",
@@ -5483,7 +5967,8 @@
             "سيادة زراعة المراعي الهامشية وحدها",
             "اعتمادها أساسًا على زراعة القطن والشوندر السكري"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -5494,7 +5979,8 @@
             "رعي متنقل بلا محاصيل شجرية",
             "حيازات صغيرة تعتمد على الأشجار المتوسطية، وفي مقدمتها الزيتون"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -5505,7 +5991,8 @@
             "بزراعة الحمضيات قرب الساحل",
             "باقتصارها على صيد الأسماك"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -5516,7 +6003,8 @@
             "تكامل المجتمعات الزراعية وتنوع المحاصيل مع توافر فرص التسويق على مدار العام",
             "الاعتماد التام على الأمطار دون ري"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -5527,7 +6015,8 @@
             "القطن والتبغ دون محاصيل أخرى",
             "الخضار والحبوب والحمص والأشجار المثمرة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -5538,7 +6027,8 @@
             "الاعتماد على الاستيراد وتراجع المحاصيل",
             "تحويل الأراضي المزروعة إلى عمران فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -5549,7 +6039,8 @@
             "القمح والقطن",
             "الحمضيات والبطاطا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -5560,7 +6051,8 @@
             "في البادية الجنوبية فقط",
             "في سفوح جبل الشيخ وحدها"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -5571,7 +6063,8 @@
             "حصر استهلاكه في الأعلاف",
             "استبداله بالمحاصيل الصناعية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -5582,7 +6075,8 @@
             "لربحية إنتاجها والاعتماد عليها في عدد من مشاريع استصلاح الأراضي",
             "لأن إنتاجها لا يتأثر بالتسويق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -5593,7 +6087,8 @@
             "لا يسهم في فرص العمل أو الصادرات",
             "يعتمد كله على الري في الساحل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -5604,7 +6099,8 @@
             "الارتفاع الشاهق وانعدام شبكات الري",
             "وفرة الأمطار ودفء المناخ وارتفاع الرطوبة النسبية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -5615,7 +6111,8 @@
             "لإبعادها عن المستهلكين",
             "لأنها تزرع في الأراضي الهامشية حصريًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -5626,7 +6123,8 @@
             "حصر المحصول في الاستهلاك الحيواني",
             "الاستغناء عن التسويق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -5637,7 +6135,8 @@
             "انخفض إنتاجه بسبب استعمال بذار محسّن",
             "يزرع في عروات خريفية وشتوية وصيفية، ويصنع إنتاجه في معامل تابعة للمؤسسة العامة للسكر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -5648,7 +6147,8 @@
             "تحريم الصيد من منتصف آذار إلى نهاية أيار",
             "منع إنشاء المزارع السمكية التجريبية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -5665,7 +6165,8 @@
             "توسع الصناعات المعتمدة على الموارد المحلية، ولا سيما النسيجية والغذائية",
             "توقف المنشآت الصناعية الكبرى عن العمل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -5676,7 +6177,8 @@
             "صناعة الحواسيب والإلكترونيات",
             "صناعة الإسمنت والأسمدة فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -5687,7 +6189,8 @@
             "لإلغاء دور القطاع الخاص",
             "لدعم الاستقلال الاقتصادي والسياسي وتلبية حاجات المواطنين"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -5698,7 +6201,8 @@
             "خام حلب؛ لعدم توافر الأيدي العاملة",
             "خام الفرات؛ لانخفاض نسبة الحديد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -5709,7 +6213,8 @@
             "باستبدالها بالخامات المستوردة حصراً",
             "بحصر استخدامها في قطاع النقل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -5720,7 +6225,8 @@
             "منع إقامة مدن صناعية جديدة",
             "نقل الإنتاج إلى مراكز الاستهلاك أو الموانئ، وخفض كلفة الوصول للمناطق الصناعية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -5731,7 +6237,8 @@
             "8757 دولاراً",
             "57800 دولار"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -5742,7 +6249,8 @@
             "ضعف القوة الشرائية للمواطنين ومنافسة السلع الأجنبية بجودتها ورخص أسعارها",
             "عدم وجود إنتاج صناعي محلي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -5753,7 +6261,8 @@
             "انعدام الموارد النفطية",
             "نقص شديد في التجهيزات التكنولوجية الحديثة والأيدي العاملة الخبيرة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -5764,7 +6273,8 @@
             "لأن الخدمات لا تحتاج إلى عمالة",
             "بسبب منع الاستثمار الصناعي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -5775,7 +6285,8 @@
             "عدرا في ريف دمشق، وحسيا في حمص، والشيخ نجار في حلب",
             "جميعها خارج المدن السورية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -5786,7 +6297,8 @@
             "اقتصارها على التعدين دون التحويل",
             "اعتماد الصناعات الثقيلة على خام حديد محلي وفير"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -5797,7 +6309,8 @@
             "الأسمدة الكيماوية",
             "الآلات الإلكترونية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -5808,7 +6321,8 @@
             "1958",
             "1960"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -5819,7 +6333,8 @@
             "عدم وجود محطات توليد",
             "غياب الربط بين المحافظات"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -5830,7 +6345,8 @@
             "3.968%",
             "96.83%"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -5841,7 +6357,8 @@
             "لبعدهما عن شبكات النقل",
             "لعدم وجود أنشطة اقتصادية أخرى فيهما"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -5852,7 +6369,8 @@
             "حلب ودير الزور واللاذقية",
             "طرطوس والحسكة ودرعا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -5863,7 +6381,8 @@
             "دير الزور، عام 1857",
             "حلب، وبدأت الشركة السورية للغزل والنسيج عملها عام 1937"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -5874,7 +6393,8 @@
             "إقامة المصانع بعيداً عن المناطق السكنية ومعالجة المخلفات واستخدام تقانات صديقة للبيئة",
             "حصر التلوث الصناعي في المياه فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -5891,7 +6411,8 @@
             "لوقوعها بين حضارات وثقافات الشرق والغرب وبموقعها الجغرافي",
             "لابتعادها عن طرق المواصلات"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -5902,7 +6423,8 @@
             "خلوها من المواقع التاريخية",
             "اعتمادها على السياحة الساحلية وحدها"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -5913,7 +6435,8 @@
             "تقتصر فائدتها على موسم الصيف",
             "توفر عائداً كبيراً وتدخل العملة الصعبة دون تصدير مقابل"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -5924,7 +6447,8 @@
             "بإلغاء الحاجة إلى البنية التحتية",
             "بحصر فرص العمل في قطاع واحد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -5935,7 +6459,8 @@
             "عدد المواقع الأثرية المسجلة",
             "مجموع الضرائب على السكان المحليين"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -5946,7 +6471,8 @@
             "أكثر من 300 ألف",
             "أكثر من 3000"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -5957,7 +6483,8 @@
             "الزيارة والتجارة فقط",
             "العبور والنقل فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "8",
@@ -5968,7 +6495,8 @@
             "قبالة شاطئ مدينة طرطوس بنحو 3 كم",
             "في بحيرة مزيريب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -5979,7 +6507,8 @@
             "تقتصر على السهول الصحراوية",
             "ذات أهمية كبيرة لوجود مناطق طبيعية ساحرة ومنتزهات ومصايف"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -5990,7 +6519,8 @@
             "تل مرديخ",
             "قصر الحير"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -6001,7 +6531,8 @@
             "الزبداني وبلودان",
             "تدمر ودير الزور"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -6012,7 +6543,8 @@
             "شهبا",
             "قصر الحير"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -6023,7 +6555,8 @@
             "تدمر في محافظة حمص",
             "جزيرة أرواد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -6034,7 +6567,8 @@
             "بآثارها الرومانية ومنها المسرح والفسيفساء النادرة",
             "بكونها جزيرة مأهولة قبالة طرطوس"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -6045,7 +6579,8 @@
             "سوق أثري في تدمر",
             "سوق يقع في منطقة الساحل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -6056,7 +6591,8 @@
             "يعود بناؤه إلى العصر الحديث ويقع في تدمر",
             "من الخانات التي اشتهرت بها حلب في العصرين المملوكي والعثماني، ويقع في منطقتها التجارية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -6067,7 +6603,8 @@
             "ارتفاع مستوى الوعي السياحي",
             "توازن التوزع الجغرافي للفنادق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "18",
@@ -6078,7 +6615,8 @@
             "حظر زيارة المتاحف",
             "غياب أي ضرائب أو رسوم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -6089,7 +6627,8 @@
             "وجود مواقع أثرية كثيرة",
             "اقتصار الموسم السياحي على فصل الصيف"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -6100,7 +6639,8 @@
             "لأن السياحة من أسرع القطاعات الاقتصادية تأثراً بالأمن والاضطرابات والحروب",
             "لأنها تزيد من قصر الموسم الصيفي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -6117,7 +6657,8 @@
             "ربط مناطق الإنتاج بمناطق الاستهلاك وتأمين انتقال الأفراد والبضائع",
             "إلغاء الحاجة إلى المراكز الصناعية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -6128,7 +6669,8 @@
             "على امتداد البادية وحدها",
             "في المنطقة الشمالية الشرقية فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -6139,7 +6681,8 @@
             "120 ألف كم",
             "71 ألف كم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -6150,7 +6693,8 @@
             "اللاذقية–طرطوس",
             "حلب–دير الزور"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -6161,7 +6705,8 @@
             "انتشار السفن الصغيرة",
             "تغير الطلب على الهاتف النقال"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -6172,7 +6717,8 @@
             "تجاوز شبكة الطرق في المنطقة الغربية",
             "تعزيز الاتصال بين المحور الساحلي والمحور الداخلي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -6183,7 +6729,8 @@
             "خدمة السياحة بين المدن",
             "ربط المراكز الصناعية الحديثة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -6194,7 +6741,8 @@
             "خط الحجاز الشام",
             "خط حلب–الموصل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -6205,7 +6753,8 @@
             "نحو ألف كم",
             "نحو ستة آلاف كم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -6216,7 +6765,8 @@
             "طرطوس",
             "دير الزور"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -6227,7 +6777,8 @@
             "الركاب والمنتجات الزراعية والصناعية والفوسفات والنفط",
             "السيارات والطائرات فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12",
@@ -6238,7 +6789,8 @@
             "عدم وجود أي مرافئ في سورية",
             "تركز الشبكة حصريًا في الساحل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -6249,7 +6801,8 @@
             "اعتمادها على إنشاء مرافئ بحرية",
             "ارتفاع حاجتها إلى الطواقم الفنية على طول المسار"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -6260,7 +6813,8 @@
             "من مناطق الإنتاج إلى مصفاتي حمص وبانياس ثم إلى موانئ التصدير",
             "من المراكز الزراعية إلى المدن الساحلية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -6271,7 +6825,8 @@
             "لأن الساحل السوري يخلو من الموانئ",
             "لأن النقل البحري مخصص للركاب وحدهم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -6282,7 +6837,8 @@
             "ربط السكك الحديدية السورية بتركيا وحدها",
             "خدمة الاستيراد والتصدير والشحن والترانزيت"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -6293,7 +6849,8 @@
             "انعدام الربط بين المرافئ والطرق",
             "عدم وجود تطلعات للاستثمار في الموانئ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -6304,7 +6861,8 @@
             "توقف مطار دمشق الدولي عن العمل",
             "تساوي الاستخدام الفعلي في جميع المطارات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -6315,7 +6873,8 @@
             "تتعامل تجاريًا مع الاتحاد الأوروبي وحده",
             "تعتمد على استيراد المنتجات المصنوعة وتصدير المواد الأولية الخام"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -6326,7 +6885,8 @@
             "انخفاض قيمة الطن المصدر مقارنة بقيمة الطن المستورد لاعتماد الصادرات على مواد أولية خام",
             "توقف التجارة مع الدول العربية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -6343,7 +6903,8 @@
             "التحولات الاقتصادية والاجتماعية والسياسية خلال القرن الماضي",
             "اختلاف طول خطوط الطول فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -6354,7 +6915,8 @@
             "انتقال النشاط الصناعي كله إلى إفريقيا",
             "تراجع أهمية الموارد الطبيعية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -6365,7 +6927,8 @@
             "أوقفت تطور وسائل الإنتاج",
             "دفعت من الإقطاع إلى المجتمع الرأسمالي ثم إلى مجتمع تنافسي تميل فيه القوة إلى الجورزة والمجمع الرأسمالي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -6376,7 +6939,8 @@
             "زاد الاعتماد على العمل اليدوي حصراً",
             "قلل القدرة على توفير الغذاء والسكن"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -6387,7 +6951,8 @@
             "وفرة البحث العلمي والاعتماد الكامل على التكنولوجيا",
             "انخفاض الفقر وارتفاع مستوى الخدمات"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "6",
@@ -6398,7 +6963,8 @@
             "الدول الواقعة على خط الاستواء",
             "الدول المتقدمة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -6409,7 +6975,8 @@
             "ظهور ثلاث قارات جديدة",
             "اتفاق دول العالم على معيار موحد للتنمية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -6420,7 +6987,8 @@
             "خطوط عرض افتراضية تقريبية تميز الدول المتقدمة عن الدول النامية",
             "الفصل بين نصفي الكرة وفق التضاريس فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -6431,7 +6999,8 @@
             "لأنه يقيس المسافة بين العواصم",
             "لأنه يميز العلاقات والسياسات الاقتصادية بين منطقة أو إقليم محدد وبقية العالم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -6442,7 +7011,8 @@
             "الدول التي لا تمتلك أي نشاط صناعي",
             "الدول التي تعتمد على الزراعة وحدها"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -6453,7 +7023,8 @@
             "خط عرض 30°",
             "خط عرض 50°"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -6464,7 +7035,8 @@
             "يتبع خط عرض 80° شمالاً حول العالم",
             "يفصل أوروبا عن آسيا عند خط طول 0°"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -6475,7 +7047,8 @@
             "جنوب آسيا والشرق الأوسط فقط",
             "أمريكا الوسطى وجزر المحيط الهادئ فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "14",
@@ -6486,7 +7059,8 @@
             "توزع القوى العاملة بين القطاعات، ونصيب الفرد من الناتج المحلي",
             "عدد الجبال وارتفاع أعلى قمة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -6497,7 +7071,8 @@
             "الصناعة",
             "البحث العلمي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -6508,7 +7083,8 @@
             "تجعلها متحكمة في الصناعات المتقدمة",
             "قد تجعلها عرضة لتقلب الأسعار وضعف القيمة المضافة مقارنة بالمنتجات المصنعة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -6519,7 +7095,8 @@
             "بتساوي مستويات التصنيع بين البلدان",
             "بسبب اختلاف التوقيت المحلي وحده"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -6530,7 +7107,8 @@
             "أنه يطابق دائماً الحدود السياسية",
             "أنه يستند إلى المناخ دون الاقتصاد أو المجتمع"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -6541,7 +7119,8 @@
             "توزع الزراعة والصناعة فقط",
             "المؤشرات السكانية والصحية والتعليمية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -6552,7 +7131,8 @@
             "تسيطر الدول المتقدمة على معظم حجم التجارة الدولية، ولها حصة كبيرة من الصادرات والواردات",
             "يتساوى حجم صادراتها ووارداتها دائماً"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -6569,7 +7149,8 @@
             "المؤشرات السكانية",
             "المؤشرات الجيولوجية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -6580,7 +7161,8 @@
             "انخفاض العمر المتوقع دائمًا",
             "توزع عمري متساوٍ تمامًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -6591,7 +7173,8 @@
             "تدني المؤشرات الصحية",
             "تقديم رعاية جيدة وارتفاع المؤشرات الصحية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -6602,7 +7185,8 @@
             "لأنها تعتمد على التعليم الابتدائي وحده",
             "لأنها تمنع الالتحاق بالتعليم العالي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -6613,7 +7197,8 @@
             "غياب الانتخابات الدورية",
             "تبدل السياسات الخارجية مع كل مسؤول"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -6624,7 +7209,8 @@
             "ربط السياسة الخارجية بأمزجة الأفراد المتنفذين",
             "التغيير الدوري للسلطة عبر الانتخابات والمحاسبة القضائية المستقلة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -6635,7 +7221,8 @@
             "لأنها تفتقر إلى مؤسسات الدولة",
             "لأنها لا تملك سياسات خارجية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -6646,7 +7233,8 @@
             "الصحة الإنجابية وسوق العمل والتمكين",
             "الخصوبة والهجرة والتحضر فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -6657,7 +7245,8 @@
             "ذكر النص أن المرأة لا تشارك في أي برلمان",
             "لم تتجاوز النسبة الواردة للدول المتقدمة 30%، مقابل انخفاضها إلى 4.8% في الدول العربية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -6668,7 +7257,8 @@
             "يبقى ثابتًا",
             "يتحول إلى مؤشر صحي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -6679,7 +7269,8 @@
             "اليابان وبعض دول أوروبا",
             "الدول ذات أدنى دخل فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -6690,7 +7281,8 @@
             "اختفت كليًا من كل المؤشرات",
             "تحولت إلى فجوة في استهلاك الطاقة فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -6701,7 +7293,8 @@
             "الإلمام بالقراءة والكتابة",
             "التعليم الثانوي فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -6712,7 +7305,8 @@
             "ضيقت، لكنها لا تزال واسعة في بعض المناطق",
             "لا يمكن قياسها بأي شكل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -6723,7 +7317,8 @@
             "متساوية في المجموعتين",
             "لا توجد صحف في الدول النامية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -6734,7 +7329,8 @@
             "التفاوت في سنوات الدراسة",
             "التفاوت في كمية الغذاء التي يحصل عليها الفرد بين الدول النامية والمتقدمة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -6745,7 +7341,8 @@
             "زيادة الصحف وتوسع التعليم",
             "اختلاف الأنظمة السياسية وحده"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -6756,7 +7353,8 @@
             "التفاوت في توزيع السكان حسب العمر",
             "الفرق بين دخل المدن والريف فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -6767,7 +7365,8 @@
             "عدد المدارس ونسبة الإنفاق على الزراعة",
             "خطوط الهاتف والحواسيب لكل فرد ونسبة المتصلين بالشابكة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "20",
@@ -6778,7 +7377,8 @@
             "تتسع لصالح الدول المتقدمة، مع استثناء الدول العربية المعتمدة على الفائض النفطي لدى عدد منها جزئيًا",
             "لا ترتبط بحصة استهلاك الفرد من الطاقة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -6795,7 +7395,8 @@
             "شرق البر الآسيوي في شمال غرب المحيط الهادئ",
             "غرب المحيط الأطلسي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -6806,7 +7407,8 @@
             "هونشو، سريلانكا، كريت، كيوشو",
             "هوكايدو، كورسيكا، شيكوكو، تايوان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -6817,7 +7419,8 @@
             "تقتصر الزلازل فيها على هوكايدو",
             "تتعرض لنحو 5000 زلزال سنويًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -6828,7 +7431,8 @@
             "50%",
             "90%"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -6839,7 +7443,8 @@
             "موجودة في هوكايدو وحدها",
             "خالية من المدن والسكان"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -6850,7 +7455,8 @@
             "تؤدي إلى انعدام الأمطار في الجزر",
             "تسهم في غزارة الأمطار، وتختلف الظروف المناخية بين أقاليم البلاد"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -6861,7 +7467,8 @@
             "60° و80° شمالًا",
             "خط الاستواء و10° شمالًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -6872,7 +7479,8 @@
             "تحسن المستوى الصحي والمعيشي وانخفاض الوفيات",
             "انعدام الرعاية الصحية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -6883,7 +7491,8 @@
             "اختفاء المدن الكبرى",
             "تزايد الشيخوخة السكانية وتراجع عدد السكان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -6894,7 +7503,8 @@
             "في الجزر الصغيرة غير المأهولة",
             "في المناطق البركانية المرتفعة فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -6905,7 +7515,8 @@
             "نحو 343 نسمة/كم²",
             "نحو 743 نسمة/كم²"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -6916,7 +7527,8 @@
             "التعدين وحده",
             "تربية الحيوان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -6927,7 +7539,8 @@
             "انتشار الصحارى الرملية",
             "تجمد البلاد طوال العام"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -6938,7 +7551,8 @@
             "الزراعة المدرجة واستغلال الأرض بكثافة",
             "الرعي الصحراوي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -6949,7 +7563,8 @@
             "القطن",
             "التمر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -6960,7 +7575,8 @@
             "لأن مناجمها تقع كلها في السهول الساحلية",
             "لأن مواردها المعدنية محدودة ولا تكفي حاجات الصناعة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -6971,7 +7587,8 @@
             "بديل كامل عن الصناعة",
             "نشاط يقتصر على المياه العذبة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -6982,7 +7599,8 @@
             "الأسمدة وحدها",
             "صناعة الطائرات الورقية فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "19",
@@ -6993,7 +7611,8 @@
             "تمنع نقل البضائع إلى الموانئ",
             "تربط المدن والمراكز الاقتصادية وتدعم حركة التجارة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -7004,7 +7623,8 @@
             "تستورد اليابان المواد الخام وتصدر منتجات صناعية مصنعة عالية الدقة والقيمة",
             "تكتفي تمامًا بمواردها المحلية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -7021,7 +7641,8 @@
             "نحو 3,165,596 كم²",
             "نحو 1,000,000 كم²"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -7032,7 +7653,8 @@
             "منع وصول السفن إلى المحيط الهندي",
             "حصر تجارتها في خليج البنغال فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -7043,7 +7665,8 @@
             "الهند وماليزيا وإندونيسيا والفلبين",
             "الهند وباكستان وبنغلاديش وسريلانكا ونيبال وبوتان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "4",
@@ -7054,7 +7677,8 @@
             "قمة أكونكاغوا",
             "قمة مون بلان"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -7065,7 +7689,8 @@
             "تتكون من صحراء ثار وحدها",
             "تفصل بين السند وخليج البنغال"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -7076,7 +7701,8 @@
             "سهل ملبار",
             "السهل السندي الغانجي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -7087,7 +7713,8 @@
             "خلوّها من الأنهار",
             "وقوعها في الصحراء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -7098,7 +7725,8 @@
             "تشكل معظم شبه الجزيرة الجنوبية ولها شكل مثلث",
             "تقع بين نهري السند والغانج"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -7109,7 +7737,8 @@
             "تساقط الثلوج في جميع السهول",
             "قيام جبال الهيمالايا بصد الرياح الباردة القادمة من أواسط آسيا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -7120,7 +7749,8 @@
             "الشمال الغربي",
             "الجنوب الشرقي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -7131,7 +7761,8 @@
             "يقل تدريجيًا كلما اتجهنا نحو الداخل",
             "يتوقف على الساحل ويزداد في الصحراء"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -7142,7 +7773,8 @@
             "الغابات الاستوائية المطيرة فقط",
             "غابات البحر المتوسط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -7153,7 +7785,8 @@
             "إلى البحر المتوسط",
             "إلى خليج عدن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -7164,7 +7797,8 @@
             "الغانج وبراهمابوترا",
             "براهمابوترا والنيل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -7175,7 +7809,8 @@
             "تساوي أعداد جميع الفئات العمرية",
             "خلوه من النمو السكاني"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -7186,7 +7821,8 @@
             "على قمم جبال الهيمالايا",
             "في السهل السندي الغانجي والسهول الساحلية، ولا سيما دلتا الغانج"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -7197,7 +7833,8 @@
             "مركز لزراعة الأرز فقط",
             "عاصمة ولاية البنغال الغربية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -7208,7 +7845,8 @@
             "تقع على ساحل بحر العرب، وهي عاصمة الهند",
             "تقع على هضبة الدكن، وهي مركز لصناعة السيارات فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -7219,7 +7857,8 @@
             "انعدام الأراضي القابلة للزراعة",
             "تفاوت الأمطار وضعف البحث العلمي وقلة الوسائل الحديثة وتفتت الملكيات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -7230,7 +7869,8 @@
             "التقلبات الاقتصادية العالمية وعدم الاستقرار السياسي الإقليمي والعنف الطائفي",
             "عدم وجود تحديات أو معوقات للتنمية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -7247,7 +7887,8 @@
             "تقع في شمال غرب إفريقيا على ساحل المحيط الأطلسي",
             "تقع في جنوب إفريقيا على ساحل المحيط الهندي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -7258,7 +7899,8 @@
             "٥٦٠ ألف كم²",
             "٨٥٣ ألف كم²"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -7269,7 +7911,8 @@
             "نهر كازامانس",
             "نهر السنغال"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -7280,7 +7923,8 @@
             "يصب في خليج غينيا",
             "لا يجتاز الحدود السياسية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -7291,7 +7935,8 @@
             "أدى إلى انقطاعها عن طرق التجارة البحرية",
             "جعل اقتصادها قائمًا على استخراج الفحم وحده"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -7302,7 +7947,8 @@
             "هضاب بركانية تزداد ارتفاعًا نحو الغرب",
             "سهول متموجة ترتفع وسطًا إلى نحو ١٠٠ م، تنحدر من الشرق إلى الغرب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -7313,7 +7959,8 @@
             "منطقة النهر، منطقة الجبال، منطقة البحيرات، منطقة الغابات",
             "منطقة داكار، منطقة سانت لويس، منطقة مالي، منطقة غامبيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -7324,7 +7971,8 @@
             "تمتد وسط السنغال وشرقها، وهي هضبية قليلة الأمطار نسبيًا",
             "تقع على الحدود الشمالية وتتميز بغابات كثيفة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -7335,7 +7983,8 @@
             "تضم منابع نهر السنغال فقط",
             "تقع في جنوب غرب البلاد، وتكثر فيها الأمطار والغابات ويمر فيها نهر الكازامانس"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -7346,7 +7995,8 @@
             "تتساوى الأمطار في الشمال والجنوب عند ١٠٠٠ ملم",
             "لا تهطل الأمطار في أي منطقة من البلاد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -7357,7 +8007,8 @@
             "الرياح الجنوبية الشرقية الشديدة في فصل المطر",
             "توسع المراعي الجبلية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -7368,7 +8019,8 @@
             "١٩٫٥ مليونًا ثم ٣ ملايين",
             "١٢٫٩ مليونًا ثم ١٩٫٥ مليونًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -7379,7 +8031,8 @@
             "تساوي أعداد السكان في جميع الفئات العمرية",
             "انخفاض نسبة الأطفال وارتفاع نسبة كبار السن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -7390,7 +8043,8 @@
             "٦٫٣٪",
             "٣٣٫٥٪"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -7401,7 +8055,8 @@
             "تتركز الكثافة في صحراء الشمال وحدها",
             "تتركز الكثافة في المرتفعات الجبلية الشرقية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -7412,7 +8067,8 @@
             "٦٢٫٥٪",
             "٢٦٫٥٪"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -7423,7 +8079,8 @@
             "قصب السكر والمطاط والشاي والتبغ",
             "الزيتون والكرمة والحمضيات والذرة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "18",
@@ -7434,7 +8091,8 @@
             "٢٢٪",
             "٢٦٫٥٪"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -7445,7 +8103,8 @@
             "الاعتماد الكامل على الطاقة الكهرومائية",
             "ارتفاع تكاليف الإنتاج وضعف البيئة التنظيمية وصغر السوق المحلية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -7456,7 +8115,8 @@
             "تسهيل الربط التجاري والنقل بين السنغال والدول المجاورة، ولا سيما مالي",
             "إنشاء اتصال مباشر بين السنغال وجنوب إفريقيا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -7473,7 +8133,8 @@
             "شكل الدولة وموضعها وظروفها البيئية والمناخية وكمية مواردها الطبيعية المتوافرة",
             "نوع النظام السياسي دون غيره"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -7484,7 +8145,8 @@
             "كثرة الغابات الاستوائية",
             "الفيضانات الساحلية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -7495,7 +8157,8 @@
             "روسيا وكندا",
             "أوغندا والنيجر وبوركينا فاسو"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "4",
@@ -7506,7 +8169,8 @@
             "زيادة الأراضي الزراعية",
             "انخفاض الحاجة إلى المواصلات"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -7517,7 +8181,8 @@
             "ليبيا",
             "السعودية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -7528,7 +8193,8 @@
             "اختفاء الحاجة إلى الاستيراد",
             "تركّز السكان في أماكن محددة وقلة الأراضي الزراعية واتساع أراضٍ خالية من السكان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -7539,7 +8205,8 @@
             "انعدام الحاجة إلى العلاقات الخارجية",
             "تحول الدولة إلى مصدر للمواد الأولية حتمًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -7550,7 +8217,8 @@
             "معدلات النمو السكاني والاقتصادي ونمو الدخل الفردي في دول مختارة",
             "توزع السكان حسب القارات"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -7561,7 +8229,8 @@
             "تراجع الحاجة إلى الخدمات",
             "مرحلة التحول الديموغرافي التي تمر بها المجتمعات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -7572,7 +8241,8 @@
             "تقلل تلقائيًا الإنفاق على التعليم والصحة",
             "تمنع الهجرة من المجتمعات الفقيرة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -7583,7 +8253,8 @@
             "فرض الدولة الاستعمارية سيطرتها على الإقليم واستغلال موارده",
             "هجرة السكان طوعًا إلى دولة أخرى"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -7594,7 +8265,8 @@
             "تسليم موارد الدولة للسكان المحليين",
             "حكم الدولة المستقلة لنفسها من دون أي تبعية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -7605,7 +8277,8 @@
             "السكر",
             "البن والكاكاو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -7616,7 +8289,8 @@
             "المبالغ الواجب سدادها سنويًا من أقساط وفوائد الديون",
             "قيمة الواردات من المواد الغذائية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -7627,7 +8301,8 @@
             "تراجع الحاجة إلى الاقتراض",
             "زيادة الإنفاق المتاح على التنمية بلا قيود"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -7638,7 +8313,8 @@
             "التوسع في الاقتراض لتمويل الاستهلاك",
             "وضع خطط تنموية تأخذ في الحسبان إمكانات البلد واحتياجاته"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -7649,7 +8325,8 @@
             "الهيليوم",
             "الهيدروجين"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -7660,7 +8337,8 @@
             "استخدام الطاقة الشمسية",
             "زيادة الغطاء النباتي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -7671,7 +8349,8 @@
             "انعدام الظواهر الجوية المتطرفة",
             "ارتفاع مستوى سطح البحر واضطراب البيئات البحرية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -7682,7 +8361,8 @@
             "تقليل مياه الري وخفض الإنتاج الزراعي، بما يفاقم نقص الغذاء",
             "رفع إنتاج المحاصيل في كل المناطق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     }

@@ -15,7 +15,8 @@
             "ثلث دور",
             "دور كامل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -26,7 +27,8 @@
             "ثلث دور",
             "دور كامل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -37,7 +39,8 @@
             "متباطئة بانتظام",
             "متباطئة ويزداد التسارع"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -48,7 +51,8 @@
             "8s",
             "12s"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -59,7 +63,8 @@
             "التواتر",
             "السرعة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -70,7 +75,8 @@
             "المطال",
             "ليست مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -81,7 +87,8 @@
             "0.255s",
             "0.5s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -92,7 +99,8 @@
             "قوى مقاومة فقط",
             "قوى خارجية فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -103,7 +111,8 @@
             "قوة ارجاع وقوى مبددة للطاقة",
             "قوى خارجية فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -114,7 +123,8 @@
             "4X_max",
             "X_max/2"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -125,7 +135,8 @@
             "2.5m",
             "0.0025m"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -136,7 +147,8 @@
             "يبقى ثابتاً",
             "يتضاعف أربع مرات"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -147,7 +159,8 @@
             "ضعف الكتلة الأصلية",
             "أربعة أضعاف الكتلة الأصلية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -158,7 +171,8 @@
             "N/m",
             "N.m"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -169,7 +183,8 @@
             "-0.04N",
             "ليست مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -180,7 +195,8 @@
             "0.002N",
             "0.0002N"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -191,7 +207,8 @@
             "متباطئة وينقص التسارع",
             "متباطئة ويزداد التسارع"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -202,7 +219,8 @@
             "مركز الاهتزاز",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -213,7 +231,8 @@
             "في مركز الاهتزاز",
             "في الوضعين الطرفيين"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21",
@@ -224,7 +243,8 @@
             "4s",
             "0.5s"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22",
@@ -235,7 +255,8 @@
             "قوة تنافرية",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23",
@@ -246,7 +267,8 @@
             "تعيد الجسم إلى وضع التوازن كل ما ابتعد عنه",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "24",
@@ -257,7 +279,8 @@
             "مركز الاهتزاز",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "25",
@@ -268,7 +291,8 @@
             "مركز الاهتزاز",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "26",
@@ -279,7 +303,8 @@
             "المطال الأعظمي السالب فقط",
             "في الوضعين الطرفيين"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "27",
@@ -290,7 +315,8 @@
             "مطاله",
             "سرعته"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "28",
@@ -301,7 +327,8 @@
             "F = -kx",
             "A + C"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "51",
@@ -312,7 +339,8 @@
             "ينقص المطال",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "52",
@@ -323,7 +351,8 @@
             "تنقص السرعة",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "53",
@@ -334,7 +363,8 @@
             "يزداد المطال",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "54",
@@ -345,7 +375,8 @@
             "ω₀' = ω₀/4",
             "ω₀' = ω₀/2"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "56",
@@ -356,7 +387,8 @@
             "ω₀' = ω₀/4",
             "ω₀' = ω₀/2"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "57",
@@ -367,7 +399,8 @@
             "v = -ω X_max sin(ωt)",
             "v = -X_max sin(ωt)"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "58",
@@ -378,7 +411,8 @@
             "a = -ω²X_max",
             "a = -ωX_max"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "59",
@@ -389,7 +423,8 @@
             "E = ½mω²X_max²",
             "جميع ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "60",
@@ -400,7 +435,8 @@
             "تزداد السرعة",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1",
@@ -411,7 +447,8 @@
             "X_max / 2",
             "X_max / 4"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -422,7 +459,8 @@
             "X_max / 2",
             "X_max / 4"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -433,7 +471,8 @@
             "x₀ = (m·g) / k",
             "x₀ = k / (m·g)"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -444,7 +483,8 @@
             "x₀ = π² / (T₀²·g)",
             "x₀ = (T₀²·g) / 4"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -455,7 +495,8 @@
             "F = -k·x",
             "F = -k / x"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -466,7 +507,8 @@
             "تناسب عكساً مع المطال وتخالفه بالإشارة",
             "تناسب عكساً مع مربع المطال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -477,7 +519,8 @@
             "d²x/dt² = (1/m)·x",
             "d²x/dt² = -(k/m)·x"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -488,7 +531,8 @@
             "x = X_max cos φ",
             "x = X_max cos(ω₀ + φ)"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -499,7 +543,8 @@
             "نحو وضع التوازن",
             "عكس جهة التسارع"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -510,7 +555,8 @@
             "ω₀ = -k / m",
             "ω₀ = m / √k"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -521,7 +567,8 @@
             "ω₀' = √2 ω₀",
             "ω₀' = ω₀ / √2"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -532,7 +579,8 @@
             "ω₀' = √2 ω₀",
             "ω₀' = ω₀ / √2"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -543,7 +591,8 @@
             "T₀ = 2π (k/m)",
             "T₀ = 2π (m/k)"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -554,7 +603,8 @@
             "T₀' = T₀ / 2",
             "T₀' = 2T₀"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -565,7 +615,8 @@
             "T₀' = 2T₀",
             "T₀' = T₀ / √2"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -576,7 +627,8 @@
             "ω₀' = √2 ω₀",
             "ω₀' = ω₀ / 2"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -587,7 +639,8 @@
             "T₀' = 2T₀",
             "T₀' = T₀ / √2"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -598,7 +651,8 @@
             "يتناسب طرداً مع الجذر التربيعي للكتلة √m",
             "يتناسب عكساً مع الجذر التربيعي للكتلة √m"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -609,7 +663,8 @@
             "يتناسب عكساً مع ثابت صلابة النابض k",
             "يتناسب عكساً مع الجذر التربيعي لثابت صلابة النابض √k"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21",
@@ -620,7 +675,8 @@
             "يتناسب طرداً مع مربع سعة الاهتزاز X_max²",
             "لا يعتمد على سعة الاهتزاز X_max"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22",
@@ -631,7 +687,8 @@
             "T₀' = T₀",
             "T₀' = T₀ / √2"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23",
@@ -642,7 +699,8 @@
             "φ = π/6 rad",
             "φ = π/3 rad"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "24",
@@ -653,7 +711,8 @@
             "v = ω₀ X_max cos(ω₀t + φ)",
             "v = -ω₀ sin(ω₀t + φ)"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "25",
@@ -664,7 +723,8 @@
             "x = 0 (مركز الاهتزاز)",
             "كل ما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "26",
@@ -675,7 +735,8 @@
             "x = X_max/2",
             "كل ما سبق غير صحيح"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "27",
@@ -686,7 +747,8 @@
             "v_max = ω₀ / X_max",
             "v_max = X_max / ω₀"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "28",
@@ -697,7 +759,8 @@
             "v_max = 1 m.s⁻¹",
             "v_max = 10 m.s⁻¹"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "29",
@@ -708,7 +771,8 @@
             "a = -ω₀² x",
             "a = -ω₀² X_max"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "30",
@@ -719,7 +783,8 @@
             "يتناسب عكساً مع المطال ويخالفه بالإشارة",
             "يتناسب عكساً مع مربع المطال ويخالفه بالإشارة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "31",
@@ -730,7 +795,8 @@
             "a_max = 0.1π m.s⁻²",
             "a_max = 0.1 m.s⁻²"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "32",
@@ -741,7 +807,8 @@
             "a+b",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "32",
@@ -752,7 +819,8 @@
             "x = 0",
             "x = X_max/3"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "33",
@@ -763,7 +831,8 @@
             "E_k = (1/2)mv",
             "E_k = (1/2)m²v²"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "34",
@@ -774,7 +843,8 @@
             "E_p = kx²",
             "E_p = (1/2)k²x²"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "35",
@@ -785,7 +855,8 @@
             "E = (1/2)kX_max²",
             "E = kX_max²"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "36",
@@ -796,7 +867,8 @@
             "x = ±X_max",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "37",
@@ -807,7 +879,8 @@
             "x = ±X_max",
             "x = X_max/2"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "38",
@@ -818,7 +891,8 @@
             "x = X_max/3",
             "x = ±X_max"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "39",
@@ -829,7 +903,8 @@
             "x = X_max/3",
             "x = ±X_max"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -846,7 +921,8 @@
             "4 × 10⁻²",
             "4 × 10⁻¹"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -857,7 +933,8 @@
             "كل ما سبق صحيح",
             "ليس مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -868,7 +945,8 @@
             "يزداد عزم الإرجاع",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -879,7 +957,8 @@
             "تزداد السرعة الزاوية",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "40",
@@ -890,7 +969,8 @@
             "Γ = -K/θ",
             "Γ = -K²θ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "41",
@@ -901,7 +981,8 @@
             "d²θ/dt² = -(I_A/K)θ",
             "d²θ/dt² = -(K/I_A)θ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "42",
@@ -912,7 +993,8 @@
             "θ = θ_max ω₀ cos(ω₀t + φ)",
             "θ = cos(ω₀t + φ)"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "43",
@@ -923,7 +1005,8 @@
             "ω = -ω₀ θ_max sin(ω₀t + φ)",
             "ω = sin(ω₀t + φ)"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "44",
@@ -934,7 +1017,8 @@
             "α = -ω₀² cos(ω₀t + φ)",
             "α = -θ_max cos(ω₀t + φ)"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "45",
@@ -945,7 +1029,8 @@
             "ω_max = ω₀ + θ_max",
             "ω_max = ω₀ θ_max"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "46",
@@ -956,7 +1041,8 @@
             "α_max = ω₀ θ_max",
             "α_max = ω₀² θ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "47",
@@ -967,7 +1053,8 @@
             "ω₀ = K/I_A",
             "ω₀ = √(I_A/K)"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "48",
@@ -978,7 +1065,8 @@
             "T₀ = k/I_Δ",
             "T₀ = 2π (k/I_Δ)"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "49",
@@ -989,7 +1077,8 @@
             "α_max = 20 rad.s⁻²",
             "α_max = 0.2π rad.s⁻²"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "50",
@@ -1000,7 +1089,8 @@
             "ω_max = π rad.s⁻¹",
             "ω_max = 20 rad.s⁻¹"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "51",
@@ -1011,7 +1101,8 @@
             "T₀' = 0.5s",
             "T₀' = 1s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "52",
@@ -1022,7 +1113,8 @@
             "T₀' = 2s",
             "T₀' = 4s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "53",
@@ -1033,7 +1125,8 @@
             "ω₀' = 2ω₀",
             "ω₀' = ω₀/2"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "54",
@@ -1044,7 +1137,8 @@
             "ω₀' = ω₀/3",
             "ω₀' = ω₀/√3"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "55",
@@ -1055,7 +1149,8 @@
             "T₀' = T₀/2",
             "T₀' = T₀/√2"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "56",
@@ -1066,7 +1161,8 @@
             "T₀' = T₀/2",
             "T₀' = T₀/4"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "57",
@@ -1077,7 +1173,8 @@
             "T₀' = 3T₀",
             "T₀' = T₀/√3"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "58",
@@ -1088,7 +1185,8 @@
             "ω₀' = 3ω₀",
             "ω₀' = ω₀/√3"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "59",
@@ -1099,7 +1197,8 @@
             "ω₀' = 4ω₀",
             "ω₀' = ω₀/2"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "60",
@@ -1110,7 +1209,8 @@
             "ω₀' = ω₀/√2",
             "ω₀' = 2ω₀"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "61",
@@ -1121,7 +1221,8 @@
             "T₀' = 4T₀",
             "T₀' = T₀/4"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "62",
@@ -1132,7 +1233,8 @@
             "E_p = (1/2)Kθ",
             "E_p = (1/2)Kθ_max²"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "63",
@@ -1143,7 +1245,8 @@
             "E_k = (1/2)I_A",
             "E_k = (1/2)I_Aω²"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "64",
@@ -1154,7 +1257,8 @@
             "E = (1/2)K²θ_max²",
             "E = (1/2)Kθ_max²"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "65",
@@ -1165,7 +1269,8 @@
             "الطاقة الحركية والكامنة",
             "الطاقة الميكانيكية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "66",
@@ -1176,7 +1281,8 @@
             "الطاقة الحركية والكامنة",
             "الطاقة الميكانيكية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "67",
@@ -1187,7 +1293,8 @@
             "θ = θ_max/3",
             "θ = θ_max/2"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "68",
@@ -1198,7 +1305,8 @@
             "θ = θ_max/3",
             "θ = θ_max/2"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "69",
@@ -1209,7 +1317,8 @@
             "ω₀ = π/2 rad.s⁻¹",
             "ω₀ = 2 rad.s⁻¹"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "70",
@@ -1220,7 +1329,8 @@
             "T₀ = √2 s",
             "T₀ = 0.5s"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "71",
@@ -1231,7 +1341,8 @@
             "ω₀ = 2π/√2 rad.s⁻¹",
             "ω₀ = π rad.s⁻¹"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "72",
@@ -1242,7 +1353,8 @@
             "T₀' = T₀/√2",
             "T₀' = T₀/2"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "73",
@@ -1253,7 +1365,8 @@
             "ω₀' = ω₀/√2",
             "ω₀' = ω₀"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "74",
@@ -1264,7 +1377,8 @@
             "E = π/80 J",
             "E = 1/800 J"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1",
@@ -1275,7 +1389,8 @@
             "متباطئة وينقص التسارع",
             "متباطئة ويزداد التسارع"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1286,7 +1401,8 @@
             "متباطئة وينقص التسارع",
             "متباطئة ويزداد التسارع"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1297,7 +1413,8 @@
             "0.4s",
             "0.5s"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1308,7 +1425,8 @@
             "1Hz",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1319,7 +1437,8 @@
             "مركز الاهتزاز",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1330,7 +1449,8 @@
             "في مركز الاهتزاز",
             "في الوضعين الطرفيين"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1341,7 +1461,8 @@
             "قوة توتر السلك وقوة الثقل",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1352,7 +1473,8 @@
             "تبقى الساق متوازنة",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1363,7 +1485,8 @@
             "مزدوجة الفتل",
             "ليست مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1374,7 +1497,8 @@
             "كل ما سبق صحيح",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1385,7 +1509,8 @@
             "Στ = I·α",
             "Στ = 0"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1",
@@ -1396,7 +1521,8 @@
             "كل ما سبق صحيح",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1407,7 +1533,8 @@
             "تزداد السرعة الزاوية",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1418,7 +1545,8 @@
             "ينقص المطال بالقيمة المطلقة",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1429,7 +1557,8 @@
             "تنقص السرعة",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1440,7 +1569,8 @@
             "يزداد المطال بالقيمة المطلقة",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1451,7 +1581,8 @@
             "المطال",
             "التسارع"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1462,7 +1593,8 @@
             "قوة الإرجاع",
             "السرعة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1473,7 +1605,8 @@
             "الوضع الأعظمي السالب فقط",
             "في الوضعين الطرفيين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1484,7 +1617,8 @@
             "0.02 m.N",
             "0.2 m.N"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1495,7 +1629,8 @@
             "0.2 rad.s⁻²",
             "0.02 rad.s⁻²"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1506,7 +1641,8 @@
             "50 rad.s⁻²",
             "ليس مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1517,7 +1653,8 @@
             "0.01 rad.s⁻¹",
             "0.025 rad.s⁻¹"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1528,7 +1665,8 @@
             "20 J",
             "50 J"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1539,7 +1677,8 @@
             "20 J",
             "0.4 J"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1556,7 +1695,8 @@
             "في حال السعات المتوسطة",
             "في حال السعات الزاوية الصغيرة فقط"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "76",
@@ -1567,7 +1707,8 @@
             "m",
             "d"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "77",
@@ -1578,7 +1719,8 @@
             "θ = θ_max cos(t + φ)",
             "θ = θ_max cos(ω₀t + φ)"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "78",
@@ -1589,7 +1731,8 @@
             "ω₀ = √(mgd/I_Δ)",
             "ω₀ = I_Δ/(mgd)"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "79",
@@ -1600,7 +1743,8 @@
             "T₀ = I_Δ/(mgd)",
             "T₀ = mgd/I_Δ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "80",
@@ -1611,7 +1755,8 @@
             "T₀' = 8s",
             "T₀' = 1s"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "81",
@@ -1622,7 +1767,8 @@
             "d = l/2",
             "d = l/3"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "82",
@@ -1633,7 +1779,8 @@
             "I_A = (1/4)ml²",
             "I_A = (1/12)ml²"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "83",
@@ -1644,7 +1791,8 @@
             "d = 1/3 m",
             "d = 1/6 m"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "84",
@@ -1655,7 +1803,8 @@
             "d = 2l/3",
             "d = l/3"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "85",
@@ -1666,7 +1815,8 @@
             "d = 1/4 m",
             "d = 1/2 m"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "86",
@@ -1677,7 +1827,8 @@
             "I_A = 0.1 kg.m²",
             "I_A = 4 kg.m²"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "88",
@@ -1688,7 +1839,8 @@
             "T₀' = 2.02s",
             "T₀' = 2.02s"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "89",
@@ -1699,7 +1851,8 @@
             "T₀' = 1.01s",
             "T₀' = 1.02s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "90",
@@ -1710,7 +1863,8 @@
             "d = 2r",
             "d = r/2"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "91",
@@ -1721,7 +1875,8 @@
             "T₀ = √(g/l)",
             "T₀ = 2π √(l/g)"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "92",
@@ -1732,7 +1887,8 @@
             "يزداد",
             "ينعدم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "93",
@@ -1743,7 +1899,8 @@
             "تتوقف",
             "تتقدم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "94",
@@ -1754,7 +1911,8 @@
             "T₀ = 2π√2 s",
             "T₀ = 2 s"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "95",
@@ -1765,7 +1923,8 @@
             "T₀ = 2 s",
             "T₀ = 2π s"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "96",
@@ -1776,7 +1935,8 @@
             "T₀ = 4√2 s",
             "T₀ = √2 s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "97",
@@ -1787,7 +1947,8 @@
             "T₀ = 2 s",
             "T₀ = 1/2 s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "98",
@@ -1798,7 +1959,8 @@
             "T₀ = 1/8 s",
             "T₀ = 1/√2 s"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "99",
@@ -1809,7 +1971,8 @@
             "ω₀' = 2/π rad.s⁻¹",
             "ω₀' = 2 rad.s⁻¹"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "100",
@@ -1820,7 +1983,8 @@
             "l = 1m",
             "l = 1/2m"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "101",
@@ -1831,7 +1995,8 @@
             "l = 1m",
             "l = 1/2m"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "102",
@@ -1842,7 +2007,8 @@
             "نواس فيزيائي",
             "نواس بسيط"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "103",
@@ -1853,7 +2019,8 @@
             "نواس مادي",
             "نواس بسيط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1",
@@ -1864,7 +2031,8 @@
             "نقطة مادية تدور على بعد ثابت من محور دوران",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1875,7 +2043,8 @@
             "θ_max ≥ 0.24°",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1886,7 +2055,8 @@
             "θ_max ≥ 14 rad",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1897,7 +2067,8 @@
             "تتغير عكساً مع مربع سعة الاهتزاز",
             "لا علاقة لها بسعة الاهتزاز"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1908,7 +2079,8 @@
             "تنقص بازدياد سعة الاهتزاز",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1919,7 +2091,8 @@
             "عزم قوة ثقله",
             "عزم قوة رد الفعل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1930,7 +2103,8 @@
             "d = 2.5cm",
             "d = 25cm"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1941,7 +2115,8 @@
             "d = 0.1m",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21",
@@ -1952,7 +2127,8 @@
             "d = 0.2m",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22",
@@ -1963,7 +2139,8 @@
             "0.6 kg·m²",
             "0.8 kg·m²"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23",
@@ -1974,7 +2151,8 @@
             "0.125 kg·m²",
             "0.6 kg·m²"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1985,7 +2163,8 @@
             "نظرية الطاقة الحركية",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1996,7 +2175,8 @@
             "h = d(3cosθ - 2cosθ_max)",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -2007,7 +2187,8 @@
             "h = d(3 - 2cosθ_max)",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -2018,7 +2199,8 @@
             "تزداد قيمة الجاذبية الأرضية وبالتالي تزداد قيمة الدور فتؤخر الميقاتية",
             "تزداد قيمة الجاذبية الأرضية وبالتالي تنقص قيمة الدور فتؤخر الميقاتية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -2029,7 +2211,8 @@
             "عكساً مع الجذر التربيعي لعزم العطالة",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2040,7 +2223,8 @@
             "-mgd tanθ",
             "-mgd cotθ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "24",
@@ -2051,7 +2235,8 @@
             "في حالة النوسات كبيرة السعة",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "25",
@@ -2062,7 +2247,8 @@
             "T = 0.2",
             "T = 0.5"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "26",
@@ -2073,7 +2259,8 @@
             "T = 0.2",
             "T = 0.5"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "27",
@@ -2084,7 +2271,8 @@
             "T = 2π√(r/g)",
             "T = 2π√(3r/g)"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "28",
@@ -2095,7 +2283,8 @@
             "T = 2π√(L/(2g))",
             "T = 2π√(L/(3g))"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "29",
@@ -2106,7 +2295,8 @@
             "0.25s",
             "ليس ايا مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "30",
@@ -2117,7 +2307,8 @@
             "2s",
             "ليس ايا مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "31",
@@ -2128,7 +2319,8 @@
             "قرص متجانس محور دورانه مار من مركز القرص ومعلق بالقرص كتلة تساوي ضعفي كتلة القرص",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "32",
@@ -2139,7 +2331,8 @@
             "3π m/s",
             "2π m/s"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "33",
@@ -2150,7 +2343,8 @@
             "0.25s",
             "ليس ايا مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "49",
@@ -2161,7 +2355,8 @@
             "عكساً مع تسارع الجاذبية",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "50",
@@ -2172,7 +2367,8 @@
             "عكساً مع الجذر التربيعي لتسارع الجاذبية",
             "عكساً مع تسارع الجاذبية الأرضية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "51",
@@ -2183,7 +2379,8 @@
             "تقدم",
             "تقف الميقاتية عن الاهتزاز"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "52",
@@ -2194,7 +2391,8 @@
             "طول الخيط كبير بالنسبة لتصف قطر الكرة",
             "الخيط مهمل الكتلة ولا يمتد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "53",
@@ -2205,7 +2403,8 @@
             "حامله يمر من محور الدوران",
             "حامله يوازي محور الدوران"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "54",
@@ -2216,7 +2415,8 @@
             "نظرية الطاقة الحركية",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "55",
@@ -2227,7 +2427,8 @@
             "نظرية الطاقة الحركية",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "56",
@@ -2238,7 +2439,8 @@
             "h = L(1 - cosθ)",
             "h = L(cosθ_max - cosθ)"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "43",
@@ -2249,7 +2451,8 @@
             "T₀ = 1s",
             "T₀ = 2π s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "44",
@@ -2260,7 +2463,8 @@
             "نقطة مادية تهتز بتأثير ثقلها على بعد ثابت من محور أفقي ثابت",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "45",
@@ -2271,7 +2475,8 @@
             "T₀ = 2π√(l/g)",
             "T₀ = 2π√(g/l)"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "46",
@@ -2282,7 +2487,8 @@
             "كتلته",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "47",
@@ -2293,7 +2499,8 @@
             "نوع المادة التي صنع منها",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2310,7 +2517,8 @@
             "قوى الضغط والاحتكاك",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2321,7 +2529,8 @@
             "تجمع جزئيات الهواء في مقدمة الجسم",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2332,7 +2541,8 @@
             "السرعات الصغيرة",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2343,7 +2553,8 @@
             "تفاوت درجات الحرارة",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2354,7 +2565,8 @@
             "السرعات الصغيرة",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -2365,7 +2577,8 @@
             "السطح الظاهري للجسم / السطح المجابه للهواء",
             "كل ما سبق صح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -2376,7 +2589,8 @@
             "عكساً مع سرعة الجسم المتوسطة",
             "عكساً مع مرجع سرعة الجسم المتوسطة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -2387,7 +2601,8 @@
             "عكساً مع الكتلة الحجمية للهواء",
             "عكساً مع مرجع الكتلة الحجمية للهواء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2398,7 +2613,8 @@
             "كل ما سبق صح",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -2409,7 +2625,8 @@
             "تنزلق جزئيات الهواء عند تصادمها مع سطح الجسم",
             "كل ما سبق صح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -2420,7 +2637,8 @@
             "تتناسب طرحاً مع مرجع السطح الظاهري للجسم",
             "تتناسب عكساً مع مرجع السطح الظاهري للجسم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -2431,7 +2649,8 @@
             "تبقى ثابتة مهما اختلف شكل الجسم",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -2442,7 +2661,8 @@
             "ارتفاعاً في الضغط خلف القرص في حين تخفف منه جدران الأسطوانة",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -2453,7 +2673,8 @@
             "F_r = (1/2) ρ s v²",
             "F_r = (1/2) k ρ s v²"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -2464,7 +2685,8 @@
             "1 m/s → 380 m/s",
             "1 m/s → 80 m/s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -2475,7 +2697,8 @@
             "عامل الضغط",
             "عامل السرعة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "17",
@@ -2486,7 +2709,8 @@
             "شكل الجسم ونعومته",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2497,7 +2721,8 @@
             "نظرية الطاقة الحركية",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2508,7 +2733,8 @@
             "ΣΓ = I α",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21",
@@ -2519,7 +2745,8 @@
             "ΣΓ = I α",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22",
@@ -2530,7 +2757,8 @@
             "-W + F_r = m a",
             "-W - F_r = m a"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23",
@@ -2541,7 +2769,8 @@
             "W + F_r = 0",
             "W - F_r = 0"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "24",
@@ -2552,7 +2781,8 @@
             "عند تناقص السرعة",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "25",
@@ -2563,7 +2793,8 @@
             "عند ثبوت السرعة",
             "B+C"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "26",
@@ -2574,7 +2805,8 @@
             "عند ثبوت السرعة",
             "B+C"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "27",
@@ -2585,7 +2817,8 @@
             "a < 0",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "28",
@@ -2596,7 +2829,8 @@
             "التسارع معدوم",
             "التسارع ثابت"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "29",
@@ -2607,7 +2841,8 @@
             "مستقيمة منتظمة",
             "مستقيمة متسارعة بشكل منتظم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "30",
@@ -2618,7 +2853,8 @@
             "معدوم",
             "ثابت"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "31",
@@ -2629,7 +2865,8 @@
             "مستقيمة منتظمة",
             "مستقيمة متسارعة بشكل منتظم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "32",
@@ -2640,7 +2877,8 @@
             "التسارع معدوم",
             "التسارع ثابت"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "33",
@@ -2651,7 +2889,8 @@
             "W ≤ F_r",
             "W = F_r"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "34",
@@ -2662,7 +2901,8 @@
             "v_t = √(2m/(kρs))",
             "v_t = √(2mg/(ρs))"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "35",
@@ -2673,7 +2913,8 @@
             "v_t = (8ρ_b r g)/(3kρ)",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "36",
@@ -2684,7 +2925,8 @@
             "v_t2 = (1/3)v_t1",
             "v_t2 = (1/9)v_t1"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "37",
@@ -2695,7 +2937,8 @@
             "v_t2 = (1/3)v_t1",
             "v_t2 = (1/9)v_t1"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "38",
@@ -2706,7 +2949,8 @@
             "v_t2 = (1/3)v_t1",
             "v_t2 = (1/9)v_t1"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "39",
@@ -2717,7 +2961,8 @@
             "تصل الكرة الأكبر قطراً أولاً إلى الأرض",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "40",
@@ -2728,7 +2973,8 @@
             "تصلان معاً",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "41",
@@ -2739,7 +2985,8 @@
             "V = (3/4)πr³",
             "V = (4/3)πr³"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "42",
@@ -2750,7 +2997,8 @@
             "10m/s",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "43",
@@ -2761,7 +3009,8 @@
             "تتناسب طرداً مع حجم الجسم",
             "تتناسب طرداً مع السطح الظاهري للجسم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "44",
@@ -2772,7 +3021,8 @@
             "تتناسب عكساً مع الجذر التربيعي لنصف القطر",
             "تتناسب عكساً مع نصف القطر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "45",
@@ -2783,7 +3033,8 @@
             "تتناسب عكساً مع الجذر التربيعي للكثافة الحجمية",
             "تتناسب عكساً مع الكثافة الحجمية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "46",
@@ -2794,7 +3045,8 @@
             "يسقط بسرعة حدية متوسطة نسبياً",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "47",
@@ -2805,7 +3057,8 @@
             "قوة ثقله وقوة شد الحبل من المظلة",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "48",
@@ -2816,7 +3069,8 @@
             "شكله المغزلي",
             "B + C"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "49",
@@ -2827,7 +3081,8 @@
             "قوة شد الحبل من المظلي",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "50",
@@ -2838,7 +3093,8 @@
             "كل ما سبق صحيح",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "51",
@@ -2849,7 +3105,8 @@
             "7.5 m/s²",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "52",
@@ -2860,7 +3117,8 @@
             "10m",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "53",
@@ -2871,7 +3129,8 @@
             "a = 0 m/s²",
             "a = 10 m/s²"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2888,7 +3147,8 @@
             "قوى التجاذب بين جزيئات السائل تساوي قوى التجاذب بين جزيئات المادة الصلبة",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2899,7 +3159,8 @@
             "لزوجة السوائل ضعيفة جداً",
             "قوى التماسك معدومة بين جزيئاتها"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2910,7 +3171,8 @@
             "أبعاده أكبر من أبعاد السائل",
             "A+B"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2921,7 +3183,8 @@
             "ρgh",
             "ρhg"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2932,7 +3195,8 @@
             "حجم السائل المزاح أصغر من حجم الجسم المغمور",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -2943,7 +3207,8 @@
             "حجم السائل المزاح يساوي حجم الجزء المغمور",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -2954,7 +3219,8 @@
             "عمق النقطة عن سطح السائل",
             "شكل الوعاء"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -2965,7 +3231,8 @@
             "ازدياد قطر الوعاء",
             "A+B"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2976,7 +3243,8 @@
             "كل ما سبق صحيح",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2987,7 +3255,8 @@
             "ارتفاع السائل متساو في جميع فروع الوعاء بغض النظر عن شكل الوعاء",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -2998,7 +3267,8 @@
             "لا يذوب في السائل بل يتفاعل معه",
             "لا يذوب في السائل ولا يتفاعل معه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3009,7 +3279,8 @@
             "ثقل السائل المزاح",
             "ثقل الجسم المغمور"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3020,7 +3291,8 @@
             "كل ما سبق صحيح",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -3031,7 +3303,8 @@
             "0.2N",
             "0.8N"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -3042,7 +3315,8 @@
             "250 cm³",
             "0.0025 cm³"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -3053,7 +3327,8 @@
             "200 g/cm³",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -3064,7 +3339,8 @@
             "0.03N",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -3075,7 +3351,8 @@
             "3N",
             "30N"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21",
@@ -3086,7 +3363,8 @@
             "24 cm³",
             "96 cm³"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22",
@@ -3097,7 +3375,8 @@
             "24 cm³",
             "96 cm³"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23",
@@ -3108,7 +3387,8 @@
             "0.9 g/cm³",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "24",
@@ -3119,7 +3399,8 @@
             "باسكال",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "25",
@@ -3130,7 +3411,8 @@
             "قانون أرخميدس",
             "قانون باسكال"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "26",
@@ -3141,7 +3423,8 @@
             "البارومتر الزئبقي",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "27",
@@ -3152,7 +3435,8 @@
             "ρgh + P₀",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "28",
@@ -3163,7 +3447,8 @@
             "ρgh",
             "صفر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "29",
@@ -3174,7 +3459,8 @@
             "كل ما سبق صحيح",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "30",
@@ -3185,7 +3471,8 @@
             "x₂ = 9 x₁",
             "x₂ = 3 x₁"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "31",
@@ -3196,7 +3483,8 @@
             "مرتفع في الفروع الضيقة",
             "منخفض في الفروع الضيقة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "32",
@@ -3207,7 +3495,8 @@
             "F ≥ 2 × 10⁴ N",
             "F > 2 × 10⁴ N"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "34",
@@ -3218,7 +3507,8 @@
             "4cm",
             "6cm"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "35",
@@ -3229,7 +3519,8 @@
             "لا تتحرك جسيمات السائل حركة دورانية",
             "كتلته الحجمية ثابتة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "36",
@@ -3240,7 +3531,8 @@
             "حجمه ثابت",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "37",
@@ -3251,7 +3543,8 @@
             "تبقى طاقته الميكانيكية ثابتة أثناء الجريان",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "38",
@@ -3262,7 +3555,8 @@
             "كل ما سبق صحيح",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "39",
@@ -3273,7 +3567,8 @@
             "Q = S₂v₂",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "40",
@@ -3284,7 +3579,8 @@
             "m³·s⁻¹",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "41",
@@ -3295,7 +3591,8 @@
             "يزداد ضغط السائل كلما نقصت مساحة مقطع الأنبوب",
             "يزداد ضغط السائل كلما زادت سرعة جريان السائل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "42",
@@ -3306,7 +3603,8 @@
             "يزداد ضغط السائل كلما نقصت مساحة مقطع الأنبوب",
             "يزداد ضغط السائل كلما زادت سرعة جريان السائل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "43",
@@ -3317,7 +3615,8 @@
             "سطح مقطع الخرطوم صغير فيتدفق الماء بسرعة وطاقة حركية صغيرة",
             "سطح مقطع الخرطوم كبير فيتدفق الماء بسرعة وطاقة حركية صغيرة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "44",
@@ -3328,7 +3627,8 @@
             "السائل المثالي",
             "جسيم السائل"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "45",
@@ -3339,7 +3639,8 @@
             "الجريان المستقر المنتظم",
             "خطوط أنبوب التدفق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "46",
@@ -3350,7 +3651,8 @@
             "معدل التدفق الحجمي",
             "الطاقة الكامنة الثقالية لواحدة الحجوم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "47",
@@ -3361,7 +3663,8 @@
             "معدل التدفق الكتلي",
             "الطاقة الكامنة الثقالية لواحدة الحجوم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "48",
@@ -3372,7 +3675,8 @@
             "تتقلص سرعته ويتقلص سطح مقطعه",
             "تزداد سرعته ويتقلص سطح مقطعه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "49",
@@ -3383,7 +3687,8 @@
             "تتقلص سرعته ويتقلص سطح مقطعه",
             "تزداد سرعته ويتقلص سطح مقطعه"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "50",
@@ -3394,7 +3699,8 @@
             "v = √(Z/2)",
             "v = √(Zg)"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "51",
@@ -3405,7 +3711,8 @@
             "تساوي كمية السائل التي تعبر سطح مقطع الطرف الأول خلال نفس المدة الزمنية",
             "تساوي كمية السائل التي تعبر سطح مقطع الطرف الأول خلال نفس المدة الزمنية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "52",
@@ -3416,7 +3723,8 @@
             "P = P₀",
             "P ≤ P₀"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "53",
@@ -3427,7 +3735,8 @@
             "جسيمات السائل تخضع لقوة تعاكس جهة الجريان",
             "جسيمات السائل تخضع لقوة جهتها بجهة جريان السائل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "54",
@@ -3438,7 +3747,8 @@
             "P₁ - P₂ = ½ρ(v₂² - v₁²)",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "55",
@@ -3449,7 +3759,8 @@
             "مجموع الضغط والطاقة الحركية لواحدة الحجوم والطاقة الكامنة الثقالية لواحدة الحجوم تساوي مقداراً ثابتاً",
             "مجموع الضغط والطاقة الحركية لواحدة الحجوم تساوي مقداراً ثابتاً"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "56",
@@ -3460,7 +3771,8 @@
             "تزداد مساحة مقطع الشريان فيزداد ضغط الدم في المقاطع المتضيقة",
             "يزداد مساحة مقطع الشريان فيتناقص ضغط الدم في المقاطع المتضيقة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "57",
@@ -3471,7 +3783,8 @@
             "2ρv² + ρgz",
             "½ρv² + ρgz"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "58",
@@ -3482,7 +3795,8 @@
             "الجريان الدوراني",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "59",
@@ -3493,7 +3807,8 @@
             "الجريان الدوراني",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "67",
@@ -3504,7 +3819,8 @@
             "جريانه غير دوراني",
             "عديم اللزوجة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "68",
@@ -3515,7 +3831,8 @@
             "جريانه غير دوراني",
             "عديم اللزوجة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "69",
@@ -3526,7 +3843,8 @@
             "جريانه غير دوراني",
             "عديم اللزوجة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "70",
@@ -3537,7 +3855,8 @@
             "p₁ = p₂",
             "p₁ ≤ p₂"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "71",
@@ -3548,7 +3867,8 @@
             "عكساً مع مساحة مقطع الأنبوب",
             "عكساً مع لزوجة السائل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "72",
@@ -3559,7 +3879,8 @@
             "Q₂ = (1/9)Q₁",
             "Q₂ = √3 Q₁"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "73",
@@ -3570,7 +3891,8 @@
             "يؤدي إلى أن السائل المثالي قابل للانضغاط وهذا غير ممكن",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "74",
@@ -3581,7 +3903,8 @@
             "2000 L/s",
             "0.002 L/s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "75",
@@ -3592,7 +3915,8 @@
             "1000 s",
             "40 s"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "76",
@@ -3603,7 +3927,8 @@
             "v₂ = 2v₁",
             "v₂ = (1/2)v₁"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "78",
@@ -3614,7 +3939,8 @@
             "40 m/s",
             "5 m/s"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "79",
@@ -3625,7 +3951,8 @@
             "S₂ = 4 S₁",
             "S₂ = 0.25 S₁"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "75",
@@ -3636,7 +3963,8 @@
             "مقداراً متغيراً من نقطة لأخرى من نقاط خط الانسياب لسائل جريانه مستقر منتظم",
             "مقداراً ثابتاً عند أي نقطة من نقاط خط الانسياب لسائل جريانه مستقر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "76",
@@ -3647,7 +3975,8 @@
             "الضغط يتغير بتغير الكتلة الحجمية للسائل",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "77",
@@ -3658,7 +3987,8 @@
             "كل ما سبق صحيح",
             "كل ما سبق خطأ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "78",
@@ -3669,7 +3999,8 @@
             "كل ما سبق صحيح",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "79",
@@ -3680,7 +4011,8 @@
             "أرخميدس",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3702,7 +4034,8 @@
             "القوة المغناطيسية",
             "B+C"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "52",
@@ -3713,7 +4046,8 @@
             "F = qvB sinα",
             "F = qB sinα"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "53",
@@ -3724,7 +4058,8 @@
             "F⃗ = Iv⃗.B⃗",
             "ليس أيا مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "54",
@@ -3735,7 +4070,8 @@
             "qv⃗, B⃗ منطبقان",
             "كل من A و C صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "55",
@@ -3746,7 +4082,8 @@
             "qv⃗, B⃗ منطبقان",
             "كل من A و C صحيح"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "56",
@@ -3757,7 +4094,8 @@
             "6.4 × 10^-15",
             "64 × 10^-15"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "57",
@@ -3768,7 +4106,8 @@
             "دائرية منتظمة",
             "مستقيمة متسارعة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "59",
@@ -3779,7 +4118,8 @@
             "تؤدي إلى إيقاف الشحنة المتحركة",
             "ليس أيا مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "60",
@@ -3790,7 +4130,8 @@
             "4 × 10^-5",
             "10^-8"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "61",
@@ -3801,7 +4142,8 @@
             "eB/mv",
             "mv/eB"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "62",
@@ -3812,7 +4154,8 @@
             "كل ما سبق صحيح",
             "ليس أيا مما سبق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "63",
@@ -3823,7 +4166,8 @@
             "تحدد وفق قاعدة اليد اليمنى بحيث الأصابع بجهة شعاع السرعة وشعاع الحقل يخرج من ظهر الكف فيشير الإبهام إلى جهة قوة لورنز",
             "تحدد وفق قاعدة اليد اليمنى بحيث الأصابع بعكس جهة شعاع السرعة وشعاع الحقل يخرج من ظهر الكف فيشير الإبهام إلى جهة قوة لورنز"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "64",
@@ -3834,7 +4178,8 @@
             "تحدد وفق قاعدة اليد اليمنى بحيث الأصابع بجهة شعاع السرعة وشعاع الحقل يخرج من ظهر الكف فيشير الإبهام إلى جهة قوة لورنز",
             "تحدد وفق قاعدة اليد اليمنى بحيث الأصابع بعكس جهة شعاع السرعة وشعاع الحقل يخرج من ظهر الكف فيشير الإبهام إلى جهة قوة لورنز"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "65",
@@ -3845,7 +4190,8 @@
             "عمودي على شعاع الحقل المغناطيسي فقط",
             "يوازي المستوي المحدد بشعاع الحقل المغناطيسي وشعاع السرعة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "66",
@@ -3856,7 +4202,8 @@
             "قوة لورنز وتهمل قوة الثقل",
             "قوة ثقله فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "67",
@@ -3867,7 +4214,8 @@
             "∑ Γ F⃗ = I Δα",
             "∑ Γ F⃗ = 0"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "68",
@@ -3878,7 +4226,8 @@
             "مستقيمة متسارعة بانتظام",
             "ليس أي مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "87",
@@ -3889,7 +4238,8 @@
             "0 rad",
             "0.001 rad"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "88",
@@ -3900,7 +4250,8 @@
             "B = 4 × 10^-6 T",
             "B = 3 × 10^-6 T"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "89",
@@ -3911,7 +4262,8 @@
             "B = 4π × 10^-3 T",
             "B = 10^-3 T"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "90",
@@ -3922,7 +4274,8 @@
             "0.6 N",
             "1.5 N"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "91",
@@ -3933,7 +4286,8 @@
             "37.5π × 10^-11 S",
             "3.57 × 10^-9 S"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1",
@@ -3944,7 +4298,8 @@
             "Φ = NB cosα",
             "Φ = NS cosα"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -3955,7 +4310,8 @@
             "الويبر",
             "الفاراد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -3966,7 +4322,8 @@
             "Φ' = 4Φ",
             "Φ' = Φ/4"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -3977,7 +4334,8 @@
             "Φ' = 4Φ",
             "Φ' = Φ/4"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -3988,7 +4346,8 @@
             "Φ' = 4Φ",
             "Φ' = Φ/4"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -3999,7 +4358,8 @@
             "سطح الدارة",
             "كل ما سبق صحيح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -4010,7 +4370,8 @@
             "Φ = (1/2)Φ_max",
             "Φ = (√3/2)Φ_max"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -4021,7 +4382,8 @@
             "من الوجه الشمالي للدارة إلى الوجه الجنوبي",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -4032,7 +4394,8 @@
             "بجهة إنهاء قاعدة اليد اليمنى على أن تكون الأصابع بعكس جهة التيار",
             "ليس أيام مما سبق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -4043,7 +4406,8 @@
             "π",
             "3π/2"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -4054,7 +4418,8 @@
             "π",
             "3π/2"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -4065,7 +4430,8 @@
             "π",
             "3π/2"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -4076,7 +4442,8 @@
             "قانون لنز",
             "تدفق مغناطيسي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4087,7 +4454,8 @@
             "تتغير جهتها وشدتها",
             "لا تتغير كل من جهتها وشدتها"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21",
@@ -4098,7 +4466,8 @@
             "تتغير جهتها وشدتها",
             "لا تتغير كل من جهتها وشدتها"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22",
@@ -4109,7 +4478,8 @@
             "يشير إليها باطن الكف",
             "يعكس جهة رؤوس الأصابع"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23",
@@ -4120,7 +4490,8 @@
             "طول الناقل الخاضع للحقل المغناطيسي",
             "ليس ايا مما سبق"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "24",
@@ -4131,7 +4502,8 @@
             "يخرج التيار من رؤوس الأصابع والحقل من باطن الكف فيشير الخنصر إلى جهة القوة",
             "يخرج التيار من رؤوس الأصابع والحقل من باطن الكف فيشير السبابة إلى جهة القوة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "25",
@@ -4142,7 +4514,8 @@
             "تقع على أي جزء من الناقل",
             "ليس ايا مما سبق"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },

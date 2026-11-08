@@ -15,7 +15,8 @@
             "التخلي عن الإنتاج الصناعي",
             "نشر الحكم العثماني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -26,7 +27,8 @@
             "أنهت المنافسة بين الدول",
             "قللت أهمية التجارة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -37,7 +39,8 @@
             "اتحاد الدول على أساس متكافئ",
             "إلغاء النشاط التجاري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -48,7 +51,8 @@
             "أسباب مناخية",
             "أسباب رياضية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -59,7 +63,8 @@
             "توقف الملاحة",
             "انخفاض الحاجة إلى المواد الأولية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -70,7 +75,8 @@
             "دعم استقلالها السياسي",
             "الامتناع عن التدخل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -81,7 +87,8 @@
             "عقد مؤتمر برلين",
             "قيام الثورة العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -92,7 +99,8 @@
             "موقعها في شمال أوروبا",
             "إشرافها على بحر البلطيق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -103,7 +111,8 @@
             "عام 1916م",
             "عام 1920م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -114,7 +123,8 @@
             "تقسيم العراق إلى دول",
             "إنهاء الاستعمار الأوروبي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -125,7 +135,8 @@
             "الدولة البريطانية",
             "الدولة الروسية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -136,7 +147,8 @@
             "تنافس على إحياء الإمبراطورية الرومانية",
             "تنافس على إنهاء التجارة البحرية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -147,7 +159,8 @@
             "مناطق مستقلة عن كل تأثير",
             "مناطق مخصصة للزراعة فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -158,7 +171,8 @@
             "منعتها من عقد المعاهدات",
             "أنهت التنافس فيما بينها"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -169,7 +183,8 @@
             "اتفاقية سايكس-بيكو",
             "إعلان الانتداب على سورية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "16",
@@ -180,7 +195,8 @@
             "توقف التدخل الخارجي",
             "زيادة سيادتها على الدول الأوروبية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -191,7 +207,8 @@
             "لإلغاء التجارة",
             "لوقف استيراد المواد الأولية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -202,7 +219,8 @@
             "نشر الصناعة المحلية دون نفوذ",
             "الرغبة في الانعزال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -213,7 +231,8 @@
             "وقف الإنتاج الصناعي",
             "التخلي عن المواصلات البحرية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -224,7 +243,8 @@
             "ألغت التنافس على المستعمرات",
             "جعلت الدول الصناعية تكتفي بأسواقها الداخلية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -241,7 +261,8 @@
             "خلوه من الممرات البحرية",
             "ضعف صلته بالقارات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -252,7 +273,8 @@
             "مؤتمر برلين",
             "اتفاقية الحلفاء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -263,7 +285,8 @@
             "1830م",
             "1920م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -274,7 +297,8 @@
             "معاهدة تجارية بين سورية ومصر",
             "اتفاق لإنهاء الانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -285,7 +309,8 @@
             "بريطانيا وإسبانيا",
             "روسيا وألمانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -296,7 +321,8 @@
             "عقد مؤتمر برلين",
             "إلغاء الانتداب الفرنسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -307,7 +333,8 @@
             "تقسيم العراق بين فرنسا وبريطانيا",
             "إعادة الحكم العربي في دمشق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -318,7 +345,8 @@
             "1920م",
             "1936م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -329,7 +357,8 @@
             "توحيد البلاد العربية تحت حكم مستقل",
             "إنهاء النفوذ الأوروبي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -340,7 +369,8 @@
             "إنهاء التدخل الخارجي",
             "إقامة حكم عربي موحد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -351,7 +381,8 @@
             "بعده عن طرق التجارة",
             "وقوعه في شمال المحيط الأطلسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -362,7 +393,8 @@
             "انتهاء كل أشكال السيطرة الأجنبية",
             "قيام وحدة عربية شاملة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -373,7 +405,8 @@
             "الاتحاد الفدرالي",
             "الحياد الدولي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -384,7 +417,8 @@
             "إيطاليا",
             "الولايات المتحدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -395,7 +429,8 @@
             "إيطاليا",
             "روسيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -406,7 +441,8 @@
             "وقف حركة السفن",
             "إضعاف الاتصال بين المستعمرات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -417,7 +453,8 @@
             "امتنعت عن التدخل السياسي",
             "أقامت حكومة عربية موحدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -428,7 +465,8 @@
             "إلغاء الامتيازات الأجنبية",
             "انسحاب القوات الأجنبية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -439,7 +477,8 @@
             "إلغاء النفوذ البريطاني",
             "توحيد فلسطين وسورية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -450,7 +489,8 @@
             "صدورهما عن حكومة سورية",
             "إنهاؤهما الانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -467,7 +507,8 @@
             "الحماية المصرية",
             "الوصاية العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -478,7 +519,8 @@
             "تحقيق الوحدة العربية فوراً",
             "إنهاء النفوذ الأوروبي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -489,7 +531,8 @@
             "إيطاليا",
             "إسبانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -500,7 +543,8 @@
             "1917م",
             "1936م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -511,7 +555,8 @@
             "إعادة الحكم العثماني",
             "إنهاء التدخل الأجنبي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -522,7 +567,8 @@
             "منح المناطق استقلالها التام",
             "إلغاء الإدارات المحلية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -533,7 +579,8 @@
             "إمارة شرق الأردن",
             "مملكة الحجاز"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -544,7 +591,8 @@
             "دولة تونس",
             "إمارة الكويت"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -555,7 +603,8 @@
             "الساحل الشمالي",
             "وادي النيل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -566,7 +615,8 @@
             "دولة فلسطين",
             "دولة الجزيرة العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -577,7 +627,8 @@
             "إنهاء النفوذ الفرنسي",
             "تسليم الحكم للبرلمان العربي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -588,7 +639,8 @@
             "توحيد سورية ولبنان في دولة مستقلة",
             "الانسحاب من دمشق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -599,7 +651,8 @@
             "دولة الجزيرة",
             "مملكة سورية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -610,7 +663,8 @@
             "لم يكن بينهما أي ارتباط",
             "أنهت التقسيمات الوجود الفرنسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -621,7 +675,8 @@
             "الاستقلال الوطني",
             "الحياد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -632,7 +687,8 @@
             "الاستقلال يخضع البلد لدولة أجنبية",
             "لا فرق بينهما"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -643,7 +699,8 @@
             "بإلغاء الانتداب فوراً",
             "بتسليم الجيش للسوريين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -654,7 +711,8 @@
             "دولة المغرب",
             "دولة نجد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -665,7 +723,8 @@
             "توحيد القرار الوطني",
             "إنهاء التنافس الاستعماري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -676,7 +735,8 @@
             "اتحاد متكافئ بين دولتين",
             "حكم وطني بلا قيود"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -693,7 +753,8 @@
             "جمال باشا",
             "سايكس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -704,7 +765,8 @@
             "مجلس عصبة الأمم",
             "مجلس الشيوخ العثماني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -715,7 +777,8 @@
             "استمرار الحكم العثماني",
             "قبول الانتداب الفرنسي دون شروط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -726,7 +789,8 @@
             "إدارة عثمانية عسكرية",
             "حكومة بريطانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -737,7 +801,8 @@
             "تنفيذ وعد بلفور",
             "إعادة الانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -748,7 +813,8 @@
             "بوصفه حكومة بريطانية",
             "بوصفه امتداداً للانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -759,7 +825,8 @@
             "انسحب من المنطقة نهائياً",
             "وحده مع بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -770,7 +837,8 @@
             "إلغاء الانتداب",
             "تسليم السلطة للمؤتمر السوري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -781,7 +849,8 @@
             "انسحاب القوات الفرنسية",
             "توحيد بلاد الشام"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -792,7 +861,8 @@
             "اليرموك",
             "حطين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -803,7 +873,8 @@
             "1917م",
             "1936م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -814,7 +885,8 @@
             "جمال باشا",
             "هنري مكماهون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -825,7 +897,8 @@
             "المندوب السامي الفرنسي",
             "رئيس الوزراء البريطاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -836,7 +909,8 @@
             "انسحاب فرنسا من بلاد الشام",
             "إلغاء تقسيمات الانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -847,7 +921,8 @@
             "قاد القوات البريطانية",
             "وقع اتفاقية سايكس-بيكو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -858,7 +933,8 @@
             "صدور وعد بلفور",
             "احتلال الجزائر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -869,7 +945,8 @@
             "عودة الحكم العثماني",
             "استقلال لبنان وفلسطين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -880,7 +957,8 @@
             "أنهت الحرب العالمية الأولى",
             "أقرت اتفاقية سايكس-بيكو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -891,7 +969,8 @@
             "تزامن الحكم العربي مع استقلال كامل معترف به",
             "ألغى الحكم العربي النفوذ الفرنسي نهائياً"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -902,7 +981,8 @@
             "تنازلت عن الحكم لبريطانيا",
             "أيدت الاحتلال الفرنسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -919,7 +999,8 @@
             "بعدها عن البحر المتوسط",
             "خلوها من الموارد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -930,7 +1011,8 @@
             "إنهاء الانتداب البريطاني في العراق",
             "إنشاء دولة عربية مستقلة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -941,7 +1023,8 @@
             "لوزان",
             "باريس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -952,7 +1035,8 @@
             "كليمانصو",
             "لويد جورج"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -963,7 +1047,8 @@
             "آب 1920م",
             "تموز 1921م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -974,7 +1059,8 @@
             "إجلاء القوات الفرنسية فوراً",
             "إعلان الجمهورية اللبنانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -985,7 +1071,8 @@
             "إصدار عملة عراقية",
             "إلغاء التداول النقدي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -996,7 +1083,8 @@
             "أسبوعان",
             "شهر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1007,7 +1095,8 @@
             "طلب تأجيله سنة",
             "حوّله إلى بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1018,7 +1107,8 @@
             "انعدام الجيش الفرنسي",
             "ضغط الحكومة التركية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1029,7 +1119,8 @@
             "سلطان باشا الأطرش",
             "صالح العلي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1040,7 +1131,8 @@
             "والي بيروت",
             "رئيس الوزراء اللبناني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1051,7 +1143,8 @@
             "لوجود ميناء فيها",
             "لوقوعها على الحدود المصرية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1062,7 +1155,8 @@
             "ثلاثة أيام",
             "أسبوعاً"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1073,7 +1167,8 @@
             "انتصار الجيش السوري ودخول بيروت",
             "توقيع معاهدة الاستقلال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1084,7 +1179,8 @@
             "مقر المؤتمر السوري",
             "قلعة حلب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1095,7 +1191,8 @@
             "انتصرنا في ميسلون",
             "سنغادر دمشق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1106,7 +1203,8 @@
             "أرسله إلى لبنان",
             "جعله قائداً للجيش"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1117,7 +1215,8 @@
             "لإعلان وحدة سورية ومصر",
             "لمنع انعقاد مؤتمر سان ريمو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1128,7 +1227,8 @@
             "توقيع معاهدة 1943م",
             "قيام دولة الوحدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1145,7 +1245,8 @@
             "الخلاف على قناة السويس",
             "قيام الوحدة مع مصر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1156,7 +1257,8 @@
             "يوسف العظمة وهاشم الأتاسي",
             "رياض الصلح وبشارة الخوري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1167,7 +1269,8 @@
             "جبل العرب فقط",
             "دمشق وحدها"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1178,7 +1281,8 @@
             "يوسف العظمة",
             "شكري القوتلي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1189,7 +1293,8 @@
             "ثورة بنت جبيل",
             "انتفاضة القامشلي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1200,7 +1305,8 @@
             "عام 1936م",
             "عام 1943م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1211,7 +1317,8 @@
             "إبراهيم هنانو",
             "غورو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1222,7 +1329,8 @@
             "أقامت دولة الوحدة",
             "ألغت معاهدة سايكس بيكو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1233,7 +1341,8 @@
             "تسليم الحكم للثوار",
             "إلغاء الانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1244,7 +1353,8 @@
             "اقتصرت على الساحل",
             "اقتصرت على حلب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1255,7 +1365,8 @@
             "انسحاب فرنسا من لبنان فوراً",
             "قيام دولة الوحدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1266,7 +1377,8 @@
             "مساندة تقسيم البلاد",
             "مشاركة في تأسيس حلف بغداد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1277,7 +1389,8 @@
             "ثورة دمشق",
             "انتفاضة بنت جبيل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1288,7 +1401,8 @@
             "بشارة الخوري",
             "حسني الزعيم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1299,7 +1413,8 @@
             "تقسيم سورية إلى دويلات",
             "ضم سورية إلى فرنسا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1310,7 +1425,8 @@
             "انقلاب 1949م",
             "نكسة حزيران"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1321,7 +1437,8 @@
             "حصر القضية في دمشق",
             "تأييد السياسة الفرنسية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1332,7 +1449,8 @@
             "جعلت فرنسا تنضم إلى سورية",
             "أوقفت الحرب العالمية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1343,7 +1461,8 @@
             "الشيخ عمر البيطار",
             "إبراهيم هنانو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1354,7 +1473,8 @@
             "انتفاضة لبنانية ضد الانتداب البريطاني",
             "انقلاب عسكري سوري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1371,7 +1491,8 @@
             "إعلان الاستقلال",
             "توحيد سورية ولبنان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1382,7 +1503,8 @@
             "تطوير الصناعة الوطنية",
             "إنهاء الانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1393,7 +1515,8 @@
             "دولة العراق",
             "اتحاد بلاد الشام"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1404,7 +1527,8 @@
             "دولة العراق ودولة الأردن",
             "دولة دمشق ودولة حلب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1415,7 +1539,8 @@
             "دمشق وبيروت وبغداد",
             "حلب والموصل وفلسطين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1426,7 +1551,8 @@
             "ألغت العملة الفرنسية",
             "اعتمدت الدينار العراقي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1437,7 +1563,8 @@
             "لمنع دخول البضائع الفرنسية",
             "لتطوير الصناعة المحلية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1448,7 +1575,8 @@
             "زيادة الصادرات السورية",
             "استقلال الاقتصاد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1459,7 +1587,8 @@
             "توسيع تعليم التاريخ العربي",
             "إلغاء المدارس الفرنسية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1470,7 +1599,8 @@
             "مجلس الأمن بعد الحرب",
             "مجلس النواب اللبناني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1481,7 +1611,8 @@
             "حماية الوحدة السورية",
             "تسريع الاستقلال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1492,7 +1623,8 @@
             "إلغاء الهوية العربية",
             "الانضمام إلى فرنسا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1503,7 +1635,8 @@
             "إلغاء التوترات الطائفية",
             "إنهاء التدخل الفرنسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1514,7 +1647,8 @@
             "بتأييد تقسيم البلاد",
             "بإلغاء المؤتمر السوري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1525,7 +1659,8 @@
             "إلغاء الضرائب الفرنسية",
             "توحيد العملة العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1536,7 +1671,8 @@
             "تطوير الحكم الديمقراطي",
             "إنهاء الانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1547,7 +1683,8 @@
             "العملة الفرنسية",
             "السكك الحديدية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1558,7 +1695,8 @@
             "إنهاء النفوذ الفرنسي",
             "توسيع الحكم الذاتي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1569,7 +1707,8 @@
             "على أربع جمهوريات مستقلة",
             "من دون تقسيم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1580,7 +1719,8 @@
             "أدت إلى قبول دائم بالانتداب",
             "أوقفت المقاومة الشعبية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1597,7 +1737,8 @@
             "عام 1943م",
             "عام 1958م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1608,7 +1749,8 @@
             "فرض الانتداب على لبنان",
             "إعلان دولة الوحدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1619,7 +1761,8 @@
             "عصبة الدول الأوروبية",
             "حلف بغداد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1630,7 +1773,8 @@
             "انعدام الحاجة للتعليم",
             "وجود إدارة استعمارية مستقرة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1641,7 +1785,8 @@
             "فائض مالي كبير",
             "اعتماد على النفط وحده"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1652,7 +1797,8 @@
             "قيادته جيوش الحلفاء",
             "غياب أي تهديد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1663,7 +1809,8 @@
             "عام 1943م",
             "عام 1958م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1674,7 +1821,8 @@
             "قيام دولة الوحدة",
             "توقيع اتفاق الطائف"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1685,7 +1833,8 @@
             "أديب الشيشكلي",
             "هاشم الأتاسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1696,7 +1845,8 @@
             "15 كانون الأول 1951م",
             "8 آذار 1963م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1707,7 +1857,8 @@
             "شكري القوتلي",
             "حافظ الأسد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1718,7 +1869,8 @@
             "كانون الأول 1951م",
             "حزيران 1967م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1729,7 +1881,8 @@
             "سامي الحناوي",
             "يوسف العظمة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1740,7 +1893,8 @@
             "إعلانه الوحدة مع مصر",
             "إلغاءه الجيش السوري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1751,7 +1905,8 @@
             "حلب",
             "اللاذقية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1762,7 +1917,8 @@
             "أعلن الانتداب",
             "سلم الحكم لفرنسا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1773,7 +1929,8 @@
             "رياض الصلح",
             "حافظ الأسد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -1784,7 +1941,8 @@
             "أديب الشيشكلي",
             "سامي الحناوي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -1795,7 +1953,8 @@
             "وحدة سياسية مع لبنان",
             "حكم انتدابي فرنسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -1806,7 +1965,8 @@
             "إنهاء الجيش",
             "استقلال لبنان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1823,7 +1983,8 @@
             "احتلال بريطاني",
             "حرب أهلية دائمة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -1834,7 +1995,8 @@
             "الصيني والياباني",
             "المصري والتركي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -1845,7 +2007,8 @@
             "مشروع فيصل-كليمانصو",
             "اتفاقية سايكس بيكو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -1856,7 +2019,8 @@
             "مشروع الهلال الخصيب",
             "مشروع النقطة الكبرى"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -1867,7 +2031,8 @@
             "قبلت الانتداب الفرنسي",
             "انضمت إلى حلف الأطلسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -1878,7 +2043,8 @@
             "معركة ميسلون",
             "انتفاضة القامشلي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -1889,7 +2055,8 @@
             "30 آذار 1949م",
             "5 حزيران 1967م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -1900,7 +2067,8 @@
             "حافظ الأسد",
             "هاشم الأتاسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -1911,7 +2079,8 @@
             "إلغاء الاستفتاء",
             "حل مجلس النواب المصري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -1922,7 +2091,8 @@
             "إلغاء التعليم",
             "إعادة الانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -1933,7 +2103,8 @@
             "مجلس الانتداب",
             "الاتحاد السوري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -1944,7 +2115,8 @@
             "8 آذار 1963م",
             "5 حزيران 1967م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -1955,7 +2127,8 @@
             "أحمد الحسن الخطيب",
             "نور الدين الأتاسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -1966,7 +2139,8 @@
             "28 أيلول 1961م",
             "16 تشرين الأول 1973م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -1977,7 +2151,8 @@
             "قيام دولة الوحدة",
             "إقرار استقلال لبنان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -1988,7 +2163,8 @@
             "28 أيلول 1961م",
             "8 آذار 1963م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -1999,7 +2175,8 @@
             "جبل العرب",
             "شبه جزيرة سيناء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2010,7 +2187,8 @@
             "آذار 1963م",
             "حزيران 1967م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2021,7 +2199,8 @@
             "استقلال لبنان",
             "إنهاء حكم الحزب الواحد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2032,7 +2211,8 @@
             "ثورة الساحل",
             "ثورة 1925م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2049,7 +2229,8 @@
             "اتفاق الطائف",
             "مؤتمر باريس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2060,7 +2241,8 @@
             "آذار 1925م",
             "أيلول 1943م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2071,7 +2253,8 @@
             "دولة دمشق",
             "جبل العرب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2082,7 +2265,8 @@
             "إنهاء الانتداب",
             "تسليم لبنان إلى بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2093,7 +2277,8 @@
             "منحت الحكم للسوريين",
             "وحدت لبنان مع مصر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -2104,7 +2289,8 @@
             "مجلس الأمة المصري",
             "مجلس عصبة الأمم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -2115,7 +2301,8 @@
             "الدينار العراقي",
             "الفرنك السوري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -2126,7 +2313,8 @@
             "قادت إلى احتلال بريطاني",
             "أدت إلى وحدة لبنان ومصر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2137,7 +2325,8 @@
             "1943م",
             "1946م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -2148,7 +2337,8 @@
             "أقره عام 1946م",
             "عدله عام 1958م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -2159,7 +2349,8 @@
             "انقلاب عسكري",
             "اتفاق الطائف"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -2170,7 +2361,8 @@
             "ثورة الساحل",
             "ثورة ميسلون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -2181,7 +2373,8 @@
             "إنشاء دولة لبنان الكبير",
             "تقسيم سورية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -2192,7 +2385,8 @@
             "لجنة بريطانية مصرية",
             "لجنة أممية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -2203,7 +2397,8 @@
             "تسليح الجيش السوري",
             "قيادة الجيش اللبناني إلى فرنسا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -2214,7 +2409,8 @@
             "إلغاء الانتداب",
             "إعطاء لبنان استقلالاً كاملاً"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -2225,7 +2421,8 @@
             "منع النقل البري",
             "تسليم المدارس لفرنسا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2236,7 +2433,8 @@
             "إعلان الوحدة مع سورية",
             "إلغاء المجلس النيابي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2247,7 +2445,8 @@
             "حل نفسه",
             "أعلن استقلال سورية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2258,7 +2457,8 @@
             "دستور الانتداب البريطاني",
             "اتفاق الطائف"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2275,7 +2475,8 @@
             "عام 1946م",
             "عام 1958م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2286,7 +2487,8 @@
             "الجنرال بونسو",
             "غورو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2297,7 +2499,8 @@
             "كمال جنبلاط",
             "سليمان فرنجية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2308,7 +2511,8 @@
             "ناظم القدسي",
             "مأمون الكزبري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2319,7 +2523,8 @@
             "تقسيم لبنان",
             "إلغاء المجلس النيابي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -2330,7 +2535,8 @@
             "أيلول 1961م",
             "حزيران 1967م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -2341,7 +2547,8 @@
             "حلف الأطلسي والاتحاد الأوروبي",
             "الاتحاد القومي والأمم المتحدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -2352,7 +2559,8 @@
             "احتلال بريطاني لبيروت",
             "تدخل عراقي مباشر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2363,7 +2571,8 @@
             "قيام دولة الوحدة",
             "إعلان الانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -2374,7 +2583,8 @@
             "عام 1958م",
             "عام 1982م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -2385,7 +2595,8 @@
             "رفض الوحدة مع مصر",
             "حرب حزيران السورية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -2396,7 +2607,8 @@
             "قادت الانتداب الفرنسي",
             "انسحبت من المنطقة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -2407,7 +2619,8 @@
             "معاهدة 1943م",
             "اتفاق سايكس بيكو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -2418,7 +2631,8 @@
             "تقسيم لبنان إلى دويلات",
             "إلغاء استقلال لبنان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -2429,7 +2643,8 @@
             "عام 1961م",
             "عام 1990م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -2440,7 +2655,8 @@
             "حمص",
             "بغداد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -2451,7 +2667,8 @@
             "حلها في سورية",
             "عودتها إلى بيروت"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2462,7 +2679,8 @@
             "ألغت به اتفاق الطائف",
             "حولته إلى معاهدة استقلال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2473,7 +2691,8 @@
             "رياض الصلح",
             "فؤاد شهاب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2484,7 +2703,8 @@
             "حرب 1948م",
             "معاهدة 1943م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2501,7 +2721,8 @@
             "وقوعها داخل شبه الجزيرة العربية",
             "خلوها من المدن الساحلية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2512,7 +2733,8 @@
             "إحياء الدولة العثمانية",
             "استقلال مصر عن بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2523,7 +2745,8 @@
             "مؤتمر سان ريمو عام 1920م",
             "مؤتمر القاهرة عام 1921م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2534,7 +2757,8 @@
             "آرثر بلفور",
             "مارك سايكس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2545,7 +2769,8 @@
             "1916م",
             "1917م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -2556,7 +2781,8 @@
             "توحيد الجيش العثماني",
             "فرض الضرائب على أوروبا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -2567,7 +2793,8 @@
             "جامعة الدول العربية",
             "الوكالة العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -2578,7 +2805,8 @@
             "تقسيم فلسطين بين فرنسا وبريطانيا",
             "إعادة فلسطين إلى الدولة العثمانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2589,7 +2817,8 @@
             "رئيس الوزراء الفرنسي كليمنصو",
             "المندوب السامي هربرت صموئيل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -2600,7 +2829,8 @@
             "الملك فيصل",
             "جمال باشا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -2611,7 +2841,8 @@
             "24 تموز 1922م",
             "29 تشرين الثاني 1947م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -2622,7 +2853,8 @@
             "منح العرب حكومة مستقلة",
             "إلغاء الانتداب خلال عام"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -2633,7 +2865,8 @@
             "بورتسموث",
             "رودس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -2644,7 +2877,8 @@
             "1918م",
             "1920م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -2655,7 +2889,8 @@
             "إيطاليا",
             "الولايات المتحدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -2666,7 +2901,8 @@
             "القاهرة عام 1921م",
             "لوزان عام 1923م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -2677,7 +2913,8 @@
             "إلغاء المؤسسات الصهيونية",
             "استقلال فلسطين العربي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2688,7 +2925,8 @@
             "انتهاء النزاع العربي الأوروبي",
             "توحيد فلسطين والأردن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2699,7 +2937,8 @@
             "حياد الدول الصغيرة",
             "المساواة بين القوى الاستعمارية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2710,7 +2949,8 @@
             "تأمين استقلال بلاد الشام",
             "إضعاف النفوذ البريطاني في الهند"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2727,7 +2967,8 @@
             "احتلال العراق للكويت",
             "توقيع هدنة رودس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2738,7 +2979,8 @@
             "الهجرة الجماعية",
             "التحالف العسكري مع بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2749,7 +2991,8 @@
             "سنتين كاملتين",
             "ثلاثة أعوام"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2760,7 +3003,8 @@
             "حزب الوفد",
             "الجامعة العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2771,7 +3015,8 @@
             "رشيد عالي الكيلاني",
             "يوسف العظمة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -2782,7 +3027,8 @@
             "1939م",
             "1947م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -2793,7 +3039,8 @@
             "في غزة",
             "في يافا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -2804,7 +3051,8 @@
             "إلغاء الانتداب مباشرة",
             "تسليم الحكم للجنة العربية العليا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -2815,7 +3063,8 @@
             "لجنة مونتاغو",
             "لجنة كيرزون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -2826,7 +3075,8 @@
             "ضم فلسطين إلى العراق",
             "إنهاء الهجرة دون تقسيم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -2837,7 +3087,8 @@
             "طلبوا توسيع الدولة اليهودية",
             "قبلوا به شرط ضم الأردن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -2848,7 +3099,8 @@
             "مؤتمر إعلان المملكة الأردنية",
             "مؤتمر عقد هدنة رودس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -2859,7 +3111,8 @@
             "سلّحتهم ضد الصهاينة",
             "أنهت الانتداب بطلبهم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -2870,7 +3123,8 @@
             "إلغاء الوجود البريطاني في المنطقة",
             "ضم الضفة الغربية للأردن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -2881,7 +3135,8 @@
             "قبلوه دون تحفظ",
             "طلبوا تطبيقه في العراق فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -2892,7 +3147,8 @@
             "ضم فلسطين إلى فرنسا",
             "حل الجمعيات الوطنية العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -2903,7 +3159,8 @@
             "أدت إلى انسحاب بريطانيا فورًا",
             "منحت الصهاينة دولة مستقلة عام 1936م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -2914,7 +3171,8 @@
             "لدعم الانتداب البريطاني",
             "لمنع استقلال العراق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -2925,7 +3183,8 @@
             "تحقق الاستقلال العربي",
             "انسحاب القوات البريطانية من فلسطين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -2936,7 +3195,8 @@
             "تمرد عسكري بريطاني",
             "نزاع بين إمارات عربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2953,7 +3213,8 @@
             "جامعة الدول العربية",
             "مجلس التعاون العربي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -2964,7 +3225,8 @@
             "15 أيار 1948م",
             "11 كانون الأول 1948م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -2975,7 +3237,8 @@
             "338",
             "194"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -2986,7 +3249,8 @@
             "أربع مناطق انتداب",
             "دولة عربية واحدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -2997,7 +3261,8 @@
             "ضمها إلى الأردن",
             "جعلها عاصمة الانتداب البريطاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -3008,7 +3273,8 @@
             "طلبوا تطبيقه فورًا",
             "اقترحوا ضم فلسطين إلى العراق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -3019,7 +3285,8 @@
             "طلبت عودة الانتداب العثماني",
             "انسحبت من فلسطين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -3030,7 +3297,8 @@
             "معركة الكرامة",
             "قرار التقسيم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -3041,7 +3309,8 @@
             "قيام الثورة العراقية",
             "توقيع اتفاقية سايكس-بيكو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -3052,7 +3321,8 @@
             "عودة اللاجئين جميعًا",
             "إلغاء الحدود العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3063,7 +3333,8 @@
             "اتفاقية سايكس-بيكو",
             "معاهدة سان ريمو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3074,7 +3345,8 @@
             "1947م",
             "1956م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -3085,7 +3357,8 @@
             "إعلان الدولة الفلسطينية",
             "إلغاء قرار التقسيم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -3096,7 +3369,8 @@
             "الأونكتاد",
             "اليونيسف"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -3107,7 +3381,8 @@
             "إلغاء الحدود مع العراق",
             "ضم فلسطين إلى لبنان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -3118,7 +3393,8 @@
             "إنهاء الهجرة اليهودية",
             "تسليم الأراضي للأمم المتحدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -3129,7 +3405,8 @@
             "عودة الانتداب الفرنسي",
             "توحيد بلاد الشام"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -3140,7 +3417,8 @@
             "ليبيا",
             "السعودية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -3151,7 +3429,8 @@
             "حكومة عثمانية مشتركة",
             "مجلسًا تابعًا لفرنسا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -3162,7 +3441,8 @@
             "تخلوا عن حقهم في البلاد",
             "انضموا إلى الانتداب البريطاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3179,7 +3459,8 @@
             "الأونروا",
             "عصبة الأمم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -3190,7 +3471,8 @@
             "1956م",
             "1974م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -3201,7 +3483,8 @@
             "حكومة للانتداب البريطاني",
             "حلفًا عسكريًا عربيًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -3212,7 +3495,8 @@
             "5 حزيران 1967م",
             "29 تشرين الثاني 1947م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -3223,7 +3507,8 @@
             "الانتداب الدولي",
             "الحياد السياسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -3234,7 +3519,8 @@
             "معركة القادسية",
             "معركة اليرموك"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -3245,7 +3531,8 @@
             "لبنان",
             "مصر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -3256,7 +3543,8 @@
             "حرب 1948م",
             "حرب السويس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -3267,7 +3555,8 @@
             "الضفة الغربية فقط",
             "النقب فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -3278,7 +3567,8 @@
             "إعادة الانتداب البريطاني",
             "إنهاء منظمة التحرير"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3289,7 +3579,8 @@
             "انقلاب عسكري في الأردن",
             "احتلال العراق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3300,7 +3591,8 @@
             "اتفاقية بورتسموث",
             "معاهدة رودس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -3311,7 +3603,8 @@
             "كنيسة المهد في بيت لحم",
             "مخيم جنين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -3322,7 +3615,8 @@
             "آذار 1968م",
             "كانون الأول 1987م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -3333,7 +3627,8 @@
             "المفاوضات مع بريطانيا",
             "القتال ضد الأردن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -3344,7 +3639,8 @@
             "في بغداد",
             "في عمّان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -3355,7 +3651,8 @@
             "بلفور",
             "غورو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -3366,7 +3663,8 @@
             "التنازل عن الجنسية",
             "حل وكالة الأونروا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -3377,7 +3675,8 @@
             "تحقيق الوحدة الفلسطينية",
             "إعادة اللاجئين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -3388,7 +3687,8 @@
             "إلغاء الهوية الفلسطينية",
             "إسناد الانتداب البريطاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3405,7 +3705,8 @@
             "1930م",
             "1948م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -3416,7 +3717,8 @@
             "الشريف حسين بن علي",
             "الملك طلال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -3427,7 +3729,8 @@
             "استقلال فلسطين",
             "إقامة دولة يهودية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -3438,7 +3741,8 @@
             "ضمها إلى الانتداب الفرنسي",
             "تسليمها إلى فيصل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -3449,7 +3753,8 @@
             "1939م",
             "1956م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -3460,7 +3765,8 @@
             "1936م",
             "1952م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -3471,7 +3777,8 @@
             "الإمارة العربية",
             "الجمهورية الأردنية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -3482,7 +3789,8 @@
             "الملك طلال",
             "تشرشل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -3493,7 +3801,8 @@
             "إربد",
             "الزرقاء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -3504,7 +3813,8 @@
             "تأسيس إمارة شرق الأردن",
             "إعلان الوحدة مع مصر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3515,7 +3825,8 @@
             "فيصل الثاني",
             "رشيد عالي الكيلاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3526,7 +3837,8 @@
             "استقلال الأردن",
             "معركة الكرامة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -3537,7 +3849,8 @@
             "مصر والسعودية",
             "تركيا واليونان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -3548,7 +3861,8 @@
             "1970م",
             "1994م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -3559,7 +3873,8 @@
             "استقلال الأردن عن بريطانيا",
             "قيام الإمارة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -3570,7 +3885,8 @@
             "1967م",
             "1988م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -3581,7 +3897,8 @@
             "الزرقاء",
             "العقبة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -3592,7 +3909,8 @@
             "الانتداب الإيطالي",
             "الانتداب الأمريكي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -3603,7 +3921,8 @@
             "احتل قطاع غزة",
             "انضم إلى العراق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -3614,7 +3933,8 @@
             "تأييد تقسيم فلسطين",
             "الانسحاب من الشؤون العربية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3631,7 +3951,8 @@
             "خلوه من الموارد",
             "رغبتها في ضمّه إلى فرنسا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -3642,7 +3963,8 @@
             "غرب العراق قادمة من مصر",
             "شرق العراق قادمة من إيران"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -3653,7 +3975,8 @@
             "1918م",
             "1920م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -3664,7 +3987,8 @@
             "غورو",
             "لورنس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -3675,7 +3999,8 @@
             "معركة ميسلون",
             "معركة القادسية الحديثة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -3686,7 +4011,8 @@
             "1916م",
             "1920م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -3697,7 +4023,8 @@
             "عام 1921م",
             "بعد معاهدة 1930م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -3708,7 +4035,8 @@
             "تسليم الإدارة إلى فرنسا",
             "إحياء الحكم العثماني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -3719,7 +4047,8 @@
             "انتفاضة الحجارة",
             "ثورة سعد زغلول"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -3730,7 +4059,8 @@
             "مقتل الملك فيصل",
             "توقيع معاهدة 1930م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3741,7 +4071,8 @@
             "عامين",
             "ثلاث سنوات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3752,7 +4083,8 @@
             "الملك غازي",
             "رشيد عالي الكيلاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -3763,7 +4095,8 @@
             "1925م",
             "1930م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -3774,7 +4107,8 @@
             "اتفاقية أوسلو",
             "هدنة رودس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -3785,7 +4119,8 @@
             "ضم البصرة إلى الهند",
             "استعادة الكويت"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -3796,7 +4131,8 @@
             "جامعة الدول العربية",
             "محكمة لاهاي وحدها"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -3807,7 +4143,8 @@
             "تقسيم الموصل بين بريطانيا وفرنسا",
             "استقلال الموصل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -3818,7 +4155,8 @@
             "استقلال الموصل عن العراق",
             "ضم العراق إلى الهند"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -3829,7 +4167,8 @@
             "الموصل وكركوك",
             "النجف وكربلاء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -3840,7 +4179,8 @@
             "1925م",
             "1945م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3857,7 +4197,8 @@
             "فيصل الثاني مباشرة",
             "عبد الكريم قاسم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -3868,7 +4209,8 @@
             "رشيد عالي الكيلاني",
             "عبد الكريم قاسم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -3879,7 +4221,8 @@
             "عبد الرحمن الكيلاني",
             "عبد الكريم قاسم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -3890,7 +4233,8 @@
             "تأسيس منظمة التحرير",
             "الانسحاب البريطاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -3901,7 +4245,8 @@
             "القاهرة ثم القدس",
             "الموصل ثم طهران"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -3912,7 +4257,8 @@
             "معاهدة رودس",
             "معاهدة سايكس-بيكو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -3923,7 +4269,8 @@
             "لأنها أنهت القواعد البريطانية",
             "لأنها ضمت الموصل لتركيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -3934,7 +4281,8 @@
             "انقلاب 1941م",
             "انقلاب 1963م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -3945,7 +4293,8 @@
             "فيصل الأول وعبد الله الأول",
             "أحمد حسن البكر وصدام حسين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -3956,7 +4305,8 @@
             "الإمارة",
             "الانتداب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -3967,7 +4317,8 @@
             "مجلس التعاون العربي",
             "الاتحاد المغاربي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -3978,7 +4329,8 @@
             "الملك غازي",
             "رشيد عالي الكيلاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -3989,7 +4341,8 @@
             "فيصل الثاني",
             "نوري السعيد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -4000,7 +4353,8 @@
             "الملك غازي",
             "رشيد عالي الكيلاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -4011,7 +4365,8 @@
             "حرب 1948م",
             "حرب الأيام الستة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -4022,7 +4377,8 @@
             "انقلاب 14 تموز",
             "توقيع معاهدة بورتسموث"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -4033,7 +4389,8 @@
             "ضم الكويت إلى العراق",
             "توحيد العراق وإيران"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -4044,7 +4401,8 @@
             "إعادة الملكية",
             "حل أزمة الموصل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -4055,7 +4413,8 @@
             "حماية الوحدة العربية",
             "إنهاء القواعد الأمريكية في المنطقة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4066,7 +4425,8 @@
             "2008م",
             "2014م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4083,7 +4443,8 @@
             "السيطرة على مسقط",
             "إنهاء الوجود العثماني في العراق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -4094,7 +4455,8 @@
             "المدينة المنورة",
             "الرياض"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -4105,7 +4467,8 @@
             "عجلان",
             "ابن رشيد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -4116,7 +4479,8 @@
             "ظفار",
             "حضرموت"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -4127,7 +4491,8 @@
             "آل صباح",
             "آل ثاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -4138,7 +4503,8 @@
             "جدة",
             "حائل"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -4149,7 +4515,8 @@
             "روضة مهنا",
             "جراب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -4160,7 +4527,8 @@
             "عسير",
             "الحجاز"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -4171,7 +4539,8 @@
             "اتفاقية جدة",
             "معاهدة سايكس بيكو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -4182,7 +4551,8 @@
             "أعلن وحدة اليمن",
             "اعترفت بريطانيا باستقلاله وأراضيه وتعهدت بحمايته"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -4193,7 +4563,8 @@
             "الحجاز",
             "عمان"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -4204,7 +4575,8 @@
             "1913م",
             "1932م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -4215,7 +4587,8 @@
             "المدينة المنورة",
             "ينبع"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -4226,7 +4599,8 @@
             "الدولة السعودية الأولى",
             "مملكة الحجاز ونجد وملحقاتها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -4237,7 +4611,8 @@
             "المملكة العربية السعودية",
             "مملكة نجد والحجاز"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -4248,7 +4623,8 @@
             "2 كانون الأول 1971م",
             "14 شباط 1945م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -4259,7 +4635,8 @@
             "الحديد",
             "الذهب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -4270,7 +4647,8 @@
             "1945م",
             "1938م"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -4281,7 +4659,8 @@
             "اتفاقية الامتياز النفطي",
             "معاهدة دارين"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4292,7 +4671,8 @@
             "الملك فيصل",
             "الملك خالد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4309,7 +4689,8 @@
             "1899م",
             "1915م"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -4320,7 +4701,8 @@
             "إعلان استقلال الكويت عن بريطانيا",
             "ضم الكويت إلى نجد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -4331,7 +4713,8 @@
             "الوصول إلى البحر المتوسط",
             "إقامة دولة موحدة في الجزيرة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -4342,7 +4725,8 @@
             "1973م",
             "1961م"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -4353,7 +4737,8 @@
             "الشيخ عبد الله السالم الصباح",
             "الشيخ مبارك الصباح"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -4364,7 +4749,8 @@
             "اعترفت باستقلالها",
             "وقعت معها اتفاقية وحدة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -4375,7 +4761,8 @@
             "1990م",
             "2003م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -4386,7 +4773,8 @@
             "اتفاقية الطائف",
             "اتفاقية الحماية البريطانية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -4397,7 +4785,8 @@
             "1971م",
             "1961م"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -4408,7 +4797,8 @@
             "الشيخ خليفة بن حمد آل ثاني",
             "الشيخ عبد الله بن جاسم آل ثاني"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -4419,7 +4809,8 @@
             "تجارة الأخشاب",
             "استخراج الفحم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -4430,7 +4821,8 @@
             "1961م",
             "1949م"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -4441,7 +4833,8 @@
             "1861م",
             "1899م"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -4452,7 +4845,8 @@
             "آل صباح",
             "آل ثاني"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -4463,7 +4857,8 @@
             "1932م",
             "1973م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -4474,7 +4869,8 @@
             "انتهاء تجارة اللؤلؤ",
             "الأعباء الاقتصادية والسياسية وتراجع قدرتها على الاحتفاظ بقواعدها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -4485,7 +4881,8 @@
             "وفرت موارد للتنمية والتحول الاقتصادي",
             "أوقفت التوسع العمراني"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -4496,7 +4893,8 @@
             "حلف بغداد",
             "مجلس التعاون الخليجي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -4507,7 +4905,8 @@
             "البحرين",
             "الإمارات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4518,7 +4917,8 @@
             "عمان والكويت",
             "قطر والبحرين"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4535,7 +4935,8 @@
             "إمارة نجد",
             "مشيخات الحجاز"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -4546,7 +4947,8 @@
             "صناعة الحرير",
             "الغوص على اللؤلؤ والتجارة البحرية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -4557,7 +4959,8 @@
             "تزايد الأعباء الاقتصادية وتراجع النفوذ البريطاني",
             "اكتشاف النفط في عمان"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -4568,7 +4971,8 @@
             "19 حزيران 1961م",
             "23 أيلول 1932م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -4579,7 +4983,8 @@
             "الشيخ شخبوط بن سلطان آل نهيان",
             "الشيخ خليفة بن زايد آل نهيان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -4590,7 +4995,8 @@
             "الفجيرة",
             "أبو ظبي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -4601,7 +5007,8 @@
             "خمس إمارات",
             "ثماني إمارات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -4612,7 +5019,8 @@
             "دبي",
             "أبو ظبي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -4623,7 +5031,8 @@
             "اعتمادها على الفحم",
             "كونها مركز حكم بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -4634,7 +5043,8 @@
             "الشيخ راشد بن سعيد آل مكتوم",
             "الشيخ خليفة بن زايد آل نهيان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -4645,7 +5055,8 @@
             "أسرة البوسعيد",
             "أسرة آل خليفة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -4656,7 +5067,8 @@
             "1856م",
             "1913م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -4667,7 +5079,8 @@
             "فيصل بن تركي",
             "تيمور بن فيصل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -4678,7 +5091,8 @@
             "دولة قطر",
             "سلطنة زنجبار"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -4689,7 +5103,8 @@
             "1856م",
             "1744م"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -4700,7 +5115,8 @@
             "اتفاقية استقلال عمان",
             "اتفاقية اتحاد الإمارات"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -4711,7 +5127,8 @@
             "معاهدة دارين",
             "اتفاقية جدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -4722,7 +5139,8 @@
             "قيام مجلس التعاون الخليجي",
             "تقسيم النفوذ بين السلطان والإمام مع الاعتراف بسلطة الإمام الداخلية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -4733,7 +5151,8 @@
             "مجلس التعاون لدول الخليج العربية",
             "جامعة الدول العربية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4744,7 +5163,8 @@
             "إمامة عمان",
             "سلطنة مسقط وزنجبار"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4761,7 +5181,8 @@
             "طريق التجارة إلى الهند عبر البحر الأحمر",
             "طريق الحرير إلى الصين"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -4772,7 +5193,8 @@
             "1916م",
             "1920م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -4783,7 +5205,8 @@
             "الإمام يحيى",
             "الدولة السعودية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -4794,7 +5217,8 @@
             "دولة الكويت",
             "المملكة المتوكلية اليمنية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -4805,7 +5229,8 @@
             "يحيى حميد الدين",
             "أحمد بن يحيى"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -4816,7 +5241,8 @@
             "1839م",
             "1937م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -4827,7 +5253,8 @@
             "1967م",
             "1990م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -4838,7 +5265,8 @@
             "الاتحاد الفيدرالي",
             "النظام الجمهوري"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -4849,7 +5277,8 @@
             "عبد الله السلال",
             "علي عبد الله صالح"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -4860,7 +5289,8 @@
             "19 حزيران 1961م",
             "2 كانون الأول 1971م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -4871,7 +5301,8 @@
             "الجمهورية العربية اليمنية",
             "سلطنة عدن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -4882,7 +5313,8 @@
             "جامعة الدول العربية",
             "الجبهة القومية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -4893,7 +5325,8 @@
             "اعترفت بريطانيا باستقلال اليمن الشمالي مع تأجيل البت في الحدود الجنوبية",
             "وحدت شطري اليمن"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -4904,7 +5337,8 @@
             "30 تشرين الثاني 1967م",
             "26 أيلول 1962م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -4915,7 +5349,8 @@
             "المملكة المتوكلية اليمنية",
             "الاتحاد اليمني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -4926,7 +5361,8 @@
             "قحطان الشعبي",
             "علي عبد الله صالح"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -4937,7 +5373,8 @@
             "علي سالم البيض",
             "عبد الرحمن الإرياني"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -4948,7 +5385,8 @@
             "عودة الحكم الإمامي",
             "استقلال عدن عن اليمن"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -4959,7 +5397,8 @@
             "استقلال الجنوب عام 1967م",
             "الوحدة عام 1990م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -4970,7 +5409,8 @@
             "استقلال الكويت عام 1961م",
             "إنهاء الاحتلال البريطاني لعدن والجنوب عام 1967م"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4987,7 +5427,8 @@
             "1914",
             "حسين كامل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -4998,7 +5439,8 @@
             "حسين كامل",
             "الحرب العالمية الأولى"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -5009,7 +5451,8 @@
             "الحرب العالمية الأولى",
             "حسين كامل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -5020,7 +5463,8 @@
             "الحرب العالمية الأولى",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -5031,7 +5475,8 @@
             "سلطان مصر",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -5042,7 +5487,8 @@
             "عباس حلمي الثاني",
             "ثورة 1919"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -5053,7 +5499,8 @@
             "الحرب العالمية الأولى",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -5064,7 +5511,8 @@
             "الحرب العالمية الأولى",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -5075,7 +5523,8 @@
             "الاستقلال",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -5086,7 +5535,8 @@
             "عباس حلمي الثاني",
             "1922"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -5097,7 +5547,8 @@
             "الحرب العالمية الأولى",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -5108,7 +5559,8 @@
             "الحرب العالمية الأولى",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -5119,7 +5571,8 @@
             "فؤاد الأول",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -5130,7 +5583,8 @@
             "عباس حلمي الثاني",
             "الدفاع والمواصلات الإمبراطورية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -5141,7 +5595,8 @@
             "الحرب العالمية الأولى",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -5152,7 +5607,8 @@
             "الحرب العالمية الأولى",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -5163,7 +5619,8 @@
             "مالطة",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -5174,7 +5631,8 @@
             "حسين كامل",
             "الحرب العالمية الأولى"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -5185,7 +5643,8 @@
             "بالتنازل عن قناة السويس",
             "بإلغاء الحركة الوطنية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -5196,7 +5655,8 @@
             "الحرب العالمية الأولى",
             "عباس حلمي الثاني"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -5213,7 +5673,8 @@
             "استقلال مصر",
             "1919"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -5224,7 +5685,8 @@
             "نفي زعماء الوفد",
             "استقلال مصر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -5235,7 +5697,8 @@
             "سعد زغلول",
             "استقلال مصر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -5246,7 +5709,8 @@
             "استقلال مصر",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -5257,7 +5721,8 @@
             "نفي زعماء الوفد",
             "1922"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -5268,7 +5733,8 @@
             "سعد زغلول",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -5279,7 +5745,8 @@
             "سعد زغلول",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -5290,7 +5757,8 @@
             "مقيد بتحفظات بريطانية",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -5301,7 +5769,8 @@
             "نفي زعماء الوفد",
             "1936"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -5312,7 +5781,8 @@
             "سعد زغلول",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -5323,7 +5793,8 @@
             "سعد زغلول",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -5334,7 +5805,8 @@
             "الحماية 1914 ثم ثورة 1919 ثم تصريح 1922 ثم معاهدة 1936",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -5345,7 +5817,8 @@
             "نفي زعماء الوفد",
             "النفوذ البريطاني والتحفظات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -5356,7 +5829,8 @@
             "سعد زغلول",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -5367,7 +5841,8 @@
             "سعد زغلول",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -5378,7 +5853,8 @@
             "ملكية دستورية",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -5389,7 +5865,8 @@
             "نفي زعماء الوفد",
             "الحماية البريطانية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -5400,7 +5877,8 @@
             "سعد زغلول",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -5411,7 +5889,8 @@
             "سعد زغلول",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -5422,7 +5901,8 @@
             "إنهاء الحماية مع استمرار قيود",
             "نفي زعماء الوفد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -5439,7 +5919,8 @@
             "فاروق الأول",
             "محمد نجيب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -5450,7 +5931,8 @@
             "فاروق الأول",
             "محمد نجيب"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -5461,7 +5943,8 @@
             "فاروق الأول",
             "محمد نجيب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -5472,7 +5955,8 @@
             "فاروق الأول",
             "محمد نجيب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -5483,7 +5967,8 @@
             "الملكية",
             "فاروق الأول"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -5494,7 +5979,8 @@
             "الملكية",
             "فاروق الأول"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -5505,7 +5991,8 @@
             "العدوان الثلاثي",
             "فاروق الأول"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -5516,7 +6003,8 @@
             "فاروق الأول",
             "بريطانيا وفرنسا وإسرائيل"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -5527,7 +6015,8 @@
             "الملكية",
             "فاروق الأول"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -5538,7 +6027,8 @@
             "الملكية",
             "فاروق الأول"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -5549,7 +6039,8 @@
             "أنور السادات",
             "فاروق الأول"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -5560,7 +6051,8 @@
             "فاروق الأول",
             "أنور السادات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -5571,7 +6063,8 @@
             "الملكية",
             "فاروق الأول"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -5582,7 +6075,8 @@
             "الملكية",
             "فاروق الأول"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -5593,7 +6087,8 @@
             "إلغاء الملكية وإقامة الجمهورية",
             "فاروق الأول"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -5604,7 +6099,8 @@
             "فاروق الأول",
             "استعادة السيطرة الوطنية عليها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -5615,7 +6111,8 @@
             "الملكية",
             "فاروق الأول"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -5626,7 +6123,8 @@
             "الملكية",
             "فاروق الأول"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -5637,7 +6135,8 @@
             "أنور السادات",
             "فاروق الأول"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -5648,7 +6147,8 @@
             "فاروق الأول",
             "مرحلة ما بعد الملكية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -5665,7 +6165,8 @@
             "الخرطوم",
             "1956"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -5676,7 +6177,8 @@
             "1899",
             "1956"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -5687,7 +6189,8 @@
             "1956",
             "الخرطوم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -5698,7 +6201,8 @@
             "1899",
             "الخرطوم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -5709,7 +6213,8 @@
             "1899",
             "الخرطوم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -5720,7 +6225,8 @@
             "الانفصال وتأسيس دولة مستقلة",
             "الخرطوم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -5731,7 +6237,8 @@
             "الخرطوم",
             "جمهورية جنوب السودان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -5742,7 +6249,8 @@
             "1899",
             "الخرطوم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -5753,7 +6261,8 @@
             "1899",
             "الخرطوم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -5764,7 +6273,8 @@
             "الحكم الثنائي",
             "الخرطوم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -5775,7 +6285,8 @@
             "الخرطوم",
             "دولة مستقلة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -5786,7 +6297,8 @@
             "1899",
             "الخرطوم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -5797,7 +6309,8 @@
             "1899",
             "الخرطوم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -5808,7 +6321,8 @@
             "1955",
             "الخرطوم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -5819,7 +6333,8 @@
             "الخرطوم",
             "الحكم الثنائي 1899 ثم الاستقلال 1956 ثم الانفصال 2011"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -5830,7 +6345,8 @@
             "1899",
             "الخرطوم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -5841,7 +6357,8 @@
             "1899",
             "الخرطوم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -5852,7 +6369,8 @@
             "قيام دولة جديدة",
             "الخرطوم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -5863,7 +6381,8 @@
             "الخرطوم",
             "مصر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -5874,7 +6393,8 @@
             "1899",
             "1956"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -5891,7 +6411,8 @@
             "إيطاليا وبريطانيا",
             "مقديشو"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -5902,7 +6423,8 @@
             "مقديشو",
             "الصومال البريطاني والإيطالي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -5913,7 +6435,8 @@
             "الصومال البريطاني والإيطالي",
             "مقديشو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -5924,7 +6447,8 @@
             "الصومال البريطاني والإيطالي",
             "1960"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -5935,7 +6459,8 @@
             "فرنسا",
             "1960"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -5946,7 +6471,8 @@
             "1960",
             "الصومال الفرنسي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -5957,7 +6483,8 @@
             "الصومال البريطاني والإيطالي",
             "1960"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -5968,7 +6495,8 @@
             "الصومال البريطاني والإيطالي",
             "1960"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -5979,7 +6507,8 @@
             "باب المندب",
             "1960"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -5990,7 +6519,8 @@
             "1960",
             "محمد سياد بري"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -6001,7 +6531,8 @@
             "الصومال البريطاني والإيطالي",
             "1960"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -6012,7 +6543,8 @@
             "الصومال البريطاني والإيطالي",
             "1960"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -6023,7 +6555,8 @@
             "الصومال الإيطالي",
             "1960"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -6034,7 +6567,8 @@
             "1960",
             "بريطانيا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -6045,7 +6579,8 @@
             "الصومال البريطاني والإيطالي",
             "1960"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -6056,7 +6591,8 @@
             "الصومال البريطاني والإيطالي",
             "مقديشو"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -6067,7 +6603,8 @@
             "1977",
             "1960"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -6078,7 +6615,8 @@
             "1960",
             "باب المندب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -6089,7 +6627,8 @@
             "الصومال البريطاني والإيطالي",
             "1960"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -6100,7 +6639,8 @@
             "الصومال البريطاني والإيطالي",
             "1960"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -6117,7 +6657,8 @@
             "اتحاد فدرالي مع إثيوبيا",
             "إيطاليا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -6128,7 +6669,8 @@
             "بريطانيا",
             "اتحاد فدرالي مع إثيوبيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -6139,7 +6681,8 @@
             "1890",
             "اتحاد فدرالي مع إثيوبيا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -6150,7 +6693,8 @@
             "اتحاد فدرالي مع إثيوبيا",
             "بريطانيا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -6161,7 +6705,8 @@
             "بريطانيا",
             "1962"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -6172,7 +6717,8 @@
             "1890",
             "بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -6183,7 +6729,8 @@
             "1890",
             "بريطانيا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -6194,7 +6741,8 @@
             "فرنسا",
             "بريطانيا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -6205,7 +6753,8 @@
             "بريطانيا",
             "1975"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -6216,7 +6765,8 @@
             "1890",
             "بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -6227,7 +6777,8 @@
             "1890",
             "بريطانيا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -6238,7 +6789,8 @@
             "وضع جزيرة مايوت",
             "بريطانيا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -6249,7 +6801,8 @@
             "بريطانيا",
             "استقلال الجزر عدا مايوت"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -6260,7 +6813,8 @@
             "1890",
             "بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -6271,7 +6825,8 @@
             "1890",
             "بريطانيا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -6282,7 +6837,8 @@
             "دولة مستقلة",
             "بريطانيا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -6293,7 +6849,8 @@
             "بريطانيا",
             "استعمار إيطالي ثم اتحاد فدرالي ثم ضم إثيوبي ثم استقلال"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -6304,7 +6861,8 @@
             "1890",
             "بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -6315,7 +6873,8 @@
             "1890",
             "بريطانيا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -6326,7 +6885,8 @@
             "1993",
             "بريطانيا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -6343,7 +6903,8 @@
             "ثورة المقراني",
             "معاهدة باردو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -6354,7 +6915,8 @@
             "1847م",
             "1881م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -6365,7 +6927,8 @@
             "الجزائر",
             "قسنطينة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -6376,7 +6939,8 @@
             "إعادة الحكم العثماني",
             "تسليم البلاد لإيطاليا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -6387,7 +6951,8 @@
             "منعت الاستيطان الأوروبي",
             "وزعتها على الدولة العثمانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -6398,7 +6963,8 @@
             "منح استقلال ثقافي كامل",
             "إلغاء المؤسسات الفرنسية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -6409,7 +6975,8 @@
             "تبادل السكان مع تونس",
             "إقامة قواعد عثمانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -6420,7 +6987,8 @@
             "تراجع الهجرة الأوروبية",
             "انتهاء المقاومة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -6431,7 +6999,8 @@
             "فرنسا",
             "بريطانيا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -6442,7 +7011,8 @@
             "وصاية تونسية",
             "إدارة عثمانية متجددة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -6453,7 +7023,8 @@
             "إلغاء التعليم الأوروبي",
             "توحيد المناهج مع المشرق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -6464,7 +7035,8 @@
             "انسحاب الجيش الفرنسي",
             "استقلال الجزائر مباشرة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -6475,7 +7047,8 @@
             "قوات عثمانية",
             "هجرة عربية من المشرق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -6486,7 +7059,8 @@
             "تسليم الحكم لهم",
             "إلغاء الاستعمار"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -6497,7 +7071,8 @@
             "أقامت اتحادًا مع تونس",
             "منحتها استقلالًا ذاتيًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -6508,7 +7083,8 @@
             "أعادت الملكية إلى الفلاحين",
             "دعمت استقلال البلاد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -6519,7 +7095,8 @@
             "طمس الهوية الوطنية",
             "تمكين الجزائريين من السيادة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "18",
@@ -6530,7 +7107,8 @@
             "مؤتمر الصلح",
             "حادثة بنزرت"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -6541,7 +7119,8 @@
             "تراجع نفوذ المستوطنين",
             "إلغاء الإدارة الفرنسية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -6552,7 +7131,8 @@
             "حماية مؤقتة دون تدخل",
             "اتحاد اختياري متكافئ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -6569,7 +7149,8 @@
             "محمد الصادق باي",
             "فرحات عباس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -6580,7 +7161,8 @@
             "طرابلس",
             "الساحل الليبي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -6591,7 +7173,8 @@
             "انتفاضة مدينية قصيرة",
             "تحالف مع فرنسا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -6602,7 +7185,8 @@
             "معاهدة المرسى",
             "اتفاقية إيفيان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -6613,7 +7197,8 @@
             "احتلال تونس",
             "إعلان الاستقلال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -6624,7 +7209,8 @@
             "1847م",
             "1871م"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -6635,7 +7221,8 @@
             "زين العابدين بن علي",
             "أحمد باي تونس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -6646,7 +7233,8 @@
             "مصالي الحاج",
             "يوسف بن خدة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -6657,7 +7245,8 @@
             "ثورة تونس",
             "ثورة نوفمبر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -6668,7 +7257,8 @@
             "مصالي الحاج",
             "عبان رمضان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -6679,7 +7269,8 @@
             "انسحاب المستوطنين",
             "قيام الجمهورية التونسية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -6690,7 +7281,8 @@
             "بالانسحاب من المدن",
             "بإلغاء الاستيطان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -6701,7 +7293,8 @@
             "عودة الحكم العثماني",
             "انضمام الجزائر إلى إيطاليا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -6712,7 +7305,8 @@
             "أحمد باي",
             "الباي محمد الصادق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -6723,7 +7317,8 @@
             "إلغاء الهوية العربية",
             "إخضاع تونس لفرنسا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -6734,7 +7329,8 @@
             "إلغاء الحكم الفرنسي",
             "انسحاب المستوطنين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -6745,7 +7341,8 @@
             "دعم مصادرة الأراضي",
             "منع التعليم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -6756,7 +7353,8 @@
             "الحياد والتحالف",
             "التوسع التجاري والعسكري"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -6767,7 +7365,8 @@
             "إلغاء الإدارة الاستعمارية",
             "إقرار الاستقلال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -6778,7 +7377,8 @@
             "اختفاء الحركة الوطنية",
             "زوال الاستعمار دون نضال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -6795,7 +7395,8 @@
             "20 آذار 1956م",
             "18 آذار 1962م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -6806,7 +7407,8 @@
             "ثورة الزنج",
             "ثورة التحرير التونسية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -6817,7 +7419,8 @@
             "حزب الشعب الفرنسي",
             "جامعة الدول الأوروبية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -6828,7 +7431,8 @@
             "الحرس الوطني التونسي",
             "جيش الداي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -6839,7 +7443,8 @@
             "معاهدة باردو",
             "معركة بنزرت"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -6850,7 +7455,8 @@
             "نهاية الاحتلال",
             "اتحاد الجزائر مع تونس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -6861,7 +7467,8 @@
             "إلغاء الهوية الوطنية",
             "إعادة الحكم العثماني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -6872,7 +7479,8 @@
             "معاهدة باردو",
             "اتفاقية المرسى"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -6883,7 +7491,8 @@
             "الحزب الدستوري التونسي",
             "مجلس المستوطنين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -6894,7 +7503,8 @@
             "الاستيطان",
             "الحياد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -6905,7 +7515,8 @@
             "اقتصارها على النشاط الثقافي",
             "مشاركة المستوطنين وحدهم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -6916,7 +7527,8 @@
             "سلمت الحكم للجبهة",
             "انسحبت من شمال أفريقيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -6927,7 +7539,8 @@
             "حصرها في المدن",
             "إيقاف العمل الدبلوماسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -6938,7 +7551,8 @@
             "إلغاء جبهة التحرير",
             "ضم الجزائر لفرنسا نهائيًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -6949,7 +7563,8 @@
             "معاهدة تافنة",
             "اتفاقية المرسى"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -6960,7 +7575,8 @@
             "8 أيار 1945م",
             "20 آذار 1956م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -6971,7 +7587,8 @@
             "1 تشرين الثاني 1954م",
             "1938م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -6982,7 +7599,8 @@
             "ألغت الحركة الوطنية",
             "دعمت بقاء المستوطنين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -6993,7 +7611,8 @@
             "طلب توسيع المستوطنات",
             "أوقف الثورة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -7004,7 +7623,8 @@
             "عودة الجزائر إلى الحكم العثماني",
             "اتحاد الجزائر بفرنسا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -7021,7 +7641,8 @@
             "إسبانيا",
             "بريطانيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -7032,7 +7653,8 @@
             "1919م",
             "1956م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -7043,7 +7665,8 @@
             "اتفاقيات إيفيان",
             "معاهدة كامب ديفيد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -7054,7 +7677,8 @@
             "اندلاع الثورة الجزائرية",
             "إلغاء الحكم الفرنسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -7065,7 +7689,8 @@
             "معاهدة تافنة",
             "معاهدة إيفيان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -7076,7 +7701,8 @@
             "حكم عثماني مباشر",
             "إدارة مشتركة متساوية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -7087,7 +7713,8 @@
             "أحمد باي",
             "مصالي الحاج"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -7098,7 +7725,8 @@
             "اتفاقية استقلال",
             "حرب عالمية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -7109,7 +7737,8 @@
             "بعدها عن البحر",
             "حدودها مع المحيط الأطلسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -7120,7 +7749,8 @@
             "إلغاء التبادل التجاري",
             "تسليم الاقتصاد للحكومة العثمانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -7131,7 +7761,8 @@
             "حققت استقلال تونس",
             "أعادت السيطرة العثمانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -7142,7 +7773,8 @@
             "ألغيت كل أشكال التدخل",
             "استقلت تونس عن أوروبا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -7153,7 +7785,8 @@
             "سلمت الإدارة إلى إيطاليا",
             "تركت تونس مستقلة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -7164,7 +7797,8 @@
             "تحرير الجزائر",
             "توحيد تونس والجزائر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -7175,7 +7809,8 @@
             "الداي حسين",
             "قائد جيش التحرير"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -7186,7 +7821,8 @@
             "انسحاب المستوطنين",
             "إلغاء الامتيازات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -7197,7 +7833,8 @@
             "منع امتلاك الأوروبيين للأرض",
             "ألغي النشاط الزراعي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -7208,7 +7845,8 @@
             "إحياء الدولة العثمانية",
             "إخراجها من شمال أفريقيا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -7219,7 +7857,8 @@
             "سيطرة إيطالية على فرنسا",
             "تقاسم متساوٍ للسلطة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -7230,7 +7869,8 @@
             "احتلال إيطالي مباشر",
             "اتحاد تونس بالجزائر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -7247,7 +7887,8 @@
             "جيش التحرير الجزائري",
             "حزب الشعب الفرنسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -7258,7 +7899,8 @@
             "حزب المستوطنين",
             "الحزب الجمهوري الفرنسي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -7269,7 +7911,8 @@
             "أحمد باي",
             "محمد المقراني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -7280,7 +7923,8 @@
             "جبهة التحرير الوطني",
             "حزب الشعب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -7291,7 +7935,8 @@
             "الحياد عن القضية",
             "التحالف مع المستعمر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -7302,7 +7947,8 @@
             "إعلان استقلال تونس",
             "احتلال الجزائر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -7313,7 +7959,8 @@
             "منحت تونس استقلالًا تلقائيًا",
             "أنهت الحماية الفرنسية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -7324,7 +7971,8 @@
             "استقلت البلاد",
             "بدأت الثورة الجزائرية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -7335,7 +7983,8 @@
             "انسحبت من تونس",
             "سلمت السلطة للحزب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -7346,7 +7995,8 @@
             "انسحاب الجيش الفرنسي",
             "انتهاء الاستعمار"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -7357,7 +8007,8 @@
             "1934م",
             "1962م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -7368,7 +8019,8 @@
             "الإنكشارية",
             "الزواف"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -7379,7 +8031,8 @@
             "أوقفت الحركة الوطنية",
             "أعادت الحكم العثماني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -7390,7 +8043,8 @@
             "تسليم تونس لإيطاليا",
             "إلغاء كل المفاوضات"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -7401,7 +8055,8 @@
             "18 آذار 1962م",
             "1 تشرين الثاني 1954م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -7412,7 +8067,8 @@
             "أحمد باي",
             "مصالي الحاج"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -7423,7 +8079,8 @@
             "1881م",
             "1938م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -7434,7 +8091,8 @@
             "استعادة حكم البايات",
             "تقسيم البلاد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -7445,7 +8103,8 @@
             "إلغاء التعليم",
             "عودة السيطرة العثمانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -7456,7 +8115,8 @@
             "الحماية 1956، الاستقلال 1962، الجمهورية 1881",
             "تأسيس الحزب 1881، الاستقلال 1934، الجمهورية 1956"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -7473,7 +8133,8 @@
             "اتفاق مع السنوسيين",
             "ضم ليبيا إلى الدولة العثمانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -7484,7 +8145,8 @@
             "تسليح القوات العثمانية",
             "دعم مشاريع الإيطاليين ومساعدة الفلاحين مالياً"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -7495,7 +8157,8 @@
             "كانت مركزاً للنشاط السياسي والتجسسي",
             "نظمت مجلساً وطنياً ليبياً"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -7506,7 +8169,8 @@
             "إحصاء الأوقاف",
             "رسم الحدود العثمانية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -7517,7 +8181,8 @@
             "أسبوعان",
             "شهراً كاملاً"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -7528,7 +8193,8 @@
             "إغلاق الموانئ أمام التجارة العربية",
             "تحريض الليبيين على رعاياها وعرقلة مشاريعها وعدم توفير الأمن"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -7539,7 +8205,8 @@
             "دعت إلى التفاوض السلمي وحاولت نفي الاتهامات",
             "أعلنت الحرب فوراً"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -7550,7 +8217,8 @@
             "احتلال فزان من الجزائر",
             "إغلاق الحدود مع مصر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -7561,7 +8229,8 @@
             "تدخل ألمانيا عسكرياً",
             "نقص الموانئ الليبية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -7572,7 +8241,8 @@
             "قبرص ومالطة",
             "موانئ اليمن ولبنان وبعض المضائق وجزر الدوديكانيز"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -7583,7 +8253,8 @@
             "اتفاقية أوشي (لوزان)",
             "اتفاقية سايكس بيكو"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -7594,7 +8265,8 @@
             "ضمها إلى مصر",
             "إعلانها ولاية إيطالية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -7605,7 +8277,8 @@
             "إلغاء الضرائب",
             "انسحاب القوات الإيطالية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -7616,7 +8289,8 @@
             "الكتلة الوطنية",
             "الحركة السنوسية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -7627,7 +8301,8 @@
             "أحمد الشريف السنوسي",
             "عمر المختار"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -7638,7 +8313,8 @@
             "قرب بنغازي",
             "في طرابلس"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -7649,7 +8325,8 @@
             "ردم الآبار ومصادرة المواشي",
             "إغلاق الزوايا السنوسية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -7660,7 +8337,8 @@
             "تسهيل التعليم العربي",
             "عزل المقاومة وإضعاف التضامن معها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -7671,7 +8349,8 @@
             "تكوين مجموعات موالية لإيطاليا ونشر ثقافتها",
             "تدريب ضباط عثمانيين"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -7682,7 +8361,8 @@
             "توحيد الولايات الليبية",
             "استقلال ليبيا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -7699,7 +8379,8 @@
             "طرابلس",
             "سرت"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -7710,7 +8391,8 @@
             "الانسحاب إلى مصر",
             "الهجوم المباغت والكر والفر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -7721,7 +8403,8 @@
             "الرحيبة",
             "القرضابية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -7732,7 +8415,8 @@
             "تيروتسي",
             "كبولاني"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -7743,7 +8427,8 @@
             "نقل السكان إلى تونس",
             "قطع نهر السنغال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -7754,7 +8439,8 @@
             "1951م",
             "1931م"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -7765,7 +8451,8 @@
             "1934م",
             "1945م"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -7776,7 +8463,8 @@
             "أحمد السويحلي",
             "محمد إدريس السنوسي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -7787,7 +8475,8 @@
             "ضم ليبيا إلى الجزائر",
             "إبقاء الإدارة الإيطالية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -7798,7 +8487,8 @@
             "مؤتمر سان ريمو",
             "المؤتمر الإسلامي في القدس"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -7809,7 +8499,8 @@
             "ألمانيا واليابان",
             "فرنسا وبريطانيا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -7820,7 +8511,8 @@
             "الفرنسيون من الشرق والإنكليز إلى فزان",
             "الأمريكيون من تونس"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -7831,7 +8523,8 @@
             "توحيد العملة العربية",
             "تمويل الجمعيات الوطنية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -7842,7 +8535,8 @@
             "إيطالية على ليبيا كلها",
             "إيطالية على طرابلس وبريطانية على برقة وفرنسية على فزان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -7853,7 +8547,8 @@
             "منح ليبيا استقلالها",
             "فرض الوصاية لعشر سنوات"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -7864,7 +8559,8 @@
             "1949م",
             "1953م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -7875,7 +8571,8 @@
             "برقة وفزان وتونس",
             "طرابلس والجزائر وفزان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -7886,7 +8583,8 @@
             "تقسيم الولايات",
             "قواعد عسكرية ومشاريع اقتصادية وامتيازات نفطية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -7897,7 +8595,8 @@
             "معمر القذافي",
             "محمد إدريس السنوسي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -7908,7 +8607,8 @@
             "انقلاب عثماني",
             "اتفاقية أوشي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -7925,7 +8625,8 @@
             "سيطرته على نهر السنغال",
             "وقوعه بين مصر والسودان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -7936,7 +8637,8 @@
             "أنهت الحماية الفرنسية",
             "سمحت لإيطاليا باحتلال ليبيا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -7947,7 +8649,8 @@
             "أطلق يد بريطانيا في مصر",
             "منح المغرب الاستقلال"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -7958,7 +8661,8 @@
             "ألمانيا",
             "إيطاليا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -7969,7 +8673,8 @@
             "مؤتمر يالطا",
             "مؤتمر باريس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -7980,7 +8685,8 @@
             "محمد بن عرفة",
             "عبد العزيز"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -7991,7 +8697,8 @@
             "أخوه عبد الحفيظ",
             "محمد بن يوسف"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -8002,7 +8709,8 @@
             "في الصحراء الغربية",
             "في طنجة فقط"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -8013,7 +8721,8 @@
             "خلافها مع إسبانيا حول الريف",
             "رغبتها في حماية السلطان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -8024,7 +8733,8 @@
             "منطقة الريف",
             "جزء من مستعمراتها في الكونغو"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -8035,7 +8745,8 @@
             "معاهدة الحماية",
             "معاهدة أوشي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -8046,7 +8757,8 @@
             "إعلان الحرب على إسبانيا",
             "التنازل عن العرش"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -8057,7 +8769,8 @@
             "الحكومة الإسبانية تحكم المدن",
             "مجلس النواب يدير الحماية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -8068,7 +8781,8 @@
             "توحيد العرب والأمازيغ",
             "تسجيل الأعراف الأمازيغية وإحياء اللهجة والكتابة اللاتينية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -8079,7 +8793,8 @@
             "خفض مرتباتهم إلى الثلث وإخضاعهم لقيادة جديدة",
             "فرض التجنيد الإجباري"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -8090,7 +8805,8 @@
             "أحمد السملالي",
             "محمد أمزيان"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -8101,7 +8817,8 @@
             "أحمد بن محمد الرسولي",
             "بكار ولد سويد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -8112,7 +8829,8 @@
             "علال الفاسي",
             "محمد أمزيان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -8123,7 +8841,8 @@
             "الأمير محمد بن عبد الكريم الخطابي",
             "أحمد الهبة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -8134,7 +8853,8 @@
             "جزيرة مدغشقر",
             "مصر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -8151,7 +8871,8 @@
             "عمر المختار وأحمد الشريف",
             "محمد أمزيان وبكار ولد سويد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -8162,7 +8883,8 @@
             "إعلان الاستقلال",
             "إصدار الظهير البربري عام 1930م"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -8173,7 +8895,8 @@
             "كتلة العمل المغربي",
             "حزب الشعب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -8184,7 +8907,8 @@
             "محمد الوزاني",
             "محمد بن يوسف"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -8195,7 +8919,8 @@
             "المقيم العام",
             "رئيس مجلس النواب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -8206,7 +8931,8 @@
             "ضم المغرب إلى الجزائر",
             "إلغاء مظاهر الحكم الفرنسي وحكم ملكي دستوري ومجلس وطني"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -8217,7 +8943,8 @@
             "عصبة الفكر",
             "حزب الاستقلال"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -8228,7 +8955,8 @@
             "حزب الشعب",
             "حزب الوفاق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -8239,7 +8967,8 @@
             "انتظاراً لعودة العثمانيين",
             "لإيقاف المقاومة المسلحة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -8250,7 +8979,8 @@
             "استقلال ليبيا",
             "هزيمة فرنسا أمام ألمانيا ونزول الحلفاء في المغرب وضعف فرنسا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -8261,7 +8991,8 @@
             "تأسيس حزب الاستقلال برئاسة علال الفاسي",
             "تأسيس المملكة الليبية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -8272,7 +9003,8 @@
             "قبول الظهير البربري",
             "نفي السلطان"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -8283,7 +9015,8 @@
             "الجنرال ديغول",
             "عبد الحفيظ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -8294,7 +9027,8 @@
             "الإبقاء على الاحتلال الإسباني",
             "رفض الحماية واستقلال المغرب ووحدة أراضيه وتوثيق الروابط العربية والإسلامية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -8305,7 +9039,8 @@
             "جزيرة مدغشقر",
             "جزيرة ريونيون"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -8316,7 +9051,8 @@
             "انتهاء المقاومة",
             "قبول الحماية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -8327,7 +9063,8 @@
             "عام 1943م",
             "عام 1962م"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -8338,7 +9075,8 @@
             "الاحتلال الإيطالي",
             "الصحراء الغربية والجزر المغربية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -8349,7 +9087,8 @@
             "أصبحت بكاملها تابعة للمغرب مع استمرار مطالبة البوليساريو بالاستقلال",
             "أصبحت دولة مستقلة فوراً"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -8360,7 +9099,8 @@
             "لنشر التعليم العربي",
             "لمنع الهجرة الأوروبية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -8377,7 +9117,8 @@
             "الذهب",
             "القطن"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2",
@@ -8388,7 +9129,8 @@
             "إسبانيا",
             "البرتغال"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3",
@@ -8399,7 +9141,8 @@
             "ربط مستعمراتها في شمال إفريقيا بمستعمراتها الغربية والاستوائية",
             "السيطرة على قناة السويس"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4",
@@ -8410,7 +9153,8 @@
             "إعلان الاستقلال الذاتي",
             "تأسيس حكومة وطنية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5",
@@ -8421,7 +9165,8 @@
             "تيروتسي",
             "عبد الكريم الخطابي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6",
@@ -8432,7 +9177,8 @@
             "خلاف فرنسا مع إيطاليا",
             "الخلافات بين بعض زعماء العشائر والشيخ ماء العينين"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7",
@@ -8443,7 +9189,8 @@
             "على يد الوطنيين الموريتانيين عام 1908م",
             "في معركة أنوال"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8",
@@ -8454,7 +9201,8 @@
             "1908م",
             "1912م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9",
@@ -8465,7 +9213,8 @@
             "ضمها إلى المغرب",
             "إعلانها مقاطعة إسبانية"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10",
@@ -8476,7 +9225,8 @@
             "خمس عشرة دائرة",
             "اثنتا عشرة دائرة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11",
@@ -8487,7 +9237,8 @@
             "محاربة العربية ونشر الفرنسية وإفقار السكان والتفرقة بينهم",
             "تعزيز الحكم الذاتي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12",
@@ -8498,7 +9249,8 @@
             "مختار ولد دادا",
             "خورما ولد بابانة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13",
@@ -8509,7 +9261,8 @@
             "عمر المختار وأحمد الشريف",
             "مختار ولد دادا وخورما"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14",
@@ -8520,7 +9273,8 @@
             "محمد أمزيان",
             "أحمد الهبة بن ماء العينين"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15",
@@ -8531,7 +9285,8 @@
             "حرب استنزاف",
             "كفاح سياسي فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16",
@@ -8542,7 +9297,8 @@
             "حزب الوفاق",
             "حزب الاستقلال"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17",
@@ -8553,7 +9309,8 @@
             "حزب التجمع المغربي",
             "كتلة العمل المغربي"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18",
@@ -8564,7 +9321,8 @@
             "الجبهة الوطنية",
             "حزب التجمع الموريتاني"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19",
@@ -8575,7 +9333,8 @@
             "استقلال ذاتي مع ارتباطها بالمجموعة الفرنسية",
             "استقلال تام فوراً"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20",
@@ -8586,7 +9345,8 @@
             "1958م",
             "1963م"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     }

@@ -15,7 +15,8 @@
             "اسم مرفوع يدل على من فعل الفعل",
             "مصدر منصوب من لفظ فعله يذكر لتوكيده أو بيان نوعه أو عدده"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_2",
@@ -26,7 +27,8 @@
             "حال منصوب",
             "تمييز منصوب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_3",
@@ -37,7 +39,8 @@
             "فرحٌ",
             "فرحٍ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_4",
@@ -48,7 +51,8 @@
             "مبين للنوع",
             "مؤكد للفعل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_5",
@@ -59,7 +63,8 @@
             "مفعول فيه",
             "مبين للعدد"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_6",
@@ -70,7 +75,8 @@
             "بيان سبب الفعل",
             "بيان هيئة الفاعل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_7",
@@ -81,7 +87,8 @@
             "حرف الجر",
             "المبتدأ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_8",
@@ -92,7 +99,8 @@
             "قفز اللاعب قفزتين",
             "قفز اللاعب قفزًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "1_9",
@@ -103,7 +111,8 @@
             "شكرتُه رغبةً في الخير",
             "شكرتُه شكرًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "1_10",
@@ -114,7 +123,8 @@
             "تمييز منصوب",
             "خبر منصوب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_11",
@@ -125,7 +135,8 @@
             "المحطةَ",
             "مساءً"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_12",
@@ -136,7 +147,8 @@
             "اجتهادًا",
             "مجتهدٌ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_13",
@@ -147,7 +159,8 @@
             "مفعول به",
             "نعت منصوب للمفعول المطلق"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_14",
@@ -158,7 +171,8 @@
             "الجر",
             "الجزم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_15",
@@ -169,7 +183,8 @@
             "سافرت ليلًا",
             "عدت مسرورًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "1_16",
@@ -180,7 +195,8 @@
             "مفعول مطلق",
             "مفعول لأجله"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_17",
@@ -191,7 +207,8 @@
             "مبتسم",
             "ابتسامًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_18",
@@ -202,7 +219,8 @@
             "أنشد الشاعر إنشادين",
             "أنشد الشاعر مساءً"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "1_19",
@@ -213,7 +231,8 @@
             "مفعول به منصوب",
             "حال منصوب"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "1_20",
@@ -224,7 +243,8 @@
             "شرحًا واضحًا",
             "شرحٌ واضحٌ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -241,7 +261,8 @@
             "اسم منصوب يبين زمان الفعل",
             "اسم يبين هيئة صاحبه"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_2",
@@ -252,7 +273,8 @@
             "مفعول مطلق منصوب",
             "حال منصوب"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_3",
@@ -263,7 +285,8 @@
             "ابتغاءَ الأجر",
             "مالًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "2_4",
@@ -274,7 +297,8 @@
             "معتدلًا",
             "احترامًا للمعلم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_5",
@@ -285,7 +309,8 @@
             "الجر دائمًا",
             "الجزم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_6",
@@ -296,7 +321,8 @@
             "سافرتُ سفرًا طويلًا",
             "سافرتُ ليلًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "2_7",
@@ -307,7 +333,8 @@
             "الخوف من الإشاعة",
             "الخبر"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_8",
@@ -318,7 +345,8 @@
             "مسرعًا",
             "رحمةً به"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "2_9",
@@ -329,7 +357,8 @@
             "مفعول فيه منصوب",
             "نعت منصوب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_10",
@@ -340,7 +369,8 @@
             "إغلاقًا",
             "ليلًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_11",
@@ -351,7 +381,8 @@
             "المفعول لأجله",
             "المفعول المطلق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_12",
@@ -362,7 +393,8 @@
             "رغبةً",
             "تعلّمتُ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_13",
@@ -373,7 +405,8 @@
             "اعتذرتُ احترامًا لك",
             "تدربتُ استعدادًا للمسابقة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "2_14",
@@ -384,7 +417,8 @@
             "زيارةً طويلةً",
             "مساءً"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "2_15",
@@ -395,7 +429,8 @@
             "مفعول لأجله منصوب",
             "حال منصوب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_16",
@@ -406,7 +441,8 @@
             "يصف هيئة الفاعل",
             "يبين علته أو سببه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_17",
@@ -417,7 +453,8 @@
             "صباحًا",
             "معتذرًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "2_18",
@@ -428,7 +465,8 @@
             "مفعول مطلق",
             "حال"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "2_19",
@@ -439,7 +477,8 @@
             "تقديرًا",
             "تقديرٌ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "2_20",
@@ -450,7 +489,8 @@
             "أين اجتهدت؟",
             "لماذا اجتهدت؟"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -467,7 +507,8 @@
             "مصدر يبين سبب الفعل",
             "مصدر يؤكد الفعل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_2",
@@ -478,7 +519,8 @@
             "ظرف زمان",
             "ظرف مكان"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_3",
@@ -489,7 +531,8 @@
             "تمييز",
             "ظرف مكان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_4",
@@ -500,7 +543,8 @@
             "أمامَ",
             "فوقَ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "3_5",
@@ -511,7 +555,8 @@
             "غدًا",
             "مساءً"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "3_6",
@@ -522,7 +567,8 @@
             "ظرف زمان منصوب",
             "مفعول مطلق منصوب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_7",
@@ -533,7 +579,8 @@
             "مبتدأ مرفوع",
             "ظرف مكان منصوب وهو مضاف"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_8",
@@ -544,7 +591,8 @@
             "خلفَ",
             "أمامَ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_9",
@@ -555,7 +603,8 @@
             "مساءً",
             "صيفًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_10",
@@ -566,7 +615,8 @@
             "متى وقع الفعل؟",
             "أين وقع الفعل؟"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_11",
@@ -577,7 +627,8 @@
             "كم مرة وقع الفعل؟",
             "أين وقع الفعل؟"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_12",
@@ -588,7 +639,8 @@
             "مبتدأ مرفوع",
             "فاعل مرفوع"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_13",
@@ -599,7 +651,8 @@
             "ظرف زمان منصوب",
             "مفعول مطلق"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_14",
@@ -610,7 +663,8 @@
             "عاد المسافر مساءً",
             "جلس الطفل قرب النافذة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_15",
@@ -621,7 +675,8 @@
             "انتظرت ساعةً",
             "جلسنا تحت الشجرة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_16",
@@ -632,7 +687,8 @@
             "الكسرة",
             "السكون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_17",
@@ -643,7 +699,8 @@
             "إلى",
             "المدرسة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_18",
@@ -654,7 +711,8 @@
             "تحتَ",
             "أمس"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "3_19",
@@ -665,7 +723,8 @@
             "حال",
             "ظرف زمان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "3_20",
@@ -676,7 +735,8 @@
             "صباحًا",
             "المدرسة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -693,7 +753,8 @@
             "اسم نكرة منصوب يبين هيئة صاحبه عند وقوع الفعل",
             "اسم منصوب يبين سبب الفعل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_2",
@@ -704,7 +765,8 @@
             "تمييز",
             "حال منصوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_3",
@@ -715,7 +777,8 @@
             "مبتسمةً",
             "لا يوجد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_4",
@@ -726,7 +789,8 @@
             "الجنود",
             "وقف"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_5",
@@ -737,7 +801,8 @@
             "أن يكون معرفة",
             "أن يكون نكرة دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_6",
@@ -748,7 +813,8 @@
             "أن تكون فعلًا ماضيًا",
             "أن تكون نكرة منصوبة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_7",
@@ -759,7 +825,8 @@
             "شاهدتُ",
             "لا يوجد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_8",
@@ -770,7 +837,8 @@
             "وصولًا",
             "مساءً"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "4_9",
@@ -781,7 +849,8 @@
             "الياء لأنه مثنى",
             "الألف لأنه مثنى"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_10",
@@ -792,7 +861,8 @@
             "الألف",
             "الياء لأنه جمع مذكر سالم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_11",
@@ -803,7 +873,8 @@
             "عاد الطفل مساءً",
             "عاد الطفل عودةً"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "4_12",
@@ -814,7 +885,8 @@
             "مفردة",
             "جملة فعلية"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_13",
@@ -825,7 +897,8 @@
             "واو الحال أو الضمير",
             "حرف الجر فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_14",
@@ -836,7 +909,8 @@
             "تمييز",
             "جملة فعلية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_15",
@@ -847,7 +921,8 @@
             "مبتسمًا",
             "مسرعين"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "4_16",
@@ -858,7 +933,8 @@
             "متى؟",
             "أين؟"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_17",
@@ -869,7 +945,8 @@
             "طالعًا حال، والهلال صاحب الحال",
             "الهلال حال، ورأيت صاحب الحال"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "4_18",
@@ -880,7 +957,8 @@
             "المسرور",
             "مسرورًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "4_19",
@@ -891,7 +969,8 @@
             "جاء الطلاب مسرعين",
             "دخلت المعلمة مبتسمة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "4_20",
@@ -902,7 +981,8 @@
             "نعت مجرور بالياء",
             "خبر مرفوع بالواو"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -919,7 +999,8 @@
             "اسم يبين زمان الفعل",
             "اسم نكرة منصوب يزيل إبهام ما قبله"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_2",
@@ -930,7 +1011,8 @@
             "مفعول مطلق",
             "مفعول به"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_3",
@@ -941,7 +1023,8 @@
             "تمييز جملة (ملحوظ)",
             "حال"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_4",
@@ -952,7 +1035,8 @@
             "تمييز جملة (ملحوظ)",
             "تمييز مفرد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_5",
@@ -963,7 +1047,8 @@
             "الماء",
             "ماءً"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "5_6",
@@ -974,7 +1059,8 @@
             "أكثر",
             "منك"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_7",
@@ -985,7 +1071,8 @@
             "كيلوغرامًا",
             "اشتريت"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_8",
@@ -996,7 +1083,8 @@
             "الفتحة",
             "الضمة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_9",
@@ -1007,7 +1095,8 @@
             "قرأت صفحةً كتابًا",
             "ازداد المؤمن إيمانًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "5_10",
@@ -1018,7 +1107,8 @@
             "امتلأ القلب سرورًا",
             "فاض النهر ماءً"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "5_11",
@@ -1029,7 +1119,8 @@
             "حال منصوب",
             "مفعول به"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_12",
@@ -1040,7 +1131,8 @@
             "أن يكون نكرة منصوبًا",
             "أن يكون معرفة مرفوعًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_13",
@@ -1051,7 +1143,8 @@
             "زراعةً",
             "قمحًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "5_14",
@@ -1062,7 +1155,8 @@
             "في",
             "المكتبة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "5_15",
@@ -1073,7 +1167,8 @@
             "حال منصوب",
             "نعت مرفوع"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_16",
@@ -1084,7 +1179,8 @@
             "من أي ناحية؟",
             "أين؟"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_17",
@@ -1095,7 +1191,8 @@
             "مفعول لأجله",
             "تمييز مقدار"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_18",
@@ -1106,7 +1203,8 @@
             "ظرف زمان",
             "مفعول مطلق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "5_19",
@@ -1117,7 +1215,8 @@
             "نشاطٌ",
             "نشاطٍ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "5_20",
@@ -1128,7 +1227,8 @@
             "تمييز منصوب",
             "حال منصوب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1145,7 +1245,8 @@
             "سوى",
             "عدا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_2",
@@ -1156,7 +1257,8 @@
             "الرفع وجوبًا",
             "الجر وجوبًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_3",
@@ -1167,7 +1269,8 @@
             "يجوز نصبه أو إتباعه للمستثنى منه",
             "يجب نصبه دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_4",
@@ -1178,7 +1281,8 @@
             "منقطع",
             "ناقص منفي (مفرغ)"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_5",
@@ -1189,7 +1293,8 @@
             "مفعول به",
             "بدل منصوب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_6",
@@ -1200,7 +1305,8 @@
             "تام منفي",
             "ناقص منفي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_7",
@@ -1211,7 +1317,8 @@
             "كتابًا",
             "كتابٌ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_8",
@@ -1222,7 +1329,8 @@
             "مضاف إليه",
             "مفعول به منصوب بحسب موقعه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_9",
@@ -1233,7 +1341,8 @@
             "ما حضر إلا طالبٌ",
             "لا ينجح إلا المجتهد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "6_10",
@@ -1244,7 +1353,8 @@
             "فاز اللاعبون إلا لاعبًا",
             "ما فاز اللاعبون إلا لاعبًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "6_11",
@@ -1255,7 +1365,8 @@
             "يجوز جره بدلًا من القوم أو نصبه مستثنى",
             "يرفع دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_12",
@@ -1266,7 +1377,8 @@
             "مضاف إليه",
             "مستثنى منصوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_13",
@@ -1277,7 +1389,8 @@
             "حذف أداة الاستثناء",
             "أن يكون المستثنى فعلًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_14",
@@ -1288,7 +1401,8 @@
             "الضمة",
             "الكسرة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_15",
@@ -1299,7 +1413,8 @@
             "إلا",
             "غير"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "6_16",
@@ -1310,7 +1425,8 @@
             "بدلًا مرفوعًا دائمًا",
             "بحسب موقعه في الجملة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_17",
@@ -1321,7 +1437,8 @@
             "ما حضر إلا طالبٌ",
             "وصل إلا مسافرٌ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "6_18",
@@ -1332,7 +1449,8 @@
             "حرف جر",
             "أداة نداء"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_19",
@@ -1343,7 +1461,8 @@
             "المتسابقون",
             "نجح"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "6_20",
@@ -1354,7 +1473,8 @@
             "ما حضر الطلاب إلا المعلمُ (تام مثبت)",
             "ما حضر إلا المعلمُ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -1371,7 +1491,8 @@
             "اسم يبين سبب الفعل",
             "اسم يبين زمانه"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_2",
@@ -1382,7 +1503,8 @@
             "يا",
             "هل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_3",
@@ -1393,7 +1515,8 @@
             "يرفع بالضمة في محل رفع",
             "يبنى على ما يرفع به في محل نصب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_4",
@@ -1404,7 +1527,8 @@
             "يجر بالكسرة",
             "يعرب مضافًا إليه"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_5",
@@ -1415,7 +1539,8 @@
             "نكرة غير مقصودة",
             "مضاف"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_6",
@@ -1426,7 +1551,8 @@
             "مضاف",
             "علم مفرد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_7",
@@ -1437,7 +1563,8 @@
             "مجرور",
             "منصوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_8",
@@ -1448,7 +1575,8 @@
             "الرفع",
             "الجر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_9",
@@ -1459,7 +1587,8 @@
             "نكرة غير مقصودة",
             "مضاف"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_10",
@@ -1470,7 +1599,8 @@
             "منادى شبيه بالمضاف منصوب",
             "منادى علم مفرد مبني"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_11",
@@ -1481,7 +1611,8 @@
             "فاطمةً",
             "فاطمةُ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_12",
@@ -1492,7 +1623,8 @@
             "فاعل مرفوع",
             "مفعول به"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_13",
@@ -1503,7 +1635,8 @@
             "الضمة",
             "السكون"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_14",
@@ -1514,7 +1647,8 @@
             "المثنى النكرة المقصودة",
             "المضاف"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_15",
@@ -1525,7 +1659,8 @@
             "الفتحة",
             "الواو لأنه جمع مذكر سالم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_16",
@@ -1536,7 +1671,8 @@
             "نكرة مقصودة",
             "مضاف إليه"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_17",
@@ -1547,7 +1683,8 @@
             "يا",
             "وا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_18",
@@ -1558,7 +1695,8 @@
             "منادى نكرة غير مقصودة منصوب",
             "منادى مبني على الضم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "7_19",
@@ -1569,7 +1707,8 @@
             "يا غافلًا، استيقظ",
             "يا حافظَ القرآنِ، أخلص"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "7_20",
@@ -1580,7 +1719,8 @@
             "نكرة غير مقصودة منصوبة",
             "شبيه بالمضاف"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1597,7 +1737,8 @@
             "اسم لا يقبل التنوين ويجر بالفتحة نيابة عن الكسرة في مواضع",
             "اسم يقبل التنوين دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_2",
@@ -1608,7 +1749,8 @@
             "السكون",
             "الفتحة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_3",
@@ -1619,7 +1761,8 @@
             "كتاب",
             "مدارس"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "8_4",
@@ -1630,7 +1773,8 @@
             "مسجد",
             "مسلمون"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "8_5",
@@ -1641,7 +1785,8 @@
             "يجر بالكسرة",
             "يبقى مجرورًا بالفتحة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_6",
@@ -1652,7 +1797,8 @@
             "الياء",
             "الفتحة نيابة عن الكسرة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_7",
@@ -1663,7 +1809,8 @@
             "الضمة",
             "الألف"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_8",
@@ -1674,7 +1821,8 @@
             "محمدٌ",
             "كتاب"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_9",
@@ -1685,7 +1833,8 @@
             "مصابيح",
             "مصباح"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_10",
@@ -1696,7 +1845,8 @@
             "الضمة",
             "الفتحة لأنه ممنوع من الصرف"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_11",
@@ -1707,7 +1857,8 @@
             "إذا وقع فاعلًا",
             "إذا سبقته أداة نداء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_12",
@@ -1718,7 +1869,8 @@
             "أحمدُ",
             "مساجدُ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "8_13",
@@ -1729,7 +1881,8 @@
             "العلمية والعدل",
             "العلمية وحدها"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_14",
@@ -1740,7 +1893,8 @@
             "مصابيح",
             "صحراء"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_15",
@@ -1751,7 +1905,8 @@
             "فاعل مرفوع",
             "اسم مجرور بالكسرة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_16",
@@ -1762,7 +1917,8 @@
             "الفتحة",
             "الكسرة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_17",
@@ -1773,7 +1929,8 @@
             "مررتُ بمساجدَ كثيرةٍ",
             "مررتُ بمساجدِ كثيرةٍ (دون أل أو إضافة)"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "8_18",
@@ -1784,7 +1941,8 @@
             "فعل أمر",
             "نعت ممنوع من الصرف منصوب بالفتحة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_19",
@@ -1795,7 +1953,8 @@
             "فارس",
             "كاتب"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "8_20",
@@ -1806,7 +1965,8 @@
             "لأنها منصوبة",
             "لأنها مصروفة دائمًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -1823,7 +1983,8 @@
             "إنْ تفعل، تفز",
             "ما أفعله، وأفعل به"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_2",
@@ -1834,7 +1995,8 @@
             "ما جميلٌ المنظرَ!",
             "جَمُلَ ما المنظر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_3",
@@ -1845,7 +2007,8 @@
             "اسم تفضيل مرفوع",
             "فعل أمر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_4",
@@ -1856,7 +2019,8 @@
             "حرف جر زائد",
             "حرف عطف"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_5",
@@ -1867,7 +2031,8 @@
             "مضاف إليه",
             "مفعول به منصوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_6",
@@ -1878,7 +2043,8 @@
             "نعم الخلق الصدق",
             "يا حسنَ الصدق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "9_7",
@@ -1889,7 +2055,8 @@
             "ما عظيمٌ الأثرَ!",
             "أعظمُ الأثرِ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_8",
@@ -1900,7 +2067,8 @@
             "ثلاثي تام مثبت متصرف قابل للتفاوت",
             "جامد أو ناقص"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_9",
@@ -1911,7 +2079,8 @@
             "نحوّل الفعل إلى حرف جر",
             "نأتي بفعل مساعد مثل أشدّ أو أكثر ومصدر الفعل"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_10",
@@ -1922,7 +2091,8 @@
             "أحمرْ بالورد!",
             "ما حمرٌ الورد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_11",
@@ -1933,7 +2103,8 @@
             "أطيبَ",
             "ما"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_12",
@@ -1944,7 +2115,8 @@
             "اسم مجرور لفظًا بالباء في محل رفع فاعل",
             "مفعول به منصوب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_13",
@@ -1955,7 +2127,8 @@
             "ما أروعَ الطبيعةَ!",
             "نِعمَ الخلقُ الصدقُ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_14",
@@ -1966,7 +2139,8 @@
             "أنفعِ",
             "ينفع"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "9_15",
@@ -1977,7 +2151,8 @@
             "ما استخرجَ النتائج!",
             "استخرجْ بالنتائج!"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_16",
@@ -1988,7 +2163,8 @@
             "ما أكرمَ الصديقَ!",
             "يكرم الصديق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "9_17",
@@ -1999,7 +2175,8 @@
             "استفهامية",
             "تعجبية"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_18",
@@ -2010,7 +2187,8 @@
             "بإضافة أل للفعل",
             "بحذف المصدر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_19",
@@ -2021,7 +2199,8 @@
             "عظُمَ",
             "ما أعظم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "9_20",
@@ -2032,7 +2211,8 @@
             "ما أقربَ النجاحَ!",
             "ما قريبٌ النجاحَ!"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2049,7 +2229,8 @@
             "ظن وحسب",
             "ليس ومازال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_2",
@@ -2060,7 +2241,8 @@
             "الخُلُقُ",
             "الصدقُ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_3",
@@ -2071,7 +2253,8 @@
             "الكذبُ",
             "بئسَ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_4",
@@ -2082,7 +2265,8 @@
             "الرجل مضاف إليه",
             "الرجلُ فاعل مرفوع"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_5",
@@ -2093,7 +2277,8 @@
             "الطالبُ",
             "لا يوجد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_6",
@@ -2104,7 +2289,8 @@
             "نعم الرجلُ الكريمُ",
             "ما أجملَ الصدقَ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "10_7",
@@ -2115,7 +2301,8 @@
             "ضمير مستتر يفسره التمييز",
             "الكذبُ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_8",
@@ -2126,7 +2313,8 @@
             "مفعول مطلق",
             "تمييز منصوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_9",
@@ -2137,7 +2325,8 @@
             "بئس التعاون",
             "ما أطيب التعاون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "10_10",
@@ -2148,7 +2337,8 @@
             "حبذا الاجتهادُ",
             "نعم العملُ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "10_11",
@@ -2159,7 +2349,8 @@
             "يكون مرفوعًا",
             "يكون منصوبًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_12",
@@ -2170,7 +2361,8 @@
             "المحتاج",
             "ما"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_13",
@@ -2181,7 +2373,8 @@
             "بالخُلُقِ",
             "خُلُقًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_14",
@@ -2192,7 +2385,8 @@
             "نعمَ",
             "العملُ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_15",
@@ -2203,7 +2397,8 @@
             "بئسَ الصديقُ الخائنُ",
             "بئسَ الصديقَ الخائنُ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "10_16",
@@ -2214,7 +2409,8 @@
             "مفعول به",
             "مخصوص بالمدح مرفوع"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_17",
@@ -2225,7 +2421,8 @@
             "فعلان مضارعان",
             "اسما تفضيل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_18",
@@ -2236,7 +2433,8 @@
             "الصبر خلق حسن",
             "ما أحسن الصبر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "10_19",
@@ -2247,7 +2445,8 @@
             "مخصوص بالمدح مرفوع",
             "مفعول به منصوب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "10_20",
@@ -2258,7 +2457,8 @@
             "بئسَ بالسلوكِ الكذبُ",
             "بئسَ السلوكُ الكذبُ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -2275,7 +2475,8 @@
             "مبتدأ وخبر فقط",
             "فعل وفاعل ومفعول به دائمًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_2",
@@ -2286,7 +2487,8 @@
             "إنْ",
             "إذا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "11_3",
@@ -2297,7 +2499,8 @@
             "لا يوجد",
             "تجتهدْ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_4",
@@ -2308,7 +2511,8 @@
             "تخلصْ",
             "عملك"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_5",
@@ -2319,7 +2523,8 @@
             "حذف حرف العلة",
             "حذف النون"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_6",
@@ -2330,7 +2535,8 @@
             "حذف النون",
             "السكون"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_7",
@@ -2341,7 +2547,8 @@
             "اسم موصول فقط",
             "اسم شرط جازم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_8",
@@ -2352,7 +2559,8 @@
             "من",
             "متى (الجازمة)"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "11_9",
@@ -2363,7 +2571,8 @@
             "الفتحة",
             "الضمة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_10",
@@ -2374,7 +2583,8 @@
             "تدعُ مجزوم بحذف حرف العلة",
             "تدعُ مجزوم بالسكون"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_11",
@@ -2385,7 +2595,8 @@
             "مهما تفعل تجد أثره",
             "إذا حضر المعلم أنصتنا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "11_12",
@@ -2396,7 +2607,8 @@
             "نفي وجزم",
             "استفهام"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_13",
@@ -2407,7 +2619,8 @@
             "إن وتحفظ",
             "وقتك ومرادك"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_14",
@@ -2418,7 +2631,8 @@
             "حذف حرف العلة",
             "السكون"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_15",
@@ -2429,7 +2643,8 @@
             "ظرف زمان غير جازم",
             "اسم شرط جازم يدل على المكان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_16",
@@ -2440,7 +2655,8 @@
             "لو قرأتَ لاستفدتَ",
             "كلما قرأتَ استفدتَ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "11_17",
@@ -2451,7 +2667,8 @@
             "تنصب الفعلين",
             "ترفعهما دائمًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_18",
@@ -2462,7 +2679,8 @@
             "المخاطب",
             "الضيف فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_19",
@@ -2473,7 +2691,8 @@
             "حيثما",
             "من"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "11_20",
@@ -2484,7 +2703,8 @@
             "إنْ",
             "متى"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -2501,7 +2721,8 @@
             "إذا كان الجواب جملة اسمية أو طلبية أو مسبوقة بأداة استقبال أو جامد",
             "في كل جواب فعل مضارع صحيح فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12_2",
@@ -2512,7 +2733,8 @@
             "نجاحًا",
             "فأنت ناجحٌ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12_3",
@@ -2523,7 +2745,8 @@
             "لأن الجواب فعل ماضٍ",
             "لأن الأداة غير جازمة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12_4",
@@ -2534,7 +2757,8 @@
             "أكرمْك",
             "أكرمتك"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12_5",
@@ -2545,7 +2769,8 @@
             "لأن الجواب طلبي",
             "لأن الجواب جملة فعلية مثبتة فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12_6",
@@ -2556,7 +2781,8 @@
             "متى تحضرْ أخبرْك",
             "إن تدرسْ فهل تنجح؟"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12_7",
@@ -2567,7 +2793,8 @@
             "جملة اسمية",
             "مفعول مطلق"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12_8",
@@ -2578,7 +2805,8 @@
             "يحصدْه",
             "حصدَه"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12_9",
@@ -2589,7 +2817,8 @@
             "إن تصدقْ فأنت كريمٌ",
             "إن تصدقْ تُكرمْ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12_10",
@@ -2600,7 +2829,8 @@
             "مصدر منصوب",
             "طلبي منهي عنه ومقترن بالفاء"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12_11",
@@ -2611,7 +2841,8 @@
             "إن تساعدْ المحتاجَ ساعده",
             "إن تساعدْ المحتاجَ مساعدته"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12_12",
@@ -2622,7 +2853,8 @@
             "لأن الجواب فعل مضارع مجزوم",
             "لأن الفاء حرف عطف"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12_13",
@@ -2633,7 +2865,8 @@
             "فاسألْ معلمك",
             "تسألْ معلمك"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12_14",
@@ -2644,7 +2877,8 @@
             "لو حفظت لأحسنت",
             "إن تحفظْ دروسك فقد أحسنتَ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12_15",
@@ -2655,7 +2889,8 @@
             "أداة الشرط",
             "فاعل الجملة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12_16",
@@ -2666,7 +2901,8 @@
             "إن تخلصْ تكرمْ",
             "من يحفظْ يفزْ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12_17",
@@ -2677,7 +2913,8 @@
             "يجزم إذا كان مضارعًا مجزومًا في الطلب",
             "يرفع دائمًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "12_18",
@@ -2688,7 +2925,8 @@
             "مجتهدٌ",
             "فليجتهدْ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12_19",
@@ -2699,7 +2937,8 @@
             "إن تهملْ خسرت",
             "إذا تهمل تخسر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "12_20",
@@ -2710,7 +2949,8 @@
             "حرف جر",
             "فاء عطف بين اسمين"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2727,7 +2967,8 @@
             "إذا كان الفعل ماضيًا",
             "إذا سبق بطلب وتضمن الجواب نتيجة مترتبة عليه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_2",
@@ -2738,7 +2979,8 @@
             "فعل أمر",
             "ماضٍ مبني"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_3",
@@ -2749,7 +2991,8 @@
             "ادرسْ فتنجحَ دائمًا",
             "درستَ تنجحُ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_4",
@@ -2760,7 +3003,8 @@
             "السكون",
             "الفتحة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_5",
@@ -2771,7 +3015,8 @@
             "التعجب فقط",
             "الأمر أو النهي أو الاستفهام أو الدعاء"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_6",
@@ -2782,7 +3027,8 @@
             "تقصرْ",
             "عملك"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_7",
@@ -2793,7 +3039,8 @@
             "إن تحسنْ يحبّوك",
             "أنت تحسن الناس"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "13_8",
@@ -2804,7 +3051,8 @@
             "جواب طلب استفهامي",
             "جواب شرط جازم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_9",
@@ -2815,7 +3063,8 @@
             "حذف حرف العلة",
             "السكون"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_10",
@@ -2826,7 +3075,8 @@
             "لن تذاكر فتنجح",
             "قد ذاكرت ونجحت"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_11",
@@ -2837,7 +3087,8 @@
             "لا تهملْ تنجحْ",
             "أكرمْ ضيفك يحترمْك"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "13_12",
@@ -2848,7 +3099,8 @@
             "مضارع مجزوم في جواب النهي",
             "مرفوع بالضمة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_13",
@@ -2859,7 +3111,8 @@
             "محبوبًا",
             "يحببْك"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "13_14",
@@ -2870,7 +3123,8 @@
             "بإخلاص",
             "لا شيء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "13_15",
@@ -2881,7 +3135,8 @@
             "أمر",
             "استفهام"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_16",
@@ -2892,7 +3147,8 @@
             "حذف النون",
             "الضمة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_17",
@@ -2903,7 +3159,8 @@
             "فهمًا",
             "تفهمْه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "13_18",
@@ -2914,7 +3171,8 @@
             "منصوب بأن",
             "فعل أمر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "13_19",
@@ -2925,7 +3183,8 @@
             "ساعدْ أخاك يشكرُك",
             "ساعدْ أخاك أن يشكرك"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "13_20",
@@ -2936,7 +3195,8 @@
             "أن يأتي مضارعًا مجزومًا بعد طلب ليدل على نتيجة",
             "أن يأتي اسمًا مجرورًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -2953,7 +3213,8 @@
             "اسم يوضح إبهامًا",
             "فعل يسبق الفاعل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_2",
@@ -2964,7 +3225,8 @@
             "منصوب دائمًا",
             "مرفوع دائمًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_3",
@@ -2975,7 +3237,8 @@
             "الواو",
             "خالد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_4",
@@ -2986,7 +3249,8 @@
             "بل",
             "ثم"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_5",
@@ -2997,7 +3261,8 @@
             "الفاء",
             "حتى"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_6",
@@ -3008,7 +3273,8 @@
             "فاعل مرفوع",
             "مضاف إليه"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_7",
@@ -3019,7 +3285,8 @@
             "الكسرة تبعًا للمعطوف عليه",
             "الفتحة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_8",
@@ -3030,7 +3297,8 @@
             "لكن",
             "الفاء"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_9",
@@ -3041,7 +3309,8 @@
             "أو",
             "الفاء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_10",
@@ -3052,7 +3321,8 @@
             "الترتيب والتراخي",
             "التخيير"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_11",
@@ -3063,7 +3333,8 @@
             "الواو",
             "الفاء"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_12",
@@ -3074,7 +3345,8 @@
             "حال منصوب",
             "معطوف مرفوع بالواو"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_13",
@@ -3085,7 +3357,8 @@
             "الواو",
             "الفاء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "14_14",
@@ -3096,7 +3369,8 @@
             "أحب",
             "الواو"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_15",
@@ -3107,7 +3381,8 @@
             "معطوف مرفوع",
             "معطوف منصوب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_16",
@@ -3118,7 +3393,8 @@
             "جاء خالد بل سعيد",
             "دخل المعلمُ فالطلابُ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "14_17",
@@ -3129,7 +3405,8 @@
             "حضر المعلمُ والطالبَ",
             "إن المعلمَ والطالبُ مجتهدان"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "14_18",
@@ -3140,7 +3417,8 @@
             "فاعل مرفوع",
             "نعت مجرور"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_19",
@@ -3151,7 +3429,8 @@
             "لكن",
             "ما"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "14_20",
@@ -3162,7 +3441,8 @@
             "أداة شرط",
             "حرف عطف يفيد إثبات الحكم لما قبله ونفيه عما بعده"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3179,7 +3459,8 @@
             "تابع يبين نوع متبوعه",
             "تابع يوضح إبهامًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_2",
@@ -3190,7 +3471,8 @@
             "نفس",
             "لكن"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_3",
@@ -3201,7 +3483,8 @@
             "بدل",
             "معنوي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_4",
@@ -3212,7 +3495,8 @@
             "الذي، التي، اللذان",
             "الواو، ثم، أو"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_5",
@@ -3223,7 +3507,8 @@
             "مفعول به منصوب",
             "حال منصوب"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_6",
@@ -3234,7 +3519,8 @@
             "أن تتصل بضمير يطابق المؤكد",
             "أن تسبق بحرف جر"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_7",
@@ -3245,7 +3531,8 @@
             "مبتدأ",
             "توكيد معنوي منصوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_8",
@@ -3256,7 +3543,8 @@
             "حضر المدير نفسه",
             "قرأت الكتاب كله"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "15_9",
@@ -3267,7 +3555,8 @@
             "استخدام نفس أو عين",
             "اتباع الاسم بحرف عطف"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_10",
@@ -3278,7 +3567,8 @@
             "لفظي بتكرار الحرف",
             "معنوي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_11",
@@ -3289,7 +3579,8 @@
             "مفعول لأجله",
             "توكيد معنوي منصوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_12",
@@ -3300,7 +3591,8 @@
             "بدل منصوب",
             "حال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_13",
@@ -3311,7 +3603,8 @@
             "حضر الأخوان أخوهما",
             "حضر أخوان اثنان كتابًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "15_14",
@@ -3322,7 +3615,8 @@
             "الفعل أقبل",
             "المسافر"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_15",
@@ -3333,7 +3627,8 @@
             "جميعٌهن",
             "جميعُهنَّ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "15_16",
@@ -3344,7 +3639,8 @@
             "مضاف إليه مجرور",
             "حال مرفوع"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_17",
@@ -3355,7 +3651,8 @@
             "كل",
             "جميع"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_18",
@@ -3366,7 +3663,8 @@
             "المؤكد الفتاة",
             "الفعل رأيت"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "15_19",
@@ -3377,7 +3675,8 @@
             "كلاهما في الصف (مبتدأ)",
             "حضر الصديقان كلاهما"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "15_20",
@@ -3388,7 +3687,8 @@
             "الاجتهاد نفسه طريق النجاح (لغير العاقل)",
             "الاجتهاد ثم طريق النجاح"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -3405,7 +3705,8 @@
             "تابع مقصود بالحكم يمهد له اسم قبله",
             "تابع يبين صفة متبوعه"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_2",
@@ -3416,7 +3717,8 @@
             "نعت",
             "بدل مطابق (كل من كل)"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_3",
@@ -3427,7 +3729,8 @@
             "اشتمال",
             "عطف"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_4",
@@ -3438,7 +3741,8 @@
             "أن يكون فعلًا",
             "أن يسبق بحرف عطف"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_5",
@@ -3449,7 +3753,8 @@
             "بدل اشتمال",
             "بدل مطابق"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_6",
@@ -3460,7 +3765,8 @@
             "يجر دائمًا",
             "يتبع المبدل منه في الإعراب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_7",
@@ -3471,7 +3777,8 @@
             "نعت مجرور",
             "تمييز"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_8",
@@ -3482,7 +3789,8 @@
             "مضاف إليه",
             "فاعل مرفوع"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_9",
@@ -3493,7 +3801,8 @@
             "أعجبتني المدينةُ شوارعُها",
             "أكلتُ التفاحةَ نصفَها"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "16_10",
@@ -3504,7 +3813,8 @@
             "أكلت الرغيف ثلثه",
             "جاء الخليفةُ عمرُ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "16_11",
@@ -3515,7 +3825,8 @@
             "فاعل مرفوع",
             "حال"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_12",
@@ -3526,7 +3837,8 @@
             "نجح",
             "سامر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_13",
@@ -3537,7 +3849,8 @@
             "الرغيف",
             "المتكلم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_14",
@@ -3548,7 +3861,8 @@
             "السكون",
             "الكسرة تبعًا للمبدل منه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_15",
@@ -3559,7 +3873,8 @@
             "بدل مطابق",
             "نعت"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_16",
@@ -3570,7 +3885,8 @@
             "مازنًا",
             "مازنٍ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "16_17",
@@ -3581,7 +3897,8 @@
             "بدل بعض من كل منصوب",
             "بدل مطابق مرفوع"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_18",
@@ -3592,7 +3909,8 @@
             "جاء أخوك نفسه",
             "قطفتُ الزهرةَ أوراقَها"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "16_19",
@@ -3603,7 +3921,8 @@
             "تواضعه",
             "لا يوجد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "16_20",
@@ -3614,7 +3933,8 @@
             "الفتحة لأنه بدل",
             "الضمة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -3631,7 +3951,8 @@
             "تابع مقصود بالحكم",
             "تابع يذكر لبيان صفة في متبوعه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_2",
@@ -3642,7 +3963,8 @@
             "المفعول المطلق",
             "المبتدأ فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_3",
@@ -3653,7 +3975,8 @@
             "فاعل مرفوع",
             "بدل مجرور"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_4",
@@ -3664,7 +3987,8 @@
             "الإعراب والتعريف والتنكير والتذكير والتأنيث والعدد",
             "الزمن والجهة فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_5",
@@ -3675,7 +3999,8 @@
             "مجتهدةً (منصوبة)",
             "مجتهدةٌ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "17_6",
@@ -3686,7 +4011,8 @@
             "الضمة",
             "السكون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_7",
@@ -3697,7 +4023,8 @@
             "رأيتُ الطالبَ المجتهدَ",
             "مررت بالطالب المجتهد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "17_8",
@@ -3708,7 +4035,8 @@
             "شاهدتُ منظرًا رائعًا",
             "ظهر منظرٌ رائعٌ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "17_9",
@@ -3719,7 +4047,8 @@
             "توكيد",
             "نعت سببي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_10",
@@ -3730,7 +4059,8 @@
             "الفعل في الزمن",
             "الفاعل في الموقع"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_11",
@@ -3741,7 +4071,8 @@
             "أباه",
             "أبيه (فاعل بعد نعت سببي؟)"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "17_12",
@@ -3752,7 +4083,8 @@
             "الطالبة",
             "المهذبة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_13",
@@ -3763,7 +4095,8 @@
             "لا يوجد",
             "واسعٌ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_14",
@@ -3774,7 +4107,8 @@
             "يكون مثنى دائمًا",
             "لا يطابقه"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_15",
@@ -3785,7 +4119,8 @@
             "الطالبان المجتهدُ",
             "الطالبتان المجتهدان"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "17_16",
@@ -3796,7 +4131,8 @@
             "نعت منصوب بالكسرة لأنه جمع مؤنث سالم",
             "نعت مجرور بالكسرة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_17",
@@ -3807,7 +4143,8 @@
             "فاعل",
             "نعت منصوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_18",
@@ -3818,7 +4155,8 @@
             "قرأتُ كتابًا نافعًا",
             "هذا طالبٌ مجتهدٌ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "17_19",
@@ -3829,7 +4167,8 @@
             "الفتحة",
             "الكسرة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "17_20",
@@ -3840,7 +4179,8 @@
             "رأيتُ زهرةً جميلةً",
             "رأيتُ زهرةً جميلٌ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -3857,7 +4197,8 @@
             "حرف نفي",
             "حرف عطف"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_2",
@@ -3868,7 +4209,8 @@
             "منصوب دائمًا",
             "مجرور دائمًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_3",
@@ -3879,7 +4221,8 @@
             "حالًا منصوبًا",
             "تمييزًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_4",
@@ -3890,7 +4233,8 @@
             "تمييزًا",
             "مفعولًا لأجله"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_5",
@@ -3901,7 +4245,8 @@
             "تمييزًا",
             "فاعلًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_6",
@@ -3912,7 +4257,8 @@
             "مفعولًا به",
             "حالًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_7",
@@ -3923,7 +4269,8 @@
             "منصوب",
             "مرفوع"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_8",
@@ -3934,7 +4281,8 @@
             "نكرة غير مقصودة",
             "مضاف"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_9",
@@ -3945,7 +4293,8 @@
             "الضمة",
             "السكون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_10",
@@ -3956,7 +4305,8 @@
             "مدح",
             "نداء"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_11",
@@ -3967,7 +4317,8 @@
             "المدح",
             "التعجب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_12",
@@ -3978,7 +4329,8 @@
             "مبنيان",
             "مجزومان"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_13",
@@ -3989,7 +4341,8 @@
             "فعل أمر",
             "مفعول به"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_14",
@@ -4000,7 +4353,8 @@
             "فعل ماضٍ",
             "مضارع منصوب"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_15",
@@ -4011,7 +4365,8 @@
             "العطف",
             "التوكيد"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_16",
@@ -4022,7 +4377,8 @@
             "نعت",
             "معنوي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_17",
@@ -4033,7 +4389,8 @@
             "تمييزًا",
             "ظرفًا"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_18",
@@ -4044,7 +4401,8 @@
             "بدلًا",
             "توكيدًا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "18_19",
@@ -4055,7 +4413,8 @@
             "امتلأ القلبُ سرورًا",
             "امتلأ القلبُ سرورٌ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "18_20",
@@ -4066,7 +4425,8 @@
             "حضر الجميع إلا واحدًا",
             "ما فاز إلا المجتهدُ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -4083,7 +4443,8 @@
             "كلام لا يحتمل إلا الأمر",
             "طلب إقبال المنادى"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_2",
@@ -4094,7 +4455,8 @@
             "الجو معتدل اليوم",
             "هل قرأت الدرس؟"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "19_3",
@@ -4105,7 +4467,8 @@
             "الشمس مشرقة",
             "اكتب واجبك"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "19_4",
@@ -4116,7 +4479,8 @@
             "نهي",
             "تمنٍّ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_5",
@@ -4127,7 +4491,8 @@
             "أمر",
             "نداء"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_6",
@@ -4138,7 +4503,8 @@
             "نداء",
             "استفهام"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_7",
@@ -4149,7 +4515,8 @@
             "خبر",
             "تمنٍّ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_8",
@@ -4160,7 +4527,8 @@
             "نداء",
             "خبر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_9",
@@ -4171,7 +4539,8 @@
             "إنشائي طلبي",
             "نداء"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_10",
@@ -4182,7 +4551,8 @@
             "متى",
             "ليت"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         },
         {
           "id": "19_11",
@@ -4193,7 +4563,8 @@
             "يا",
             "ليت"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_12",
@@ -4204,7 +4575,8 @@
             "ما أثمن الوقت",
             "هل تحفظ وقتك؟"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "19_13",
@@ -4215,7 +4587,8 @@
             "الإخبار عن حقيقة",
             "النفي"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_14",
@@ -4226,7 +4599,8 @@
             "خبرية",
             "إنشائية نهي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_15",
@@ -4237,7 +4611,8 @@
             "ليتني أسافر",
             "العلم يرفع شأن صاحبه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "19_16",
@@ -4248,7 +4623,8 @@
             "نهي",
             "مدح"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_17",
@@ -4259,7 +4635,8 @@
             "نداء فقط",
             "أمر"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_18",
@@ -4270,7 +4647,8 @@
             "السماء صافية",
             "لا ترفع صوتك"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_19",
@@ -4281,7 +4659,8 @@
             "تحتمل الصدق والكذب",
             "تطلب فعلًا من المخاطب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "19_20",
@@ -4292,7 +4671,8 @@
             "هل أنتم مخلصون؟",
             "ليتكم مخلصون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -4309,7 +4689,8 @@
             "المشبه والمشبه به وأداة التشبيه ووجه الشبه",
             "المبتدأ والخبر والفعل والفاعل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_2",
@@ -4320,7 +4701,8 @@
             "الشجاعة",
             "الجندي"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_3",
@@ -4331,7 +4713,8 @@
             "الكاف",
             "الشجاعة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_4",
@@ -4342,7 +4725,8 @@
             "الجندي",
             "الأسد"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_5",
@@ -4353,7 +4737,8 @@
             "الشجاعة",
             "الجندي"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_6",
@@ -4364,7 +4749,8 @@
             "ما حذف منه المشبه",
             "ما حذف منه وجه الشبه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_7",
@@ -4375,7 +4761,8 @@
             "ما حذفت منه الأركان كلها",
             "ما ذكرت أداته ووجهه فقط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_8",
@@ -4386,7 +4773,8 @@
             "مرسل مفصل",
             "مرسل مجمل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_9",
@@ -4397,7 +4785,8 @@
             "مرسل مجمل",
             "مؤكد مفصل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_10",
@@ -4408,7 +4797,8 @@
             "الجندي أسد",
             "الجندي أسد في الشجاعة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_11",
@@ -4419,7 +4809,8 @@
             "الطفل زهرة في النضارة",
             "الطفل زهرة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_12",
@@ -4430,7 +4821,8 @@
             "مرسل مفصل",
             "مرسل مجمل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_13",
@@ -4441,7 +4833,8 @@
             "كأنّ",
             "وجهه"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_14",
@@ -4452,7 +4845,8 @@
             "الكاف",
             "العطاء"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_15",
@@ -4463,7 +4857,8 @@
             "القلب كالمرآة",
             "القلب مرآة في الصفاء"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "20_16",
@@ -4474,7 +4869,8 @@
             "لذكر أداة التشبيه",
             "لحذف المشبه به"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_17",
@@ -4485,7 +4881,8 @@
             "بحر",
             "الأم"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_18",
@@ -4496,7 +4893,8 @@
             "الطالب نشيط كالنحلة",
             "الطالب كالنحلة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "20_19",
@@ -4507,7 +4905,8 @@
             "المشبه به",
             "أداة التشبيه"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "20_20",
@@ -4518,7 +4917,8 @@
             "مرسل مفصل",
             "مرسل مجمل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4535,7 +4935,8 @@
             "تكرار اللفظ للتوكيد",
             "تشبيه حذف أحد طرفيه واستعمل اللفظ في غير معناه الأصلي لقرينة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_2",
@@ -4546,7 +4947,8 @@
             "طباق",
             "كناية عن عدد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_3",
@@ -4557,7 +4959,8 @@
             "ذُكر الإنسان والصباح مع أداة التشبيه",
             "حذف الصباح وذكر الإنسان"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_4",
@@ -4568,7 +4971,8 @@
             "استعارة تصريحية",
             "استعارة مكنية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_5",
@@ -4579,7 +4983,8 @@
             "ما جمعت بين لفظين متضادين",
             "ما صُرّح فيها بلفظ المشبه به وحذف المشبه"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_6",
@@ -4590,7 +4995,8 @@
             "ما ذكرت فيها الأداة ووجه الشبه",
             "ما لا قرينة فيها"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_7",
@@ -4601,7 +5007,8 @@
             "تشبيه مرسل",
             "مقابلة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_8",
@@ -4612,7 +5019,8 @@
             "شدة صوته وغضبه كزئير الأسد",
             "صوت الماء"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_9",
@@ -4623,7 +5031,8 @@
             "لا توجد قرينة",
             "ضحكت؛ إذ تمنع إرادة الضحك الحقيقي للنبات"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_10",
@@ -4634,7 +5043,8 @@
             "المدينة جميلة",
             "زرت المدينة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "21_11",
@@ -4645,7 +5055,8 @@
             "ابتسمت الأرض",
             "الفتاة كالغزال"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "21_12",
@@ -4656,7 +5067,8 @@
             "شُبّهت الحال بإنسان ينطق",
             "شُبه الإنسان بالحال"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_13",
@@ -4667,7 +5079,8 @@
             "مجاز مرسل عن المكان",
             "شبه الشخص بالبدر وصرّح بالمشبه به"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_14",
@@ -4678,7 +5091,8 @@
             "البحر كالمرآة",
             "سبحنا في البحر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "21_15",
@@ -4689,7 +5103,8 @@
             "تحديد إعراب الكلمة",
             "حذف الفعل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_16",
@@ -4700,7 +5115,8 @@
             "هَدانا وبيّن لنا السبيل",
             "أشعل مصباحًا حقيقيًا فقط"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_17",
@@ -4711,7 +5127,8 @@
             "مشبه به مصرح به",
             "شُبّه بحيوان ذي ناب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_18",
@@ -4722,7 +5139,8 @@
             "التنوين",
             "المبتدأ"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_19",
@@ -4733,7 +5151,8 @@
             "طلوع الشمس من الوجوه حقيقة",
             "الحزن"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "21_20",
@@ -4744,7 +5163,8 @@
             "الأسد حيوان مفترس",
             "بكت السماء مطرًا"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": false
         }
       ]
     },
@@ -4761,7 +5181,8 @@
             "تكرار الكلمة نفسها",
             "حذف المشبه به"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_2",
@@ -4772,7 +5193,8 @@
             "الليل والنهار",
             "العلم نور"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "22_3",
@@ -4783,7 +5205,8 @@
             "طباق",
             "مقابلة متعددة"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_4",
@@ -4794,7 +5217,8 @@
             "الطباق لا يجمع الأضداد",
             "الطباق بين لفظين متضادين، والمقابلة بين معنيين أو أكثر وما يقابلها مرتبًا"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_5",
@@ -4805,7 +5229,8 @@
             "العلم نور",
             "الجندي كالأسد"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "22_6",
@@ -4816,7 +5241,8 @@
             "فلي / واو",
             "هم / هم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_7",
@@ -4827,7 +5253,8 @@
             "إبراز المعنى وتوضيحه وتقويته",
             "إعراب الفاعل"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_8",
@@ -4838,7 +5265,8 @@
             "الصدق نور",
             "ينفع الصادق ويضر الكاذب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "22_9",
@@ -4849,7 +5277,8 @@
             "المجتهد/ويذلّ",
             "لا يوجد تقابل"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_10",
@@ -4860,7 +5289,8 @@
             "يعطي الفقير ويمنع الغني",
             "يكرم الكريم ويهين اللئيم"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "22_11",
@@ -4871,7 +5301,8 @@
             "موازنة بين عبارتين متوازيتين وليست مقابلة أضداد واضحة",
             "استعارة تصريحية"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_12",
@@ -4882,7 +5313,8 @@
             "الطالب والمدرسة",
             "الخير والشر"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_13",
@@ -4893,7 +5325,8 @@
             "يذكر الفعل ثم فاعله",
             "يقدم الجواب قبل الشرط"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_14",
@@ -4904,7 +5337,8 @@
             "النهار والليل",
             "الصدق جميل"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "22_15",
@@ -4915,7 +5349,8 @@
             "القرب والبعد، والسرور والضرر",
             "قربه وبعده فقط دون مقابلة أخرى"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_16",
@@ -4926,7 +5361,8 @@
             "لا تضم معاني متضادة",
             "يأتي لكل معنى ما يقابله بحسب الترتيب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_17",
@@ -4937,7 +5373,8 @@
             "الفقير محتاج",
             "المال كثير"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "22_18",
@@ -4948,7 +5385,8 @@
             "الفعل والفاعل",
             "ضمير ومبتدأ"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_19",
@@ -4959,7 +5397,8 @@
             "توضيح الفرق بين حالين متضادين",
             "تغيير حركة الإعراب"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "22_20",
@@ -4970,7 +5409,8 @@
             "لا يوجد زوج",
             "زوجان: يعز/يذل والصادق/الكاذب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         }
       ]
     },
@@ -4987,7 +5427,8 @@
             "ماضٍ",
             "مضارع"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_2",
@@ -4998,7 +5439,8 @@
             "السكون",
             "الضمة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_3",
@@ -5009,7 +5451,8 @@
             "السكون",
             "حذف النون"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_4",
@@ -5020,7 +5463,8 @@
             "الضمة",
             "الفتحة"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_5",
@@ -5031,7 +5475,8 @@
             "اسم إن منصوب",
             "خبر إن مرفوع"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_6",
@@ -5042,7 +5487,8 @@
             "نعت مجرور",
             "خبر كان منصوب"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_7",
@@ -5053,7 +5499,8 @@
             "الياء",
             "الضمة المقدرة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_8",
@@ -5064,7 +5511,8 @@
             "الواو",
             "الألف"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_9",
@@ -5075,7 +5523,8 @@
             "الكسرة",
             "الياء"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_10",
@@ -5086,7 +5535,8 @@
             "لا يوجد",
             "الدرسَ"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_11",
@@ -5097,7 +5547,8 @@
             "ضمير منفصل",
             "حرف جر"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_12",
@@ -5108,7 +5559,8 @@
             "الذي",
             "هذا"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": false
         },
         {
           "id": "23_13",
@@ -5119,7 +5571,8 @@
             "السماءُ صافيةٌ",
             "أشرقت الشمسُ"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_14",
@@ -5130,7 +5583,8 @@
             "السكون",
             "الفتحة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_15",
@@ -5141,7 +5595,8 @@
             "معلمات",
             "معلم"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": false
         },
         {
           "id": "23_16",
@@ -5152,7 +5607,8 @@
             "مؤمنات",
             "مؤمنينَ (في الرفع)"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_17",
@@ -5163,7 +5619,8 @@
             "يسعى",
             "سعى"
           ],
-          "correctAnswer": 2
+          "correctAnswer": 2,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_18",
@@ -5174,7 +5631,8 @@
             "الفتحة",
             "الضمة"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_19",
@@ -5185,7 +5643,8 @@
             "همزة متوسطة",
             "همزة متطرفة"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "canUseAsFlashcard": true
         },
         {
           "id": "23_20",
@@ -5196,7 +5655,8 @@
             "الطالبان مجتهدٌ",
             "الطالبان مجتهدون"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "canUseAsFlashcard": true
         }
       ]
     }
