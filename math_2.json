@@ -11,6 +11,2944 @@
       "id": "5",
       "name": "المصفوفات",
       "questions": []
+    },
+    {
+      "id": "6",
+      "name": "مجموعة الأعداد العقدية",
+      "questions": [
+        {
+          "id": "1",
+          "question": "إذا كان العدد العقدي مكتوبًا بالشكل الجبري $z=a+ib$، فما الشرط على $a$ و$b$؟",
+          "options": [
+            "كلاهما عددان حقيقيان",
+            "$a$ حقيقي و$b$ عقدي غير حقيقي",
+            "$a$ و$b$ موجبان",
+            "$a=b$ دائمًا"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "ما الجزء الحقيقي للعدد $z=-3+5i$؟",
+          "options": [
+            "$-5$",
+            "$-3$",
+            "$3$",
+            "$5$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "ما الجزء التخيلي للعدد $z=4-7i$؟",
+          "options": [
+            "$-4$",
+            "$4$",
+            "$-7$",
+            "$7$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "أي عدد مما يأتي تخيلي بحت؟",
+          "options": [
+            "$2+3i$",
+            "$5$",
+            "$1-i$",
+            "$-4i$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "أي نقطة في المستوى تمثل العدد العقدي $z=2-3i$؟",
+          "options": [
+            "$(2,-3)$",
+            "$(2,3)$",
+            "$(-2,-3)$",
+            "$(-3,2)$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "متى يكون العددان العقديان $a+ib$ و$c+id$ متساويين؟",
+          "options": [
+            "إذا كان $a=c$ فقط",
+            "إذا كان $a=c$ و$b=d$",
+            "إذا كان $a=d$ و$b=c$",
+            "إذا كان $a+b=c+d$ فقط"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "إذا كان $z=3+2i$ و$w=-1+4i$، فما $z+w$؟",
+          "options": [
+            "$4-2i$",
+            "$-3+6i$",
+            "$2+6i$",
+            "$2-2i$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "إذا كان $z=5-3i$ و$w=2+i$، فما $z-w$؟",
+          "options": [
+            "$3-2i$",
+            "$7-4i$",
+            "$7-2i$",
+            "$3-4i$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "احسب $(2+i)(3+2i)$. ",
+          "options": [
+            "$4+7i$",
+            "$6+5i$",
+            "$8+7i$",
+            "$4+5i$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "ما ناتج $(1-2i)(1+2i)$؟",
+          "options": [
+            "$-3$",
+            "$3$",
+            "$1+4i$",
+            "$1-4i$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "ما قيمة $i^2$ في قواعد حساب الأعداد العقدية؟",
+          "options": [
+            "$i$",
+            "$-i$",
+            "$-1$",
+            "$1$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "إذا كان $z=6-2i$، فما العدد المعاكس لـ$z$؟",
+          "options": [
+            "$2-6i$",
+            "$6+2i$",
+            "$-6-2i$",
+            "$-6+2i$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "ما طول العدد العقدي $z=3+4i$؟",
+          "options": [
+            "$5$",
+            "$7$",
+            "$25$",
+            "$1$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "ما طول العدد الحقيقي $-5$ عند اعتباره عددًا عقديًا؟",
+          "options": [
+            "$0$",
+            "$5$",
+            "$25$",
+            "$-5$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "أي نقطة تمثل العدد الحقيقي $-2$ في المستوى العقدي؟",
+          "options": [
+            "$(0,2)$",
+            "$(0,-2)$",
+            "$(-2,0)$",
+            "$(2,0)$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "أي وصف يطابق مجموعة الأعداد التي يمثلها محور التراتيب في المستوى العقدي؟",
+          "options": [
+            "الأعداد الحقيقية",
+            "الأعداد ذات جزء تخيلي موجب فقط",
+            "الأعداد ذات جزء حقيقي موجب فقط",
+            "الأعداد التخيلية البحتة"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "إذا كان $z=2-3i$، فما قيمة $\\operatorname{Re}(z)+\\operatorname{Im}(z)$؟",
+          "options": [
+            "$-1$",
+            "$1$",
+            "$-5$",
+            "$5$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "إذا كان $z=1+2i$ و$w=3-i$، فما الجزء الحقيقي للمجموع $z+w$؟",
+          "options": [
+            "$3$",
+            "$4$",
+            "$1$",
+            "$2$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "إذا كان $z=1+i$ و$w=2+i$، فما الجزء الحقيقي للجداء $zw$؟",
+          "options": [
+            "$2$",
+            "$3$",
+            "$1$",
+            "$-1$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "أي عبارة صحيحة لأي عددين عقديين $z$ و$w$ مكتوبين بالشكل الجبري؟",
+          "options": [
+            "$|z+w|=|z|+|w|$ دائمًا",
+            "$\\operatorname{Im}(zw)=\\operatorname{Im}(z)\\operatorname{Im}(w)$ دائمًا",
+            "$\\operatorname{Re}(zw)=\\operatorname{Re}(z)\\operatorname{Re}(w)$ دائمًا",
+            "$\\operatorname{Re}(z+w)=\\operatorname{Re}(z)+\\operatorname{Re}(w)$"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "مرافق عدد عقدي",
+      "questions": [
+        {
+          "id": "1",
+          "question": "إذا كان $z=3+2i$، فما مرافقه؟",
+          "options": [
+            "$3-2i$",
+            "$-3+2i$",
+            "$-3-2i$",
+            "$3+2i$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "إذا كان $z=a+bi$ حيث $a,b\\in\\mathbb{R}$، فما التعبير الذي يساوي مرافق $z$؟",
+          "options": [
+            "$-a-bi$",
+            "$a-bi$",
+            "$a+bi$",
+            "$-a+bi$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "ما مرافق العدد الحقيقي $-5$؟",
+          "options": [
+            "$-5i$",
+            "$5i$",
+            "$-5$",
+            "$5$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "إذا كان $z=4-7i$، فما قيمة $\\overline{z}$؟",
+          "options": [
+            "$-4-7i$",
+            "$-4+7i$",
+            "$4-7i$",
+            "$4+7i$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "أي شرط لازم وكافٍ لكي يكون العدد العقدي $z$ حقيقياً؟",
+          "options": [
+            "$z=\\overline{z}$",
+            "$z\\overline{z}=0$",
+            "$z=i\\overline{z}$",
+            "$z=-\\overline{z}$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "أي شرط لازم وكافٍ لكي يكون العدد العقدي $z$ تخيلياً بحتاً؟",
+          "options": [
+            "$\\overline{z}=1$",
+            "$z=-\\overline{z}$",
+            "$z=\\overline{z}$",
+            "$z\\overline{z}=1$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "إذا كان $z=2+5i$، فما قيمة $z+\\overline{z}$؟",
+          "options": [
+            "$10i$",
+            "$4+10i$",
+            "$4$",
+            "$0$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "إذا كان $z=2+5i$، فما قيمة $z-\\overline{z}$؟",
+          "options": [
+            "$4+10i$",
+            "$0$",
+            "$4$",
+            "$10i$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "إذا كان $z=1+3i$ و$w=4-2i$، فما قيمة $\\overline{z+w}$؟",
+          "options": [
+            "$5-i$",
+            "$-3-5i$",
+            "$5+i$",
+            "$-3+5i$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "أي مساواة تعبّر عن خاصية مرافق جداء عددين عقديين $z,w$؟",
+          "options": [
+            "$\\overline{zw}=\\overline{z}+\\overline{w}$",
+            "$\\overline{zw}=\\overline{z}\\,\\overline{w}$",
+            "$\\overline{zw}=z+w$",
+            "$\\overline{zw}=z\\overline{w}$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "أي مساواة تعبّر عن خاصية مرافق مجموع عددين عقديين $z,w$؟",
+          "options": [
+            "$\\overline{z+w}=z-w$",
+            "$\\overline{z+w}=z+w$",
+            "$\\overline{z+w}=\\overline{z}+\\overline{w}$",
+            "$\\overline{z+w}=\\overline{z}\\,\\overline{w}$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "إذا كان $z=3+4i$، فما قيمة $z\\overline{z}$؟",
+          "options": [
+            "$25i$",
+            "$7$",
+            "$24$",
+            "$25$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "ما العلاقة الأساسية بين العدد العقدي $z$ ومرافقه ومقداره؟",
+          "options": [
+            "$z\\overline{z}=|z|^2$",
+            "$z+\\overline{z}=|z|^2$",
+            "$z\\overline{z}=|z|$",
+            "$z-\\overline{z}=|z|^2$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "إذا كان $z=1+i$، فما قيمة $|z|$؟",
+          "options": [
+            "$1$",
+            "$\\sqrt{2}$",
+            "$0$",
+            "$2$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "ما مرافق خارج القسمة $\\dfrac{z}{w}$ عندما يكون $w\ne0$؟",
+          "options": [
+            "$\\overline{z}-\\overline{w}$",
+            "$\\dfrac{\\overline{w}}{\\overline{z}}$",
+            "$\\dfrac{\\overline{z}}{\\overline{w}}$",
+            "$\\overline{z}\\,\\overline{w}$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "ما الخطوة المناسبة لجعل مقام $\\dfrac{1}{2+i}$ حقيقياً؟",
+          "options": [
+            "ضرب البسط والمقام في $2+i$",
+            "جمع $2-i$ إلى البسط والمقام",
+            "ضرب البسط والمقام في $i$",
+            "ضرب البسط والمقام في $2-i$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "اكتب $\\dfrac{1}{1+i}$ بالشكل الجبري $a+bi$.",
+          "options": [
+            "$\\dfrac{1}{2}-\\dfrac{1}{2}i$",
+            "$1-i$",
+            "$\\dfrac{1}{2}-i$",
+            "$\\dfrac{1}{2}+\\dfrac{1}{2}i$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "اكتب $\\dfrac{3}{1-i}$ بالشكل الجبري.",
+          "options": [
+            "$\\dfrac{3}{2}+3i$",
+            "$\\dfrac{3}{2}+\\dfrac{3}{2}i$",
+            "$\\dfrac{3}{2}-\\dfrac{3}{2}i$",
+            "$3+3i$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "إذا كان $z+\\overline{z}=6$، فما الجزء الحقيقي للعدد $z$؟",
+          "options": [
+            "$6$",
+            "$0$",
+            "$3$",
+            "$-3$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "إذا كان $z-\\overline{z}=8i$، فما الجزء التخيلي $b$ في كتابة $z=a+bi$؟",
+          "options": [
+            "$-4$",
+            "$0$",
+            "$8$",
+            "$4$"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "الشكل المثلثي لعدد عقدي",
+      "questions": [
+        {
+          "id": "1",
+          "question": "ما الشكل المثلثي للعدد العقدي غير المعدوم \\(z\\) إذا كانت طويلته \\(r\\) وزاويته \\(\\theta\\)؟",
+          "options": [
+            "\\(z=r(\\cos\\theta+i\\sin\\theta)\\)",
+            "\\(z=r(\\sin\\theta+i\\cos\\theta)\\)",
+            "\\(z=\\theta(\\cos r+i\\sin r)\\)",
+            "\\(z=r(\\cos\\theta-i\\sin\\theta)\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "إذا كان \\(z=a+ib=r(\\cos\\theta+i\\sin\\theta)\\)، فأي علاقة صحيحة؟",
+          "options": [
+            "\\(a=\\theta\\cos r,\\ b=\\theta\\sin r\\)",
+            "\\(a=r\\cos\\theta,\\ b=r\\sin\\theta\\)",
+            "\\(a=r+\\cos\\theta,\\ b=r+\\sin\\theta\\)",
+            "\\(a=r\\sin\\theta,\\ b=r\\cos\\theta\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "ما طويلة العدد العقدي \\(z=3(\\cos 0+i\\sin 0)\\)؟",
+          "options": [
+            "\\(-3\\)",
+            "\\(0\\)",
+            "\\(3\\)",
+            "\\(1\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "اكتب \\(z=1+i\\) بالشكل المثلثي، باختيار زاوية في \\([0,2\\pi)\\).",
+          "options": [
+            "\\(2(\\cos\\frac{\\pi}{4}+i\\sin\\frac{\\pi}{4})\\)",
+            "\\(\\sqrt2(\\cos\\frac{3\\pi}{4}+i\\sin\\frac{3\\pi}{4})\\)",
+            "\\(\\sqrt2(\\cos\\frac{\\pi}{2}+i\\sin\\frac{\\pi}{2})\\)",
+            "\\(\\sqrt2(\\cos\\frac{\\pi}{4}+i\\sin\\frac{\\pi}{4})\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "ما الشكل الجبري للعدد \\(z=2(\\cos\\frac{\\pi}{3}+i\\sin\\frac{\\pi}{3})\\)؟",
+          "options": [
+            "\\(1+i\\sqrt3\\)",
+            "\\(-1+i\\sqrt3\\)",
+            "\\(1-i\\sqrt3\\)",
+            "\\(\\sqrt3+i\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "إذا كان \\(z=-2i\\)، فما طويلة \\(z\\)؟",
+          "options": [
+            "\\(4\\)",
+            "\\(2\\)",
+            "\\(-2\\)",
+            "\\(0\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "أي زاوية تصلح زاويةً للعدد \\(z=-1+i\\sqrt3\\)؟",
+          "options": [
+            "\\(\\frac{\\pi}{3}\\)",
+            "\\(\\frac{4\\pi}{3}\\)",
+            "\\(\\frac{2\\pi}{3}\\)",
+            "\\(\\frac{5\\pi}{3}\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "إذا كان \\(z=4(\\cos\\theta+i\\sin\\theta)\\)، فما قيمة \\(|z|\\)؟",
+          "options": [
+            "\\(4\\theta\\)",
+            "\\(1\\)",
+            "\\(\\theta\\)",
+            "\\(4\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "أي عدد مما يأتي مكتوب بالشكل المثلثي لعدد عقدي غير معدوم؟",
+          "options": [
+            "\\(3(\\cos\\theta+i\\sin\\theta)\\)",
+            "\\(3(\\cos\\theta-i\\sin\\theta)\\)",
+            "\\(0(\\cos\\theta+i\\sin\\theta)\\)",
+            "\\((-2)(\\cos\\theta+i\\sin\\theta)\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "إذا كانت \\(z=2(\\cos\\frac{\\pi}{2}+i\\sin\\frac{\\pi}{2})\\)، فما صورته الجبرية؟",
+          "options": [
+            "\\(2\\)",
+            "\\(2i\\)",
+            "\\(-2\\)",
+            "\\(-2i\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "إذا كانت زاوية العدد غير المعدوم \\(z\\) هي \\(\\theta\\)، فما زاوية مرافقه \\(\\overline z\\) بترديد \\(2\\pi\\)؟",
+          "options": [
+            "\\(\\theta+\\pi\\)",
+            "\\(2\\theta\\)",
+            "\\(-\\theta\\)",
+            "\\(\\theta\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "إذا كانت زاوية \\(z\\) هي \\(\\theta\\)، فما زاوية \\(-z\\) بترديد \\(2\\pi\\)؟",
+          "options": [
+            "\\(\\frac{\\theta}{2}\\)",
+            "\\(\\theta\\)",
+            "\\(-\\theta\\)",
+            "\\(\\theta+\\pi\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "متى يكون العدد العقدي غير المعدوم حقيقيًا؟",
+          "options": [
+            "عندما تكون زاويته \\(0\\) أو \\(\\pi\\) بترديد \\(2\\pi\\)",
+            "عندما تكون زاويته \\(\\frac{\\pi}{2}\\) بترديد \\(2\\pi\\)",
+            "عندما تكون طويلته صفرًا",
+            "لكل زاوية له"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "متى يكون العدد العقدي غير المعدوم تخيليًا بحتًا؟",
+          "options": [
+            "عندما تكون طويلته \\(1\\)",
+            "عندما تكون زاويته \\(\\frac{\\pi}{2}\\) بترديد \\(\\pi\\)",
+            "عندما تكون زاويته \\(\\pi\\) بترديد \\(2\\pi\\) فقط",
+            "عندما تكون زاويته \\(0\\) بترديد \\(\\pi\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "ما الشكل المثلثي للعدد \\(z=-3\\)، مع اختيار الزاوية \\(\\pi\\)؟",
+          "options": [
+            "\\(3(\\cos\\frac{\\pi}{2}+i\\sin\\frac{\\pi}{2})\\)",
+            "\\(3(\\cos0+i\\sin0)\\)",
+            "\\(3(\\cos\\pi+i\\sin\\pi)\\)",
+            "\\((-3)(\\cos\\pi+i\\sin\\pi)\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "عدد عقدي طويلته \\(5\\) وزاويته \\(0\\). ما صورته الجبرية؟",
+          "options": [
+            "\\(5i\\)",
+            "\\(-5\\)",
+            "\\(0\\)",
+            "\\(5\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "إذا كان \\(z=\\sqrt3+i\\)، فما طويلة \\(z\\)؟",
+          "options": [
+            "\\(2\\)",
+            "\\(4\\)",
+            "\\(1\\)",
+            "\\(\\sqrt3+1\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "أي علاقة تربط زاوية \\(z\\) بزاوية \\(-z\\)؟",
+          "options": [
+            "\\(\\arg(-z)=2\\arg z\\pmod{2\\pi}\\)",
+            "\\(\\arg(-z)=\\arg z+\\pi\\pmod{2\\pi}\\)",
+            "\\(\\arg(-z)=\\arg z\\pmod{2\\pi}\\)",
+            "\\(\\arg(-z)=-\\arg z\\pmod{2\\pi}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "عند تساوي عددين عقديين مكتوبين بالشكل المثلثي بطويلتين موجبتين، ما الشرط اللازم؟",
+          "options": [
+            "تساوي الزاويتين فقط",
+            "تساوي الطويلتين فقط",
+            "تساوي الطويلتين وتساوي الزاويتين بترديد \\(2\\pi\\)",
+            "أن تكون الزاويتان متعاكستين"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "ما الإحداثيان \\((a,b)\\) للنقطة الممثلة للعدد \\(z=4(\\cos\\frac{\\pi}{6}+i\\sin\\frac{\\pi}{6})\\)؟",
+          "options": [
+            "\\((4,2)\\)",
+            "\\((2\\sqrt3,-2)\\)",
+            "\\((2,2\\sqrt3)\\)",
+            "\\((2\\sqrt3,2)\\)"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "طويلة عدد عقدي وزاويته",
+      "questions": [
+        {
+          "id": "1",
+          "question": "إذا كان العدد العقدي $z=3+4i$، فما طويلته $|z|$؟",
+          "options": [
+            "$5$",
+            "$7$",
+            "$1$",
+            "$25$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "إذا كان $z=-5+12i$، فما طويلته؟",
+          "options": [
+            "$17$",
+            "$13$",
+            "$169$",
+            "$7$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "يمثل العدد $z=-2-2i$ نقطة في أي ربع، وما سعة رئيسية مناسبة له؟",
+          "options": [
+            "الربع الأول، $\\frac{\\pi}{4}$",
+            "الربع الثاني، $\\frac{3\\pi}{4}$",
+            "الربع الثالث، $-\\frac{3\\pi}{4}$",
+            "الربع الرابع، $-\\frac{\\pi}{4}$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "ما الشكل المثلثي للعدد $z=1+i$؟",
+          "options": [
+            "$2\\left(\\cos\\frac{\\pi}{4}+i\\sin\\frac{\\pi}{4}\\right)$",
+            "$\\sqrt{2}\\left(\\cos\\frac{\\pi}{2}+i\\sin\\frac{\\pi}{2}\\right)$",
+            "$\\cos\\frac{\\pi}{4}+i\\sin\\frac{\\pi}{4}$",
+            "$\\sqrt{2}\\left(\\cos\\frac{\\pi}{4}+i\\sin\\frac{\\pi}{4}\\right)$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "إذا كتب $z=4(\\cos\\theta+i\\sin\\theta)$، فما قيمة $|z|$؟",
+          "options": [
+            "$4$",
+            "$4\\theta$",
+            "$1$",
+            "$\\theta$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "إذا كان $z=2(\\cos\\frac{\\pi}{6}+i\\sin\\frac{\\pi}{6})$، فما جزؤه الحقيقي؟",
+          "options": [
+            "$\\frac{1}{2}$",
+            "$\\sqrt{3}$",
+            "$1$",
+            "$2$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "إذا كان $z=3(\\cos\\frac{\\pi}{3}+i\\sin\\frac{\\pi}{3})$، فما جزؤه التخيلي؟",
+          "options": [
+            "$\\frac{3}{2}$",
+            "$3$",
+            "$\\frac{3\\sqrt{3}}{2}$",
+            "$\\frac{\\sqrt{3}}{2}$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "إذا كان $|z|=3$ و$|w|=4$، فما قيمة $|zw|$؟",
+          "options": [
+            "$1$",
+            "$\\frac{3}{4}$",
+            "$7$",
+            "$12$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "إذا كان $\\arg z=\\frac{\\pi}{5}$ و$\\arg w=\\frac{\\pi}{4}$، فما سعة $zw$ بترديد $2\\pi$؟",
+          "options": [
+            "$\\frac{9\\pi}{20}$",
+            "$\\frac{9\\pi}{40}$",
+            "$\\frac{\\pi}{20}$",
+            "$\\frac{\\pi}{9}$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "إذا كانت طويلتا $z$ و$w$ هما $10$ و$2$ على الترتيب، فما طويلة $\\frac{z}{w}$؟",
+          "options": [
+            "$12$",
+            "$5$",
+            "$20$",
+            "$\\frac{1}{5}$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "إذا كان $\\arg z=\\frac{2\\pi}{3}$ و$\\arg w=\\frac{\\pi}{6}$، فما سعة $\\frac{z}{w}$ بترديد $2\\pi$؟",
+          "options": [
+            "$\\frac{\\pi}{9}$",
+            "$\\frac{3\\pi}{2}$",
+            "$\\frac{\\pi}{2}$",
+            "$\\frac{5\\pi}{6}$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "إذا كان $z=2(\\cos\\frac{\\pi}{6}+i\\sin\\frac{\\pi}{6})$، فما الشكل المثلثي لـ$z^3$؟",
+          "options": [
+            "$8(\\cos\\frac{\\pi}{6}+i\\sin\\frac{\\pi}{6})$",
+            "$6(\\cos\\frac{\\pi}{2}+i\\sin\\frac{\\pi}{2})$",
+            "$8(\\cos\\frac{\\pi}{18}+i\\sin\\frac{\\pi}{18})$",
+            "$8(\\cos\\frac{\\pi}{2}+i\\sin\\frac{\\pi}{2})$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "إذا كان $z=\\cos\\theta+i\\sin\\theta$، فما قيمة $z^n$ وفق مبرهنة دو موافر؟",
+          "options": [
+            "$\\cos(n\\theta)+i\\sin(n\\theta)$",
+            "$n\\cos\\theta+in\\sin\\theta$",
+            "$\\cos\\theta+i\\sin(n\\theta)$",
+            "$\\cos(\\frac{\\theta}{n})+i\\sin(\\frac{\\theta}{n})$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "ما الشكل الجبري للعدد $2(\\cos\\frac{\\pi}{2}+i\\sin\\frac{\\pi}{2})$؟",
+          "options": [
+            "$-2$",
+            "$2i$",
+            "$-2i$",
+            "$2$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "ما طويلة العدد $z=-7i$؟",
+          "options": [
+            "$49$",
+            "$-7$",
+            "$7$",
+            "$0$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "إذا كان $z=3(\\cos\\frac{\\pi}{4}+i\\sin\\frac{\\pi}{4})$ و$w=2(\\cos\\frac{\\pi}{4}+i\\sin\\frac{\\pi}{4})$، فما الشكل المثلثي للجداء $zw$؟",
+          "options": [
+            "$5(\\cos\\frac{\\pi}{2}+i\\sin\\frac{\\pi}{2})$",
+            "$6(\\cos 0+i\\sin 0)$",
+            "$6(\\cos\\frac{\\pi}{8}+i\\sin\\frac{\\pi}{8})$",
+            "$6(\\cos\\frac{\\pi}{2}+i\\sin\\frac{\\pi}{2})$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "إذا كان $z=6(\\cos\\frac{5\\pi}{6}+i\\sin\\frac{5\\pi}{6})$ و$w=3(\\cos\\frac{\\pi}{6}+i\\sin\\frac{\\pi}{6})$، فما الشكل المثلثي لـ$\\frac{z}{w}$؟",
+          "options": [
+            "$2(\\cos\\frac{2\\pi}{3}+i\\sin\\frac{2\\pi}{3})$",
+            "$18(\\cos\\frac{2\\pi}{3}+i\\sin\\frac{2\\pi}{3})$",
+            "$2(\\cos\\frac{\\pi}{3}+i\\sin\\frac{\\pi}{3})$",
+            "$2(\\cos\\pi+i\\sin\\pi)$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "إذا كان $|z|=2$، فما قيمة $|z^4|$؟",
+          "options": [
+            "$4$",
+            "$16$",
+            "$8$",
+            "$6$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "إذا كانت سعة عدد عقدي غير معدوم $z$ هي $\\frac{\\pi}{3}$، فما سعة $z^2$ بترديد $2\\pi$؟",
+          "options": [
+            "$\\frac{\\pi}{6}$",
+            "$\\frac{\\pi}{9}$",
+            "$\\frac{2\\pi}{3}$",
+            "$\\frac{4\\pi}{3}$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "إذا كان $z=3+4i$، فما طويلة العدد المعاكس $-z$؟",
+          "options": [
+            "$7$",
+            "$25$",
+            "$-5$",
+            "$5$"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "الشكل الأسي لعدد عقدي",
+      "questions": [
+        {
+          "id": "1",
+          "question": "إذا كان العدد العقدي غير المعدوم \\(z\\) طويلته \\(r\\) وزاويته \\(\\theta\\)، فأي كتابة تمثل شكله الأسي؟",
+          "options": [
+            "\\(z=re^{i\\theta}\\)",
+            "\\(z=r+i\\theta\\)",
+            "\\(z=e^{r+i\\theta}\\)",
+            "\\(z=\\theta e^{ir}\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "ما الشكل الأسي للعدد \\(z=\\cos\\theta+i\\sin\\theta\\)؟",
+          "options": [
+            "\\(e^{\\theta+i}\\)",
+            "\\(e^{i\\theta}\\)",
+            "\\(1+i\\theta\\)",
+            "\\(\\theta e^i\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "ما قيمة \\(e^{i\\pi}\\)؟",
+          "options": [
+            "\\(-i\\)",
+            "\\(1\\)",
+            "\\(-1\\)",
+            "\\(i\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "أي عدد مما يأتي طويلته تساوي \\(1\\)؟",
+          "options": [
+            "\\(3e^{i\\theta}\\)",
+            "\\(e^{3+i\\theta}\\)",
+            "\\(\\theta e^{i}\\)",
+            "\\(e^{i\\theta}\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "إذا كان \\(z_1=2e^{i\\alpha}\\) و\\(z_2=3e^{i\\beta}\\)، فما الشكل الأسي للجداء \\(z_1z_2\\)؟",
+          "options": [
+            "\\(6e^{i(\\alpha+\\beta)}\\)",
+            "\\(6e^{i(\\alpha-\\beta)}\\)",
+            "\\(e^{i(6\\alpha+\\beta)}\\)",
+            "\\(5e^{i(\\alpha+\\beta)}\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "إذا كان \\(z_1=8e^{i\\alpha}\\) و\\(z_2=2e^{i\\beta}\\)، فما الشكل الأسي لـ\\(\\frac{z_1}{z_2}\\)؟",
+          "options": [
+            "\\(16e^{i(\\beta-\\alpha)}\\)",
+            "\\(4e^{i(\\alpha-\\beta)}\\)",
+            "\\(10e^{i(\\alpha-\\beta)}\\)",
+            "\\(4e^{i(\\alpha+\\beta)}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "باستخدام خواص الشكل الأسي، ما قيمة \\((2e^{i\\theta})^3\\)؟",
+          "options": [
+            "\\(6e^{i3\\theta}\\)",
+            "\\(8e^{i\\theta}\\)",
+            "\\(8e^{i3\\theta}\\)",
+            "\\(2e^{i3\\theta}\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "إذا كان \\(z=3e^{i\\pi/3}\\)، فما طويلته؟",
+          "options": [
+            "\\(1\\)",
+            "\\(3\\pi\\)",
+            "\\(\\pi/3\\)",
+            "\\(3\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "ما الشكل الجبري للعدد \\(2e^{i\\pi/2}\\)؟",
+          "options": [
+            "\\(2i\\)",
+            "\\(-2i\\)",
+            "\\(2\\)",
+            "\\(-2\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "ما الشكل الجبري للعدد \\(4e^{i\\pi}\\)؟",
+          "options": [
+            "\\(4\\)",
+            "\\(-4\\)",
+            "\\(4i\\)",
+            "\\(-4i\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "إذا كان \\(z=1+i\\)، فما طويلته؟",
+          "options": [
+            "\\(1\\)",
+            "\\(\\sqrt{3}\\)",
+            "\\(\\sqrt{2}\\)",
+            "\\(2\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "أي زاوية تمثل حجة للعدد \\(1+i\\)؟",
+          "options": [
+            "\\(3\\pi/2\\)",
+            "\\(\\pi/2\\)",
+            "\\(\\pi\\)",
+            "\\(\\pi/4\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "ما الشكل الأسي للعدد \\(1+i\\)؟",
+          "options": [
+            "\\(\\sqrt{2}e^{i\\pi/4}\\)",
+            "\\(2e^{i\\pi/4}\\)",
+            "\\(\\sqrt{2}e^{i\\pi/2}\\)",
+            "\\(e^{i\\pi/4}\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "ما الشكل الأسي للعدد \\(-1+i\\)؟",
+          "options": [
+            "\\(2e^{i3\\pi/4}\\)",
+            "\\(\\sqrt{2}e^{i3\\pi/4}\\)",
+            "\\(\\sqrt{2}e^{-i\\pi/4}\\)",
+            "\\(\\sqrt{2}e^{i\\pi/4}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "ما الشكل الجبري للعدد \\(2e^{i\\pi/3}\\)؟",
+          "options": [
+            "\\(1-i\\sqrt{3}\\)",
+            "\\(\\sqrt{3}+i\\)",
+            "\\(1+i\\sqrt{3}\\)",
+            "\\(2+i\\sqrt{3}\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "إذا كان \\(z=e^{i\\alpha}\\) و\\(w=e^{i\\beta}\\)، فما العلاقة الصحيحة؟",
+          "options": [
+            "\\(zw=e^{i(\\alpha-\\beta)}\\)",
+            "\\(zw=e^{i\\alpha\\beta}\\)",
+            "\\(zw=e^{i(\\alpha+\\beta)/2}\\)",
+            "\\(zw=e^{i(\\alpha+\\beta)}\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "إذا كان \\(z=re^{i\\theta}\\) حيث \\(r>0\\)، فما الشكل الأسي للمعكوس \\(\\frac{1}{z}\\)؟",
+          "options": [
+            "\\(\\frac{1}{r}e^{-i\\theta}\\)",
+            "\\(\\frac{1}{r}e^{i\\theta}\\)",
+            "\\(re^{i/\\theta}\\)",
+            "\\(re^{-i\\theta}\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "بحسب صيغة دو موافر، ما قيمة \\((\\cos\\theta+i\\sin\\theta)^n\\) لعدد صحيح \\(n\\)؟",
+          "options": [
+            "\\(\\cos(\\theta^n)+i\\sin(\\theta^n)\\)",
+            "\\(\\cos(n\\theta)+i\\sin(n\\theta)\\)",
+            "\\(\\cos\\theta+i\\sin(n\\theta)\\)",
+            "\\(n\\cos\\theta+in\\sin\\theta\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "أي صيغة تمثل علاقة أويلر لعدد حقيقي \\(\\theta\\)؟",
+          "options": [
+            "\\(e^{i\\theta}=\\sin\\theta+i\\cos\\theta\\)",
+            "\\(e^{\\theta}=\\cos\\theta+i\\sin\\theta\\)",
+            "\\(e^{i\\theta}=\\cos\\theta+i\\sin\\theta\\)",
+            "\\(e^{i\\theta}=\\cos\\theta-i\\sin\\theta\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "إذا كان \\(z=5e^{i\\theta}\\)، فما الشكل الأسي للعدد \\(\\overline{z}\\)؟",
+          "options": [
+            "\\(-5e^{i\\theta}\\)",
+            "\\(\\frac{1}{5}e^{-i\\theta}\\)",
+            "\\(5e^{i\\theta}\\)",
+            "\\(5e^{-i\\theta}\\)"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "المعادلات من الدرجة الثانية ذات الأمثال الحقيقية",
+      "questions": [
+        {
+          "id": "1",
+          "question": "أيّ معادلة مما يأتي تمثل معادلة من الدرجة الثانية ذات أمثال حقيقية في المجهول $z$؟",
+          "options": [
+            "$2z^2-3z+1=0$",
+            "$z^3+z+1=0$",
+            "$(1+i)z^2+z=0$",
+            "$4z-7=0$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "في المعادلة $az^2+bz+c=0$ ذات الأمثال الحقيقية، ما الشرط الذي يضمن أنها من الدرجة الثانية؟",
+          "options": [
+            "$c\\ne 0$",
+            "$a\\ne 0$",
+            "$a+b+c\\ne 0$",
+            "$b\\ne 0$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "ما التعبير الذي يمثّل مميّز المعادلة $az^2+bz+c=0$؟",
+          "options": [
+            "$\\Delta=a^2-4bc$",
+            "$\\Delta=b^2+4ac$",
+            "$\\Delta=b^2-4ac$",
+            "$\\Delta=4ac-b$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "للمعادلة $z^2-5z+6=0$، ما قيمة المميّز؟",
+          "options": [
+            "$-1$",
+            "$25$",
+            "$49$",
+            "$1$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "إذا كان مميّز معادلة تربيعية ذات أمثال حقيقية موجبًا، فما طبيعة جذريها؟",
+          "options": [
+            "جذران حقيقيان مختلفان",
+            "جذران عقديان غير حقيقيين مترافقان",
+            "لا جذور لها في $\\mathbb C$",
+            "جذر حقيقي مضاعف"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "إذا كان مميّز المعادلة التربيعية مساويًا للصفر، فكيف تكون جذراها؟",
+          "options": [
+            "لا حل في $\\mathbb C$",
+            "جذران حقيقيان منطبقان، أي جذر مضاعف",
+            "جذران حقيقيان مختلفان",
+            "جذران عقديان مترافقان غير حقيقيين"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "إذا كان مميّز المعادلة التربيعية سالبًا وكانت معاملاتها حقيقية، فما طبيعة الجذرين في $\\mathbb C$؟",
+          "options": [
+            "حقيقيان مختلفان",
+            "حقيقيان منطبقان",
+            "عقديان مترافقان غير حقيقيين",
+            "أحدهما صفر والآخر موجب"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "احسب مميّز المعادلة $z^2+4z+8=0$ وحدّد طبيعة جذريها.",
+          "options": [
+            "$0$، وجذر حقيقي مضاعف",
+            "$-8$، ولا جذور في $\\mathbb C$",
+            "$16$، وجذران حقيقيان مختلفان",
+            "$-16$، وجذران عقديان مترافقان غير حقيقيين"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "ما جذرا المعادلة $z^2+4z+8=0$؟",
+          "options": [
+            "$-2+2i$ و$-2-2i$",
+            "$-2+4i$ و$-2-4i$",
+            "$2+2i$ و$2-2i$",
+            "$-4+2i$ و$-4-2i$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "ما حلّا المعادلة $2z^2-3z+1=0$؟",
+          "options": [
+            "$-1$ و$-\\frac12$",
+            "$1$ و$\\frac12$",
+            "$1$ و$-\\frac12$",
+            "$2$ و$\\frac14$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "حلّ المعادلة $z^2+2z+5=0$ هو:",
+          "options": [
+            "$-2+i$ و$-2-i$",
+            "$-1+4i$ و$-1-4i$",
+            "$-1+2i$ و$-1-2i$",
+            "$1+2i$ و$1-2i$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "ما الجذر المضاعف للمعادلة $z^2-6z+9=0$؟",
+          "options": [
+            "$9$",
+            "$-3$",
+            "$6$",
+            "$3$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "ما الصيغة العامة لجذري المعادلة $az^2+bz+c=0$ عندما $\\Delta=b^2-4ac\\ge 0$؟",
+          "options": [
+            "$z=\\frac{-b\\pm\\sqrt{\\Delta}}{2a}$",
+            "$z=\\frac{b\\pm\\sqrt{\\Delta}}{2a}$",
+            "$z=\\frac{-b\\pm\\Delta}{a}$",
+            "$z=\\frac{-a\\pm\\sqrt{\\Delta}}{2b}$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "إذا كان $\\Delta<0$ في معادلة تربيعية ذات أمثال حقيقية، فأي صيغة تعبّر عن الجذرين؟",
+          "options": [
+            "$z=\\frac{b\\pm i\\sqrt{\\Delta}}{2a}$",
+            "$z=\\frac{-b\\pm i\\sqrt{-\\Delta}}{2a}$",
+            "$z=\\frac{-b\\pm i\\sqrt{\\Delta}}{a}$",
+            "$z=\\frac{-b\\pm\\sqrt{-\\Delta}}{2a}$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "في المعادلة $3z^2-6z+5=0$، ما قيمة المميّز؟",
+          "options": [
+            "$96$",
+            "$24$",
+            "$-24$",
+            "$-36$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "ما جذرا المعادلة $3z^2-6z+5=0$؟",
+          "options": [
+            "$-1+\\frac{2}{3}i$ و$-1-\\frac{2}{3}i$",
+            "$1+2i$ و$1-2i$",
+            "$2+\\frac{1}{3}i$ و$2-\\frac{1}{3}i$",
+            "$1+\\frac{2}{3}i$ و$1-\\frac{2}{3}i$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "إذا كان جذرا $az^2+bz+c=0$ هما $z_1$ و$z_2$، فما مجموعهما؟",
+          "options": [
+            "$z_1+z_2=-\\frac{b}{a}$",
+            "$z_1+z_2=\\frac{b}{a}$",
+            "$z_1+z_2=-\\frac{c}{a}$",
+            "$z_1+z_2=\\frac{c}{a}$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "إذا كان جذرا $az^2+bz+c=0$ هما $z_1$ و$z_2$، فما حاصل ضربهما؟",
+          "options": [
+            "$z_1z_2=-\\frac{c}{a}$",
+            "$z_1z_2=\\frac{c}{a}$",
+            "$z_1z_2=-\\frac{b}{a}$",
+            "$z_1z_2=\\frac{b}{a}$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "إذا كان مجموع جذري معادلة تربيعية ذات أمثال حقيقية يساوي $4$ وحاصل ضربهما $5$، فأي معادلة أحادية المعامل الرئيسي لهذين الجذرين؟",
+          "options": [
+            "$z^2+4z+5=0$",
+            "$z^2-5z+4=0$",
+            "$z^2-4z+5=0$",
+            "$z^2+5z-4=0$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "لماذا يكون الجذران غير الحقيقيين لمعادلة تربيعية ذات أمثال حقيقية مترافقين؟",
+          "options": [
+            "لأن معامل $z^2$ يساوي دائمًا $1$",
+            "لأن مميّزها موجب بالضرورة",
+            "لأن كل معادلة تربيعية لها جذران حقيقيان",
+            "لأن صيغة الجذرين تتضمن جزأين تخيليين متعاكسَي الإشارة مع جزء حقيقي مشترك"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "إنشاء قوائم من عناصر مجموعة",
+      "questions": [
+        {
+          "id": "1",
+          "question": "ما المقصود بتبديل عناصر مجموعة مكوّنة من \\(n\\) عناصر؟",
+          "options": [
+            "قائمة تضم جميع عناصر المجموعة مرة واحدة مع اعتبار الترتيب",
+            "مجموعة جزئية لا يتجاوز طولها \\(n\\)",
+            "قائمة تسمح بتكرار عنصر واحد على الأقل",
+            "اختيار عناصر دون ترتيب ودون تكرار"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "كم عدد التباديل لعناصر مجموعة مكوّنة من \\(4\\) عناصر؟",
+          "options": [
+            "\\(4\\times 3=12\\)",
+            "\\(4!=24\\)",
+            "\\(2^4=16\\)",
+            "\\(4^2=16\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "أي تعبير يحسب عدد التراتيب طولها \\(r\\) المأخوذة دون تكرار من مجموعة عدد عناصرها \\(n\\)، حيث \\(1\\le r\\le n\\)؟",
+          "options": [
+            "\\(n!+r!\\)",
+            "\\(n^r\\)",
+            "\\(n(n-1)(n-2)\\cdots(n-r+1)\\)",
+            "\\(r!\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "كم ترتيباً مختلفاً طول كل منها \\(2\\) يمكن تكوينه دون تكرار من مجموعة فيها \\(5\\) عناصر؟",
+          "options": [
+            "\\(10\\)",
+            "\\(25\\)",
+            "\\(5\\)",
+            "\\(20\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "كم قائمة طولها \\(3\\) يمكن تكوينها من مجموعة فيها \\(4\\) عناصر إذا كان التكرار مسموحاً؟",
+          "options": [
+            "\\(4^3=64\\)",
+            "\\(4!=24\\)",
+            "\\(3^4=81\\)",
+            "\\(4\\times3\\times2=24\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "في تكوين قائمة من \\(r\\) خانات من مجموعة فيها \\(n\\) عناصر مع السماح بالتكرار، كم خياراً متاحاً لكل خانة؟",
+          "options": [
+            "\\(n!\\)",
+            "\\(n\\)",
+            "\\(n-r\\)",
+            "\\(r\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "كم ترتيباً طولها \\(3\\) يمكن تكوينه دون تكرار من مجموعة فيها \\(6\\) عناصر؟",
+          "options": [
+            "\\(6^3=216\\)",
+            "\\(6!=720\\)",
+            "\\(6\\times5\\times4=120\\)",
+            "\\(3!=6\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "ما قيمة \\(\\dfrac{8!}{6!}\\)؟",
+          "options": [
+            "\\(8\\)",
+            "\\(336\\)",
+            "\\(56\\)",
+            "\\(48\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "ما قيمة \\(\\dfrac{10!}{8!}\\)؟",
+          "options": [
+            "\\(90\\)",
+            "\\(100\\)",
+            "\\(80\\)",
+            "\\(720\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "كم ترتيباً مختلفاً يمكن أن يصل به \\(6\\) أحصنة إلى خط النهاية إذا لم يحدث تعادل؟",
+          "options": [
+            "\\(6^2=36\\)",
+            "\\(6!=720\\)",
+            "\\(6\\times5=30\\)",
+            "\\(6+5+4+3+2+1=21\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "من صندوق يحوي \\(9\\) كرات مختلفة، نسحب \\(4\\) كرات على التوالي دون إعادة ونسجل ترتيبها. كم تسلسلاً ممكناً؟",
+          "options": [
+            "\\(9! = 362880\\)",
+            "\\(9\\times4=36\\)",
+            "\\(9\\times8\\times7\\times6=3024\\)",
+            "\\(9^4=6561\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "كم كلمة من ثلاثة أحرف يمكن تكوينها من خمسة أحرف مختلفة إذا جاز تكرار الحرف؟",
+          "options": [
+            "\\(3^5=243\\)",
+            "\\(5\\times4\\times3=60\\)",
+            "\\(5!=120\\)",
+            "\\(5^3=125\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "من الحروف \\(\\{A,B,C,D\\}\\)، كم قائمة طولها \\(2\\) يمكن تكوينها إذا كان التكرار مسموحاً؟",
+          "options": [
+            "\\(4^2=16\\)",
+            "\\(4\\times3=12\\)",
+            "\\(2^4=16\\)",
+            "\\(4!=24\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "من المجموعة \\(\\{1,2,5,8,9\\}\\)، كم عدداً من منزلتين يمكن تكوينه إذا جاز تكرار الرقم؟",
+          "options": [
+            "\\(5!=120\\)",
+            "\\(5^2=25\\)",
+            "\\(2^5=32\\)",
+            "\\(5\\times4=20\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "من المجموعة \\(\\{1,2,5,8,9\\}\\)، كم عدداً من منزلتين مختلفتي الرقم يمكن تكوينه؟",
+          "options": [
+            "\\(5+4=9\\)",
+            "\\(5^2=25\\)",
+            "\\(5\\times4=20\\)",
+            "\\(5!=120\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "يتنافس \\(7\\) أعضاء على مناصب رئيس ونائب رئيس وأمين سر، ولا يتولى عضو أكثر من منصب. كم طريقة لتوزيع المناصب؟",
+          "options": [
+            "\\(7^3=343\\)",
+            "\\(7!=5040\\)",
+            "\\(3!=6\\)",
+            "\\(7\\times6\\times5=210\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "في سباق يضم \\(100\\) متسابق، توزّع ميداليات ذهبية وفضية وبرونزية بلا تعادل. كم نتيجة ممكنة للفائزين بالمراكز الثلاثة؟",
+          "options": [
+            "\\(100\\times99\\times98=970200\\)",
+            "\\(100!\\)",
+            "\\(100+99+98=297\\)",
+            "\\(100^3\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "في مركز هاتف مهندسان وأربعة عمال. كم لجنة مختلفة تتألف من مهندس واحد وعامل واحد؟",
+          "options": [
+            "\\(4!=24\\)",
+            "\\(2\\times4=8\\)",
+            "\\(2+4=6\\)",
+            "\\(2!=2\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "أي مساواة صحيحة لكل عدد صحيح موجب \\(n\\)؟",
+          "options": [
+            "\\(n!=n+(n-1)!\\)",
+            "\\(n!=(n-1)!\\div n\\)",
+            "\\(n!=n\\times(n-1)!\\)",
+            "\\(n!=n^2\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "إذا كانت \\(P(n,r)=n(n-1)\\cdots(n-r+1)\\)، فأي صيغة مكافئة لها؟",
+          "options": [
+            "\\(P(n,r)=\\dfrac{n!}{r!}\\)",
+            "\\(P(n,r)=n^r\\)",
+            "\\(P(n,r)=\\dfrac{(n-r)!}{n!}\\)",
+            "\\(P(n,r)=\\dfrac{n!}{(n-r)!}\\)"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "التوافيق",
+      "questions": [
+        {
+          "id": "1",
+          "question": "ما المقصود باختيار توفيق من رتبة $r$ من مجموعة عدد عناصرها $n$؟",
+          "options": [
+            "اختيار مجموعة جزئية من $r$ عناصر دون اعتبار ترتيبها",
+            "ترتيب جميع عناصر المجموعة",
+            "اختيار عنصر واحد مع تكراره $r$ مرات",
+            "ترتيب $r$ عناصر مع اعتبار مواقعها"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "في التوافيق، لماذا يُعد الاختياران $\\{a,b\\}$ و$\\{b,a\\}$ اختياراً واحداً؟",
+          "options": [
+            "لأن أحد العنصرين يُحذف",
+            "لأن المجموعة الجزئية لا تتغير بتبديل ترتيب عناصرها",
+            "لأن ترتيب العناصر يُحسب مرتين ثم يُلغى",
+            "لأن $a=b$ دائماً"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "ما صيغة عدد التوافيق ذات الرتبة $r$ من مجموعة ذات $n$ عناصر، حيث $0\\le r\\le n$؟",
+          "options": [
+            "$\\displaystyle \\binom{n}{r}=\\frac{r!}{n!}$",
+            "$\\displaystyle \\binom{n}{r}=\\frac{n!}{(n-r)!}$",
+            "$\\displaystyle \\binom{n}{r}=\\frac{n!}{r!(n-r)!}$",
+            "$\\displaystyle \\binom{n}{r}=r!(n-r)!$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "كم مجموعة جزئية من صفر عنصر يمكن اختيارها من مجموعة ذات $n$ عناصر؟",
+          "options": [
+            "$0$",
+            "$n$",
+            "$n!$",
+            "$1$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "ما قيمة $\\binom{n}{1}$ لمجموعة ذات $n$ عناصر؟",
+          "options": [
+            "$n$",
+            "$n!$",
+            "$0$",
+            "$1$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "ما قيمة $\\binom{n}{n}$؟",
+          "options": [
+            "$0$",
+            "$1$",
+            "$n$",
+            "$n!$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "كم طريقة لاختيار عنصرين من مجموعة مكوّنة من ثلاثة عناصر؟",
+          "options": [
+            "$6$",
+            "$2$",
+            "$3$",
+            "$1$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "احسب عدد طرق اختيار $2$ من $5$ عناصر دون اعتبار الترتيب: $\\binom{5}{2}$.",
+          "options": [
+            "$5$",
+            "$2$",
+            "$20$",
+            "$10$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "كم مجموعة من $3$ عناصر يمكن اختيارها من مجموعة ذات $5$ عناصر؟",
+          "options": [
+            "$10$",
+            "$5$",
+            "$15$",
+            "$60$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "ما قيمة $\\binom{6}{0}$؟",
+          "options": [
+            "$0$",
+            "$1$",
+            "$6$",
+            "$720$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "احسب $\\binom{8}{2}$.",
+          "options": [
+            "$56$",
+            "$8$",
+            "$28$",
+            "$16$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "في مجموعة من $n$ عناصر، أي مساواة تعبّر عن تناظر اختيار $r$ عناصر واختيار العناصر المستبعدة وعددها $n-r$؟",
+          "options": [
+            "$\\binom{n}{r}=r!$",
+            "$\\binom{n}{r}=\\binom{r}{n}$",
+            "$\\binom{n}{r}=n-r$",
+            "$\\binom{n}{r}=\\binom{n}{n-r}$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "لدى لجنة من $15$ رجلاً و$14$ امرأة، كم طريقة لاختيار لجنة من رجلين وامرأتين؟",
+          "options": [
+            "$\\binom{15}{2}\\binom{14}{2}=9555$",
+            "$\\binom{29}{4}=23751$",
+            "$15\\times14=210$",
+            "$\\binom{15}{2}+\\binom{14}{2}=196$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "كم لجنة من $4$ أشخاص يمكن اختيارها من مجموعة فيها $15$ رجلاً و$14$ امرأة، دون شروط إضافية؟",
+          "options": [
+            "$\\binom{14}{4}=1001$",
+            "$\\binom{29}{4}=23751$",
+            "$\\binom{29}{4}\\times4!$",
+            "$\\binom{15}{4}=1365$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "لدينا $8$ بطاقات حمراء متميزة و$24$ بطاقة غير حمراء. كم سحباً من $5$ بطاقات يضم تماماً بطاقتين حمراوين؟",
+          "options": [
+            "$\\binom{8}{2}+\\binom{24}{3}$",
+            "$\\binom{8}{5}$",
+            "$\\binom{8}{2}\\binom{24}{3}$",
+            "$\\binom{32}{5}$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "في مجموعة البطاقات ذات $32$ بطاقة، عدد البطاقات التي لا تحمل الرقم $1$ هو $28$. ما عدد السحوبات من $5$ بطاقات التي لا تضم أي بطاقة تحمل الرقم $1$؟",
+          "options": [
+            "$\\binom{32}{5}$",
+            "$\\binom{4}{5}$",
+            "$\\binom{28}{1}$",
+            "$\\binom{28}{5}$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "إذا كان عدد التراتيب المختلفة المكوّنة من $r$ عناصر مختارة من $n$ يساوي $\\binom{n}{r}r!$، فما عدد تلك التراتيب عندما $n=5$ و$r=3$؟",
+          "options": [
+            "$60$",
+            "$15$",
+            "$120$",
+            "$10$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "أي عبارة تمثل عدد السحوبات من $5$ بطاقات من أصل $32$ بطاقة؟",
+          "options": [
+            "$32^5$",
+            "$\\binom{32}{5}$",
+            "$\\frac{32!}{27!}$",
+            "$5!$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "ما عدد الطرق لاختيار $4$ عناصر من مجموعة ذات $7$ عناصر؟",
+          "options": [
+            "$28$",
+            "$210$",
+            "$35$",
+            "$7$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "إذا كان $\\binom{n}{2}=10$ و$n>1$، فما قيمة $n$؟",
+          "options": [
+            "$10$",
+            "$6$",
+            "$4$",
+            "$5$"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "خواص عدد التوافيق، ومنشور ذي الحدين",
+      "questions": [
+        {
+          "id": "1",
+          "question": "إذا كان $0\\le r\\le n$، فما العلاقة التي تعبّر عن تساوي عدد الأجزاء ذات $r$ عناصر وعدد الأجزاء ذات $n-r$ عناصر من مجموعة ذات $n$ عناصر؟",
+          "options": [
+            "$\\binom{n}{r}=\\binom{n}{n-r}$",
+            "$\\binom{n}{r}=\\binom{n+1}{r}$",
+            "$\\binom{n}{r}=r+n$",
+            "$\\binom{n}{r}=\\binom{r}{n}$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "ما قيمة $\\binom{n}{0}$ لأي عدد طبيعي $n$؟",
+          "options": [
+            "$n$",
+            "$1$",
+            "$n!$",
+            "$0$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "ما قيمة $\\binom{n}{n}$؟",
+          "options": [
+            "$2^n$",
+            "$n$",
+            "$1$",
+            "$0$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "وفق علاقة باسكال، أي مما يأتي يساوي $\\binom{n}{r}$ عندما $1\\le r<n$؟",
+          "options": [
+            "$\\binom{n-1}{r}-\\binom{n-1}{r-1}$",
+            "$\\binom{n}{r-1}+\\binom{n}{r+1}$",
+            "$\\binom{n+1}{r}+\\binom{n+1}{r-1}$",
+            "$\\binom{n-1}{r}+\\binom{n-1}{r-1}$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "كم عدد المجموعات الجزئية لمجموعة مكوّنة من $5$ عناصر؟",
+          "options": [
+            "$32$",
+            "$10$",
+            "$25$",
+            "$5$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "منشور ذي الحدين يعطي $(a+b)^4$. ما معامل الحد $a^2b^2$؟",
+          "options": [
+            "$12$",
+            "$6$",
+            "$4$",
+            "$8$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "ما الحدّان الطرفيان في نشر $(a+b)^n$؟",
+          "options": [
+            "$na$ و$nb$",
+            "$a^{n-1}b$ و$ab^{n-1}$",
+            "$a^n$ و$b^n$",
+            "$a^n$ و$nb^n$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "ما مجموع معاملات الحدود في نشر $(a+b)^n$؟",
+          "options": [
+            "$n!$",
+            "$n+1$",
+            "$n$",
+            "$2^n$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "ما قيمة مجموع معاملات الحدود في نشر $(x+1)^6$؟",
+          "options": [
+            "$64$",
+            "$36$",
+            "$6$",
+            "$12$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "باستخدام منشور ذي الحدين، ما نشر $(x+1)^3$؟",
+          "options": [
+            "$x^3+2x^2+2x+1$",
+            "$x^3+3x^2+3x+1$",
+            "$x^3+3x+1$",
+            "$x^3+x^2+x+1$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "ما معامل الحد $x^3y^2$ في نشر $(x+y)^5$؟",
+          "options": [
+            "$20$",
+            "$32$",
+            "$10$",
+            "$5$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "أي عبارة تمثّل نشر $(a-b)^3$؟",
+          "options": [
+            "$a^3-3a^2b-3ab^2-b^3$",
+            "$a^3+3a^2b+3ab^2+b^3$",
+            "$a^3-3ab^2+b^3$",
+            "$a^3-3a^2b+3ab^2-b^3$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "ما الحد الثابت في نشر $(x+2)^4$؟",
+          "options": [
+            "$16$",
+            "$4$",
+            "$8$",
+            "$32$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "ما معامل $x^2$ في نشر $(x+1)^4$؟",
+          "options": [
+            "$8$",
+            "$6$",
+            "$12$",
+            "$4$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "إذا عوّضنا $a=1$ و$b=1$ في منشور ذي الحدين، فما قيمة مجموع معاملات الحدود في $(a+b)^n$؟",
+          "options": [
+            "$1$",
+            "$n$",
+            "$2^n$",
+            "$n+1$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "يُختار فريق من $3$ طلاب دفعة واحدة من بين $7$ طلاب. ما عدد الفرق الممكنة؟",
+          "options": [
+            "$21$",
+            "$210$",
+            "$343$",
+            "$35$"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "أي عدد يساوي $\\binom{6}{2}$؟",
+          "options": [
+            "$15$",
+            "$30$",
+            "$36$",
+            "$12$"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "ما قيمة مجموع معاملات التوافيق في الصف الخامس من مثلث باسكال، أي $\\\\sum_{r=0}^{5}\\binom{5}{r}$؟",
+          "options": [
+            "$64$",
+            "$32$",
+            "$16$",
+            "$25$"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "في نشر $(a+b)^n$، ما مجموع الأسّين في كل حد من حدوده؟",
+          "options": [
+            "$n-1$",
+            "$n+1$",
+            "$n$",
+            "$2n$"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "ما قيمة $(1-1)^4$ باستعمال منشور ذي الحدين؟",
+          "options": [
+            "$4$",
+            "$16$",
+            "$1$",
+            "$0$"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "الاحتمالات المشروطة",
+      "questions": [
+        {
+          "id": "1",
+          "question": "إذا كان \\(P(B)>0\\)، فما تعريف الاحتمال الشرطي \\(P(A\\mid B)\\)؟",
+          "options": [
+            "\\(\\dfrac{P(A\\cap B)}{P(B)}\\)",
+            "\\(\\dfrac{P(A\\cup B)}{P(B)}\\)",
+            "\\(P(A)P(B)\\)",
+            "\\(P(A)+P(B)\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "إذا كان \\(P(B)=0.4\\) و\\(P(A\\cap B)=0.12\\)، فما قيمة \\(P(A\\mid B)\\)؟",
+          "options": [
+            "\\(0.52\\)",
+            "\\(0.3\\)",
+            "\\(3\\)",
+            "\\(0.48\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "إذا كان \\(P(A\\mid B)=0.6\\) و\\(P(B)=0.25\\)، فاحسب \\(P(A\\cap B)\\).",
+          "options": [
+            "\\(2.4\\)",
+            "\\(0.35\\)",
+            "\\(0.15\\)",
+            "\\(0.85\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "أي شرط يكافئ استقلال الحدثين \\(A\\) و\\(B\\) احتمالياً؟",
+          "options": [
+            "\\(P(A\\cap B)=P(A)+P(B)\\)",
+            "\\(P(A\\mid B)=0\\)",
+            "\\(P(A\\cup B)=P(A)P(B)\\)",
+            "\\(P(A\\cap B)=P(A)P(B)\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "إذا كان \\(P(A)=0.4\\) و\\(P(B)=0.5\\) و\\(P(A\\cap B)=0.2\\)، فماذا نستنتج؟",
+          "options": [
+            "\\(A\\) و\\(B\\) مستقلان لأن \\(0.2=0.4\\times0.5\\)",
+            "\\(A\\) و\\(B\\) غير مستقلين لأن مجموع احتماليهما لا يساوي \\(1\\)",
+            "\\(P(A\\mid B)=0.2\\)",
+            "\\(A\\) و\\(B\\) متنافيان لأن \\(0.2>0\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "في مخطط شجري، ما مجموع احتمالات الفروع الصادرة من عقدة واحدة؟",
+          "options": [
+            "يتغير دائماً ولا قاعدة له",
+            "\\(1\\)",
+            "\\(0\\)",
+            "احتمال الحدث عند الجذر فقط"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "يمثل مسار تام في مخطط شجري نتيجة تتكون من أحداث متتابعة. كيف يحسب احتمال هذا المسار؟",
+          "options": [
+            "بجمع احتمالات الفروع التي تكوّنه",
+            "بطرح احتمال آخر فرع من \\(1\\)",
+            "بضرب احتمالات الفروع التي تكوّنه",
+            "بقسمة أول احتمال على آخر احتمال"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "في تجربة مرحلتين، احتمال فرع المرحلة الأولى \\(0.3\\)، واحتمال الانتقال في المرحلة الثانية مشروطاً به \\(0.4\\). ما احتمال المسار؟",
+          "options": [
+            "\\(0.1\\)",
+            "\\(1.2\\)",
+            "\\(0.7\\)",
+            "\\(0.12\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "إذا قاد مساران متنافيان إلى الحدث \\(B\\)، واحتمالا المسارين \\(0.08\\) و\\(0.17\\)، فما \\(P(B)\\)؟",
+          "options": [
+            "\\(0.25\\)",
+            "\\(0.75\\)",
+            "\\(0.0136\\)",
+            "\\(0.09\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "في تجربة مركبة، تتجزأ فضاء العينة إلى أحداث متنافية \\(A_1,\\ldots,A_n\\). أي صيغة تحسب احتمال \\(B\\)؟",
+          "options": [
+            "\\(P(B)=\\sum_{i=1}^{n}P(A_i)+P(B\\mid A_i)\\)",
+            "\\(P(B)=\\sum_{i=1}^{n}P(A_i)P(B\\mid A_i)\\)",
+            "\\(P(B)=\\prod_{i=1}^{n}P(A_i)\\)",
+            "\\(P(B)=P(A_1\\cap\\cdots\\cap A_n)\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "يُختار أحد صندوقين باحتمال \\(\\tfrac12\\) لكل منهما. احتمال الكرة السوداء من الأول \\(\\tfrac13\\)، ومن الثاني \\(\\tfrac25\\). ما احتمال سحب كرة سوداء؟",
+          "options": [
+            "\\(\\tfrac{11}{15}\\)",
+            "\\(\\tfrac{5}{6}\\)",
+            "\\(\\tfrac{11}{30}\\)",
+            "\\(\\tfrac{1}{15}\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "وفق معطيات السؤال السابق، إذا سُحبت كرة سوداء، فما احتمال أنها من الصندوق الأول؟",
+          "options": [
+            "\\(\\tfrac{6}{11}\\)",
+            "\\(\\tfrac{1}{3}\\)",
+            "\\(\\tfrac{1}{2}\\)",
+            "\\(\\tfrac{5}{11}\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "في صندوق \\(10\\) كرات، منها كرتان زرقاوان. نسحب كرتين متتاليتين دون إعادة. ما احتمال أن تكونا زرقاوين؟",
+          "options": [
+            "\\(\\tfrac{1}{45}\\)",
+            "\\(\\tfrac{1}{25}\\)",
+            "\\(\\tfrac{2}{45}\\)",
+            "\\(\\tfrac{1}{5}\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "في صندوق يحوي كرتين زرقاوين وخمساً خضراء وثلاثاً حمراء، نسحب كرة ثم أخرى دون إعادة. ما احتمال أن تكون الثانية زرقاء؟",
+          "options": [
+            "\\(\\tfrac{1}{10}\\)",
+            "\\(\\tfrac{1}{5}\\)",
+            "\\(\\tfrac{4}{9}\\)",
+            "\\(\\tfrac{2}{9}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "عند سحب كرتين دون إعادة، إذا كانت الأولى زرقاء من صندوق فيه كرتان زرقاوان وثماني كرات غير زرقاء، فما احتمال أن تكون الثانية زرقاء؟",
+          "options": [
+            "\\(\\tfrac{2}{9}\\)",
+            "\\(\\tfrac{2}{10}\\)",
+            "\\(\\tfrac{1}{9}\\)",
+            "\\(\\tfrac{1}{5}\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "عند تكرار تجربة بسيطة في محاولات مستقلة، ما احتمال تحقق حدث احتماله \\(p\\) في كل محاولة في جميع المحاولات الثلاث؟",
+          "options": [
+            "\\(3p\\)",
+            "\\(1-p^3\\)",
+            "\\(p+3\\)",
+            "\\(p^3\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "نرمي ثلاث قطع نقود مستقلة، احتمال ظهور الصورة في كل منها \\(\\tfrac12\\). ما احتمال ظهور الصورة مرة واحدة فقط؟",
+          "options": [
+            "\\(\\tfrac{3}{8}\\)",
+            "\\(\\tfrac{1}{2}\\)",
+            "\\(\\tfrac{3}{4}\\)",
+            "\\(\\tfrac{1}{8}\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "في رمي قطعة نقود عادلة مرتين مستقلتين، ما احتمال ظهور الصورة في الرميتين معاً؟",
+          "options": [
+            "\\(1\\)",
+            "\\(\\tfrac{1}{4}\\)",
+            "\\(\\tfrac{1}{2}\\)",
+            "\\(\\tfrac{3}{4}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "إذا كان \\(P(A)=0.7\\)، و\\(P(B\\mid A)=0.2\\)، و\\(P(B\\mid A')=0.5\\)، فما \\(P(B)\\)؟",
+          "options": [
+            "\\(0.35\\)",
+            "\\(0.14\\)",
+            "\\(0.29\\)",
+            "\\(0.7\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "إذا كان \\(P(A)=0.6\\)، و\\(P(B)=0.5\\)، و\\(P(A\\cap B)=0.3\\)، فما قيمة \\(P(A\\mid B)\\)؟",
+          "options": [
+            "\\(0.5\\)",
+            "\\(0.8\\)",
+            "\\(0.3\\)",
+            "\\(0.6\\)"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "المتحولات العشوائية",
+      "questions": [
+        {
+          "id": "1",
+          "question": "ما الوصف الأدق للمتحول العشوائي \\(X\\) المعرّف على فضاء عينة \\(\\Omega\\)؟",
+          "options": [
+            "تابع يقرن بكل نتيجة من \\(\\Omega\\) عدداً حقيقياً",
+            "حدث جزئي من \\(\\Omega\\) لا يأخذ قيماً عددية",
+            "عدد ثابت يساوي احتمال كل نتيجة",
+            "جدول يسرد نتائج التجربة دون ربطها بأعداد"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "في رمي قطعة نقدية مرة واحدة، عرّف \\(X=1\\) عند ظهور الوجه و\\(X=0\\) عند ظهور الكتابة، والقطعة متوازنة. ما مجموعة قيم \\(X\\)؟",
+          "options": [
+            "\\(\\{-1,1\\}\\)",
+            "\\(\\{0,1\\}\\)",
+            "\\(\\{0,\\tfrac12\\}\\)",
+            "\\(\\{1,2\\}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "إذا كان \\(X\\) يأخذ القيم \\(x_1,\\ldots,x_n\\) باحتمالات \\(p_1,\\ldots,p_n\\)، فما العلاقة التي تحققها احتمالات القانون؟",
+          "options": [
+            "\\(p_1=\\cdots=p_n\\) بالضرورة",
+            "\\(p_1+\\cdots+p_n=0\\)",
+            "\\(p_1+\\cdots+p_n=1\\)",
+            "\\(p_i=1\\) لكل \\(i\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "يرمز \\(P(X=a)\\) إلى أي مما يأتي؟",
+          "options": [
+            "قيمة التوقع الرياضي لـ\\(X\\)",
+            "عدد نتائج فضاء العينة",
+            "احتمال أن يكون \\(X\\) أكبر من \\(a\\)",
+            "احتمال الحدث الذي تكون فيه قيمة \\(X\\) مساوية لـ\\(a\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "رُمِيَت قطعة نقدية متوازنة، وكان \\(X=1\\) للوجه و\\(X=-1\\) للكتابة. ما \\(P(X=1)\\)؟",
+          "options": [
+            "\\(\\tfrac12\\)",
+            "\\(0\\)",
+            "\\(\\tfrac14\\)",
+            "\\(1\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "في رمي ثلاث قطع نقدية متوازنة، يربح اللاعب ليرة لكل وجه يظهر على القطعة رقم 1، ويخسر ليرة إذا ظهر الوجه على القطعة رقم 2؛ ولا يتغير ربحه بحسب القطعة رقم 3. إذا كان \\(X\\) صافي الربح، فما مجموعة قيمه؟",
+          "options": [
+            "\\(\\{-1,1\\}\\) فقط",
+            "\\(\\{-1,0,1\\}\\)",
+            "\\(\\{-2,-1,0,1,2,3\\}\\)",
+            "\\(\\{0,1,2,3\\}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "لعبة نرد متوازن تعطي ربحاً \\(2\\) عند ظهور \\(1\\)، وربحاً \\(1\\) عند ظهور \\(2\\)، وخسارة \\(1\\) عند ظهور أي من \\(3,4,5,6\\). ما \\(P(X=-1)\\)؟",
+          "options": [
+            "\\(\\tfrac{1}{6}\\)",
+            "\\(\\tfrac{1}{3}\\)",
+            "\\(\\tfrac{2}{3}\\)",
+            "\\(\\tfrac{5}{6}\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "في اللعبة السابقة، ما التوقع الرياضي لصافي الربح \\(X\\)؟",
+          "options": [
+            "\\(-1\\)",
+            "\\(0\\)",
+            "\\(\\tfrac{1}{6}\\)",
+            "\\(-\\tfrac{1}{6}\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "يعطى المتحول \\(X\\) القيمتين \\(0,2\\) باحتمالين \\(\\tfrac34,\\tfrac14\\) على الترتيب. احسب \\(E(X)\\).",
+          "options": [
+            "\\(\\tfrac12\\)",
+            "\\(\\tfrac32\\)",
+            "\\(1\\)",
+            "\\(2\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "إذا كان \\(X\\) يأخذ القيم \\(1,3\\) باحتمالين \\(\\tfrac12,\\tfrac12\\)، فما تباينه؟",
+          "options": [
+            "\\(2\\)",
+            "\\(1\\)",
+            "\\(4\\)",
+            "\\(0\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "إذا كان \\(X\\) يأخذ القيم \\(-1,1\\) باحتمالين متساويين، فما انحرافه المعياري؟",
+          "options": [
+            "\\(2\\)",
+            "\\(\\sqrt{2}\\)",
+            "\\(1\\)",
+            "\\(0\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "أي صيغة تمثل التوقع الرياضي لمتحول متقطع يأخذ القيم \\(x_i\\) باحتمالات \\(p_i\\)؟",
+          "options": [
+            "\\(E(X)=\\prod_{i=1}^{n}x_i p_i\\)",
+            "\\(E(X)=\\sum_{i=1}^{n}p_i\\)",
+            "\\(E(X)=\\sum_{i=1}^{n}x_i\\)",
+            "\\(E(X)=\\sum_{i=1}^{n}x_i p_i\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "أي صيغة تعطي تباين المتحول العشوائي حول توقعه؟",
+          "options": [
+            "\\(V(X)=\\sum_{i=1}^{n}(x_i-E(X))^2p_i\\)",
+            "\\(V(X)=\\sum_{i=1}^{n}(x_i-E(X))p_i\\)",
+            "\\(V(X)=E(X)^2\\)",
+            "\\(V(X)=\\sum_{i=1}^{n}x_i p_i\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "ما الصيغة المكافئة لتباين \\(X\\) باستخدام \\(E(X^2)\\)؟",
+          "options": [
+            "\\(V(X)=E(X^2)+E(X)\\)",
+            "\\(V(X)=E(X^2)-[E(X)]^2\\)",
+            "\\(V(X)=E(X^2)\\)",
+            "\\(V(X)=[E(X)]^2-E(X^2)\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "إذا كان \\(V(X)=9\\)، فما الانحراف المعياري \\(\\sigma(X)\\)؟",
+          "options": [
+            "\\(\\sqrt{3}\\)",
+            "\\(9\\)",
+            "\\(3\\)",
+            "\\(81\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "رُمِي نرد متوازن، وليكن \\(X=1\\) إذا ظهر \\(1\\)، و\\(X=6\\) إذا ظهر \\(6\\)، و\\(X=-2\\) في غير ذلك. ما قانون احتمال \\(X\\)؟",
+          "options": [
+            "\\(P(X=1)=\\tfrac13,\\ P(X=6)=\\tfrac13,\\ P(X=-2)=\\tfrac13\\)",
+            "\\(P(X=1)=\\tfrac16,\\ P(X=6)=\\tfrac23,\\ P(X=-2)=\\tfrac16\\)",
+            "\\(P(X=1)=\\tfrac12,\\ P(X=6)=\\tfrac12,\\ P(X=-2)=0\\)",
+            "\\(P(X=1)=\\tfrac16,\\ P(X=6)=\\tfrac16,\\ P(X=-2)=\\tfrac23\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "في التجربة السابقة، ما \\(E(X)\\)؟",
+          "options": [
+            "\\(-\\tfrac12\\)",
+            "\\(-2\\)",
+            "\\(0\\)",
+            "\\(\\tfrac12\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "نسحب كرتين معاً من صندوق فيه ثلاث كرات سوداء وكرتان بيضاوان. إذا كان \\(X\\) عدد الكرات البيضاء المسحوبة، فما القيم الممكنة لـ\\(X\\)؟",
+          "options": [
+            "\\(\\{0,2\\}\\)",
+            "\\(\\{0,1,2\\}\\)",
+            "\\(\\{1,2,3\\}\\)",
+            "\\(\\{0,1,2,3\\}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "في السحب من الصندوق ذي الكرتين البيضاوين والثلاث السوداء، ما احتمال سحب كرتين بيضاوين معاً؟",
+          "options": [
+            "\\(\\tfrac{2}{5}\\)",
+            "\\(\\tfrac{1}{5}\\)",
+            "\\(\\tfrac{1}{10}\\)",
+            "\\(\\tfrac{1}{2}\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "يُرمى نرد متوازن مرتين، ويمثل \\(X\\) مجموع الرقمين الظاهرين. ما احتمال أن يكون \\(X=7\\)؟",
+          "options": [
+            "\\(\\tfrac{1}{3}\\)",
+            "\\(\\tfrac{1}{36}\\)",
+            "\\(\\tfrac{1}{12}\\)",
+            "\\(\\tfrac{1}{6}\\)"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "الاستقلال الاحتمالي لمتحولين عشوائيين",
+      "questions": [
+        {
+          "id": "1",
+          "question": "ما المقصود بقانون الزوج \\((X,Y)\\) لمتحولين عشوائيين؟",
+          "options": [
+            "تحديد \\(P(X=x,Y=y)\\) لكل زوج من القيم الممكنة",
+            "تحديد \\(E(X)+E(Y)\\) فقط",
+            "تحديد أكبر قيمة يأخذها \\(X\\)",
+            "تحديد عدد عناصر فضاء العينة فقط"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "إذا كان \\(p_{ij}=P(X=x_i,Y=y_j)\\)، فأي عبارة تمثل هذا المقدار؟",
+          "options": [
+            "\\(P(X=x_i\\mid Y=y_j)\\)",
+            "\\(P(X=x_i\\cap Y=y_j)\\)",
+            "\\(P(X=x_i)-P(Y=y_j)\\)",
+            "\\(P(X=x_i)+P(Y=y_j)\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "كيف نحصل على احتمال القيمة \\(X=x_i\\) من جدول قانون الزوج؟",
+          "options": [
+            "بطرح مجموع العمود من \\(1\\)",
+            "بجمع احتمالات عمود \\(x_i\\)",
+            "بجمع احتمالات السطر المقابل لـ\\(x_i\\)",
+            "بضرب جميع خلايا الجدول"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "كيف نستخرج احتمال \\(Y=y_j\\) من جدول قانون الزوج المرتب بحيث السطور لقيم \\(X\\) والأعمدة لقيم \\(Y\\)؟",
+          "options": [
+            "نجمع عناصر السطر الموافق لـ\\(y_j\\)",
+            "نختار أكبر عنصر في الجدول",
+            "نقسم كل خلية على عدد السطور",
+            "نجمع عناصر العمود الموافق لـ\\(y_j\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "إذا كانت احتمالات السطر الموافق لـ\\(X=0\\) هي \\(0.1,0.2,0.3\\)، فما \\(P(X=0)\\)؟",
+          "options": [
+            "\\(0.6\\)",
+            "\\(0.2\\)",
+            "\\(0.9\\)",
+            "\\(0.1\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "احتمالات عمود \\(Y=1\\) في جدول قانون الزوج هي \\(0.15,0.25\\). ما احتمال \\(Y=1\\)؟",
+          "options": [
+            "\\(0.60\\)",
+            "\\(0.40\\)",
+            "\\(0.10\\)",
+            "\\(0.25\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "إذا كانت احتمالات قانون الزوج \\(\\begin{matrix}0.2&0.3\\\\0.1&0.4\\end{matrix}\\)، فما احتمال القيمة الأولى لـ\\(X\\) الممثلة بالسطر الأول؟",
+          "options": [
+            "\\(0.2\\)",
+            "\\(0.3\\)",
+            "\\(0.5\\)",
+            "\\(0.7\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "في الجدول \\(\\begin{matrix}0.1&0.2\\\\0.3&0.4\\end{matrix}\\)، إذا مثّل العمود الأول \\(Y=y_1\\)، فما \\(P(Y=y_1)\\)؟",
+          "options": [
+            "\\(0.3\\)",
+            "\\(0.5\\)",
+            "\\(0.1\\)",
+            "\\(0.4\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "لكي يكون متحولان مستقلين احتمالياً، ما العلاقة المطلوبة لكل زوج من القيم \\(x_i,y_j\\)؟",
+          "options": [
+            "\\(P(X=x_i,Y=y_j)=P(X=x_i)P(Y=y_j)\\)",
+            "\\(P(X=x_i,Y=y_j)=0\\)",
+            "\\(P(X=x_i,Y=y_j)=P(X=x_i)+P(Y=y_j)\\)",
+            "\\(P(X=x_i)=P(Y=y_j)\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "في جدول قانون الزوج، يكفي لإثبات أن المتحولين غير مستقلين أن...",
+          "options": [
+            "تكون جميع الخلايا موجبة",
+            "تخفق مساواة حاصل ضرب الهامشيين مع الخلية في زوج واحد على الأقل",
+            "يتساوى مجموع احتمالات السطور مع \\(1\\)",
+            "تأخذ المتحولات قيماً مختلفة"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "إذا كان \\(P(X=0)=\\frac12\\) و\\(P(Y=1)=\\frac14\\)، فما احتمال الخلية المقابلة لهما عند الاستقلال؟",
+          "options": [
+            "\\(\\frac12\\)",
+            "\\(\\frac34\\)",
+            "\\(\\frac18\\)",
+            "\\(\\frac14\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "إذا كان \\(P(X=a)=0.6\\)، و\\(P(Y=b)=0.5\\)، و\\(P(X=a,Y=b)=0.3\\)، فهل يتفق هذا الزوج مع الاستقلال في هذه الخلية؟",
+          "options": [
+            "لا، لأن حاصل ضربهما يساوي \\(1.1\\)",
+            "لا، لأن الاحتمال المشترك أصغر من كل هامشي",
+            "نعم، لأن الاحتمالين الهامشيين مختلفان",
+            "نعم، لأن \\(0.6\\times0.5=0.3\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "إذا كان \\(P(X=1)=\\frac23\\) و\\(P(Y=2)=\\frac34\\)، فما احتمال تقاطعهما إذا كانا مستقلين؟",
+          "options": [
+            "\\(\\frac12\\)",
+            "\\(\\frac16\\)",
+            "\\(\\frac{5}{12}\\)",
+            "\\(\\frac{17}{12}\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "إذا كان \\(P(X=1)=0.4\\)، \\(P(Y=0)=0.5\\)، لكن \\(P(X=1,Y=0)=0.1\\)، فما الاستنتاج؟",
+          "options": [
+            "مستقلان لأن حاصل الضرب \\(0.2\\)",
+            "غير مستقلين لأن \\(0.1\\ne0.4\\times0.5\\)",
+            "لا يمكن المقارنة دون معرفة فضاء العينة",
+            "مستقلان لأن \\(0.1=0.4+0.5\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "إذا تحقق \\(P(X=x_i,Y=y_j)=P(X=x_i)P(Y=y_j)\\) لجميع أزواج القيم، فالمتحولان...",
+          "options": [
+            "لا يملكان قانوناً هامشياً",
+            "متساويان حتماً",
+            "مستقلان احتمالياً",
+            "متعاكسان دائماً"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "مجموع عناصر كل سطر من جدول قانون الزوج يعطي...",
+          "options": [
+            "احتمال قيمة المتحول الممثل بالأعمدة",
+            "احتمال تقاطع كل القيم",
+            "عدد القيم الممكنة",
+            "احتمال قيمة المتحول الممثل بالسطور"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "مجموع عناصر كل عمود في جدول قانون الزوج يعطي...",
+          "options": [
+            "قانون المتحول الممثل بالأعمدة",
+            "حاصل ضرب الهامشيين",
+            "احتمال الحدث المتمم",
+            "قانون المتحول الممثل بالسطور"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "أي سبب يفسر إمكان إيجاد القانون الهامشي لـ\\(X\\) بجمع خلايا السطر؟",
+          "options": [
+            "كل خلية في السطر تساوي صفرًا",
+            "الأحداث التي تمثل قيم \\(Y\\) تجزئ فضاء العينة إلى أحداث متنافية",
+            "كل قيم \\(Y\\) متساوية الاحتمال",
+            "المتحولان مستقلان بالضرورة"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "جدول قانون زوج يحوي الاحتمالات \\(0.2,0.1,0.3,0.4\\). ما مجموعها؟",
+          "options": [
+            "\\(0.8\\)",
+            "\\(0.9\\)",
+            "\\(1\\)",
+            "\\(1.2\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "في سحب كرتين مع الإعادة من صندوق فيه كرة حمراء واحدة وزرقاوان، عُرّف \\(X\\) بعدد الكرات الزرقاء المسحوبة. ما القيم الممكنة لـ\\(X\\)؟",
+          "options": [
+            "\\(\\{0,1,2,3\\}\\)",
+            "\\(\\{2,3,4,5,6\\}\\)",
+            "\\(\\{1,2,3\\}\\)",
+            "\\(\\{0,1,2\\}\\)"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "المتحولات العشوائية الحدانية",
+      "questions": [
+        {
+          "id": "1",
+          "question": "أي وصف يطابق تجربة برنولية واحدة؟",
+          "options": [
+            "تجربة ذات نتيجتين ممكنتين نهتم بإحداهما ونسميها نجاحًا",
+            "تجربة لها نتيجة مؤكدة واحدة فقط",
+            "تجربة تتطلب وقوع نجاحين في الوقت نفسه",
+            "تجربة تتغير فيها احتمالات النجاح بعد كل محاولة"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "2",
+          "question": "لكي يكون تكرار الاختبارات تجربة برنولية، ما الشرط المناسب؟",
+          "options": [
+            "أن تكون النتائج السابقة شرطًا لنتائج الاختبارات التالية",
+            "أن تكون الاختبارات مستقلة ومتماثلة الاحتمالات",
+            "أن يكون عدد النجاحات معلومًا مسبقًا",
+            "أن تتناقص احتمالات النجاح بعد كل اختبار"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "3",
+          "question": "إذا كان \\(X\\) يتبع قانونًا حدانيًا وسيطاه \\(n\\) و\\(p\\)، فما مجموعة قيمه الممكنة؟",
+          "options": [
+            "كل الأعداد الحقيقية بين \\(0\\) و\\(n\\)",
+            "\\(\\{1,2,\\ldots,n\\}\\)",
+            "\\(\\{0,1,2,\\ldots,n\\}\\)",
+            "\\(\\{0,1,2,\\ldots,p\\}\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "4",
+          "question": "إذا كان احتمال النجاح في كل اختبار هو \\(p\\)، فما احتمال الإخفاق في اختبار واحد؟",
+          "options": [
+            "\\(np\\)",
+            "\\(p^2\\)",
+            "\\(1-np\\)",
+            "\\(1-p\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "5",
+          "question": "ما صيغة احتمال الحصول على النجاح \\(k\\) مرات بالضبط في \\(n\\) اختبارات برنولية مستقلة، واحتمال النجاح في كل منها \\(p\\)؟",
+          "options": [
+            "\\(P(X=k)=\\binom{n}{k}p^k(1-p)^{n-k}\\)",
+            "\\(P(X=k)=np^k(1-p)^{n-k}\\)",
+            "\\(P(X=k)=p^k+(1-p)^{n-k}\\)",
+            "\\(P(X=k)=\\binom{n}{k}p^{n-k}(1-p)^k\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "6",
+          "question": "نرمي قطعة نقود متوازنة \\(5\\) مرات، وليكن \\(X\\) عدد مرات ظهور الصورة. ما احتمال ظهور الصورة \\(3\\) مرات بالضبط؟",
+          "options": [
+            "\\(\\frac{5}{32}\\)",
+            "\\(\\frac{5}{16}\\)",
+            "\\(\\frac{3}{16}\\)",
+            "\\(\\frac{1}{2}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "7",
+          "question": "في \\(4\\) اختبارات مستقلة، احتمال النجاح في كل اختبار \\(\\frac{1}{3}\\). ما احتمال عدم وقوع أي نجاح؟",
+          "options": [
+            "\\(\\frac{1}{81}\\)",
+            "\\(\\frac{32}{81}\\)",
+            "\\(\\frac{16}{81}\\)",
+            "\\(\\frac{65}{81}\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "8",
+          "question": "إذا أجريت \\(4\\) محاولات مستقلة واحتمال النجاح في كل منها \\(\\frac{1}{4}\\)، فما احتمال نجاح واحد بالضبط؟",
+          "options": [
+            "\\(\\frac{9}{64}\\)",
+            "\\(\\frac{3}{16}\\)",
+            "\\(\\frac{1}{4}\\)",
+            "\\(\\frac{27}{64}\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "9",
+          "question": "في \\(3\\) اختبارات مستقلة احتمال النجاح في كل منها \\(0.2\\). ما احتمال وقوع نجاح واحد على الأقل؟",
+          "options": [
+            "\\(0.488\\)",
+            "\\(0.2\\)",
+            "\\(0.512\\)",
+            "\\(0.096\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "10",
+          "question": "رُميت قطعة نقود متوازنة \\(8\\) مرات. إذا كان \\(X\\) عدد مرات ظهور الصورة، فما احتمال أن يكون \\(X=4\\)؟",
+          "options": [
+            "\\(\\frac{1}{4}\\)",
+            "\\(\\frac{35}{128}\\)",
+            "\\(\\frac{7}{32}\\)",
+            "\\(\\frac{1}{8}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "11",
+          "question": "نرمي حجر نرد متوازن \\(6\\) مرات، ويعد ظهور العدد \\(6\\) نجاحًا. ما احتمال ظهوره مرتين بالضبط؟",
+          "options": [
+            "\\(6\\left(\\frac{1}{6}\\right)^2\\)",
+            "\\(\\left(\\frac{5}{6}\\right)^6\\)",
+            "\\(\\binom{6}{2}\\left(\\frac{1}{6}\\right)^2\\left(\\frac{5}{6}\\right)^4\\)",
+            "\\(\\binom{6}{2}\\left(\\frac{1}{6}\\right)^4\\left(\\frac{5}{6}\\right)^2\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "12",
+          "question": "صندوق فيه \\(10\\) كرات بيضاء من أصل \\(100\\)، نسحب كرة مع الإعادة \\(3\\) مرات. ما احتمال سحب كرة بيضاء مرة واحدة بالضبط؟",
+          "options": [
+            "\\((0.9)^3\\)",
+            "\\((0.1)^3\\)",
+            "\\(3(0.9)(0.1)^2\\)",
+            "\\(3(0.1)(0.9)^2\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "13",
+          "question": "إذا كان \\(X\\sim B(n,p)\\)، فما توقع \\(X\\)؟",
+          "options": [
+            "\\(np\\)",
+            "\\(n(1-p)\\)",
+            "\\(p(1-p)\\)",
+            "\\(n+p\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "14",
+          "question": "إذا كان \\(X\\sim B(n,p)\\)، فما تباين \\(X\\)؟",
+          "options": [
+            "\\(n^2p\\)",
+            "\\(np(1-p)\\)",
+            "\\(p(1-p)\\)",
+            "\\(np\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "15",
+          "question": "يتبع \\(X\\) القانون \\(B(10,0.3)\\). ما قيمة توقعه؟",
+          "options": [
+            "\\(2.1\\)",
+            "\\(7\\)",
+            "\\(3\\)",
+            "\\(0.3\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "16",
+          "question": "يتبع \\(X\\) القانون \\(B(8,0.25)\\). ما قيمة تباينه؟",
+          "options": [
+            "\\(2\\)",
+            "\\(6\\)",
+            "\\(0.25\\)",
+            "\\(1.5\\)"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "17",
+          "question": "عند رمي \\(3\\) قطع نقود متوازنة، ما احتمال ظهور الصورة في المرات الثلاث كلها؟",
+          "options": [
+            "\\(\\frac{1}{8}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{1}{16}\\)",
+            "\\(\\frac{3}{8}\\)"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "18",
+          "question": "في \\(3\\) اختبارات برنولية مستقلة احتمال النجاح \\(\\frac{1}{2}\\). ما احتمال نجاحين على الأقل؟",
+          "options": [
+            "\\(\\frac{7}{8}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{3}{8}\\)",
+            "\\(\\frac{1}{4}\\)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "19",
+          "question": "تُجرى \\(5\\) محاولات مستقلة، واحتمال النجاح في كل منها \\(0.7\\). ما احتمال النجاح في المحاولات الخمس جميعًا؟",
+          "options": [
+            "\\(5(0.7)(0.3)^4\\)",
+            "\\((0.3)^5\\)",
+            "\\((0.7)^5\\)",
+            "\\(1-(0.7)^5\\)"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "20",
+          "question": "نرمي حجر نرد متوازن \\(5\\) مرات، ويعد ظهور العدد \\(6\\) نجاحًا. ما احتمال ظهوره مرة واحدة بالضبط؟",
+          "options": [
+            "\\(\\left(\\frac{1}{6}\\right)^5\\)",
+            "\\(\\left(\\frac{5}{6}\\right)^5\\)",
+            "\\(5\\left(\\frac{1}{6}\\right)^4\\left(\\frac{5}{6}\\right)\\)",
+            "\\(5\\left(\\frac{1}{6}\\right)\\left(\\frac{5}{6}\\right)^4\\)"
+          ],
+          "correctAnswer": 3
+        }
+      ]
     }
   ]
 }
