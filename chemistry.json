@@ -1449,18 +1449,7 @@
           "correctAnswer": 3,
           "canUseAsFlashcard": true
         },
-        {
-          "id": "8",
-          "question": "في السؤال السابق تكون السرعة الوسطى لتكون غاز ثاني أكسيد الكربون تساوي:",
-          "options": [
-            "0.08 mol.L^-1.s^-1",
-            "0.16 mol.L^-1.s^-1",
-            "0.04 mol.L^-1.s^-1",
-            "0.32 mol.L^-1.s^-1"
-          ],
-          "correctAnswer": 1,
-          "canUseAsFlashcard": false
-        },
+        
         {
           "id": "9",
           "question": "تعتقد نظرية التصادم على فرضين أحدهما:",
