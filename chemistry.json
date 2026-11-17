@@ -99,7 +99,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 0,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "9",
@@ -159,7 +159,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 0,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "14",
@@ -171,7 +171,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 1,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "15",
@@ -363,7 +363,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 1,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "31",
@@ -435,7 +435,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 1,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "37",
@@ -567,7 +567,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 1,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "48",
@@ -603,7 +603,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 2,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "51",
@@ -627,7 +627,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 1,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "53",
@@ -651,7 +651,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 0,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "55",
@@ -997,7 +997,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 3,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "7",
@@ -1189,7 +1189,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 0,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "23",
@@ -1201,7 +1201,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 2,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "24",
@@ -1213,7 +1213,7 @@
             "كل ما سبق"
           ],
           "correctAnswer": 2,
-          "canUseAsFlashcard": true
+          "canUseAsFlashcard": false
         },
         {
           "id": "25",

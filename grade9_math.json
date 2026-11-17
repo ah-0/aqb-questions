@@ -3179,7 +3179,8 @@
             "تمثيل بياني يحقق شرط التابع",
             "جميع ما سبق"
           ],
-          "correctAnswer": 3
+          "correctAnswer": 3,
+          "canUseAsFlashcard": false
         },
         {
           "id": "15_2",
